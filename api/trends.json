@@ -1,199 +1,104 @@
 {
-  "generated_at": "2026-02-18T01:07:22.214729+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-18T01:58:06.359113+08:00",
+  "total_titles_processed": 369,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "宇树 王兴兴",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "宇树弯道超车,老前辈还在画饼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350759&amp;topic_name=%E5%AE%87%E6%A0%91%E5%BC%AF%E9%81%93%E8%B6%85%E8%BD%A6%2C%E8%80%81%E5%89%8D%E8%BE%88%E8%BF%98%E5%9C%A8%E7%94%BB%E9%A5%BC",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "春晚后机器人卖爆了，宇树春晚机器人售价 20 万，这些机器人走下舞台能干啥？这波热度能带动赛道起飞吗？",
-          "url": "https://www.zhihu.com/question/2007090015855931933",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "宇树科技春晚节目技术难点解析",
-          "url": "https://wallstreetcn.com/articles/3765804",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "从舞王到武王，机器人集群控制技术首亮相！宇树科技王兴兴：预计今年出货量达1-2万台",
-          "url": "https://www.cls.cn/detail/2291102",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "宇树机器人春晚武术表演再炸场，王兴兴：高动态高协同集群控制技术全球首秀",
-          "url": "https://wallstreetcn.com/articles/3765800",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "宇树春晚同款机器人售价208850元",
-          "url": "https://www.toutiao.com/trending/7606869652907707910/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "宇树、魔法原子在春晚都表演了后空翻，对机器人来讲难度有多大？",
-          "url": "https://www.zhihu.com/question/2006837463260292286",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "太夯!宇树机器人三刷春晚",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350744&amp;topic_name=%E5%A4%AA%E5%A4%AF%21%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%89%E5%88%B7%E6%98%A5%E6%99%9A",
-          "source": "贴吧",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "ai 人工智能 agent 大模型 多模态 全模态 跨模态 AGI AIGC AI+ AIPC AI语料 数字人",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "言短意长｜当人工智能和机器人扎堆出现在春晚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32622644",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
-          "url": "https://www.cls.cn/detail/2290769",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
-          "url": "https://www.cls.cn/detail/2290959",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "疑似ai?鹰角整活六指琴魔",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350758&amp;topic_name=%E7%96%91%E4%BC%BCai%3F%E9%B9%B0%E8%A7%92%E6%95%B4%E6%B4%BB%E5%85%AD%E6%8C%87%E7%90%B4%E9%AD%94",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2291237",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "王菲化妆师改口问就是AI",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%E5%8C%96%E5%A6%86%E5%B8%88%E6%94%B9%E5%8F%A3%E9%97%AE%E5%B0%B1%E6%98%AFAI%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "美部长与下属传出婚外情，特朗普回应",
           "url": "https://news.ifeng.com/c/8qp4YVQ6NeA",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 01时58分]"
+        },
+        {
+          "title": "哈梅内伊回应特朗普威胁",
+          "url": "https://news.ifeng.com/c/8qpTdmSckn9",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 01时58分]"
+        },
+        {
+          "title": "美国纽约市市长：美国总统特朗普政府再次解冻了7700万美元的纽约隧道资金。",
+          "url": "https://flash.jin10.com/detail/20260218012450530800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时07分"
+          "time_info": "01时58分"
+        },
+        {
+          "title": "侨民抢在特朗普新税生效前寄钱回家，菲律宾12月海外汇款创纪录",
+          "url": "https://wallstreetcn.com/livenews/3056077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
         },
         {
           "title": "据Politico：美国总统特朗普与阿根廷总统米莱达成的协议加大欧盟敲定南方共同市场协定的压力。",
           "url": "https://flash.jin10.com/detail/20260218005046026800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 01时58分]"
+        },
+        {
+          "title": "美国总统特朗普：马里兰、弗吉尼亚州和华盛顿特区应对波托马克河的污水泄漏负责，必须立即着手处理。如果他们无法完成工作，就必须礼貌地给我打电话，请我帮忙修复。",
+          "url": "https://flash.jin10.com/detail/20260218000855742800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 01时58分]"
+        },
+        {
+          "title": "据Politico：美国国土安全部发言人特里西娅·麦克劳克林将离开特朗普政府。",
+          "url": "https://flash.jin10.com/detail/20260218000727610800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 01时58分]"
+        },
+        {
+          "title": "美国总统特朗普：波托马克河泄漏是激进左派造成的环境危害。",
+          "url": "https://flash.jin10.com/detail/20260217235812714800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 01时58分]"
         },
         {
           "title": "哈梅内伊：如今我要说，特朗普也做不到",
@@ -205,45 +110,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
-        },
-        {
-          "title": "美国总统特朗普：马里兰、弗吉尼亚州和华盛顿特区应对波托马克河的污水泄漏负责，必须立即着手处理。如果他们无法完成工作，就必须礼貌地给我打电话，请我帮忙修复。",
-          "url": "https://flash.jin10.com/detail/20260218000855742800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "据Politico：美国国土安全部发言人特里西娅·麦克劳克林将离开特朗普政府。",
-          "url": "https://flash.jin10.com/detail/20260218000727610800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "美国总统特朗普：波托马克河泄漏是激进左派造成的环境危害。",
-          "url": "https://flash.jin10.com/detail/20260217235812714800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
@@ -253,8 +125,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 01时58分]"
+        },
+        {
+          "title": "伊朗宣布霍尔木兹海峡部分区域将关闭数小时",
+          "url": "https://news.ifeng.com/c/8qp7TBBVD03",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 01时58分]"
+        },
+        {
+          "title": "伊朗外长披露与美方谈判结果",
+          "url": "https://news.ifeng.com/c/8qpUHBlBe7s",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 01时58分]"
         },
         {
           "title": "伊美技术层面谈判已开始，伊朗军演进行中",
@@ -268,26 +163,38 @@
           "time_info": "01时07分"
         },
         {
-          "title": "伊朗宣布霍尔木兹海峡部分区域将关闭数小时",
-          "url": "https://news.ifeng.com/c/8qp7TBBVD03",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
           "title": "美国官员：伊朗方面表示，他们将在未来两周内带着详细提案重返谈判，以解决我们在立场上存在的一些悬而未决的分歧。",
           "url": "https://flash.jin10.com/detail/20260218001635068800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            24
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 01时58分]"
+        },
+        {
+          "title": "美官员：预计伊朗将在未来两周就核谈判内容提出详细方案",
+          "url": "https://flash.jin10.com/detail/20260218010446612800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时07分"
+          "time_info": "01时58分"
+        },
+        {
+          "title": "美官员：预计伊朗将在未来两周就核谈判内容提出详细方案",
+          "url": "https://wallstreetcn.com/livenews/3056068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
         },
         {
           "title": "阿曼外长：伊朗与美国日内瓦会谈圆满结束，取得“良好进展”",
@@ -314,6 +221,197 @@
       ]
     },
     {
+      "keyword_group": "宇树 王兴兴",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "春晚后机器人卖爆了，宇树春晚机器人售价 20 万，这些机器人走下舞台能干啥？这波热度能带动赛道起飞吗？",
+          "url": "https://www.zhihu.com/question/2007090015855931933",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 01时58分]"
+        },
+        {
+          "title": "宇树弯道超车,老前辈还在画饼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350759&amp;topic_name=%E5%AE%87%E6%A0%91%E5%BC%AF%E9%81%93%E8%B6%85%E8%BD%A6%2C%E8%80%81%E5%89%8D%E8%BE%88%E8%BF%98%E5%9C%A8%E7%94%BB%E9%A5%BC",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 01时58分]"
+        },
+        {
+          "title": "宇树科技春晚节目技术难点解析",
+          "url": "https://wallstreetcn.com/articles/3765804",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 01时58分]"
+        },
+        {
+          "title": "从舞王到武王，机器人集群控制技术首亮相！宇树科技王兴兴：预计今年出货量达1-2万台",
+          "url": "https://www.cls.cn/detail/2291102",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 01时58分]"
+        },
+        {
+          "title": "宇树机器人春晚武术表演再炸场，王兴兴：高动态高协同集群控制技术全球首秀",
+          "url": "https://wallstreetcn.com/articles/3765800",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 01时58分]"
+        },
+        {
+          "title": "宇树春晚同款机器人售价208850元",
+          "url": "https://www.toutiao.com/trending/7606869652907707910/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 01时58分]"
+        },
+        {
+          "title": "宇树、魔法原子在春晚都表演了后空翻，对机器人来讲难度有多大？",
+          "url": "https://www.zhihu.com/question/2006837463260292286",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 01时58分]"
+        },
+        {
+          "title": "太夯!宇树机器人三刷春晚",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350744&amp;topic_name=%E5%A4%AA%E5%A4%AF%21%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%89%E5%88%B7%E6%98%A5%E6%99%9A",
+          "source": "贴吧",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 01时58分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "ai 人工智能 agent 大模型 多模态 全模态 跨模态 AGI AIGC AI+ AIPC AI语料 数字人",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "言短意长｜当人工智能和机器人扎堆出现在春晚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32622644",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 01时58分]"
+        },
+        {
+          "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
+          "url": "https://www.cls.cn/detail/2290769",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 01时58分]"
+        },
+        {
+          "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
+          "url": "https://www.cls.cn/detail/2290959",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 01时58分]"
+        },
+        {
+          "title": "疑似ai?鹰角整活六指琴魔",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350758&amp;topic_name=%E7%96%91%E4%BC%BCai%3F%E9%B9%B0%E8%A7%92%E6%95%B4%E6%B4%BB%E5%85%AD%E6%8C%87%E7%90%B4%E9%AD%94",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 01时58分]"
+        },
+        {
+          "title": "苹果大改AI眼镜、Pendant、以及带摄像头的AirPods。",
+          "url": "https://wallstreetcn.com/livenews/3056080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "美联储理事、原来负责金融监管事务的副主席Barr：希望看到证据表明美国通胀显著下降，然后再继续降息。 短期而言，人工智能（AI）可能会深度干扰就业市场。",
+          "url": "https://wallstreetcn.com/livenews/3056079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291237",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 01时58分]"
+        },
+        {
+          "title": "王菲化妆师改口问就是AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%E5%8C%96%E5%A6%86%E5%B8%88%E6%94%B9%E5%8F%A3%E9%97%AE%E5%B0%B1%E6%98%AFAI%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 01时58分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金 贵金属 能源金属 稀土 磁性材料 锂矿 钛白粉 有色 煤炭 小金属 钢铁",
       "match_count": 4,
       "titles": [
@@ -325,8 +423,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 01时58分]"
         },
         {
           "title": "美国三大股指开盘涨跌不一，科技股普跌，黄金跌破4900，白银暴跌7.5%",
@@ -336,8 +434,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 01时58分]"
         },
         {
           "title": "中国黄金第一卖场：1000克金条卖断货",
@@ -375,8 +473,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 01时58分]"
         },
         {
           "title": "硬科技组团花式整活儿，马年春晚有多硬核？｜新春万象录",
@@ -386,19 +484,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "Palantir将总部迁至美国迈阿密，科技企业加速布局佛州",
-          "url": "https://wallstreetcn.com/livenews/3056050",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 01时58分]"
         },
         {
           "title": "城市年鉴2025｜科技产业：“速度”和 “泡沫”中找平衡",
@@ -408,8 +495,178 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 01时58分]"
+        },
+        {
+          "title": "Palantir将总部迁至美国迈阿密，科技企业加速布局佛州",
+          "url": "https://wallstreetcn.com/livenews/3056050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 01时58分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "银行 金融科技 GDR概念",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "德国DAX 30指数初步收涨0.69%，报24972.94点。 法国股指初步收涨0.48%，意大利股指初步收涨0.72%、银行指数涨1.41%，英国股指初步收涨0.59%。",
+          "url": "https://wallstreetcn.com/livenews/3056059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "摩根大通：AI带来的扰动将推动小型银行合并",
+          "url": "https://wallstreetcn.com/livenews/3056057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 01时58分]"
+        },
+        {
+          "title": "德国股市收涨0.8%，意大利银行板块涨约1.6%",
+          "url": "https://wallstreetcn.com/livenews/3056059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证指数 机构重仓 社保重仓 QFII重仓 基金重仓 基金 创投 NFT概念 REITs概念 稳定币 数字货币",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "白银基金出台补偿方案！2月26日可办理，1000元以下损失全额补偿",
+          "url": "https://www.cls.cn/detail/2290657",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 01时58分]"
+        },
+        {
+          "title": "高盛：对冲基金正以十年来最快的速度抄底亚洲市场",
+          "url": "https://wallstreetcn.com/articles/3765794",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 01时58分]"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（2月13日）担保隔夜融资利率（SOFR）报3.66%，之前一天报3.65%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
+          "url": "https://wallstreetcn.com/livenews/3056069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "具身智能 零部件 人形机器人 虚拟机器人 云深处 智元 优必选 松延动力 Figure 波士顿动力 传感器 陀螺仪 机器人概念",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "春晚绝活升级背后：中国人形机器人技术有了哪些新突破？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32624494",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 01时58分]"
+        },
+        {
+          "title": "人形机器人会有失控风险吗",
+          "url": "https://www.douyin.com/hot/2403993",
+          "source": "抖音",
+          "ranks": [
+            25,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 01时58分]"
+        },
+        {
+          "title": "外媒惊叹中国人形机器人发展速度",
+          "url": "https://www.toutiao.com/trending/7607638343538622506/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 01时58分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 马斯克",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
+          "url": "https://www.cls.cn/detail/2290650",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 01时58分]"
+        },
+        {
+          "title": "看着春晚，英媒想起马斯克这句：中国早就next level",
+          "url": "https://news.ifeng.com/c/8qp3PW9MEjM",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 01时58分]"
+        },
+        {
+          "title": "马斯克机器人涉色情被爱尔兰调查",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%B6%89%E8%89%B2%E6%83%85%E8%A2%AB%E7%88%B1%E5%B0%94%E5%85%B0%E8%B0%83%E6%9F%A5%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 01时58分]"
         }
       ]
     },
@@ -442,142 +699,32 @@
       ]
     },
     {
-      "keyword_group": "银行 金融科技 GDR概念",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "德国DAX 30指数初步收涨0.69%，报24972.94点。 法国股指初步收涨0.48%，意大利股指初步收涨0.72%、银行指数涨1.41%，英国股指初步收涨0.59%。",
-          "url": "https://wallstreetcn.com/livenews/3056059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "摩根大通：AI带来的扰动将推动小型银行合并",
-          "url": "https://wallstreetcn.com/livenews/3056057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "军工 航空 航天 航母",
       "match_count": 2,
       "titles": [
-        {
-          "title": "加拿大总理卡尼：加拿大未来十年将在国防领域投资（至少）数千亿美元。 策略是，（相比以往）更多的资金将朝着本土军工企业倾斜。",
-          "url": "https://wallstreetcn.com/livenews/3056049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
         {
           "title": "国产核动力航母要来了吗",
           "url": "https://www.toutiao.com/trending/7607763309160304170/",
           "source": "今日头条",
           "ranks": [
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "上证指数 机构重仓 社保重仓 QFII重仓 基金重仓 基金 创投 NFT概念 REITs概念 稳定币 数字货币",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "白银基金出台补偿方案！2月26日可办理，1000元以下损失全额补偿",
-          "url": "https://www.cls.cn/detail/2290657",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 01时58分]"
         },
         {
-          "title": "高盛：对冲基金正以十年来最快的速度抄底亚洲市场",
-          "url": "https://wallstreetcn.com/articles/3765794",
-          "source": "华尔街见闻",
+          "title": "加拿大总理卡尼：加拿大未来十年将在国防领域投资（至少）数千亿美元。 策略是，（相比以往）更多的资金将朝着本土军工企业倾斜。",
+          "url": "https://wallstreetcn.com/livenews/3056049",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            15,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "具身智能 零部件 人形机器人 虚拟机器人 云深处 智元 优必选 松延动力 Figure 波士顿动力 传感器 陀螺仪 机器人概念",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "春晚绝活升级背后：中国人形机器人技术有了哪些新突破？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32624494",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "人形机器人会有失控风险吗",
-          "url": "https://www.douyin.com/hot/2403993",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 马斯克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
-          "url": "https://www.cls.cn/detail/2290650",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "看着春晚，英媒想起马斯克这句：中国早就next level",
-          "url": "https://news.ifeng.com/c/8qp3PW9MEjM",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 01时58分]"
         }
       ]
     },
@@ -593,8 +740,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 01时58分]"
         },
         {
           "title": "金价银价直线跳水",
@@ -618,11 +765,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%9B%E5%A3%AB%E5%90%8C%E5%A0%82%E8%AF%AF%E5%85%A5%E6%B6%88%E8%B4%B9%E9%99%B7%E9%98%B1",
           "source": "bilibili 热搜",
           "ranks": [
-            30
+            30,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 01时58分]"
         }
       ]
     },
@@ -644,6 +792,23 @@
       ]
     },
     {
+      "keyword_group": "AMD",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国纽约市长Mamdani计划上调房产税，希望能弥补50亿美元预算缺口。",
+          "url": "https://wallstreetcn.com/livenews/3056072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini deepmind",
       "match_count": 1,
       "titles": [
@@ -652,11 +817,29 @@
           "url": "https://wallstreetcn.com/livenews/3056053",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            26
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 01时58分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "claude Anthropic",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Anthropic推出Claude Sonnet 4.6模型。",
+          "url": "https://wallstreetcn.com/livenews/3056082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时07分"
+          "time_info": "01时58分"
         }
       ]
     },
@@ -669,11 +852,12 @@
           "url": "https://wallstreetcn.com/livenews/3056061",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 01时58分]"
         }
       ]
     },
@@ -689,8 +873,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 01时58分]"
         }
       ]
     },
@@ -703,11 +887,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E5%AE%99%E4%B8%BA%E4%BD%95%E6%98%AF%E4%B8%8D%E5%AF%B9%E7%A7%B0%E7%9A%84",
           "source": "bilibili 热搜",
           "ranks": [
-            11
+            11,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 01时58分]"
         }
       ]
     },
@@ -725,6 +910,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.08%，暂报2843.67点。 MarketVectorTM数字资产100中盘指数涨1.59%，报2818.30点。 MarketVector数字资产100指数涨0.03%，报13671.22点。 目前，Solana跌0.55%，狗狗币涨1.70%，XRP涨0.41%。 比特币跌0.68%，暂报67741美元；以太坊涨0.25%，暂报1988.09美元。",
+          "url": "https://wallstreetcn.com/livenews/3056066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
         }
       ]
     }
