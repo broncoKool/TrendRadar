@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T10:12:30.935836+08:00",
-  "total_titles_processed": 831,
+  "generated_at": "2026-02-18T12:54:50.138191+08:00",
+  "total_titles_processed": 962,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai 人工智能 agent 大模型 多模态 全模态 跨模态 AGI AIGC AI+ AIPC AI语料 数字人",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时07分 ~ 10时12分]"
+          "appearance_count": 12,
+          "time_info": "[01时07分 ~ 12时54分]"
         },
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -28,19 +28,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时07分 ~ 10时12分]"
+          "appearance_count": 12,
+          "time_info": "[01时07分 ~ 12时54分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350758&amp;topic_name=%E7%96%91%E4%BC%BCai%3F%E9%B9%B0%E8%A7%92%E6%95%B4%E6%B4%BB%E5%85%AD%E6%8C%87%E7%90%B4%E9%AD%94",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时07分 ~ 10时12分]"
+          "appearance_count": 12,
+          "time_info": "[01时07分 ~ 12时54分]"
         },
         {
           "title": "言短意长｜当人工智能和机器人扎堆出现在春晚",
@@ -66,8 +67,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时07分 ~ 10时12分]"
+          "appearance_count": 12,
+          "time_info": "[01时07分 ~ 12时54分]"
         },
         {
           "title": "王菲化妆师改口问就是AI",
@@ -87,11 +88,24 @@
           "url": "https://wallstreetcn.com/articles/3765810",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时59分 ~ 10时12分]"
+          "appearance_count": 4,
+          "time_info": "[07时59分 ~ 12时54分]"
+        },
+        {
+          "title": "AI驱动存储持续迭代！三星PIM技术量产在即 或绕过CPU、GPU直接计算",
+          "url": "https://www.cls.cn/detail/2291068",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时32分 ~ 12时54分]"
         },
         {
           "title": "苹果大改AI眼镜、Pendant、以及带摄像头的AirPods。",
@@ -114,17 +128,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
-        },
-        {
-          "title": "AI驱动存储持续迭代！三星PIM技术量产在即 或绕过CPU、GPU直接计算",
-          "url": "https://www.cls.cn/detail/2291068",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时32分 ~ 10时12分]"
         },
         {
           "title": "美联储戴利：人工智能是帮助我们应对通胀的一种机制，但它也是一种限制性政策。",
@@ -186,6 +189,17 @@
           "time_info": "03时03分"
         },
         {
+          "title": "如今 AI 崛起，能完成大量文字工作，那学习是否还有意义？",
+          "url": "https://www.zhihu.com/question/11260916280",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
           "title": "美联储理事巴尔：美联储很难判断人工智能带来的影响是结构性的还是周期性的。",
           "url": "https://flash.jin10.com/detail/20260218021853439800",
           "source": "金十数据",
@@ -203,7 +217,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -217,6 +231,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
+        },
+        {
+          "title": "化妆师回应王菲春晚妆造：问就是AI",
+          "url": "https://www.toutiao.com/trending/7607001857601257508/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         },
         {
           "title": "美联储理事巴尔：基本情况是，人工智能正在为经济带来积极影响。",
@@ -387,7 +412,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "哈梅内伊回应特朗普威胁",
@@ -409,8 +434,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时03分 ~ 10时12分]"
+          "appearance_count": 9,
+          "time_info": "[03时03分 ~ 12时54分]"
         },
         {
           "title": "美部长与下属传出婚外情，特朗普回应",
@@ -520,6 +545,17 @@
           "time_info": "[04时40分 ~ 05时37分]"
         },
         {
+          "title": "特朗普宣布大消息，日本要当冤大头了",
+          "url": "https://news.ifeng.com/c/8qq0daMEvoo",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 12时54分]"
+        },
+        {
           "title": "美国副总统万斯：无论采取外交手段还是其他选项，特朗普都想找到解决方案。",
           "url": "https://flash.jin10.com/detail/20260218042000423800",
           "source": "金十数据",
@@ -592,17 +628,6 @@
           "time_info": "[01时07分 ~ 01时58分]"
         },
         {
-          "title": "特朗普宣布大消息，日本要当冤大头了",
-          "url": "https://news.ifeng.com/c/8qq0daMEvoo",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
           "title": "美国副总统万斯：但伊朗人尚未愿意承认特朗普设定的某些红线。",
           "url": "https://flash.jin10.com/detail/20260218041935194800",
           "source": "金十数据",
@@ -612,6 +637,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
+        },
+        {
+          "title": "墨西哥总统：墨西哥已拒绝特朗普加入“和平委员会”的邀请",
+          "url": "https://wallstreetcn.com/livenews/3056209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         },
         {
           "title": "哈梅内伊：如今我要说，特朗普也做不到",
@@ -658,6 +694,17 @@
           "time_info": "06时33分"
         },
         {
+          "title": "墨西哥总统：墨西哥已拒绝特朗普加入“和平委员会”的邀请",
+          "url": "https://flash.jin10.com/detail/20260218115602378800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
           "title": "特朗普关税引发巨额亏损，企业纷纷加大汇率套期保值力度",
           "url": "https://wallstreetcn.com/livenews/3056103",
           "source": "华尔街见闻-快讯",
@@ -678,6 +725,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "特朗普女儿伊万卡中文拜年：新年快乐",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%EF%BC%9A%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         },
         {
           "title": "美国副总统万斯：特朗普在伊朗问题上有很多选择。",
@@ -716,7 +774,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
@@ -737,8 +795,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时57分 ~ 10时12分]"
+          "appearance_count": 11,
+          "time_info": "[01时57分 ~ 12时54分]"
         },
         {
           "title": "伊朗宣布霍尔木兹海峡部分区域将关闭数小时",
@@ -759,9 +817,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 12时54分]"
         },
         {
           "title": "伊美技术层面谈判已开始，伊朗军演进行中",
@@ -822,6 +880,17 @@
           "time_info": "[01时58分 ~ 03时03分]"
         },
         {
+          "title": "哈梅内伊：美国无法摧毁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32626225",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 12时54分]"
+        },
+        {
           "title": "美国副总统万斯：在某些方面，伊朗谈判进展顺利。",
           "url": "https://flash.jin10.com/detail/20260218041904754800",
           "source": "金十数据",
@@ -831,6 +900,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
+        },
+        {
+          "title": "伊朗外长称就伊美谈判“指导原则”达成一致，布油一度跌近3%",
+          "url": "https://wallstreetcn.com/articles/3765814",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         },
         {
           "title": "美官员：预计伊朗将在未来两周就核谈判内容提出详细方案",
@@ -855,15 +935,26 @@
           "time_info": "05时37分"
         },
         {
-          "title": "哈梅内伊：美国无法摧毁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32626225",
-          "source": "澎湃新闻",
+          "title": "伊朗外长要求美国停止动武威胁",
+          "url": "https://wallstreetcn.com/livenews/3056206",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时12分"
+          "time_info": "12时54分"
+        },
+        {
+          "title": "美军 18 架战机飞向中东，伊朗举行军演，谈判前夕互亮「底牌」，双方有哪些核心分歧？最终结果可能如何？",
+          "url": "https://www.zhihu.com/question/2007003476190786977",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         },
         {
           "title": "伊朗向霍尔木兹海峡发射导弹",
@@ -872,7 +963,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -924,7 +1015,7 @@
     },
     {
       "keyword_group": "上证指数 机构重仓 社保重仓 QFII重仓 基金重仓 基金 创投 NFT概念 REITs概念 稳定币 数字货币",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "白银基金出台补偿方案！2月26日可办理，1000元以下损失全额补偿",
@@ -947,6 +1038,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
+        },
+        {
+          "title": "高通将向印度人工智能战略基金投资不超过1.5亿美元",
+          "url": "https://wallstreetcn.com/livenews/3056215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         },
         {
           "title": "国际货币基金组织日本代表团团长：日元汇率由市场力量决定，我们认为日元名义汇率并不存在“合理水平”。",
@@ -1039,6 +1141,17 @@
           "time_info": "08时00分"
         },
         {
+          "title": "股价还能再涨55%！英国对冲基金押注：全球最大马桶制造商TOTO将是AI芯片隐形赢家",
+          "url": "https://wallstreetcn.com/articles/3765811",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
           "title": "国际货币基金组织日本代表团团长：由于预期政策利率上升、期限溢价升高以及财政风险加大，日本主权债券收益率已迅速攀升且波动加剧。",
           "url": "https://flash.jin10.com/detail/20260218073624005800",
           "source": "金十数据",
@@ -1085,8 +1198,197 @@
       ]
     },
     {
+      "keyword_group": "黄金 贵金属 能源金属 稀土 磁性材料 锂矿 钛白粉 有色 煤炭 小金属 钢铁",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "美国三大股指开盘涨跌不一，科技股普跌，黄金跌破4900，白银暴跌7.5%",
+          "url": "https://wallstreetcn.com/articles/3765810",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时07分 ~ 06时33分]"
+        },
+        {
+          "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
+          "url": "https://wallstreetcn.com/articles/3765796",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 05时37分]"
+        },
+        {
+          "title": "中国黄金第一卖场：1000克金条卖断货",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%BB%84%E9%87%91%E7%AC%AC%E4%B8%80%E5%8D%96%E5%9C%BA%EF%BC%9A1000%E5%85%8B%E9%87%91%E6%9D%A1%E5%8D%96%E6%96%AD%E8%B4%A7",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            23,
+            24,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 08时00分]"
+        },
+        {
+          "title": "现货黄金一度突破4930美元/盎司，现涨1.05%。",
+          "url": "https://wallstreetcn.com/livenews/3056213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "金价回调下的深圳水贝：黄金卖爆",
+          "url": "https://www.toutiao.com/trending/7608024655634370102/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "美股大类资产类ETF多数下跌，黄金ETF收跌超3.1%，地产ETF涨超0.9%",
+          "url": "https://wallstreetcn.com/livenews/3056137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时33分]"
+        },
+        {
+          "title": "周二（2月17日）纽约尾盘，现货黄金跌2.30%，报4877.79美元/盎司，日内交投区间为5000.65-48432.51美元，整体持续走低。 COMEX黄金期货跌2.93%，报4897.80美元/盎司，北京时间22:01刷新日低至4854.20美元。",
+          "url": "https://wallstreetcn.com/livenews/3056151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 08时00分]"
+        },
+        {
+          "title": "现货黄金突破4930美元/盎司，日内涨1.09%。",
+          "url": "https://flash.jin10.com/detail/20260218121106185800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "美股三大股指收涨 贵金属、有色板块跌幅居前",
+          "url": "https://flash.jin10.com/detail/20260218050249906800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "现货黄金回升至4900美元上方，日内涨幅0.51%。",
+          "url": "https://wallstreetcn.com/livenews/3056204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少1.43吨，当前持仓量为1075.61吨。",
+          "url": "https://flash.jin10.com/detail/20260218073906774800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时00分"
+        },
+        {
+          "title": "非洲股市收盘播报｜周二（2月17日），南非富时/JSE非洲领先40可交易指数收跌1.40%，至11.14万点下方。 现货黄金跌超2.5%，持稳于北京时间22:01刷新的日低4843.51美元附近。",
+          "url": "https://wallstreetcn.com/livenews/3056044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "现货黄金向上触及4890美元/盎司，日内涨0.65%。",
+          "url": "https://flash.jin10.com/detail/20260218091415009800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "现货黄金短线下挫，向下触及4870美元/盎司，日内跌0.23%。",
+          "url": "https://flash.jin10.com/detail/20260218070141226800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时00分"
+        },
+        {
+          "title": "现货黄金突破4920美元/盎司，日内涨0.88%。",
+          "url": "https://flash.jin10.com/detail/20260218113018527800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "黄金白银大跌原因找到了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特斯拉 马斯克",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "马斯克机器人涉色情被爱尔兰调查",
@@ -1125,24 +1427,13 @@
           "time_info": "03时03分"
         },
         {
-          "title": "特斯拉宣布，首辆赛博无人驾驶电动车Tesla Cybercab在美国得州超级工厂正式下线。",
-          "url": "https://wallstreetcn.com/livenews/3056196",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
           "title": "自动驾驶功能营销实现合规 特斯拉成功避免加州30天销售禁令",
           "url": "https://flash.jin10.com/detail/20260218095034855800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -1159,6 +1450,18 @@
           "time_info": "[03时03分 ~ 04时40分]"
         },
         {
+          "title": "特斯拉宣布，首辆赛博无人驾驶电动车Tesla Cybercab在美国得州超级工厂正式下线。",
+          "url": "https://wallstreetcn.com/livenews/3056196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 12时54分]"
+        },
+        {
           "title": "看着春晚，英媒想起马斯克这句：中国早就next level",
           "url": "https://news.ifeng.com/c/8qp3PW9MEjM",
           "source": "凤凰网",
@@ -1168,6 +1471,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时07分 ~ 01时58分]"
+        },
+        {
+          "title": "监管审查压力下，特斯拉在英国和欧洲车载系统中加入Grok AI聊天机器人",
+          "url": "https://wallstreetcn.com/livenews/3056193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 12时54分]"
         },
         {
           "title": "周二（2月17日）纽约尾盘，彭博电动汽车价格回报指数跌0.36%，报3612.03点，全天处于下跌状态，美股开盘后短线跳水至3591.48点、随后逐步收复这一波失地。 成分股中，EVgo目前跌约7.9%，“特斯拉劲敌”Rivian跌6.8%，Lucid集团跌3.7%，普拉格动力跌3.4%，MobilEye Global Inc.则涨1.5%，美国雅宝涨2.3%，禾赛科技涨4.6%。",
@@ -1182,15 +1497,15 @@
           "time_info": "[05时37分 ~ 06时33分]"
         },
         {
-          "title": "监管审查压力下，特斯拉在英国和欧洲车载系统中加入Grok AI聊天机器人",
-          "url": "https://wallstreetcn.com/livenews/3056193",
-          "source": "华尔街见闻-快讯",
+          "title": "特斯拉首辆Cybercab下线：没有方向盘和踏板的汽车终于来了",
+          "url": "https://wallstreetcn.com/articles/3765831",
+          "source": "华尔街见闻",
           "ranks": [
-            13
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时12分"
+          "time_info": "12时54分"
         },
         {
           "title": "特斯拉(TSLA.O)股价跌至逾一周低点，跌幅达3%。",
@@ -1210,7 +1525,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         }
@@ -1218,7 +1533,7 @@
     },
     {
       "keyword_group": "英伟达 NVIDIA 黄仁勋",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "英伟达Q4新进新思科技、英特尔 清仓文远知行",
@@ -1230,6 +1545,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
+        },
+        {
+          "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
+          "url": "https://wallstreetcn.com/articles/3765830",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         },
         {
           "title": "英伟达(NVDA.O)：Meta已采用英伟达机密计算技术，用于WhatsApp的隐私处理。",
@@ -1279,13 +1605,25 @@
           "time_info": "[05时37分 ~ 06时33分]"
         },
         {
+          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
+          "url": "https://www.cls.cn/detail/2291354",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 12时54分]"
+        },
+        {
           "title": "Meta将部署数百万颗英伟达芯片",
           "url": "https://www.toutiao.com/trending/7607763089089921062/",
           "source": "今日头条",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -1299,17 +1637,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
-          "url": "https://www.cls.cn/detail/2291354",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
         },
         {
           "title": "美国证交会文件：英伟达(NVDA.O)持有英特尔(INTC.O)2.148亿股股份。",
@@ -1347,136 +1674,128 @@
       ]
     },
     {
-      "keyword_group": "黄金 贵金属 能源金属 稀土 磁性材料 锂矿 钛白粉 有色 煤炭 小金属 钢铁",
-      "match_count": 11,
+      "keyword_group": "消费 消费电子 新零售 茅台",
+      "match_count": 10,
       "titles": [
         {
-          "title": "美国三大股指开盘涨跌不一，科技股普跌，黄金跌破4900，白银暴跌7.5%",
-          "url": "https://wallstreetcn.com/articles/3765810",
+          "title": "四士同堂误入消费陷阱",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%9B%E5%A3%AB%E5%90%8C%E5%A0%82%E8%AF%AF%E5%85%A5%E6%B6%88%E8%B4%B9%E9%99%B7%E9%98%B1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            22,
+            9,
+            21,
+            15,
+            17,
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时07分 ~ 12时54分]"
+        },
+        {
+          "title": "“做多能源+做空可选消费” --当下火遍华尔街的“配对交易组合”",
+          "url": "https://wallstreetcn.com/articles/3765799",
           "source": "华尔街见闻",
           "ranks": [
-            3,
-            2
+            9,
+            8,
+            7,
+            5
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[01时07分 ~ 06时33分]"
+          "time_info": "[03时03分 ~ 10时12分]"
         },
         {
-          "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
-          "url": "https://wallstreetcn.com/articles/3765796",
-          "source": "华尔街见闻",
+          "title": "这个春节消费市场“新”意十足",
+          "url": "https://www.toutiao.com/trending/7608001156593729563/",
+          "source": "今日头条",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 05时37分]"
-        },
-        {
-          "title": "中国黄金第一卖场：1000克金条卖断货",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%BB%84%E9%87%91%E7%AC%AC%E4%B8%80%E5%8D%96%E5%9C%BA%EF%BC%9A1000%E5%85%8B%E9%87%91%E6%9D%A1%E5%8D%96%E6%96%AD%E8%B4%A7",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            23,
-            24,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 08时00分]"
-        },
-        {
-          "title": "美股大类资产类ETF多数下跌，黄金ETF收跌超3.1%，地产ETF涨超0.9%",
-          "url": "https://wallstreetcn.com/livenews/3056137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时37分 ~ 06时33分]"
-        },
-        {
-          "title": "周二（2月17日）纽约尾盘，现货黄金跌2.30%，报4877.79美元/盎司，日内交投区间为5000.65-48432.51美元，整体持续走低。 COMEX黄金期货跌2.93%，报4897.80美元/盎司，北京时间22:01刷新日低至4854.20美元。",
-          "url": "https://wallstreetcn.com/livenews/3056151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 08时00分]"
-        },
-        {
-          "title": "美股三大股指收涨 贵金属、有色板块跌幅居前",
-          "url": "https://flash.jin10.com/detail/20260218050249906800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少1.43吨，当前持仓量为1075.61吨。",
-          "url": "https://flash.jin10.com/detail/20260218073906774800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时00分"
-        },
-        {
-          "title": "非洲股市收盘播报｜周二（2月17日），南非富时/JSE非洲领先40可交易指数收跌1.40%，至11.14万点下方。 现货黄金跌超2.5%，持稳于北京时间22:01刷新的日低4843.51美元附近。",
-          "url": "https://wallstreetcn.com/livenews/3056044",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "现货黄金向上触及4890美元/盎司，日内涨0.65%。",
-          "url": "https://flash.jin10.com/detail/20260218091415009800",
-          "source": "金十数据",
-          "ranks": [
-            22
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时12分"
+          "time_info": "12时54分"
         },
         {
-          "title": "现货黄金短线下挫，向下触及4870美元/盎司，日内跌0.23%。",
-          "url": "https://flash.jin10.com/detail/20260218070141226800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时00分"
-        },
-        {
-          "title": "黄金白银大跌原因找到了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=28&Refer=top",
+          "title": "2026春节消费迎来开门红",
+          "url": "https://s.weibo.com/weibo?q=%232026%E6%98%A5%E8%8A%82%E6%B6%88%E8%B4%B9%E8%BF%8E%E6%9D%A5%E5%BC%80%E9%97%A8%E7%BA%A2%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
           "ranks": [
-            28
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "英媒：特朗普政府升级对美消费者金融保护局打击力度",
+          "url": "https://flash.jin10.com/detail/20260218023219855800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "据英国《金融时报》：美国总统特朗普加剧对美国消费者保护机构的攻击。",
+          "url": "https://flash.jin10.com/detail/20260218022730380800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "国际货币基金组织驻日本代表团团长Rahul Anand：日本央行继续遵循数据依赖方法很重要。 日本央行明年应继续将利率调至中性。 日本央行的中性利率水平存在很大的不确定性。 日本央行独立有助于稳定通胀预期。 暂停征收消费税将削弱税基。 日本必须保障收入以保留财政空间。 美国关税对日本的影响远低于预期。",
+          "url": "https://wallstreetcn.com/livenews/3056179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "国际货币基金组织：日本应避免下调消费税，否则将削弱财政空间并加剧财政风险。",
+          "url": "https://flash.jin10.com/detail/20260218073212968800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时00分"
+        },
+        {
+          "title": "国际货币基金组织表示，日本应避免降低消费税，以防止增加财政风险并侵蚀财政空间。",
+          "url": "https://wallstreetcn.com/livenews/3056174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "玛氏首席执行官：许多消费者对当前零食的平均价格水平感到不安。",
+          "url": "https://flash.jin10.com/detail/20260218031735092800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时40分"
         }
       ]
     },
@@ -1489,28 +1808,30 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350759&amp;topic_name=%E5%AE%87%E6%A0%91%E5%BC%AF%E9%81%93%E8%B6%85%E8%BD%A6%2C%E8%80%81%E5%89%8D%E8%BE%88%E8%BF%98%E5%9C%A8%E7%94%BB%E9%A5%BC",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时07分 ~ 10时12分]"
-        },
-        {
-          "title": "宇树科技春晚节目技术难点解析",
-          "url": "https://wallstreetcn.com/articles/3765804",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时07分 ~ 10时12分]"
+          "appearance_count": 12,
+          "time_info": "[01时07分 ~ 12时54分]"
         },
         {
           "title": "从舞王到武王，机器人集群控制技术首亮相！宇树科技王兴兴：预计今年出货量达1-2万台",
           "url": "https://www.cls.cn/detail/2291102",
           "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时07分 ~ 12时54分]"
+        },
+        {
+          "title": "宇树科技春晚节目技术难点解析",
+          "url": "https://wallstreetcn.com/articles/3765804",
+          "source": "华尔街见闻",
           "ranks": [
             5,
             4
@@ -1568,33 +1889,36 @@
             11,
             10,
             16,
-            24
+            24,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时07分 ~ 10时12分]"
+          "appearance_count": 12,
+          "time_info": "[01时07分 ~ 12时54分]"
         },
         {
           "title": "太夯!宇树机器人三刷春晚",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350744&amp;topic_name=%E5%A4%AA%E5%A4%AF%21%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%89%E5%88%B7%E6%98%A5%E6%99%9A",
           "source": "贴吧",
           "ranks": [
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时07分 ~ 10时12分]"
+          "appearance_count": 12,
+          "time_info": "[01时07分 ~ 12时54分]"
         },
         {
           "title": "马年春晚上宇树、银河、松延等机器人的表演给你留下了哪些印象？展示了哪些技术进展？",
           "url": "https://www.zhihu.com/question/2006827558272989178",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 12时54分]"
         },
         {
           "title": "宇树科技CEO回应春晚款机器人",
@@ -1603,7 +1927,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         }
@@ -1620,7 +1944,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -1719,109 +2043,6 @@
       ]
     },
     {
-      "keyword_group": "消费 消费电子 新零售 茅台",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "四士同堂误入消费陷阱",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%9B%E5%A3%AB%E5%90%8C%E5%A0%82%E8%AF%AF%E5%85%A5%E6%B6%88%E8%B4%B9%E9%99%B7%E9%98%B1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            22,
-            9,
-            21,
-            15,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时07分 ~ 10时12分]"
-        },
-        {
-          "title": "“做多能源+做空可选消费” --当下火遍华尔街的“配对交易组合”",
-          "url": "https://wallstreetcn.com/articles/3765799",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时03分 ~ 10时12分]"
-        },
-        {
-          "title": "英媒：特朗普政府升级对美消费者金融保护局打击力度",
-          "url": "https://flash.jin10.com/detail/20260218023219855800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        },
-        {
-          "title": "据英国《金融时报》：美国总统特朗普加剧对美国消费者保护机构的攻击。",
-          "url": "https://flash.jin10.com/detail/20260218022730380800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        },
-        {
-          "title": "国际货币基金组织驻日本代表团团长Rahul Anand：日本央行继续遵循数据依赖方法很重要。 日本央行明年应继续将利率调至中性。 日本央行的中性利率水平存在很大的不确定性。 日本央行独立有助于稳定通胀预期。 暂停征收消费税将削弱税基。 日本必须保障收入以保留财政空间。 美国关税对日本的影响远低于预期。",
-          "url": "https://wallstreetcn.com/livenews/3056179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "国际货币基金组织：日本应避免下调消费税，否则将削弱财政空间并加剧财政风险。",
-          "url": "https://flash.jin10.com/detail/20260218073212968800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时00分"
-        },
-        {
-          "title": "国际货币基金组织表示，日本应避免降低消费税，以防止增加财政风险并侵蚀财政空间。",
-          "url": "https://wallstreetcn.com/livenews/3056174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "玛氏首席执行官：许多消费者对当前零食的平均价格水平感到不安。",
-          "url": "https://flash.jin10.com/detail/20260218031735092800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "科技",
       "match_count": 8,
       "titles": [
@@ -1843,11 +2064,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时07分 ~ 10时12分]"
+          "appearance_count": 12,
+          "time_info": "[01时07分 ~ 12时54分]"
         },
         {
           "title": "马上来沪｜上海科技馆大年初一试开放，市民游客体验如何？",
@@ -1859,8 +2081,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时03分 ~ 10时12分]"
+          "appearance_count": 9,
+          "time_info": "[03时03分 ~ 12时54分]"
         },
         {
           "title": "追觅官宣成为春晚「智能科技生态战略合作伙伴」，其产品的科技含金量究竟有多高？",
@@ -1918,6 +2140,99 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "具身智能 零部件 人形机器人 虚拟机器人 云深处 智元 优必选 松延动力 Figure 波士顿动力 传感器 陀螺仪 机器人概念",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "春晚绝活升级背后：中国人形机器人技术有了哪些新突破？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32624494",
+          "source": "澎湃新闻",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 10时12分]"
+        },
+        {
+          "title": "人形机器人会有失控风险吗",
+          "url": "https://www.douyin.com/hot/2403993",
+          "source": "抖音",
+          "ranks": [
+            25,
+            16,
+            21,
+            23,
+            17,
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时07分 ~ 12时54分]"
+        },
+        {
+          "title": "大陆人形机器人进化神速引岛内热议",
+          "url": "https://www.toutiao.com/trending/7607675186574278699/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "机器人扎堆上春晚，企业坦言订单小、贡献低，这波热度能撑起多高的估值？如何看待人形机器人产业的真实现状？",
+          "url": "https://www.zhihu.com/question/2006838700613600126",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "宇树、松延动力、魔法原子、银河通用，哪家机器人是春晚最大赢家？让你觉得最震撼？",
+          "url": "https://www.zhihu.com/question/2006845552013305414",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "外媒惊叹中国人形机器人发展速度",
+          "url": "https://www.toutiao.com/trending/7607638343538622506/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时57分 ~ 04时40分]"
+        },
+        {
+          "title": "松延动力仿生蔡明幕后揭秘",
+          "url": "https://www.douyin.com/hot/2403431",
+          "source": "抖音",
+          "ranks": [
+            23,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 12时54分]"
         }
       ]
     },
@@ -2016,6 +2331,18 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "日本首相高市早苗：日本与美国就贸易协议中5500亿美元承诺下的首轮投资项目达成一致。 项目包括工业用合成钻石、原油出口基础设施以及为人工智能数据中心提供能源的燃气发电。 这些项目将使日本和美国互利共赢。",
+          "url": "https://wallstreetcn.com/livenews/3056184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 12时54分]"
+        },
+        {
           "title": "金十数据中心工具",
           "url": "https://flash.jin10.com/detail/20260218075122707800",
           "source": "金十数据",
@@ -2025,17 +2352,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
-        },
-        {
-          "title": "日本首相高市早苗：日本与美国就贸易协议中5500亿美元承诺下的首轮投资项目达成一致。 项目包括工业用合成钻石、原油出口基础设施以及为人工智能数据中心提供能源的燃气发电。 这些项目将使日本和美国互利共赢。",
-          "url": "https://wallstreetcn.com/livenews/3056184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
         },
         {
           "title": "阿达尼集团将对可再生能源支持的AI数据中心投资1000亿美元",
@@ -2069,76 +2385,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "具身智能 零部件 人形机器人 虚拟机器人 云深处 智元 优必选 松延动力 Figure 波士顿动力 传感器 陀螺仪 机器人概念",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "春晚绝活升级背后：中国人形机器人技术有了哪些新突破？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32624494",
-          "source": "澎湃新闻",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时07分 ~ 10时12分]"
-        },
-        {
-          "title": "人形机器人会有失控风险吗",
-          "url": "https://www.douyin.com/hot/2403993",
-          "source": "抖音",
-          "ranks": [
-            25,
-            16,
-            21,
-            23,
-            17,
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时07分 ~ 10时12分]"
-        },
-        {
-          "title": "机器人扎堆上春晚，企业坦言订单小、贡献低，这波热度能撑起多高的估值？如何看待人形机器人产业的真实现状？",
-          "url": "https://www.zhihu.com/question/2006838700613600126",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "外媒惊叹中国人形机器人发展速度",
-          "url": "https://www.toutiao.com/trending/7607638343538622506/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 04时40分]"
-        },
-        {
-          "title": "松延动力仿生蔡明幕后揭秘",
-          "url": "https://www.douyin.com/hot/2403431",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
         }
       ]
     },
@@ -2221,6 +2467,18 @@
           "time_info": "01时58分"
         },
         {
+          "title": "Anthropic又“踢馆”！Sonnet 4.6操作电脑接近人类，性能堪比旗舰模型、定价仅1/5",
+          "url": "https://wallstreetcn.com/articles/3765816",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 12时54分]"
+        },
+        {
           "title": "Anthropic发布新AI模型，强化电脑操作与编程能力",
           "url": "https://wallstreetcn.com/livenews/3056082",
           "source": "华尔街见闻-快讯",
@@ -2231,17 +2489,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时03分 ~ 04时40分]"
-        },
-        {
-          "title": "Anthropic又“踢馆”！Sonnet 4.6操作电脑接近人类，性能堪比旗舰模型、定价仅1/5",
-          "url": "https://wallstreetcn.com/articles/3765816",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
         },
         {
           "title": "Anthropic发布新一代AI模型Claude Sonnet 4.6",
@@ -2288,11 +2535,12 @@
           "url": "https://wallstreetcn.com/livenews/3056192",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 12时54分]"
         },
         {
           "title": "网络状况监测网站DownDetector：用户报告显示谷歌(GOOG.O)的使用出现问题。",
@@ -2301,7 +2549,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -2315,6 +2563,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "iphone ipad mac ios",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "伊朗将在未来两周向美国递交详细方案。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3056061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 01时58分]"
+        },
+        {
+          "title": "据AXIOS网站记者：两名知情人士称，今天在日内瓦举行的政治小组谈判陷入了僵局。消息人士称，原因是俄罗斯新任首席谈判代表弗拉基米尔·梅金斯基提出的立场。",
+          "url": "https://flash.jin10.com/detail/20260218044200465800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "OpenClaw表示，OpenClaw 2026.2.17版本刚刚发布，更新包括：Sonnet 4.6、1M上下文测试、从聊天中生成子代理、iOS分享扩展等，建议用户升级一下，否则就会被抛在后面。",
+          "url": "https://flash.jin10.com/detail/20260218112924519800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         }
       ]
     },
@@ -2333,11 +2621,12 @@
             15,
             13,
             17,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时07分 ~ 10时12分]"
+          "appearance_count": 12,
+          "time_info": "[01时07分 ~ 12时54分]"
         },
         {
           "title": "蓝色起源加速登月计划，誓与SpaceX展开正面竞争",
@@ -2442,35 +2731,6 @@
       ]
     },
     {
-      "keyword_group": "iphone ipad mac ios",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗将在未来两周向美国递交详细方案。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3056061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 01时58分]"
-        },
-        {
-          "title": "据AXIOS网站记者：两名知情人士称，今天在日内瓦举行的政治小组谈判陷入了僵局。消息人士称，原因是俄罗斯新任首席谈判代表弗拉基米尔·梅金斯基提出的立场。",
-          "url": "https://flash.jin10.com/detail/20260218044200465800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -2562,8 +2822,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时40分 ~ 10时12分]"
+          "appearance_count": 8,
+          "time_info": "[04时40分 ~ 12时54分]"
         }
       ]
     },
@@ -2594,11 +2854,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350754&amp;topic_name=%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E5%BC%80%E5%9B%A2%2C%E6%99%BA%E9%A9%BE%E8%A2%AB%E7%82%B9%E5%90%8D",
           "source": "贴吧",
           "ranks": [
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时07分 ~ 10时12分]"
+          "appearance_count": 12,
+          "time_info": "[01时07分 ~ 12时54分]"
         }
       ]
     }
