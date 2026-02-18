@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T06:34:59.786778+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2026-02-19T07:31:25.315992+08:00",
+  "total_titles_processed": 674,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普、拜登、奥巴马、克林顿齐发声",
@@ -19,17 +19,6 @@
           "time_info": "[01时04分 ~ 01时05分]"
         },
         {
-          "title": "美国总统特朗普援引《国防生产法》， 签署行政命令，指示美国农业部和国防部确保元素磷、除草剂充足。",
-          "url": "https://flash.jin10.com/detail/20260219061414903800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将前往佐治亚州，讨论经适性（经济承受能力）问题。",
           "url": "https://wallstreetcn.com/livenews/3056442",
           "source": "华尔街见闻-快讯",
@@ -41,6 +30,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时57分 ~ 04时40分]"
+        },
+        {
+          "title": "美国总统特朗普援引《国防生产法》， 签署行政命令，指示美国农业部和国防部确保元素磷、除草剂充足。",
+          "url": "https://flash.jin10.com/detail/20260219061414903800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时31分]"
         },
         {
           "title": "美国白宫：美国总统特朗普尚未就停摆问题与民主党议员进行直接对话。",
@@ -187,6 +188,28 @@
           "time_info": "[02时57分 ~ 03时50分]"
         },
         {
+          "title": "特朗普签署行政令指示农业部和国防部确保元素磷、除草剂充足",
+          "url": "https://flash.jin10.com/detail/20260219070013382800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "特朗普援引国防生产法，保障磷与除草剂的国内供应",
+          "url": "https://wallstreetcn.com/livenews/3056519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
           "title": "特朗普：英国签迪戈加西亚百年租约是“大错”，若有必要美军将动用该基地",
           "url": "https://flash.jin10.com/detail/20260219025643641800",
           "source": "金十数据",
@@ -237,7 +260,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
         },
@@ -270,7 +293,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
         },
@@ -344,7 +367,7 @@
     },
     {
       "keyword_group": "ai 人工智能 agent 大模型 多模态 全模态 跨模态 AGI AIGC AI+ AIPC AI语料 数字人",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -355,8 +378,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 06时34分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 07时31分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -377,11 +400,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 06时34分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 07时31分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -392,8 +416,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 06时34分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 07时31分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -404,8 +428,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 06时34分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 07时31分]"
+        },
+        {
+          "title": "疑似ai?鹰角整活六指琴魔",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350758&amp;topic_name=%E7%96%91%E4%BC%BCai%3F%E9%B9%B0%E8%A7%92%E6%95%B4%E6%B4%BB%E5%85%AD%E6%8C%87%E7%90%B4%E9%AD%94",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 07时31分]"
         },
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -419,16 +455,16 @@
           "time_info": "[01时04分 ~ 02时57分]"
         },
         {
-          "title": "疑似ai?鹰角整活六指琴魔",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350758&amp;topic_name=%E7%96%91%E4%BC%BCai%3F%E9%B9%B0%E8%A7%92%E6%95%B4%E6%B4%BB%E5%85%AD%E6%8C%87%E7%90%B4%E9%AD%94",
-          "source": "贴吧",
+          "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
+          "url": "https://wallstreetcn.com/articles/3765833",
+          "source": "华尔街见闻",
           "ranks": [
-            14,
-            15
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 06时34分]"
+          "appearance_count": 8,
+          "time_info": "[02时56分 ~ 07时31分]"
         },
         {
           "title": "目前大模型与人类意识的差别在哪里?",
@@ -441,17 +477,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时04分 ~ 05时36分]"
-        },
-        {
-          "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
-          "url": "https://wallstreetcn.com/articles/3765833",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时56分 ~ 06时34分]"
         },
         {
           "title": "AI 编程会替代程序员吗?",
@@ -564,6 +589,17 @@
           "time_info": "02时57分"
         },
         {
+          "title": "1万亿美元蒸发背后：垂直软件的护城河，正在被大模型重写",
+          "url": "https://wallstreetcn.com/articles/3765835",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
           "title": "芯片初创公司Efficient Computer筹集6000万美元，用于推进面向人工智能的节能通用处理器。",
           "url": "https://flash.jin10.com/detail/20260219000243239800",
           "source": "金十数据",
@@ -644,8 +680,20 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "美媒：对伊朗开展军事行动“迫在眉睫”",
+          "url": "https://news.ifeng.com/c/8qr5IKOpqxr",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时56分 ~ 07时31分]"
+        },
         {
           "title": "伊朗将迅速落实伊俄全面战略合作计划",
           "url": "https://www.toutiao.com/trending/7607948856885624895/",
@@ -656,30 +704,31 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 06时34分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 07时31分]"
         },
         {
           "title": "伊朗与俄罗斯将举行海上联合军演",
           "url": "https://m.thepaper.cn/newsDetail_forward_32629571",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 06时34分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 07时31分]"
         },
         {
-          "title": "美媒：对伊朗开展军事行动“迫在眉睫”",
-          "url": "https://news.ifeng.com/c/8qr5IKOpqxr",
-          "source": "凤凰网",
+          "title": "美国众议院可能下周就美国总统在伊朗问题上的“战争权力”进行投票。（Punchbowl）",
+          "url": "https://wallstreetcn.com/livenews/3056528",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            1
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时56分 ~ 06时34分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "据华尔街日报：官员称，美国正从叙利亚撤出所有部队，部队将在未来两个月内从剩余地点撤军。消息人士称，撤军与为可能袭击伊朗而部署部队无关。",
@@ -741,6 +790,17 @@
           "time_info": "[03时50分 ~ 04时40分]"
         },
         {
+          "title": "美国务院称对18名伊朗人实施签证限制措施",
+          "url": "https://wallstreetcn.com/livenews/3056522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
           "title": "美国白宫：有许多理由可以对伊朗发动打击。达成协议是伊朗的明智之举。",
           "url": "https://flash.jin10.com/detail/20260219023914570800",
           "source": "金十数据",
@@ -758,7 +818,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
         },
@@ -769,7 +829,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
         },
@@ -909,8 +969,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 06时34分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 07时31分]"
         },
         {
           "title": "新春走基层｜两场电影“怒省80”：消费更理性，幸福不降级",
@@ -919,11 +979,12 @@
           "ranks": [
             12,
             14,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 06时34分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 07时31分]"
         },
         {
           "title": "四士同堂误入消费陷阱",
@@ -945,22 +1006,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            14
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时34分]"
+          "appearance_count": 3,
+          "time_info": "[05时36分 ~ 07时31分]"
         },
         {
           "title": "Booking的首席财务官（CFO）：人工智能（AI）已经帮助实现消费者服务成本同比下降。",
           "url": "https://wallstreetcn.com/livenews/3056505",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时31分]"
         },
         {
           "title": "新西兰联储主席布雷曼：家庭消费开始增加，但与历史模式相比，增长相对疲弱。",
@@ -983,6 +1046,88 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "岛国纯幻想!国产科技已杀疯",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350768&amp;topic_name=%E5%B2%9B%E5%9B%BD%E7%BA%AF%E5%B9%BB%E6%83%B3%21%E5%9B%BD%E4%BA%A7%E7%A7%91%E6%8A%80%E5%B7%B2%E6%9D%80%E7%96%AF",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 07时31分]"
+        },
+        {
+          "title": "硬科技组团花式整活儿，马年春晚有多硬核？｜新春万象录",
+          "url": "https://www.cls.cn/detail/2290994",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 07时31分]"
+        },
+        {
+          "title": "科技为何成为春晚主旋律",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A7%91%E6%8A%80%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E6%98%A5%E6%99%9A%E4%B8%BB%E6%97%8B%E5%BE%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            14,
+            21,
+            16,
+            18,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 07时31分]"
+        },
+        {
+          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
+          "url": "https://wallstreetcn.com/articles/3765834",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时31分]"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（2月19日）",
+          "url": "https://flash.jin10.com/detail/20260219071238522800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "爱尔兰（欧盟科技中心）考虑禁止青少年使用社交媒体。",
+          "url": "https://wallstreetcn.com/livenews/3056443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 04时40分]"
         }
       ]
     },
@@ -1048,75 +1193,6 @@
       ]
     },
     {
-      "keyword_group": "科技",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "岛国纯幻想!国产科技已杀疯",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350768&amp;topic_name=%E5%B2%9B%E5%9B%BD%E7%BA%AF%E5%B9%BB%E6%83%B3%21%E5%9B%BD%E4%BA%A7%E7%A7%91%E6%8A%80%E5%B7%B2%E6%9D%80%E7%96%AF",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 06时34分]"
-        },
-        {
-          "title": "硬科技组团花式整活儿，马年春晚有多硬核？｜新春万象录",
-          "url": "https://www.cls.cn/detail/2290994",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 06时34分]"
-        },
-        {
-          "title": "科技为何成为春晚主旋律",
-          "url": "https://search.bilibili.com/all?keyword=%E7%A7%91%E6%8A%80%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E6%98%A5%E6%99%9A%E4%B8%BB%E6%97%8B%E5%BE%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            14,
-            21,
-            16,
-            18,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 06时34分]"
-        },
-        {
-          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
-          "url": "https://wallstreetcn.com/articles/3765834",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
-          "title": "爱尔兰（欧盟科技中心）考虑禁止青少年使用社交媒体。",
-          "url": "https://wallstreetcn.com/livenews/3056443",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时50分 ~ 04时40分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "英伟达 NVIDIA 黄仁勋",
       "match_count": 4,
       "titles": [
@@ -1129,8 +1205,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 06时34分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 07时31分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -1141,8 +1217,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 06时34分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 07时31分]"
         },
         {
           "title": "美股高开高走 英伟达收涨1.63%",
@@ -1212,100 +1288,18 @@
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8C%96%E5%88%B0%E5%90%AB%E7%A8%80%E5%9C%9F%E6%B3%A5%E6%B5%86%E7%9A%84%E7%9C%9F%E7%9B%B8%E6%9D%A5%E4%BA%86%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "军工 航空 航天 航母",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "明晟公司MSCI北欧国家指数涨1.4%，创2月6日以来最佳单日表现，报391.29点。 在十个板块中，北欧工业板块涨幅最大。 Kongsberg Gruppen ASA涨5.4%，在一众北欧个股里领跑。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收涨3.71%。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收涨1.66%。",
-          "url": "https://wallstreetcn.com/livenews/3056409",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            28
+            28,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时05分 ~ 02时57分]"
-        },
-        {
-          "title": "美国官员：福特号航空母舰及其随行驱逐舰仍在北大西洋，尚未穿越直布罗陀海峡。",
-          "url": "https://flash.jin10.com/detail/20260219054520517800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
-          "title": "美国众议院将在2025年致命碰撞事件后，下周考虑航空安全立法。",
-          "url": "https://flash.jin10.com/detail/20260219001645313800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "宇树 王兴兴",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "从舞王到武王，机器人集群控制技术首亮相！宇树科技王兴兴：预计今年出货量达1-2万台",
-          "url": "https://www.cls.cn/detail/2291102",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 06时34分]"
-        },
-        {
-          "title": "宇树弯道超车,老前辈还在画饼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350759&amp;topic_name=%E5%AE%87%E6%A0%91%E5%BC%AF%E9%81%93%E8%B6%85%E8%BD%A6%2C%E8%80%81%E5%89%8D%E8%BE%88%E8%BF%98%E5%9C%A8%E7%94%BB%E9%A5%BC",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 06时34分]"
-        },
-        {
-          "title": "印度一大学因将购买的宇树科技机器人据为己有而遭抨击",
-          "url": "https://wallstreetcn.com/livenews/3056437",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时57分 ~ 04时40分]"
+          "time_info": "[06时34分 ~ 07时31分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -1316,8 +1310,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 06时34分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 07时31分]"
         },
         {
           "title": "金十图示：2026年02月18日（周三）美股热门股票行情一览（美股收盘）",
@@ -1342,6 +1336,141 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时36分 ~ 06时34分]"
+        },
+        {
+          "title": "Doordash美股盘后涨10%。",
+          "url": "https://wallstreetcn.com/livenews/3056517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "军工 航空 航天 航母",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "明晟公司MSCI北欧国家指数涨1.4%，创2月6日以来最佳单日表现，报391.29点。 在十个板块中，北欧工业板块涨幅最大。 Kongsberg Gruppen ASA涨5.4%，在一众北欧个股里领跑。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收涨3.71%。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收涨1.66%。",
+          "url": "https://wallstreetcn.com/livenews/3056409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 02时57分]"
+        },
+        {
+          "title": "美国官员：福特号航空母舰及其随行驱逐舰仍在北大西洋，尚未穿越直布罗陀海峡。",
+          "url": "https://flash.jin10.com/detail/20260219054520517800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时31分]"
+        },
+        {
+          "title": "美国众议院将在2025年致命碰撞事件后，下周考虑航空安全立法。",
+          "url": "https://flash.jin10.com/detail/20260219001645313800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证指数 机构重仓 社保重仓 QFII重仓 基金重仓 基金 创投 NFT概念 REITs概念 稳定币 数字货币",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国财政部文件：与委内瑞拉石油业务合作的公司必须向外国政府存款基金缴纳特许权使用费和联邦税。",
+          "url": "https://flash.jin10.com/detail/20260219024458665800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 03时50分]"
+        },
+        {
+          "title": "对冲基金AlphaQuest的Nigol Koulajian：我艰难地意识到，我们的量化模型已不再适应当前的市场格局。 而这种格局可能会无限期地持续下去。 市场逆风“过于严峻”，已无法按照客户预期的方式进行投资。 市场正在告诉我，继续管理客户资产已不再审慎。",
+          "url": "https://wallstreetcn.com/livenews/3056518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "报道：对冲基金AlphaQuest连续三年亏损后关闭，向投资者返还资金",
+          "url": "https://wallstreetcn.com/livenews/3056516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "宇树 王兴兴",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "从舞王到武王，机器人集群控制技术首亮相！宇树科技王兴兴：预计今年出货量达1-2万台",
+          "url": "https://www.cls.cn/detail/2291102",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 07时31分]"
+        },
+        {
+          "title": "宇树弯道超车,老前辈还在画饼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350759&amp;topic_name=%E5%AE%87%E6%A0%91%E5%BC%AF%E9%81%93%E8%B6%85%E8%BD%A6%2C%E8%80%81%E5%89%8D%E8%BE%88%E8%BF%98%E5%9C%A8%E7%94%BB%E9%A5%BC",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 07时31分]"
+        },
+        {
+          "title": "印度一大学因将购买的宇树科技机器人据为己有而遭抨击",
+          "url": "https://wallstreetcn.com/livenews/3056437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时57分 ~ 04时40分]"
         }
       ]
     },
@@ -1439,29 +1568,57 @@
           "url": "https://flash.jin10.com/detail/20260219054611726800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时31分]"
         }
       ]
     },
     {
-      "keyword_group": "上证指数 机构重仓 社保重仓 QFII重仓 基金重仓 基金 创投 NFT概念 REITs概念 稳定币 数字货币",
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "外资回绝“抛售美国”论：净买入1.6万亿美元美股与美债",
+          "url": "https://wallstreetcn.com/livenews/3056484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "美债收益率普遍涨超2个基点",
+          "url": "https://wallstreetcn.com/livenews/3056469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大数据 数据集 语料 数据中心 数据要素",
       "match_count": 1,
       "titles": [
         {
-          "title": "美国财政部文件：与委内瑞拉石油业务合作的公司必须向外国政府存款基金缴纳特许权使用费和联邦税。",
-          "url": "https://flash.jin10.com/detail/20260219024458665800",
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少180.34吨，当前持仓量为15641.59吨。欢迎点击查看数据中心...",
+          "url": "https://flash.jin10.com/detail/20260219070344350800",
           "source": "金十数据",
           "ranks": [
-            13,
-            27
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时57分 ~ 03时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         }
       ]
     },
@@ -1478,8 +1635,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 06时34分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 07时31分]"
         }
       ]
     },
@@ -1511,11 +1668,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 06时34分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 07时31分]"
         }
       ]
     },
@@ -1549,8 +1707,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 06时34分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 07时31分]"
         }
       ]
     },
@@ -1580,28 +1738,12 @@
           "url": "https://wallstreetcn.com/livenews/3056504",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美债收益率普遍涨超2个基点",
-          "url": "https://wallstreetcn.com/livenews/3056469",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            9,
             24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时31分]"
         }
       ]
     }
