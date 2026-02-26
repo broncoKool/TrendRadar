@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T02:00:58.869032+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2026-02-27T03:04:52.169508+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "白宫官员希望以色列先打击伊朗",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时04分]"
         },
         {
           "title": "如美发动攻击，中俄会否联手支援伊朗？外交部回应",
@@ -26,19 +26,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时04分]"
         },
         {
-          "title": "美海军第五舰队驻巴林总部缩减人员规模，据称此举是为应对伊朗可能发动的袭击",
-          "url": "https://wallstreetcn.com/livenews/3059708",
-          "source": "华尔街见闻-快讯",
+          "title": "据i24NEWS：熟悉日内瓦美伊核谈判的消息人士称，美国和伊朗之间的分歧仍然很大，形势不容乐观。",
+          "url": "https://flash.jin10.com/detail/20260227024209626800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时00分"
+          "time_info": "03时04分"
         },
         {
           "title": "据黎巴嫩电视台Al-Mayadeen：有消息称谈判出现了积极迹象，谈判有可能将延长至明天。伊朗方面在铀浓缩问题上表现出了很大的灵活性，而美国方面尚未同意完全解除对伊朗的制裁。",
@@ -58,9 +58,32 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
+        },
+        {
+          "title": "阿曼：美国与伊朗今天的会谈结束，取得了重大进展。 经过征求（各自政府）意见之后，双方将迅速恢复磋商。 两国将于下周在维也纳举行工作层面的会谈。",
+          "url": "https://wallstreetcn.com/livenews/3059725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "美海军第五舰队驻巴林总部缩减人员规模，据称此举是为应对伊朗可能发动的袭击",
+          "url": "https://wallstreetcn.com/livenews/3059708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时00分 ~ 03时04分]"
         },
         {
           "title": "中方正密切关注伊朗局势发展",
@@ -70,20 +93,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
-        },
-        {
-          "title": "当地时间26日晚，伊朗和美国在日内瓦举行的第三轮间接谈判在短暂休会后，开始进行第二阶段谈判。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3059687",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时04分]"
         },
         {
           "title": "一图看懂｜新一轮谈判在即，美军如何在伊朗周边布阵？",
@@ -92,6 +103,29 @@
           "ranks": [
             11,
             12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时04分]"
+        },
+        {
+          "title": "中国是否会与俄罗斯一道支持伊朗抵御美国侵略？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32653060",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时04分]"
+        },
+        {
+          "title": "当地时间26日晚，伊朗和美国在日内瓦举行的第三轮间接谈判在短暂休会后，开始进行第二阶段谈判。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3059687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -110,15 +144,26 @@
           "time_info": "[00时59分 ~ 02时00分]"
         },
         {
-          "title": "中国是否会与俄罗斯一道支持伊朗抵御美国侵略？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32653060",
-          "source": "澎湃新闻",
+          "title": "据伊朗国家电视台：美国代表团参加伊朗问题会谈的车辆离开会场。",
+          "url": "https://flash.jin10.com/detail/20260227023314779800",
+          "source": "金十数据",
           "ranks": [
-            16
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗外长阿拉格齐与威特科夫的会晤仅限于握手和礼节。",
+          "url": "https://flash.jin10.com/detail/20260227021855722800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
         },
         {
           "title": "美媒说美国将在谈判中向伊朗提出强硬要求",
@@ -138,7 +183,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
         },
@@ -157,7 +202,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "美国特使威特科夫：我不会用“天真”来形容特朗普。他非常明智，他的判断也很有道理。我也是这样，贾里德·库什纳也是。",
@@ -166,7 +211,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
         },
@@ -176,11 +221,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时04分]"
         },
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -190,8 +236,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时04分]"
         },
         {
           "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
@@ -201,8 +247,20 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时04分]"
+        },
+        {
+          "title": "美国纽约州长Hochul写信给总统特朗普的财政部长贝森特，要求立即实施关税退款。",
+          "url": "https://wallstreetcn.com/livenews/3059705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
+          "time_info": "[02时00分 ~ 03时04分]"
         },
         {
           "title": "市场消息：特朗普要求美国最高法院终止对叙利亚移民的保护。",
@@ -222,20 +280,42 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
         },
         {
-          "title": "美国纽约州长Hochul写信给总统特朗普的财政部长贝森特，要求立即实施关税退款。",
-          "url": "https://wallstreetcn.com/livenews/3059705",
+          "title": "特朗普旨在引导古巴加大对美依赖",
+          "url": "https://wallstreetcn.com/livenews/3059719",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时00分"
+          "time_info": "03时04分"
+        },
+        {
+          "title": "美国总统特朗普：负责审理这座将成为世界上最美丽宴会厅项目的法官，刚刚驳回并彻底否决了试图阻止其建设的努力。这座宴会厅预计未来还将用于总统就职典礼及大型国事访问活动，目前建设进度提前且低于预算。",
+          "url": "https://flash.jin10.com/detail/20260227022534308800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "媒体：特朗普旨在借能源让古巴更加依赖美国",
+          "url": "https://flash.jin10.com/detail/20260227021750352800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
         },
         {
           "title": "美国众议院监督委员会主席Comer：在爱泼斯坦问题上，我们对克林顿夫妇有疑问，将适时对外披露相关信息。 总统特朗普的商务部长卢特尼克可能也会被传唤出席听证会。",
@@ -277,15 +357,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
+        },
+        {
+          "title": "据知情人士透露，特朗普政府放宽对古巴新兴私营部门燃料运输的举措旨在使古巴在物资供应方面更加依赖美国，从而提升美国在推动政治和经济变革方面的筹码。",
+          "url": "https://flash.jin10.com/detail/20260227021000525800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
         }
       ]
     },
     {
       "keyword_group": "英伟达 NVIDIA 黄仁勋",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "超预期！英伟达Q4营收增73%，Q1指引“炸裂”创新高，黄仁勋上调5000亿收入预期 | 财报见闻",
@@ -295,8 +386,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时04分]"
         },
         {
           "title": "强劲财报难解AI担忧，英伟达跌超5%，纳指跌幅扩大至2%，芯片股承压，金涨银跌，油价反弹",
@@ -304,11 +395,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时04分]"
         },
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -318,8 +410,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时04分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
@@ -329,8 +421,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时04分]"
         },
         {
           "title": "英伟达财报如此“炸裂”，但为何市场“冷眼相待”？",
@@ -340,8 +432,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时04分]"
         },
         {
           "title": "伯恩斯坦：将英伟达(NVDA.O)目标价从每股275美元上调至每股300美元，维持“跑赢大盘”评级。",
@@ -350,9 +442,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
+        },
+        {
+          "title": "摩根士丹利：将英伟达(NVDA.O)目标价从250美元上调至260美元， 维持“增持”评级。",
+          "url": "https://flash.jin10.com/detail/20260227021620190800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
         },
         {
           "title": "法国股市收涨超0.7%，英国、西班牙股市继续创收盘历史新高，英伟达拖累荷兰股市走低",
@@ -361,82 +464,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时00分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "上证指数 机构重仓 社保重仓 QFII重仓 基金重仓 基金 创投 NFT概念 REITs概念 稳定币 数字货币",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "数字货币市场下跌，比特币目前跌3.5%，狗狗币跌约8%",
-          "url": "https://wallstreetcn.com/livenews/3059694",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            14
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
-        },
-        {
-          "title": "据美国纽约联储数据，上个交易日（2月25日）担保隔夜融资利率（SOFR）报3.67%，之前一天报3.67%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
-          "url": "https://wallstreetcn.com/livenews/3059693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
-        },
-        {
-          "title": "挪威主权财富基金：AI发现了他人遗漏的风险",
-          "url": "https://wallstreetcn.com/livenews/3059691",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
-        },
-        {
-          "title": "华富基金沈成：短期市场波动不会改变人形机器人板块长期向上趋势",
-          "url": "https://wallstreetcn.com/livenews/3059703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时00分"
-        },
-        {
-          "title": "黑石集团BXPE基金持有Anthropic、SpaceX、以及Jersey Mike’s。",
-          "url": "https://wallstreetcn.com/livenews/3059664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "部分美国私募股权基金在连续两日上涨后回落，黑石集团(BX.N)跌1.8%，KKR、阿波罗全球管理公司均跌4%，阿瑞斯资产管理公司跌2.5%。",
-          "url": "https://flash.jin10.com/detail/20260227011640784800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "02时00分"
         }
@@ -444,7 +472,7 @@
     },
     {
       "keyword_group": "黄金 贵金属 能源金属 稀土 磁性材料 锂矿 钛白粉 有色 煤炭 小金属 钢铁",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "津巴布韦暂停锂矿出口影响几何？多家企业预计最快一个月内恢复出口",
@@ -454,8 +482,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时04分]"
+        },
+        {
+          "title": "景顺：黄金ETF对央行的吸引力日益增强",
+          "url": "https://wallstreetcn.com/livenews/3059727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "津巴布韦暂停锂矿出口，暂无明确恢复时间表，多家中企回应，具体影响大吗？",
+          "url": "https://www.zhihu.com/question/2010358162679670624",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时04分]"
         },
         {
           "title": "津巴布韦暂停锂矿出口，影响有多大？",
@@ -465,20 +517,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
-        },
-        {
-          "title": "津巴布韦暂停锂矿出口，暂无明确恢复时间表，多家中企回应，具体影响大吗？",
-          "url": "https://www.zhihu.com/question/2010358162679670624",
-          "source": "知乎",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时04分]"
         },
         {
           "title": "一条手链涨价超两万！周大福、老铺黄金等酝酿金饰提价",
@@ -488,8 +528,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时04分]"
         },
         {
           "title": "MP Materials将投资超过12.5亿美元到美国得州Northlake面积为120英亩的稀土园区。",
@@ -513,6 +553,157 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 2月26日（周四）晚盘收盘下跌0.27%报1141.49元/克；<br/>上海黄金交易所白银T+D 2月26日（周四）晚盘收盘下跌1.57%报21566.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260227023023218800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证指数 机构重仓 社保重仓 QFII重仓 基金重仓 基金 创投 NFT概念 REITs概念 稳定币 数字货币",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "数字货币市场下跌，比特币目前跌3.5%，狗狗币跌约8%",
+          "url": "https://wallstreetcn.com/livenews/3059694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时04分]"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（2月25日）担保隔夜融资利率（SOFR）报3.67%，之前一天报3.67%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
+          "url": "https://wallstreetcn.com/livenews/3059693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时04分]"
+        },
+        {
+          "title": "挪威主权财富基金：AI发现了他人遗漏的风险",
+          "url": "https://wallstreetcn.com/livenews/3059691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时00分]"
+        },
+        {
+          "title": "华富基金沈成：短期市场波动不会改变人形机器人板块长期向上趋势",
+          "url": "https://wallstreetcn.com/livenews/3059703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时00分 ~ 03时04分]"
+        },
+        {
+          "title": "黑石集团BXPE基金持有Anthropic、SpaceX、以及Jersey Mike’s。",
+          "url": "https://wallstreetcn.com/livenews/3059664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时59分"
+        },
+        {
+          "title": "部分美国私募股权基金在连续两日上涨后回落，黑石集团(BX.N)跌1.8%，KKR、阿波罗全球管理公司均跌4%，阿瑞斯资产管理公司跌2.5%。",
+          "url": "https://flash.jin10.com/detail/20260227011640784800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini deepmind",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "谷歌：推出更快版本的最新图像模型Nano Banana 2，并将在谷歌旗下各产品中逐步上线。",
+          "url": "https://wallstreetcn.com/livenews/3059680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时00分]"
+        },
+        {
+          "title": "谷歌公司：在AI MAX的文本指引中扩大测试人员的接入权限。 在谷歌翻译中推出全新人工智能驱动功能。",
+          "url": "https://wallstreetcn.com/livenews/3059712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "谷歌推出最新图像模型Nano Banana 2",
+          "url": "https://flash.jin10.com/detail/20260227001845830800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时59分"
+        },
+        {
+          "title": "谷歌：谷歌翻译App在美国和印度上线AI驱动的新功能，网页版也将很快推出。",
+          "url": "https://flash.jin10.com/detail/20260227020628578800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "谷歌：在谷歌翻译中推出全新人工智能驱动功能。",
+          "url": "https://flash.jin10.com/detail/20260227020416151800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
         }
       ]
     },
@@ -520,6 +711,18 @@
       "keyword_group": "ai 人工智能 agent 大模型 多模态 全模态 跨模态 AGI AIGC AI+ AIPC AI语料 数字人",
       "match_count": 5,
       "titles": [
+        {
+          "title": "Meta持续投资AI，用于监测Cloaking。",
+          "url": "https://wallstreetcn.com/livenews/3059700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时00分 ~ 03时04分]"
+        },
         {
           "title": "中国AI调用量首次超过美国",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E8%B0%83%E7%94%A8%E9%87%8F%E9%A6%96%E6%AC%A1%E8%B6%85%E8%BF%87%E7%BE%8E%E5%9B%BD",
@@ -556,17 +759,6 @@
           "time_info": "00时59分"
         },
         {
-          "title": "Meta持续投资AI，用于监测Cloaking。",
-          "url": "https://wallstreetcn.com/livenews/3059700",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时00分"
-        },
-        {
           "title": "纳斯达克综合指数、纳斯达克100指数跌超2%。 标普500指数跌超1.2%，道指下跌超200点、跌幅超过0.4%。 半导体指数跌超4.6%，生物科技指数跌2%，罗素2000指数跌0.4%。 北美科技软件股指数ETF涨幅一度收窄至不足1.0%，Salesforce涨幅一度从3.9%收窄至1.5%。 人工智能（AI）基建概念股西部数据一度下跌大约7%，Lumentum控股一度跌约8.5%，希捷科技一度跌约6.7%。",
           "url": "https://wallstreetcn.com/livenews/3059673",
           "source": "华尔街见闻-快讯",
@@ -581,7 +773,7 @@
     },
     {
       "keyword_group": "算力 电源设备 液冷 云计算 一体机 边缘计算 PCB PLC概念",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "又一云服务商涨价 最高涨幅近40% 算力“全链通胀”周期来了？",
@@ -591,8 +783,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时04分]"
         },
         {
           "title": "A股分化，沪指微跌，算力硬件集体爆发，人民币升破6.83关口，恒科指大跌近3%，科网股普跌",
@@ -602,8 +794,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时04分]"
         },
         {
           "title": "百度第四季度营收327.4亿元，AI算力订阅收入同比增143%｜财报见闻",
@@ -613,8 +805,69 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时04分]"
+        },
+        {
+          "title": "国产算力强势大涨",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7%E7%AE%97%E5%8A%9B%E5%BC%BA%E5%8A%BF%E5%A4%A7%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "iphone ipad mac ios",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "库什纳与美国特使Witkoff对2月26日早间与伊朗的磋商情况感到失望。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3059722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "苹果公司：iPhone与iPad获准用于处置机密的北约信息。",
+          "url": "https://wallstreetcn.com/livenews/3059715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "据AXIOS网站：美伊晚间会谈仍在进行中。",
+          "url": "https://flash.jin10.com/detail/20260227021535654800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "据AXIOS网站：知情人士透露，白宫特使库什纳和威特科夫对（当地时间）上午谈判中伊朗方面的回应感到失望。",
+          "url": "https://flash.jin10.com/detail/20260227021352272800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
         }
       ]
     },
@@ -627,11 +880,12 @@
           "url": "https://www.cls.cn/detail/2296070",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时04分]"
         },
         {
           "title": "【焦点复盘】沪指探底回升几乎平收，硬科技方向全线走强，环保板块午后异动",
@@ -641,8 +895,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时04分]"
         }
       ]
     },
@@ -659,8 +913,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时04分]"
         },
         {
           "title": "德国DAX 30指数初步收涨0.42%，报25270.15点。 法国股指初步收涨0.71%，意大利股指初步收涨0.46、银行指数大致收平，英国股指初步收涨0.36%。",
@@ -684,11 +938,12 @@
           "url": "https://www.zhihu.com/question/2009941400440025198",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时04分]"
         },
         {
           "title": "美军拉了!航母到处喷粪",
@@ -699,8 +954,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时04分]"
         }
       ]
     },
@@ -708,6 +963,19 @@
       "keyword_group": "宇树 王兴兴",
       "match_count": 2,
       "titles": [
+        {
+          "title": "日本一大学把宇树机器人改成僧侣",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%80%E5%A4%A7%E5%AD%A6%E6%8A%8A%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%94%B9%E6%88%90%E5%83%A7%E4%BE%A3",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时04分]"
+        },
         {
           "title": "王兴兴回应德国总理参观宇树",
           "url": "https://www.douyin.com/hot/2412338",
@@ -719,47 +987,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时59分 ~ 02时00分]"
-        },
-        {
-          "title": "日本一大学把宇树机器人改成僧侣",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%80%E5%A4%A7%E5%AD%A6%E6%8A%8A%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%94%B9%E6%88%90%E5%83%A7%E4%BE%A3",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini deepmind",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌：推出更快版本的最新图像模型Nano Banana 2，并将在谷歌旗下各产品中逐步上线。",
-          "url": "https://wallstreetcn.com/livenews/3059680",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
-        },
-        {
-          "title": "谷歌推出最新图像模型Nano Banana 2",
-          "url": "https://flash.jin10.com/detail/20260227001845830800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
         }
       ]
     },
@@ -772,11 +999,12 @@
           "url": "https://wallstreetcn.com/livenews/3059709",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时00分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时00分 ~ 03时04分]"
         },
         {
           "title": "美国国防部发言人：五角大楼不会让任何公司主导条件。Anthropic必须在东部时间周五下午5:01前决定回应。",
@@ -785,7 +1013,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
         }
@@ -803,8 +1031,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时04分]"
         },
         {
           "title": "标普500指数跌幅扩大至超过1.1%，科技板块跌超2.5%，电信板块跌1.6%，原材料板块跌1.1%。 道指跌超0.3%，纳指跌超1.8%，半导体指数跌超4.6%。 北美科技软件股指数ETF涨幅收窄至不到1.4%。",
@@ -830,7 +1058,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
         },
@@ -841,7 +1069,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
         }
@@ -860,8 +1088,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时04分]"
         }
       ]
     },
@@ -877,8 +1105,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时04分]"
         }
       ]
     },
@@ -894,8 +1122,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时04分]"
         }
       ]
     },
@@ -908,11 +1136,12 @@
           "url": "https://www.cls.cn/detail/2296081",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时04分]"
         }
       ]
     },
@@ -943,11 +1172,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时00分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 03时04分]"
         }
       ]
     },
