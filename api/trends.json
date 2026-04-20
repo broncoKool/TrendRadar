@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T16:09:11.069467+08:00",
-  "total_titles_processed": 1098,
+  "generated_at": "2026-04-20T18:49:29.721646+08:00",
+  "total_titles_processed": 1274,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 141,
+      "match_count": 152,
       "titles": [
         {
           "title": "伊朗议长披露谈判细节：我告诉美方“如果你们再往前一步，我们肯定会开火”，最后美方求给15分钟，下令撤退",
@@ -166,6 +166,44 @@
           "time_info": "[07时37分 ~ 16时09分]"
         },
         {
+          "title": "“停火最后期限”临近，伊朗再封海峡、美国首次扣船，双方都在争取“谈判砝码”",
+          "url": "https://wallstreetcn.com/articles/3770363",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时42分 ~ 18时49分]"
+        },
+        {
+          "title": "美军向伊朗商船开火",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%90%91%E4%BC%8A%E6%9C%97%E5%95%86%E8%88%B9%E5%BC%80%E7%81%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时43分 ~ 18时49分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 52 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2029314093757064288",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时43分 ~ 18时49分]"
+        },
+        {
           "title": "伊朗战争丨美国武力拦截并向伊货船开火，视频公布",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -244,18 +282,6 @@
           "time_info": "[10时43分 ~ 10时44分]"
         },
         {
-          "title": "“停火最后期限”临近，伊朗再封海峡、美国首次扣船，双方都在争取“谈判砝码”",
-          "url": "https://wallstreetcn.com/articles/3770363",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时42分 ~ 16时09分]"
-        },
-        {
           "title": "伊朗总统：美方在谈判及停火阶段持续背信弃义",
           "url": "https://news.ifeng.com/c/8sT7ut8RY4X",
           "source": "凤凰网",
@@ -318,32 +344,6 @@
           "time_info": "[16时08分 ~ 16时09分]"
         },
         {
-          "title": "美军向伊朗商船开火",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%90%91%E4%BC%8A%E6%9C%97%E5%95%86%E8%88%B9%E5%BC%80%E7%81%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            17,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时43分 ~ 16时09分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 52 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2029314093757064288",
-          "source": "知乎",
-          "ranks": [
-            6,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时43分 ~ 16时09分]"
-        },
-        {
           "title": "伊朗战争丨美军向伊朗商船开火，伊军威胁报复",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -353,6 +353,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        },
+        {
+          "title": "伊朗战争丨穆杰塔巴毁容且双腿受重伤？伊朗回应",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         },
         {
           "title": "MSCI新兴市场股票指数收复伊朗战争以来跌幅。",
@@ -372,7 +383,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -419,7 +430,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -441,7 +452,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -452,7 +463,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -480,6 +491,17 @@
           "time_info": "07时37分"
         },
         {
+          "title": "伊朗外交部回应外长帖文争议",
+          "url": "https://news.ifeng.com/c/8sTw2gCASXZ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "伊朗在霍尔木兹海峡划定新航线 未经许可不得通行",
           "url": "https://flash.jin10.com/detail/20260420070953679800",
           "source": "金十数据",
@@ -491,13 +513,24 @@
           "time_info": "07时37分"
         },
         {
+          "title": "据半岛电视台：以色列安全内阁召开会议讨论伊朗、黎巴嫩相关问题。",
+          "url": "https://flash.jin10.com/detail/20260420182132263800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "伊朗军方：伊方将在确保遭袭商船人员安全后采取必要行动",
           "url": "https://wallstreetcn.com/livenews/3090931",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -525,6 +558,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
+        },
+        {
+          "title": "伊朗媒体：只要海上封锁持续，谈判就不会进行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33006467",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时42分 ~ 18时49分]"
         },
         {
           "title": "伊朗议会要员：美国必须接受霍尔木兹海峡新秩序",
@@ -877,18 +922,6 @@
           "time_info": "[10时43分 ~ 13时43分]"
         },
         {
-          "title": "伊朗媒体：只要海上封锁持续，谈判就不会进行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33006467",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时42分 ~ 16时09分]"
-        },
-        {
           "title": "白宫官员表示：美国副总统万斯、特使Witkoff、特使库什纳将前往巴基斯坦，再次与伊朗对话。（路透）",
           "url": "https://wallstreetcn.com/livenews/3090627",
           "source": "华尔街见闻-快讯",
@@ -899,6 +932,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时41分 ~ 03时43分]"
+        },
+        {
+          "title": "伊朗在霍尔木兹海峡划定新航线，未经许可不得通行，有何战略意图？是否标志着伊朗对海峡的控制进入新阶段？",
+          "url": "https://www.zhihu.com/question/2029474310302032341",
+          "source": "知乎",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时08分 ~ 18时49分]"
+        },
+        {
+          "title": "伊朗已决定继续与美国谈判",
+          "url": "https://www.toutiao.com/trending/7630738148166766118/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时08分 ~ 18时49分]"
         },
         {
           "title": "以总理称美以对伊朗行动未结束",
@@ -971,28 +1028,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时41分 ~ 02时53分]"
-        },
-        {
-          "title": "伊朗在霍尔木兹海峡划定新航线，未经许可不得通行，有何战略意图？是否标志着伊朗对海峡的控制进入新阶段？",
-          "url": "https://www.zhihu.com/question/2029474310302032341",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 16时09分]"
-        },
-        {
-          "title": "伊朗已决定继续与美国谈判",
-          "url": "https://www.toutiao.com/trending/7630738148166766118/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 16时09分]"
         },
         {
           "title": "美国财长贝森特：周五与卡塔尔财长进行了会面，讨论美国与卡塔尔之间的持续合作，特别是在伊朗对海湾合作委员会国家的攻击期间。",
@@ -1230,15 +1265,37 @@
           "time_info": "[00时41分 ~ 01时37分]"
         },
         {
+          "title": "伊朗：巴基斯坦是谈判唯一正式调解国",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%98%AF%E8%B0%88%E5%88%A4%E5%94%AF%E4%B8%80%E6%AD%A3%E5%BC%8F%E8%B0%83%E8%A7%A3%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "不只难谈拢，更是难运走！伊朗浓缩铀去向问题层层受阻",
           "url": "https://flash.jin10.com/detail/20260420155627774800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
+        },
+        {
+          "title": "伊朗如何看谈判？一文读懂伊朗“首席谈判代表”周末的重磅阐述",
+          "url": "https://wallstreetcn.com/articles/3770369",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         },
         {
           "title": "伊朗：霍尔木兹海峡是伊朗主权的一部分 不会放弃控制权",
@@ -1261,6 +1318,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        },
+        {
+          "title": "伊朗外交部回应阿拉格齐帖文争议",
+          "url": "https://wallstreetcn.com/livenews/3091028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "到底谈不谈？伊朗议员：谈判“今天或明天”进行，伊外交部：暂无第二轮谈判计划",
+          "url": "https://wallstreetcn.com/articles/3770391",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "谈还是不谈？伊朗矛盾表态下 美伊第二轮谈判迷雾笼罩",
+          "url": "https://www.cls.cn/detail/2349508",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         },
         {
           "title": "伊朗最高联合军事指挥部：在美国袭击伊朗船只后，伊朗军队也用无人机攻击了一些美国军舰。",
@@ -1346,7 +1436,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -1357,7 +1447,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -1368,7 +1458,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -1379,7 +1469,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -1401,7 +1491,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -1423,7 +1513,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -1439,13 +1529,24 @@
           "time_info": "02时53分"
         },
         {
+          "title": "伊朗外交部回应阿拉格齐帖文争议",
+          "url": "https://flash.jin10.com/detail/20260420180928371800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "伊朗：武装部队将对任何新的冒进行为作出回应。 不同迹象显示美方对此并未认真看待。",
           "url": "https://wallstreetcn.com/livenews/3090914",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -1467,9 +1568,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
+        },
+        {
+          "title": "中方回应美国截停中国驶往伊朗油轮",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E6%88%AA%E5%81%9C%E4%B8%AD%E5%9B%BD%E9%A9%B6%E5%BE%80%E4%BC%8A%E6%9C%97%E6%B2%B9%E8%BD%AE%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         },
         {
           "title": "伊朗外交部发言人巴加埃：美国封锁伊朗海上航线乃至袭击伊朗商船，这些行为显然符合联合国定义的“侵略行为”，加剧了伊朗人民对美国意图的怀疑。",
@@ -1478,7 +1590,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -1489,7 +1601,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -1533,7 +1645,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -1566,7 +1678,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -1577,9 +1689,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
+        },
+        {
+          "title": "伊朗正在审议通过巴基斯坦转交的美国提案。（ISNA）",
+          "url": "https://wallstreetcn.com/livenews/3090992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         },
         {
           "title": "伊朗确认将参加2026年美加墨世界杯",
@@ -1610,7 +1733,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -1621,7 +1744,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -1632,7 +1755,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -1654,7 +1777,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -1665,7 +1788,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         }
@@ -1673,7 +1796,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "停火“还剩三天”，以军袭击黎巴嫩，伊朗军方关闭霍尔木兹海峡，特朗普再召“战情室会议”",
@@ -1708,8 +1831,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时41分 ~ 16时09分]"
+          "appearance_count": 17,
+          "time_info": "[00时41分 ~ 18时49分]"
         },
         {
           "title": "特朗普称美伊20日将在伊斯兰堡举行谈判",
@@ -1725,6 +1848,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时41分 ~ 07时37分]"
+        },
+        {
+          "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
+          "url": "https://news.ifeng.com/c/8sSpivPG8Fy",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时43分 ~ 18时49分]"
         },
         {
           "title": "美伊局势追踪：特朗普二轮和谈邀约“遭拒” 美军开火、伊朗誓言报复",
@@ -1750,17 +1884,6 @@
           "time_info": "[00时41分 ~ 07时37分]"
         },
         {
-          "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
-          "url": "https://news.ifeng.com/c/8sSpivPG8Fy",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时43分 ~ 16时09分]"
-        },
-        {
           "title": "伊朗称将控制霍尔木兹海峡直至战争结束，特朗普表示其无法要挟美国",
           "url": "https://m.thepaper.cn/newsDetail_forward_33004034",
           "source": "澎湃新闻",
@@ -1781,8 +1904,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时42分 ~ 16时09分]"
+          "appearance_count": 5,
+          "time_info": "[13时42分 ~ 18时49分]"
         },
         {
           "title": "白宫新闻秘书难招架，特朗普给9个记者9种回答",
@@ -1794,6 +1917,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时42分 ~ 16时09分]"
+        },
+        {
+          "title": "超1600亿美元！“特朗普关税退款”周一启动，企业能全部拿回吗？",
+          "url": "https://www.cls.cn/detail/2348969",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时42分 ~ 18时49分]"
         },
         {
           "title": "特朗普：若美伊达成协议，“很可能”前往伊斯兰堡",
@@ -1820,18 +1956,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时42分 ~ 13时43分]"
-        },
-        {
-          "title": "超1600亿美元！“特朗普关税退款”周一启动，企业能全部拿回吗？",
-          "url": "https://www.cls.cn/detail/2348969",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时42分 ~ 16时09分]"
         },
         {
           "title": "美国总统特朗普：坚持认为战争接近结束。（福克斯新闻）",
@@ -1871,6 +1995,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
+        },
+        {
+          "title": "消息人士：巴基斯坦陆军参谋长同特朗普通话",
+          "url": "https://news.ifeng.com/c/8sTsOA6jP1W",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         },
         {
           "title": "美国总统特朗普：伊朗已经同意了协议的许多条款。（福克斯新闻）",
@@ -2039,13 +2174,60 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时41分 ~ 01时37分]"
+        },
+        {
+          "title": "经济问题和美伊冲突重创选民信心 特朗普民调支持率创下新低",
+          "url": "https://www.cls.cn/detail/2349003",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "特朗普边称要谈判边威胁伊朗，伊朗称「已为战火重燃做好准备」，特朗普目的何在？目前局势如何？",
+          "url": "https://www.zhihu.com/question/2029496732459778569",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "消息人士：巴基斯坦陆军参谋长同特朗普通话",
+          "url": "https://wallstreetcn.com/livenews/3090987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         }
       ]
     },
     {
       "keyword_group": "ai 人工智能 agent 大模型 多模态 全模态 跨模态 AGI AIGC AI+ AIPC AI语料 数字人",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "如何看待番茄平台上月稿费 80 万的金番作者使用 AI 写作，甚至在正文中没有删除 AI 提示词的现象？",
+          "url": "https://www.zhihu.com/question/2027490615500313080",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时43分 ~ 18时49分]"
+        },
         {
           "title": "我们要不要向AI说谢谢？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33005512",
@@ -2055,11 +2237,12 @@
             14,
             16,
             13,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时42分 ~ 16时09分]"
+          "appearance_count": 13,
+          "time_info": "[03时42分 ~ 18时49分]"
         },
         {
           "title": "up主转战AI动画遭手绘党声讨",
@@ -2100,19 +2283,6 @@
           "time_info": "[00时41分 ~ 07时37分]"
         },
         {
-          "title": "如何看待番茄平台上月稿费 80 万的金番作者使用 AI 写作，甚至在正文中没有删除 AI 提示词的现象？",
-          "url": "https://www.zhihu.com/question/2027490615500313080",
-          "source": "知乎",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时43分 ~ 16时09分]"
-        },
-        {
           "title": "在战锤 40k 里，机械神甫那些跳大神操作真的对人工智能有用吗?",
           "url": "https://www.zhihu.com/question/659215909",
           "source": "知乎",
@@ -2150,6 +2320,54 @@
           "time_info": "[13时42分 ~ 16时09分]"
         },
         {
+          "title": "女子酒窝超大被网友怀疑是AI",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%85%92%E7%AA%9D%E8%B6%85%E5%A4%A7%E8%A2%AB%E7%BD%91%E5%8F%8B%E6%80%80%E7%96%91%E6%98%AFAI",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时08分 ~ 18时49分]"
+        },
+        {
+          "title": "未授权AI艺人",
+          "url": "https://s.weibo.com/weibo?q=%E6%9C%AA%E6%8E%88%E6%9D%83AI%E8%89%BA%E4%BA%BA&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时08分 ~ 18时49分]"
+        },
+        {
+          "title": "张若昀工作室 没签过AI授权",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E8%8B%A5%E6%98%80%E5%B7%A5%E4%BD%9C%E5%AE%A4%20%E6%B2%A1%E7%AD%BE%E8%BF%87AI%E6%8E%88%E6%9D%83&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时08分 ~ 18时49分]"
+        },
+        {
+          "title": "女子酒窝超大被网友怀疑是AI",
+          "url": "https://www.toutiao.com/trending/7630464363427069993/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时08分 ~ 18时49分]"
+        },
+        {
           "title": "怎样能够一眼分辨出是 AI 生成的文章？",
           "url": "https://www.zhihu.com/question/3022969383",
           "source": "知乎",
@@ -2162,17 +2380,6 @@
           "time_info": "[00时41分 ~ 01时37分]"
         },
         {
-          "title": "女子酒窝超大被网友怀疑是AI",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%85%92%E7%AA%9D%E8%B6%85%E5%A4%A7%E8%A2%AB%E7%BD%91%E5%8F%8B%E6%80%80%E7%96%91%E6%98%AFAI",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 16时09分]"
-        },
-        {
           "title": "AI李想",
           "url": "https://s.weibo.com/weibo?q=AI%E6%9D%8E%E6%83%B3&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -2182,39 +2389,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时42分 ~ 13时43分]"
-        },
-        {
-          "title": "未授权AI艺人",
-          "url": "https://s.weibo.com/weibo?q=%E6%9C%AA%E6%8E%88%E6%9D%83AI%E8%89%BA%E4%BA%BA&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 16时09分]"
-        },
-        {
-          "title": "张若昀工作室 没签过AI授权",
-          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E8%8B%A5%E6%98%80%E5%B7%A5%E4%BD%9C%E5%AE%A4%20%E6%B2%A1%E7%AD%BE%E8%BF%87AI%E6%8E%88%E6%9D%83&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 16时09分]"
-        },
-        {
-          "title": "女子酒窝超大被网友怀疑是AI",
-          "url": "https://www.toutiao.com/trending/7630464363427069993/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 16时09分]"
         },
         {
           "title": "爱奇艺AI艺人库",
@@ -2237,6 +2411,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时08分 ~ 16时09分]"
+        },
+        {
+          "title": "AI养马能代替养虾吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%85%BB%E9%A9%AC%E8%83%BD%E4%BB%A3%E6%9B%BF%E5%85%BB%E8%99%BE%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         },
         {
           "title": "A股AI应用端概念股走高，吉宏股份涨停，蓝色光标涨近15%，中文在线、流金科技、易点天下、利欧股份等跟涨。",
@@ -2272,6 +2457,28 @@
           "time_info": "06时37分"
         },
         {
+          "title": "曝王楚然早就融了AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%97%A9%E5%B0%B1%E8%9E%8D%E4%BA%86AI%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "演员集体辟谣AI授权",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E9%9B%86%E4%BD%93%E8%BE%9F%E8%B0%A3AI%E6%8E%88%E6%9D%83%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "广东省新增6款已完成登记的生成式人工智能服务",
           "url": "https://flash.jin10.com/detail/20260420124811920800",
           "source": "金十数据",
@@ -2292,12 +2499,292 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "国际铝业协会（IAI）数据显示，3月份全球原铝产量为630.2万吨。",
+          "url": "https://flash.jin10.com/detail/20260420180312924800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 海思 昇腾 鸿蒙 HarmonyOS 任正非",
+      "match_count": 23,
+      "titles": [
+        {
+          "title": "版权警察?橘子海乐队告华为",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353420&amp;topic_name=%E7%89%88%E6%9D%83%E8%AD%A6%E5%AF%9F%3F%E6%A9%98%E5%AD%90%E6%B5%B7%E4%B9%90%E9%98%9F%E5%91%8A%E5%8D%8E%E4%B8%BA",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            20,
+            22,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时41分 ~ 18时49分]"
+        },
+        {
+          "title": "橘子海乐队指控华为侵权",
+          "url": "https://www.douyin.com/hot/2471124",
+          "source": "抖音",
+          "ranks": [
+            17,
+            15,
+            13,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[04时39分 ~ 13时43分]"
+        },
+        {
+          "title": "华为新品发布会",
+          "url": "https://www.toutiao.com/trending/7630668430820147263/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时08分 ~ 16时09分]"
+        },
+        {
+          "title": "华为大阔折售价10999元起",
+          "url": "https://www.toutiao.com/trending/7630444934411059263/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "华为发布会",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时08分 ~ 18时49分]"
+        },
+        {
+          "title": "华为发布全球首款大阔折手机",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E5%A4%A7%E9%98%94%E6%8A%98%E6%89%8B%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "华为首款大阔折手机全系搭载麒麟9030 Pro",
+          "url": "https://flash.jin10.com/detail/20260420155815443800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
+          "title": "华为Pura90价格",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAPura90%E4%BB%B7%E6%A0%BC&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时08分 ~ 18时49分]"
+        },
+        {
+          "title": "华为pura90",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BApura90&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时08分 ~ 16时09分]"
+        },
+        {
+          "title": "华为Pura新品发布会",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BAPura%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时08分 ~ 16时09分]"
+        },
+        {
+          "title": "华为余承东称手机可能涨价",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%BD%99%E6%89%BF%E4%B8%9C%E7%A7%B0%E6%89%8B%E6%9C%BA%E5%8F%AF%E8%83%BD%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "华为首款鸿蒙AI眼镜亮相，Pura 90系列定价持平上代，余承东：单机成本涨1500元，扛不住可能涨价！",
+          "url": "https://wallstreetcn.com/articles/3770390",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "华为智慧屏S7 Pro正式发布",
+          "url": "https://flash.jin10.com/detail/20260420102044321800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "华为终端：华为Pura系列及全场景新品发布会将于今日14:30正式启幕。",
+          "url": "https://flash.jin10.com/detail/20260420130557474800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "华为：支持HarmonyOS 6的终端设备数突破5500万。",
+          "url": "https://wallstreetcn.com/livenews/3090918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
+          "title": "华为PuraXMax",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAPuraXMax&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "华为终端：支持HarmonyOS 6的终端设备数突破5500万。",
+          "url": "https://flash.jin10.com/detail/20260420155041843800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
+          "title": "华为Pura X Max上手体验",
+          "url": "https://www.douyin.com/hot/2472897",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "华为Pura 90系列正式发布 售价4699元起",
+          "url": "https://wallstreetcn.com/livenews/3090908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
+          "title": "华为星钻手镯表品牌大使刘雯",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E6%98%9F%E9%92%BB%E6%89%8B%E9%95%AF%E8%A1%A8%E5%93%81%E7%89%8C%E5%A4%A7%E4%BD%BF%E5%88%98%E9%9B%AF%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "广电运通：广电五舟已与华为昇腾、百度昆仑芯等主流国产GPU厂商建立深度合作，全面覆盖AIGC、计算机视觉等应用场景。",
+          "url": "https://flash.jin10.com/detail/20260420124359129800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "华为WATCH Buds 2正式发布",
+          "url": "https://wallstreetcn.com/livenews/3090991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "华为全新鸿蒙电脑正式发布",
+          "url": "https://wallstreetcn.com/livenews/3090988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         }
       ]
     },
     {
       "keyword_group": "军工 航空 航天 航母",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "航空燃油飙升，航空公司进入“自保模式”，夏季旺季来临前加大航班取消力度",
@@ -2349,6 +2836,18 @@
         },
         {
           "title": "海南：提升航天产业全链条技术服务",
+          "url": "https://www.cls.cn/detail/2349110",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时08分 ~ 18时49分]"
+        },
+        {
+          "title": "海南：提升航天产业全链条技术服务",
           "url": "https://wallstreetcn.com/livenews/3090828",
           "source": "华尔街见闻-快讯",
           "ranks": [
@@ -2357,17 +2856,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
-        },
-        {
-          "title": "海南：提升航天产业全链条技术服务",
-          "url": "https://www.cls.cn/detail/2349110",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 16时09分]"
         },
         {
           "title": "中国军工出海实力有多强",
@@ -2451,6 +2939,17 @@
           "time_info": "[16时08分 ~ 16时09分]"
         },
         {
+          "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
+          "url": "https://wallstreetcn.com/articles/3770370",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "海南：到2030年水运货物周转量增长40%，航空客运周转量增长30%",
           "url": "https://flash.jin10.com/detail/20260420131719113800",
           "source": "金十数据",
@@ -2473,6 +2972,17 @@
           "time_info": "13时43分"
         },
         {
+          "title": "天通股份：澄清公司涉足光模块、商业航天、铌酸锂晶体等相关不实言论",
+          "url": "https://wallstreetcn.com/livenews/3091014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "A股商业航天概念早盘拉升，博云新材6连板，泰豪科技、中衡设计、泰嘉股份涨停，蜀道装备涨超10%，消息上，国家航天局相关负责人近日在2026年“中国航天日”新闻发布会上发布2026年重要任务，其中包括多型重复使用火箭将开展飞行验证等。",
           "url": "https://wallstreetcn.com/livenews/3090745",
           "source": "华尔街见闻-快讯",
@@ -2482,6 +2992,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
+        },
+        {
+          "title": "卡塔尔：外国航空公司已恢复对该国的航班。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3090999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         },
         {
           "title": "4月20日午间收评：深成指涨0.6%刷新四年多新高，商业航天概念集体走强",
@@ -2497,169 +3018,141 @@
       ]
     },
     {
-      "keyword_group": "华为 海思 昇腾 鸿蒙 HarmonyOS 任正非",
-      "match_count": 14,
+      "keyword_group": "科技",
+      "match_count": 12,
       "titles": [
         {
-          "title": "版权警察?橘子海乐队告华为",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353420&amp;topic_name=%E7%89%88%E6%9D%83%E8%AD%A6%E5%AF%9F%3F%E6%A9%98%E5%AD%90%E6%B5%B7%E4%B9%90%E9%98%9F%E5%91%8A%E5%8D%8E%E4%B8%BA",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            20,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时41分 ~ 16时09分]"
-        },
-        {
-          "title": "橘子海乐队指控华为侵权",
-          "url": "https://www.douyin.com/hot/2471124",
-          "source": "抖音",
-          "ranks": [
-            17,
-            15,
-            13,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时39分 ~ 13时43分]"
-        },
-        {
-          "title": "华为发布会",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 16时09分]"
-        },
-        {
-          "title": "华为新品发布会",
-          "url": "https://www.toutiao.com/trending/7630668430820147263/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 16时09分]"
-        },
-        {
-          "title": "华为首款大阔折手机全系搭载麒麟9030 Pro",
-          "url": "https://flash.jin10.com/detail/20260420155815443800",
+          "title": "金十数据整理：每日科技要闻速递（4月20",
+          "url": "https://flash.jin10.com/detail/20260420072422594800",
           "source": "金十数据",
           "ranks": [
-            5
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时09分"
+          "time_info": "07时37分"
         },
         {
-          "title": "华为pura90",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BApura90&t=31&band_rank=6&Refer=top",
+          "title": "新农人玩转种菜黑科技",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%9C%E4%BA%BA%E7%8E%A9%E8%BD%AC%E7%A7%8D%E8%8F%9C%E9%BB%91%E7%A7%91%E6%8A%80%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 16时09分]"
+          "appearance_count": 1,
+          "time_info": "00时41分"
         },
         {
-          "title": "华为Pura新品发布会",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BAPura%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A",
-          "source": "百度热搜",
+          "title": "国金牟一凌：科技“一枝独秀不是春”，市场或进入类似HALO的交易轮动",
+          "url": "https://wallstreetcn.com/articles/3770348",
+          "source": "华尔街见闻",
           "ranks": [
+            10,
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 16时09分]"
+          "appearance_count": 4,
+          "time_info": "[13时42分 ~ 16时09分]"
         },
         {
-          "title": "华为Pura90价格",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAPura90%E4%BB%B7%E6%A0%BC&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "title": "科技龙头H股比A股更贵了，这一轮行情为何不一样？",
+          "url": "https://www.cls.cn/detail/2348589",
+          "source": "财联社热门",
           "ranks": [
-            7
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时08分 ~ 16时09分]"
+          "time_info": "[13时42分 ~ 13时43分]"
         },
         {
-          "title": "华为智慧屏S7 Pro正式发布",
-          "url": "https://flash.jin10.com/detail/20260420102044321800",
-          "source": "金十数据",
+          "title": "外围扰动正逐步钝化，机构看好科技主线热度延续",
+          "url": "https://wallstreetcn.com/livenews/3090672",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        },
+        {
+          "title": "截至早盘收盘，群核科技（MANYCORE TECH）上市第二日大涨47.42%，盘中一度涨超60%。",
+          "url": "https://wallstreetcn.com/livenews/3090806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "A股光纤概念集体走强，通鼎互联涨停，长飞光纤、中天科技、亨通光电、光电股份跟涨，消息面上，今年以来，光纤行业呈现出“产品量价齐升”的景气态势，江苏一家光纤生产企业负责人近日表示，今年一季度光纤产销量同比增长近5倍，产品价格也出现大幅上涨，G.657.A2光纤去年是每芯公里32元，今年涨到了240元，涨幅达到了650%。",
+          "url": "https://wallstreetcn.com/livenews/3090743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
         {
-          "title": "华为终端：华为Pura系列及全场景新品发布会将于今日14:30正式启幕。",
-          "url": "https://flash.jin10.com/detail/20260420130557474800",
+          "title": "追觅科技俞浩：公司连续8年实现年均100%营收增长",
+          "url": "https://flash.jin10.com/detail/20260420124417209800",
           "source": "金十数据",
           "ranks": [
-            14
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
         {
-          "title": "华为：支持HarmonyOS 6的终端设备数突破5500万。",
-          "url": "https://wallstreetcn.com/livenews/3090918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时09分"
-        },
-        {
-          "title": "华为终端：支持HarmonyOS 6的终端设备数突破5500万。",
-          "url": "https://flash.jin10.com/detail/20260420155041843800",
+          "title": "曦智科技公告，在港上市拟发行1379万股H股（视乎超额配股权行使与否而定），最高定价183.2港元/股，预期股份在4月28日开始交易。",
+          "url": "https://flash.jin10.com/detail/20260420062810562800",
           "source": "金十数据",
           "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时09分"
-        },
-        {
-          "title": "华为Pura 90系列正式发布 售价4699元起",
-          "url": "https://wallstreetcn.com/livenews/3090908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时09分"
-        },
-        {
-          "title": "广电运通：广电五舟已与华为昇腾、百度昆仑芯等主流国产GPU厂商建立深度合作，全面覆盖AIGC、计算机视觉等应用场景。",
-          "url": "https://flash.jin10.com/detail/20260420124359129800",
-          "source": "金十数据",
-          "ranks": [
-            23
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时43分"
+          "time_info": "07时37分"
+        },
+        {
+          "title": "密封科技：一季度归母净利润2999.52万元，同比增加11.89%",
+          "url": "https://flash.jin10.com/detail/20260420154625414800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
+          "title": "上海曦智科技港股IPO据悉获超额认购",
+          "url": "https://wallstreetcn.com/livenews/3090990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "香港恒生指数高开0.17%，报26,204.61点；恒生科技指数涨0.34%。",
+          "url": "https://wallstreetcn.com/livenews/3090732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时44分"
         }
       ]
     },
@@ -2801,133 +3294,239 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         }
       ]
     },
     {
-      "keyword_group": "科技",
+      "keyword_group": "芯片 光刻机 存储芯片 半导体 IGBT概念 光模块 CPO概念 中芯概念 chiplet AI芯片",
       "match_count": 11,
       "titles": [
         {
-          "title": "金十数据整理：每日科技要闻速递（4月20",
-          "url": "https://flash.jin10.com/detail/20260420072422594800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "新农人玩转种菜黑科技",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%9C%E4%BA%BA%E7%8E%A9%E8%BD%AC%E7%A7%8D%E8%8F%9C%E9%BB%91%E7%A7%91%E6%8A%80%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "国金牟一凌：科技“一枝独秀不是春”，市场或进入类似HALO的交易轮动",
-          "url": "https://wallstreetcn.com/articles/3770348",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时42分 ~ 16时09分]"
-        },
-        {
-          "title": "科技龙头H股比A股更贵了，这一轮行情为何不一样？",
-          "url": "https://www.cls.cn/detail/2348589",
+          "title": "【早报】伊方已恢复对霍尔木兹海峡的控制；半导体行业又迎涨价函",
+          "url": "https://www.cls.cn/detail/2348376",
           "source": "财联社热门",
           "ranks": [
-            13
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时37分]"
         },
         {
-          "title": "外围扰动正逐步钝化，机构看好科技主线热度延续",
-          "url": "https://wallstreetcn.com/livenews/3090672",
-          "source": "华尔街见闻-快讯",
+          "title": "光模块设备龙头5天3板 耦合、封装测试设备领域A股名单一览",
+          "url": "https://www.cls.cn/detail/2347686",
+          "source": "财联社热门",
           "ranks": [
-            19
+            3
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时37分]"
+        },
+        {
+          "title": "机构密集调研CPO概念股！龙头7天4板，近一个月接待量居前热门股名单来了",
+          "url": "https://www.cls.cn/detail/2348597",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时37分 ~ 13时43分]"
+        },
+        {
+          "title": "沃格光电：公司关注到近期市场对玻璃基在半导体先进封装领域的应用高度关注。目前公司玻璃基半导体先进封装业务尚处于送样验证阶段，占公司营业收入比重极低，处于亏损状态。新业务的产业化进程、未来订单规模存在较大不确定性。",
+          "url": "https://wallstreetcn.com/livenews/3091037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时37分"
+          "time_info": "18时49分"
         },
         {
-          "title": "截至早盘收盘，群核科技（MANYCORE TECH）上市第二日大涨47.42%，盘中一度涨超60%。",
-          "url": "https://wallstreetcn.com/livenews/3090806",
+          "title": "恒生科技指数涨幅扩大至1.1%，恒指涨0.9%。华虹半导体涨逾5%，舜宇光学科技涨逾4%。",
+          "url": "https://wallstreetcn.com/livenews/3090776",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时43分"
-        },
-        {
-          "title": "A股光纤概念集体走强，通鼎互联涨停，长飞光纤、中天科技、亨通光电、光电股份跟涨，消息面上，今年以来，光纤行业呈现出“产品量价齐升”的景气态势，江苏一家光纤生产企业负责人近日表示，今年一季度光纤产销量同比增长近5倍，产品价格也出现大幅上涨，G.657.A2光纤去年是每芯公里32元，今年涨到了240元，涨幅达到了650%。",
-          "url": "https://wallstreetcn.com/livenews/3090743",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
         {
-          "title": "追觅科技俞浩：公司连续8年实现年均100%营收增长",
-          "url": "https://flash.jin10.com/detail/20260420124417209800",
+          "title": "“红旗1号”芯片研制成功",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%BA%A2%E6%97%971%E5%8F%B7%E2%80%9D%E8%8A%AF%E7%89%87%E7%A0%94%E5%88%B6%E6%88%90%E5%8A%9F",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "沃格光电：玻璃基半导体先进封装业务尚处于送样验证阶段 占公司营业收入比重极低",
+          "url": "https://flash.jin10.com/detail/20260420181543377800",
           "source": "金十数据",
           "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "是谁在疯狂买中国芯片",
+          "url": "https://www.toutiao.com/trending/7630689294415302198/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "可川科技：光模块处于送样阶段，验证周期较长，暂未形成营收",
+          "url": "https://wallstreetcn.com/livenews/3091016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "立讯精密：800G和1.6T光模块在国内外客户进展顺利 2027年Q3~Q4批量交付CPC",
+          "url": "https://wallstreetcn.com/livenews/3091012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "泰国寻求三家美国半导体企业赴泰投资",
+          "url": "https://wallstreetcn.com/livenews/3090804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金 贵金属 能源金属 稀土 磁性材料 锂矿 钛白粉 有色 煤炭 小金属 钢铁",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "周末美伊“各施手段”，油价飙升近8%、美股期货回落，日韩股市上涨，黄金小幅走软",
+          "url": "https://wallstreetcn.com/articles/3770361",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时08分 ~ 16时09分]"
+        },
+        {
+          "title": "伊朗释放混乱信号，美股期货回落，油价飙升近8%，黄金小幅走软",
+          "url": "https://wallstreetcn.com/articles/3770361",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "黄金跳水暴跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E8%B7%B3%E6%B0%B4%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
             22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "印度为什么开始卡黄金进口了",
+          "url": "https://www.toutiao.com/trending/7630610845180890667/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "现货黄金跌破4830美元/盎司，低开1.41%。现货白银周一开盘跌超2%，报78.98美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260420060121670800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "A股海南板块午后震荡走强，钧达股份、中稀有色涨超6%，新大洲A、中钨高新、金盘科技、罗牛山跟涨。",
+          "url": "https://flash.jin10.com/detail/20260420131851505800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
         {
-          "title": "曦智科技公告，在港上市拟发行1379万股H股（视乎超额配股权行使与否而定），最高定价183.2港元/股，预期股份在4月28日开始交易。",
-          "url": "https://flash.jin10.com/detail/20260420062810562800",
+          "title": "警惕“幻想”估值！国际现货黄金是短线洗盘还是“卖事实”的开始？| Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260420181653448800",
           "source": "金十数据",
           "ranks": [
-            25
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "金十图示：2026年04月20日（周一）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260420064626717800",
+          "source": "金十数据",
+          "ranks": [
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
         },
         {
-          "title": "密封科技：一季度归母净利润2999.52万元，同比增加11.89%",
-          "url": "https://flash.jin10.com/detail/20260420154625414800",
+          "title": "市场情绪正转型，交易员或更有底气重构长期黄金多头",
+          "url": "https://flash.jin10.com/detail/20260420100634951800",
           "source": "金十数据",
           "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时09分"
-        },
-        {
-          "title": "香港恒生指数高开0.17%，报26,204.61点；恒生科技指数涨0.34%。",
-          "url": "https://wallstreetcn.com/livenews/3090732",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -2959,8 +3558,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时43分 ~ 16时09分]"
+          "appearance_count": 7,
+          "time_info": "[10时43分 ~ 18时49分]"
         },
         {
           "title": "150秒透视中国消费市场澎湃活力",
@@ -3012,152 +3611,6 @@
           "source": "金十数据",
           "ranks": [
             29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 贵金属 能源金属 稀土 磁性材料 锂矿 钛白粉 有色 煤炭 小金属 钢铁",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "周末美伊“各施手段”，油价飙升近8%、美股期货回落，日韩股市上涨，黄金小幅走软",
-          "url": "https://wallstreetcn.com/articles/3770361",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 16时09分]"
-        },
-        {
-          "title": "黄金跳水暴跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E8%B7%B3%E6%B0%B4%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
-        },
-        {
-          "title": "印度为什么开始卡黄金进口了",
-          "url": "https://www.toutiao.com/trending/7630610845180890667/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
-        },
-        {
-          "title": "现货黄金跌破4830美元/盎司，低开1.41%。现货白银周一开盘跌超2%，报78.98美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260420060121670800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
-          "title": "A股海南板块午后震荡走强，钧达股份、中稀有色涨超6%，新大洲A、中钨高新、金盘科技、罗牛山跟涨。",
-          "url": "https://flash.jin10.com/detail/20260420131851505800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时43分"
-        },
-        {
-          "title": "金十图示：2026年04月20日（周一）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260420064626717800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "市场情绪正转型，交易员或更有底气重构长期黄金多头",
-          "url": "https://flash.jin10.com/detail/20260420100634951800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片 光刻机 存储芯片 半导体 IGBT概念 光模块 CPO概念 中芯概念 chiplet AI芯片",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "【早报】伊方已恢复对霍尔木兹海峡的控制；半导体行业又迎涨价函",
-          "url": "https://www.cls.cn/detail/2348376",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 07时37分]"
-        },
-        {
-          "title": "光模块设备龙头5天3板 耦合、封装测试设备领域A股名单一览",
-          "url": "https://www.cls.cn/detail/2347686",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 07时37分]"
-        },
-        {
-          "title": "机构密集调研CPO概念股！龙头7天4板，近一个月接待量居前热门股名单来了",
-          "url": "https://www.cls.cn/detail/2348597",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时37分 ~ 13时43分]"
-        },
-        {
-          "title": "恒生科技指数涨幅扩大至1.1%，恒指涨0.9%。华虹半导体涨逾5%，舜宇光学科技涨逾4%。",
-          "url": "https://wallstreetcn.com/livenews/3090776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "泰国寻求三家美国半导体企业赴泰投资",
-          "url": "https://wallstreetcn.com/livenews/3090804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -3229,6 +3682,166 @@
       ]
     },
     {
+      "keyword_group": "算力 电源设备 液冷 云计算 一体机 边缘计算 PCB PLC概念",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "芯原股份：截至2026年4月20日新签订单45.16亿元，AI算力相关订单占比超85%",
+          "url": "https://wallstreetcn.com/livenews/3091034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "【每日收评】沪指震荡走高涨0.76%，商业航天概念卷土重来，光纤、液冷等反复活跃",
+          "url": "https://www.cls.cn/detail/2349398",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "【焦点复盘】沪指日线3连阳收复60日线，全市场超百股涨逾10%，算力链再现多点开花",
+          "url": "https://www.cls.cn/detail/2349457",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "A股液冷概念股反复活跃，康盛股份7天4板，圣阳股份、科瑞技术、捷邦科技、立讯精密、力源信息涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3090740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "银行 金融科技 GDR概念",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "机器人马拉松爆火背后，商业银行都有哪些布局？多家银行正“花样百出”杀入赛道",
+          "url": "https://www.cls.cn/detail/2349172",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "平安银行辟谣：管理层变动系谣言 已报案",
+          "url": "https://wallstreetcn.com/livenews/3091022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "印度央行：银行被允许取消现有合约。",
+          "url": "https://flash.jin10.com/detail/20260420180735890800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "平安银行辟谣：管理层变动系谣言 已报案",
+          "url": "https://flash.jin10.com/detail/20260420180408219800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "如何看待网传 DeepSeek V4 即将发布并提出「去 CUDA 化」？",
+          "url": "https://www.zhihu.com/question/2028817450829976782",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 10时44分]"
+        },
+        {
+          "title": "DeepSeek 开启首次对外融资，其在多名核心研究员跳槽之下为何会选择此时，从商业资本角度你怎么看？",
+          "url": "https://www.zhihu.com/question/2029139595183367444",
+          "source": "知乎",
+          "ranks": [
+            14,
+            15,
+            10,
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时37分]"
+        },
+        {
+          "title": "DeepSeek被曝融资20亿",
+          "url": "https://www.toutiao.com/trending/7630341053001829938/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 13时43分]"
+        },
+        {
+          "title": "DeepSeek 被曝融资 20 亿，真实性如何？若属实，估值合理吗？一直说不融资的它，怎么突然松口了？",
+          "url": "https://www.zhihu.com/question/2029232145541980805",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "宇树 王兴兴",
       "match_count": 4,
       "titles": [
@@ -3296,8 +3909,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时43分 ~ 16时09分]"
+          "appearance_count": 7,
+          "time_info": "[10时43分 ~ 18时49分]"
         },
         {
           "title": "如何评价博主曝光的苹果首款折叠屏 iPhone Fold 最终版设计？此时入局折叠屏领域还有优势吗？",
@@ -3308,8 +3921,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时42分 ~ 16时09分]"
+          "appearance_count": 5,
+          "time_info": "[13时42分 ~ 18时49分]"
         },
         {
           "title": "美国官员：副总统万斯将（再次）率领美国代表团前往伊斯兰堡。（Axios）",
@@ -3376,51 +3989,41 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "新能源 供暖 光伏 风电设备 风能 煤炭 锂电 储能 地热能 核能核电 氢能源 充电桩 高压快充 虚拟电厂 固态电池 刀片电池 钒电池 HIT电池 钙钛矿电池 BC电池 燃料电池 电力 动力电池回收 电网设备 超级电容 绿色电力",
       "match_count": 3,
       "titles": [
         {
-          "title": "如何看待网传 DeepSeek V4 即将发布并提出「去 CUDA 化」？",
-          "url": "https://www.zhihu.com/question/2028817450829976782",
-          "source": "知乎",
+          "title": "【天齐锂业：预计2026年第一季度净利润同比增长1,530.31%～1,818.01%】天齐锂业公告，预计2026年第一季度净利润为17亿元～20亿元，同比增长1,530.31%～1,818.01%。预计本报告期营业收入较上年同期大幅上升，受益于新能源产业发展与下游需求增长等多重利好因素驱动，本报告期公司主要锂产品的销售均价较上年同期均明显增长。",
+          "url": "https://wallstreetcn.com/livenews/3091039",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            6,
-            5,
-            4,
-            3
+            1
           ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 10时44分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         },
         {
-          "title": "DeepSeek 开启首次对外融资，其在多名核心研究员跳槽之下为何会选择此时，从商业资本角度你怎么看？",
-          "url": "https://www.zhihu.com/question/2029139595183367444",
-          "source": "知乎",
+          "title": "绿电领跑全省 辽宁新能源装机规模超越火电成为第一大电源类型",
+          "url": "https://wallstreetcn.com/livenews/3090817",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14,
-            15,
-            10,
-            13,
-            7
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 07时37分]"
+          "appearance_count": 1,
+          "time_info": "13时43分"
         },
         {
-          "title": "DeepSeek被曝融资20亿",
-          "url": "https://www.toutiao.com/trending/7630341053001829938/",
-          "source": "今日头条",
+          "title": "A股电网设备概念持续走高，太阳电缆涨停，此前远程股份、通达股份、起帆电缆涨停，泰永长征、平高电气、安靠智电、顺钠股份跟涨。",
+          "url": "https://flash.jin10.com/detail/20260420100649873800",
+          "source": "金十数据",
           "ranks": [
-            29,
-            28,
-            30
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 13时43分]"
+          "appearance_count": 1,
+          "time_info": "10时44分"
         }
       ]
     },
@@ -3512,34 +4115,6 @@
       ]
     },
     {
-      "keyword_group": "新能源 供暖 光伏 风电设备 风能 煤炭 锂电 储能 地热能 核能核电 氢能源 充电桩 高压快充 虚拟电厂 固态电池 刀片电池 钒电池 HIT电池 钙钛矿电池 BC电池 燃料电池 电力 动力电池回收 电网设备 超级电容 绿色电力",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "绿电领跑全省 辽宁新能源装机规模超越火电成为第一大电源类型",
-          "url": "https://wallstreetcn.com/livenews/3090817",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时43分"
-        },
-        {
-          "title": "A股电网设备概念持续走高，太阳电缆涨停，此前远程股份、通达股份、起帆电缆涨停，泰永长征、平高电气、安靠智电、顺钠股份跟涨。",
-          "url": "https://flash.jin10.com/detail/20260420100649873800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        }
-      ]
-    },
-    {
       "keyword_group": "京东 刘强东",
       "match_count": 2,
       "titles": [
@@ -3550,7 +4125,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -3607,11 +4182,12 @@
             9,
             13,
             16,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时41分 ~ 16时09分]"
+          "appearance_count": 17,
+          "time_info": "[00时41分 ~ 18时49分]"
         },
         {
           "title": "SK海力士：开始生产专为英伟达Vera Rubin芯片设计的SOCAMM2芯片。",
@@ -3623,6 +4199,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "网络安全 数字哨兵",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "商务部新闻发言人就欧盟《网络安全法》修订草案相关问题答记者问",
+          "url": "https://wallstreetcn.com/livenews/3091029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "商务部新闻发言人就欧盟《网络安全法》修订草案相关问题答记者问",
+          "url": "https://flash.jin10.com/detail/20260420181115625800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         }
       ]
     },
@@ -3655,19 +4259,19 @@
       ]
     },
     {
-      "keyword_group": "算力 电源设备 液冷 云计算 一体机 边缘计算 PCB PLC概念",
+      "keyword_group": "数据看盘 焦点复盘",
       "match_count": 1,
       "titles": [
         {
-          "title": "A股液冷概念股反复活跃，康盛股份7天4板，圣阳股份、科瑞技术、捷邦科技、立讯精密、力源信息涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3090740",
-          "source": "华尔街见闻-快讯",
+          "title": "【数据看盘】科创50ETF上周份额大减 多家机构激烈博弈立讯精密",
+          "url": "https://www.cls.cn/detail/2349499",
+          "source": "财联社热门",
           "ranks": [
-            23
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时44分"
+          "time_info": "18时49分"
         }
       ]
     },
@@ -3733,7 +4337,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         }
