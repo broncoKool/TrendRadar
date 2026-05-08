@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T13:32:18.494199+08:00",
-  "total_titles_processed": 909,
+  "generated_at": "2026-05-08T15:43:58.987083+08:00",
+  "total_titles_processed": 1052,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 92,
+      "match_count": 98,
       "titles": [
         {
           "title": "伊朗划定两条霍尔木兹航道，油价应声大跌",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 13时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 15时43分]"
         },
         {
           "title": "【早报】美方：定点打击伊军事设施；伊朗武装部队实施反击",
@@ -39,6 +39,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时55分 ~ 13时32分]"
+        },
+        {
+          "title": "霍尔木兹局势又紧张！伊朗称美违反停火空袭、已反击，美军称拦截伊发起的无端袭击",
+          "url": "https://wallstreetcn.com/articles/3771778",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时05分 ~ 15时43分]"
         },
         {
           "title": "美中央司令部：对伊朗军事设施实施定点打击",
@@ -69,18 +81,6 @@
           "time_info": "[00时51分 ~ 10时55分]"
         },
         {
-          "title": "霍尔木兹局势又紧张！伊朗称美违反停火空袭、已反击，美军称拦截伊发起的无端袭击",
-          "url": "https://wallstreetcn.com/articles/3771778",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时05分 ~ 13时32分]"
-        },
-        {
           "title": "伊朗总统与最高领袖坦率交流超2小时",
           "url": "https://www.toutiao.com/trending/7636988179661242387/",
           "source": "今日头条",
@@ -102,6 +102,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "伊朗战争丨美情报界：伊朗仍保有70%的导弹库存",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         },
         {
           "title": "伊朗议会国家安全委员会主席阿齐兹在社交平台上发文称，重蹈覆辙将招致更强硬的回应，请尊重伊朗的新海洋管辖制度。",
@@ -183,6 +194,18 @@
           "time_info": "[05时59分 ~ 07时05分]"
         },
         {
+          "title": "美国和伊朗又打起来了",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%BC%8A%E6%9C%97%E5%8F%88%E6%89%93%E8%B5%B7%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时55分 ~ 15时43分]"
+        },
+        {
           "title": "伊朗武装部队：美军袭击油轮并空袭沿海地区 伊方已进行反击",
           "url": "https://www.cls.cn/detail/2365488",
           "source": "财联社热门",
@@ -231,15 +254,16 @@
           "time_info": "[02时29分 ~ 04时15分]"
         },
         {
-          "title": "美国和伊朗又打起来了",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%BC%8A%E6%9C%97%E5%8F%88%E6%89%93%E8%B5%B7%E6%9D%A5%E4%BA%86",
-          "source": "bilibili 热搜",
+          "title": "美以袭击伊朗进入第 70 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035858261681730120",
+          "source": "知乎",
           "ranks": [
-            6
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 13时32分]"
+          "appearance_count": 4,
+          "time_info": "[10时55分 ~ 15时43分]"
         },
         {
           "title": "伊朗打击美舰 美空袭伊沿海地区",
@@ -266,16 +290,16 @@
           "time_info": "[10时55分 ~ 13时32分]"
         },
         {
-          "title": "美以袭击伊朗进入第 70 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2035858261681730120",
+          "title": "美国 3 艘军舰穿越霍尔木兹海峡遭伊朗袭击，局势会升级吗？当前双方诉求是什么？",
+          "url": "https://www.zhihu.com/question/2036007359844020985",
           "source": "知乎",
           "ranks": [
-            9,
-            11
+            13,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时55分 ~ 13时32分]"
+          "time_info": "[13时31分 ~ 15时43分]"
         },
         {
           "title": "伊朗：最高领袖穆杰塔巴全面掌控局势",
@@ -374,17 +398,6 @@
           "time_info": "[05时59分 ~ 07时05分]"
         },
         {
-          "title": "美国 3 艘军舰穿越霍尔木兹海峡遭伊朗袭击，局势会升级吗？当前双方诉求是什么？",
-          "url": "https://www.zhihu.com/question/2036007359844020985",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
-        },
-        {
           "title": "布伦特原油期货盘后涨超2美元/桶，报道称美军袭击伊朗。",
           "url": "https://wallstreetcn.com/livenews/3100212",
           "source": "华尔街见闻-快讯",
@@ -428,6 +441,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "美情报界：伊朗仍保有战前水平70%的导弹库存",
+          "url": "https://wallstreetcn.com/livenews/3100482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         },
         {
           "title": "伊军方人士称霍尔木兹海峡内敌方单位遭伊朗导弹打击",
@@ -513,7 +537,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -557,7 +581,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -590,7 +614,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -716,6 +740,17 @@
           "time_info": "00时51分"
         },
         {
+          "title": "美中央司令部：对伊朗军事设施实施定点打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33118500",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
+        {
           "title": "欧洲央行执委施纳贝尔：我认为伊朗战争造成的一些损害将难以逆转。",
           "url": "https://flash.jin10.com/detail/20260508015111579800",
           "source": "金十数据",
@@ -758,6 +793,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
+        },
+        {
+          "title": "王毅同伊朗外长阿拉格齐会谈，表示「中方愿进一步致力于缓局降温、消弭战事」，还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035301092041430722",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         },
         {
           "title": "据悉伊朗战争消息公布前油价押注总额达70亿美元，规模远超此前报道",
@@ -887,7 +933,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -945,6 +991,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        },
+        {
+          "title": "伊朗警告地区国家别采取军事冒险行动",
+          "url": "https://www.toutiao.com/trending/7637395395592994826/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：阿巴斯港市再次传出爆炸声。",
@@ -1041,15 +1098,26 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "指责美在霍尔木兹海峡违反停火 伊朗公布回击画面",
+          "url": "https://wallstreetcn.com/livenews/3100449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
@@ -1094,8 +1162,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 13时32分]"
+          "appearance_count": 4,
+          "time_info": "[10时55分 ~ 15时43分]"
         },
         {
           "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
@@ -1121,6 +1189,17 @@
           "time_info": "07时05分"
         },
         {
+          "title": "特朗普称中美元首会谈将按计划举行，外交部：目前无进一步信息提供",
+          "url": "https://wallstreetcn.com/livenews/3100488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
+        {
           "title": "美国总统特朗普：三艘驱逐舰没有受到损坏，但伊朗攻击者遭受了重大损失。",
           "url": "https://flash.jin10.com/detail/20260508063514510800",
           "source": "金十数据",
@@ -1141,6 +1220,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "巴西总统：特朗普称不考虑入侵古巴 古巴愿意对话",
+          "url": "https://wallstreetcn.com/livenews/3100485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         },
         {
           "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
@@ -1182,33 +1272,36 @@
           "url": "https://www.zhihu.com/question/2035771230985380677",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 13时32分]"
+          "appearance_count": 4,
+          "time_info": "[10时55分 ~ 15时43分]"
         },
         {
           "title": "卢拉会晤特朗普，称巴西不在中美之间选边站",
           "url": "https://news.ifeng.com/c/8sx7oAMkRMI",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 15时43分]"
         },
         {
           "title": "晚宴枪击事件后，特朗普再为白宫宴会厅项目辩护",
           "url": "https://news.ifeng.com/c/8sxEzEFSGYq",
           "source": "凤凰网",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 15时43分]"
         },
         {
           "title": "特朗普回应打击伊朗：只是小惩罚，停火仍然有效",
@@ -1244,6 +1337,17 @@
           "time_info": "10时55分"
         },
         {
+          "title": "特朗普：美伊停火仍有效",
+          "url": "https://www.cls.cn/detail/2365528",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
+        {
           "title": "巴西总统卢拉：据翻译称，特朗普告诉我他并未考虑入侵古巴。",
           "url": "https://flash.jin10.com/detail/20260508035818698800",
           "source": "金十数据",
@@ -1253,6 +1357,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "局势升级！美伊在霍尔木兹交火 特朗普：停火仍有效，只是“轻微敲打”",
+          "url": "https://www.cls.cn/detail/2365546",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         },
         {
           "title": "美法院裁定特朗普的10%全球关税不成立",
@@ -1457,8 +1572,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 13时32分]"
+          "appearance_count": 4,
+          "time_info": "[10时55分 ~ 15时43分]"
         },
         {
           "title": "分析人士：美伊和平协议若落地 黄金白银“超级牛市”有望重启",
@@ -1478,11 +1593,12 @@
           "url": "https://www.cls.cn/detail/2365676",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 15时43分]"
         },
         {
           "title": "首都机场海关查获710克黄金制品",
@@ -1568,7 +1684,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         }
@@ -1576,7 +1692,7 @@
     },
     {
       "keyword_group": "ai 人工智能 agent 大模型 多模态 全模态 跨模态 AGI AIGC AI+ AIPC AI语料 数字人",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "“人工智能+”走向智能经济新形态",
@@ -1599,6 +1715,22 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时51分 ~ 04时15分]"
+        },
+        {
+          "title": "三角洲如何忽悠AI送礼",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E5%A6%82%E4%BD%95%E5%BF%BD%E6%82%A0AI%E9%80%81%E7%A4%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            26,
+            28,
+            22,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时28分 ~ 15时43分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
@@ -1627,30 +1759,16 @@
           "time_info": "[00时51分 ~ 10时55分]"
         },
         {
-          "title": "三角洲如何忽悠AI送礼",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E5%A6%82%E4%BD%95%E5%BF%BD%E6%82%A0AI%E9%80%81%E7%A4%BC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            26,
-            28,
-            22,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时28分 ~ 13时32分]"
-        },
-        {
           "title": "AI四小龙估值破万亿",
           "url": "https://www.toutiao.com/trending/7637337803117825590/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 15时43分]"
         },
         {
           "title": "知名爆料人：苹果首款AI视觉TWS设备已进入开发后期阶段",
@@ -1665,6 +1783,17 @@
           "time_info": "[10时55分 ~ 13时32分]"
         },
         {
+          "title": "索尼：还将与台积电(TSM.N)合作，探索在汽车和机器人领域的物理人工智能应用。",
+          "url": "https://flash.jin10.com/detail/20260508152346022800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
+        {
           "title": "德国财政部长克林拜尔：希望（德国与加拿大）在供应链韧性、关键原材料、国防和人工智能领域开展更紧密的合作。",
           "url": "https://flash.jin10.com/detail/20260508003148611800",
           "source": "金十数据",
@@ -1674,6 +1803,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "索尼：与台积电将在熊本成立芯片合资企业，将与台积电合作探索物理人工智能应用。",
+          "url": "https://flash.jin10.com/detail/20260508151936228800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         },
         {
           "title": "传奇投资者：AI牛市“还能再持续一两年”",
@@ -1696,6 +1836,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
+        },
+        {
+          "title": "<a href=\"https://www.jin10.com/vip/payment/pc/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/05/dDvAGITw9nkM3x0DQTOGj.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260508150416212800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         }
       ]
     },
@@ -1745,7 +1896,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -1767,7 +1918,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -1807,6 +1958,300 @@
       ]
     },
     {
+      "keyword_group": "军工 航空 航天 航母",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "航天员中心招募卧床实验志愿者最高获 7 万元报酬，为何要求无网络依赖等不良嗜好？",
+          "url": "https://www.zhihu.com/question/2035397510773129769",
+          "source": "知乎",
+          "ranks": [
+            14,
+            11,
+            4,
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 10时55分]"
+        },
+        {
+          "title": "5月8日投资避雷针：12天10板人气股提示风险 仅承接少量商业航天发射场配套工程",
+          "url": "https://www.cls.cn/detail/2365556",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时55分 ~ 15时43分]"
+        },
+        {
+          "title": "创业板指缩量跌近1%，商业航天、机器人概念逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3100471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
+        {
+          "title": "欧洲军工股几乎全线溃败，德国莱茵金属RHM跌6.94%，Renk集团跌5.48%，CSG跌5.34%，英国宇航系统跌4.68%，达索系统则涨0.48%。",
+          "url": "https://wallstreetcn.com/livenews/3100134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "检察机关依法对中国东方航空集团有限公司原党组书记、董事长刘绍勇涉嫌受贿案提起公诉。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3100323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "印度航天到底有多离谱",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E8%88%AA%E5%A4%A9%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "中国航天招卧床志愿者 最高补助7万",
+          "url": "https://www.toutiao.com/trending/7635880618395536938/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "A股商业航天板块震荡上涨，电科蓝天、戈碧迦涨超13%，航天长峰涨超6%，烽火通信、凌云股份、春晖智控等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260508101303027800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达 NVIDIA 黄仁勋",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "英伟达“亲儿子”CoreWeave今夜迎财报大考！暴涨245%后，市场开始担心三件事",
+          "url": "https://wallstreetcn.com/articles/3771762",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时15分 ~ 15时43分]"
+        },
+        {
+          "title": "黄仁勋：若受邀，将随特朗普一同访问中国",
+          "url": "https://news.ifeng.com/c/8sxPIPLXdSr",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：若受邀，将随特朗普一同访问中国",
+          "url": "https://wallstreetcn.com/livenews/3100397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：若受邀，将随特朗普一同访问中国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33120591",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
+        {
+          "title": "日本软银集团正与英伟达商谈开发“日本制造”的人工智能服务器。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3100130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "英伟达获得了一项五年期认购权，可以每股70美元的价格购买IREN最多3000万股股票，这意味着英伟达有权向IREN投资至多21亿美元。",
+          "url": "https://flash.jin10.com/detail/20260508044535643800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "英伟达与IREN宣布达成战略合作，以加速部署高达5吉瓦的人工智能基础设施。",
+          "url": "https://wallstreetcn.com/livenews/3100197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：未来部署将聚焦于IREN位于得克萨斯州的2吉瓦Sweetwater园区。",
+          "url": "https://flash.jin10.com/detail/20260508044045115800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai sora",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
+          "url": "https://wallstreetcn.com/articles/3771759",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时28分 ~ 15时43分]"
+        },
+        {
+          "title": "OpenAI发布三款实时音频模型",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83%E4%B8%89%E6%AC%BE%E5%AE%9E%E6%97%B6%E9%9F%B3%E9%A2%91%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
+          "url": "https://www.cls.cn/detail/2365554",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 15时43分]"
+        },
+        {
+          "title": "软银将OpenAI保证金贷款目标削减40%，至60亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3100476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
+        {
+          "title": "OpenAI：扩展安全警报选项，让所有18岁以上的用户都能选择将自己信任的人设为可信联系人。",
+          "url": "https://flash.jin10.com/detail/20260508020011019800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "OpenAI：开始向用户推出“可信联系人”功能。",
+          "url": "https://flash.jin10.com/detail/20260508015927604800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "OpenAI：GPT-Realtime-2的定价为音频输入每百万token 32美元 音频输出每百万token 64美元",
+          "url": "https://wallstreetcn.com/livenews/3100136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "OpenAI与博通的AI芯片交易遭遇180亿美元融资障碍。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3100153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 8,
       "titles": [
@@ -1829,8 +2274,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 13时32分]"
+          "appearance_count": 4,
+          "time_info": "[10时55分 ~ 15时43分]"
         },
         {
           "title": "美伊接近重启谈判 美股再冲新高 布油跌破97美元 | 今夜看点",
@@ -1905,179 +2350,6 @@
       ]
     },
     {
-      "keyword_group": "军工 航空 航天 航母",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "航天员中心招募卧床实验志愿者最高获 7 万元报酬，为何要求无网络依赖等不良嗜好？",
-          "url": "https://www.zhihu.com/question/2035397510773129769",
-          "source": "知乎",
-          "ranks": [
-            14,
-            11,
-            4,
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 10时55分]"
-        },
-        {
-          "title": "5月8日投资避雷针：12天10板人气股提示风险 仅承接少量商业航天发射场配套工程",
-          "url": "https://www.cls.cn/detail/2365556",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 13时32分]"
-        },
-        {
-          "title": "欧洲军工股几乎全线溃败，德国莱茵金属RHM跌6.94%，Renk集团跌5.48%，CSG跌5.34%，英国宇航系统跌4.68%，达索系统则涨0.48%。",
-          "url": "https://wallstreetcn.com/livenews/3100134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "检察机关依法对中国东方航空集团有限公司原党组书记、董事长刘绍勇涉嫌受贿案提起公诉。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3100323",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时55分"
-        },
-        {
-          "title": "印度航天到底有多离谱",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E8%88%AA%E5%A4%A9%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "中国航天招卧床志愿者 最高补助7万",
-          "url": "https://www.toutiao.com/trending/7635880618395536938/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "A股商业航天板块震荡上涨，电科蓝天、戈碧迦涨超13%，航天长峰涨超6%，烽火通信、凌云股份、春晖智控等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260508101303027800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai sora",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
-          "url": "https://wallstreetcn.com/articles/3771759",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时28分 ~ 13时32分]"
-        },
-        {
-          "title": "OpenAI发布三款实时音频模型",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83%E4%B8%89%E6%AC%BE%E5%AE%9E%E6%97%B6%E9%9F%B3%E9%A2%91%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时55分"
-        },
-        {
-          "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
-          "url": "https://www.cls.cn/detail/2365554",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
-        },
-        {
-          "title": "OpenAI：扩展安全警报选项，让所有18岁以上的用户都能选择将自己信任的人设为可信联系人。",
-          "url": "https://flash.jin10.com/detail/20260508020011019800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "OpenAI：开始向用户推出“可信联系人”功能。",
-          "url": "https://flash.jin10.com/detail/20260508015927604800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "OpenAI：GPT-Realtime-2的定价为音频输入每百万token 32美元 音频输出每百万token 64美元",
-          "url": "https://wallstreetcn.com/livenews/3100136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "OpenAI与博通的AI芯片交易遭遇180亿美元融资障碍。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3100153",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "芯片 光刻机 存储芯片 半导体 IGBT概念 光模块 CPO概念 中芯概念 chiplet AI芯片",
       "match_count": 7,
       "titles": [
@@ -2103,7 +2375,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -2166,76 +2438,150 @@
       ]
     },
     {
-      "keyword_group": "英伟达 NVIDIA 黄仁勋",
+      "keyword_group": "上证指数 机构重仓 社保重仓 QFII重仓 基金重仓 基金 创投 NFT概念 REITs概念 稳定币 数字货币",
       "match_count": 6,
       "titles": [
         {
-          "title": "英伟达“亲儿子”CoreWeave今夜迎财报大考！暴涨245%后，市场开始担心三件事",
-          "url": "https://wallstreetcn.com/articles/3771762",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时15分 ~ 13时32分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：若受邀，将随特朗普一同访问中国",
-          "url": "https://wallstreetcn.com/livenews/3100397",
+          "title": "江苏设立100亿元增资扩产战新产业基金",
+          "url": "https://wallstreetcn.com/livenews/3100411",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
         {
-          "title": "日本软银集团正与英伟达商谈开发“日本制造”的人工智能服务器。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3100130",
+          "title": "迈过2021年高点，偏股混合型基金指数创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3100241",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时29分"
+          "time_info": "07时05分"
         },
         {
-          "title": "英伟达获得了一项五年期认购权，可以每股70美元的价格购买IREN最多3000万股股票，这意味着英伟达有权向IREN投资至多21亿美元。",
-          "url": "https://flash.jin10.com/detail/20260508044535643800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "英伟达与IREN宣布达成战略合作，以加速部署高达5吉瓦的人工智能基础设施。",
-          "url": "https://wallstreetcn.com/livenews/3100197",
+          "title": "沙特主权财富基金PIF为70亿美元三部分债券的发行给出最终条款。（IFR）",
+          "url": "https://wallstreetcn.com/livenews/3100113",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时59分"
+          "time_info": "00时51分"
         },
         {
-          "title": "英伟达(NVDA.O)：未来部署将聚焦于IREN位于得克萨斯州的2吉瓦Sweetwater园区。",
-          "url": "https://flash.jin10.com/detail/20260508044045115800",
+          "title": "据路透社旗下媒体IFR：沙特阿拉伯公共投资基金敲定70亿美元三部分债券的最终条款。",
+          "url": "https://flash.jin10.com/detail/20260508001842782800",
           "source": "金十数据",
           "ranks": [
-            30
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时59分"
+          "time_info": "00时51分"
+        },
+        {
+          "title": "上证指数收报4179.95点，跌0.00%。 深证成指收报15563.80点，跌0.50%。 创业板指收报3796.13点，跌0.96%。 沪深300收报4871.91点，跌0.58%。 科创50收报1640.46点，跌2.29%。 中证500收报8694.17点，跌0.03%。 中证1000收报8741.15点，涨0.31%。",
+          "url": "https://wallstreetcn.com/livenews/3100470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
+        {
+          "title": "上证指数早盘收报4162.27点，跌0.43%。 深证成指早盘收报15495.22点，跌0.94%。 创业板指早盘收报3795.44点，跌0.98%。 沪深300早盘收报4856.57点，跌0.90%。 科创50早盘收报1630.25点，跌2.90%。 中证500早盘收报8632.14点，跌0.74%。 中证1000早盘收报8683.82点，跌0.35%。",
+          "url": "https://wallstreetcn.com/livenews/3100383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "具身智能 零部件 人形机器人 虚拟机器人 云深处 智元 优必选 松延动力 Figure 波士顿动力 传感器 陀螺仪 机器人概念",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "探访最神秘“杭州六小龙”强脑科技：业务已延伸至具身智能，估值突破120亿元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105217",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 13时32分]"
+        },
+        {
+          "title": "索尼与台积电将在日本熊本成立芯片合资公司，共同推进下一代图像传感器。",
+          "url": "https://wallstreetcn.com/livenews/3100479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
+        {
+          "title": "索尼：半导体部门与台积电签署谅解备忘录，建立战略合作关系。合作旨在开发和制造下一代图像传感器。",
+          "url": "https://flash.jin10.com/detail/20260508152002929800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
+        {
+          "title": "A股机器人概念股反复活跃，五洲新春触及涨停，巨轮智能此前封板，乔锋智能涨超10%，祥鑫科技、绿的谐波、飞龙股份涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3100339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "A股人形机器人概念板块震荡走高，绿的谐波、华勤技术、乔锋智能盘中创新高，巨轮智能两连板，五洲新春、大业股份封板涨停，恒锋工具涨超10%。",
+          "url": "https://flash.jin10.com/detail/20260508101913427800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "5月8日午间收评：科创50指数半日跌近3%，机器人概念股逆势大涨",
+          "url": "https://wallstreetcn.com/livenews/3100381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         }
       ]
     },
@@ -2250,7 +2596,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -2294,7 +2640,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -2308,67 +2654,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "上证指数 机构重仓 社保重仓 QFII重仓 基金重仓 基金 创投 NFT概念 REITs概念 稳定币 数字货币",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "江苏设立100亿元增资扩产战新产业基金",
-          "url": "https://wallstreetcn.com/livenews/3100411",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "迈过2021年高点，偏股混合型基金指数创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3100241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "沙特主权财富基金PIF为70亿美元三部分债券的发行给出最终条款。（IFR）",
-          "url": "https://wallstreetcn.com/livenews/3100113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "据路透社旗下媒体IFR：沙特阿拉伯公共投资基金敲定70亿美元三部分债券的最终条款。",
-          "url": "https://flash.jin10.com/detail/20260508001842782800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "上证指数早盘收报4162.27点，跌0.43%。 深证成指早盘收报15495.22点，跌0.94%。 创业板指早盘收报3795.44点，跌0.98%。 沪深300早盘收报4856.57点，跌0.90%。 科创50早盘收报1630.25点，跌2.90%。 中证500早盘收报8632.14点，跌0.74%。 中证1000早盘收报8683.82点，跌0.35%。",
-          "url": "https://wallstreetcn.com/livenews/3100383",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
         }
       ]
     },
@@ -2435,7 +2720,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -2446,7 +2731,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -2457,7 +2742,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -2471,60 +2756,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "具身智能 零部件 人形机器人 虚拟机器人 云深处 智元 优必选 松延动力 Figure 波士顿动力 传感器 陀螺仪 机器人概念",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "探访最神秘“杭州六小龙”强脑科技：业务已延伸至具身智能，估值突破120亿元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33105217",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8,
-            9,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 13时32分]"
-        },
-        {
-          "title": "A股机器人概念股反复活跃，五洲新春触及涨停，巨轮智能此前封板，乔锋智能涨超10%，祥鑫科技、绿的谐波、飞龙股份涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3100339",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时55分"
-        },
-        {
-          "title": "A股人形机器人概念板块震荡走高，绿的谐波、华勤技术、乔锋智能盘中创新高，巨轮智能两连板，五洲新春、大业股份封板涨停，恒锋工具涨超10%。",
-          "url": "https://flash.jin10.com/detail/20260508101913427800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时55分"
-        },
-        {
-          "title": "5月8日午间收评：科创50指数半日跌近3%，机器人概念股逆势大涨",
-          "url": "https://wallstreetcn.com/livenews/3100381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
         }
       ]
     },
@@ -2562,8 +2793,86 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 15时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 供暖 光伏 风电设备 风能 煤炭 锂电 储能 地热能 核能核电 氢能源 充电桩 高压快充 虚拟电厂 固态电池 刀片电池 钒电池 HIT电池 钙钛矿电池 BC电池 燃料电池 电力 动力电池回收 电网设备 超级电容 绿色电力",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国产储能出口迎爆发式增长",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E5%82%A8%E8%83%BD%E5%87%BA%E5%8F%A3%E8%BF%8E%E7%88%86%E5%8F%91%E5%BC%8F%E5%A2%9E%E9%95%BF%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时31分 ~ 13时32分]"
+        },
+        {
+          "title": "绿电概念反复活跃，大唐发电3连板，甘肃能源逼近涨停，华电辽能、粤电力A、赣能股份、深南电A等纷纷走高。",
+          "url": "https://wallstreetcn.com/livenews/3100309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "8家新能源车企远程“锁电”被约谈",
+          "url": "https://www.baidu.com/s?wd=8%E5%AE%B6%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%BC%81%E8%BF%9C%E7%A8%8B%E2%80%9C%E9%94%81%E7%94%B5%E2%80%9D%E8%A2%AB%E7%BA%A6%E8%B0%88",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "市场对美伊和平协议持乐观态度 金价有望实现周度上涨",
+          "url": "https://flash.jin10.com/detail/20260508104552106800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "金价破4700追不追",
+          "url": "https://www.toutiao.com/trending/7637144466515578431/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "金十图示：2026年05月08日（周五）上海金午盘价为1036.11元/克，较国际金价(1033.24元/克)高2.87元/克",
+          "url": "https://flash.jin10.com/detail/20260508150601013800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         }
       ]
     },
@@ -2599,34 +2908,6 @@
       ]
     },
     {
-      "keyword_group": "新能源 供暖 光伏 风电设备 风能 煤炭 锂电 储能 地热能 核能核电 氢能源 充电桩 高压快充 虚拟电厂 固态电池 刀片电池 钒电池 HIT电池 钙钛矿电池 BC电池 燃料电池 电力 动力电池回收 电网设备 超级电容 绿色电力",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国产储能出口迎爆发式增长",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E5%82%A8%E8%83%BD%E5%87%BA%E5%8F%A3%E8%BF%8E%E7%88%86%E5%8F%91%E5%BC%8F%E5%A2%9E%E9%95%BF%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
-        },
-        {
-          "title": "绿电概念反复活跃，大唐发电3连板，甘肃能源逼近涨停，华电辽能、粤电力A、赣能股份、深南电A等纷纷走高。",
-          "url": "https://wallstreetcn.com/livenews/3100309",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特斯拉 马斯克",
       "match_count": 2,
       "titles": [
@@ -2656,34 +2937,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "市场对美伊和平协议持乐观态度 金价有望实现周度上涨",
-          "url": "https://flash.jin10.com/detail/20260508104552106800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时55分"
-        },
-        {
-          "title": "金价破4700追不追",
-          "url": "https://www.toutiao.com/trending/7637144466515578431/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -2705,7 +2958,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         }
@@ -2733,7 +2986,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         }
@@ -2783,11 +3036,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            15
+            15,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 13时32分]"
+          "appearance_count": 4,
+          "time_info": "[10时55分 ~ 15时43分]"
         }
       ]
     },
@@ -2800,11 +3054,12 @@
           "url": "https://www.zhihu.com/question/2035738175893714497",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 15时43分]"
         }
       ]
     },
@@ -2849,6 +3104,23 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini deepmind",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "铂科新材：公司芯片电感主要与MPS、伟创力等半导体电源厂商合作为终端芯片及云厂商等供货，公司没有与谷歌合作。",
+          "url": "https://flash.jin10.com/detail/20260508151456505800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "claude Anthropic",
       "match_count": 1,
       "titles": [
@@ -2874,11 +3146,12 @@
           "url": "https://www.zhihu.com/question/34937519",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 15时43分]"
         }
       ]
     },
