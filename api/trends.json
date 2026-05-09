@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-05-09T21:19:18.802597+08:00",
-  "total_titles_processed": 1383,
+  "generated_at": "2026-05-09T22:52:08.428311+08:00",
+  "total_titles_processed": 1455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 54,
+      "match_count": 56,
       "titles": [
+        {
+          "title": "现场画面：伊朗海军扣押一艘油轮",
+          "url": "https://v.ifeng.com/c/8syr0bovpBY",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时58分 ~ 22时52分]"
+        },
         {
           "title": "美国务卿敦促“进入严肃谈判进程”，美军向伊朗“违反封锁”油轮开火，伊称海湾交火已停但恐重燃",
           "url": "https://wallstreetcn.com/articles/3771862",
@@ -18,20 +31,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[03时18分 ~ 21时19分]"
+          "appearance_count": 17,
+          "time_info": "[03时18分 ~ 22时52分]"
         },
         {
-          "title": "现场画面：伊朗海军扣押一艘油轮",
-          "url": "https://v.ifeng.com/c/8syr0bovpBY",
+          "title": "伊朗驻华大使：美国没法施压中国，改变对伊朗关系",
+          "url": "https://news.ifeng.com/c/8syp7qZWoVz",
           "source": "凤凰网",
           "ranks": [
-            2,
-            5
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时58分 ~ 21时19分]"
+          "appearance_count": 11,
+          "time_info": "[10时58分 ~ 22时52分]"
         },
         {
           "title": "伊朗南部霍尔木兹甘省一港口城市传出爆炸声",
@@ -54,18 +67,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时18分 ~ 07时57分]"
-        },
-        {
-          "title": "伊朗驻华大使：美国没法施压中国，改变对伊朗关系",
-          "url": "https://news.ifeng.com/c/8syp7qZWoVz",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时58分 ~ 21时19分]"
         },
         {
           "title": "哈里斯谈伊朗战争时爆粗然后大笑，现场响起雷鸣般的掌声",
@@ -143,11 +144,12 @@
           "url": "https://wallstreetcn.com/livenews/3101078",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时19分 ~ 22时52分]"
         },
         {
           "title": "伊朗外长与英国外交大臣通电话。（IRIB）",
@@ -159,6 +161,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "伊朗官员否认“美国袭击伊朗民用船致多人失踪”消息",
+          "url": "https://wallstreetcn.com/livenews/3101051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时59分 ~ 22时52分]"
         },
         {
           "title": "美伊交火意味着此轮谈判破裂？伊朗大使答凤凰提问",
@@ -208,17 +224,30 @@
           "time_info": "[01时18分 ~ 06时08分]"
         },
         {
-          "title": "伊朗官员否认“美国袭击伊朗民用船致多人失踪”消息",
-          "url": "https://wallstreetcn.com/livenews/3101051",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗官员：全国油田生产持续 暂无哈尔克岛石油泄漏相关报告",
+          "url": "https://flash.jin10.com/detail/20260509193905160800",
+          "source": "金十数据",
           "ranks": [
-            1,
-            19,
-            28
+            2,
+            14,
+            22
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时59分 ~ 21时19分]"
+          "time_info": "[19时56分 ~ 22时52分]"
+        },
+        {
+          "title": "伊朗官员：全国油田生产持续 暂无哈尔克岛石油泄漏相关报告",
+          "url": "https://wallstreetcn.com/livenews/3101068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时56分 ~ 22时52分]"
         },
         {
           "title": "伊朗外长：美国破坏性做法正在削弱外交进程",
@@ -233,30 +262,6 @@
           "time_info": "[06时08分 ~ 07时57分]"
         },
         {
-          "title": "伊朗官员：全国油田生产持续 暂无哈尔克岛石油泄漏相关报告",
-          "url": "https://flash.jin10.com/detail/20260509193905160800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时56分 ~ 21时19分]"
-        },
-        {
-          "title": "伊朗官员：全国油田生产持续 暂无哈尔克岛石油泄漏相关报告",
-          "url": "https://wallstreetcn.com/livenews/3101068",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时56分 ~ 21时19分]"
-        },
-        {
           "title": "伊朗足协公布参加2026年美加墨世界杯10项条件",
           "url": "https://wallstreetcn.com/livenews/3101035",
           "source": "华尔街见闻-快讯",
@@ -267,6 +272,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时25分 ~ 18时59分]"
+        },
+        {
+          "title": "伊朗战争丨中东战火不断，为何全球股市不跌反涨？",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时19分 ~ 22时52分]"
+        },
+        {
+          "title": "停火期间遇袭，伊朗会强硬反击吗？伊朗大使回应凤凰",
+          "url": "https://news.ifeng.com/c/8szLTDMoDY1",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时19分 ~ 22时52分]"
         },
         {
           "title": "标普：（关于以色列）预计美国-伊朗和以色列-哈马斯停火协议将广泛生效。",
@@ -398,15 +425,26 @@
           "time_info": "01时18分"
         },
         {
-          "title": "伊朗战争丨中东战火不断，为何全球股市不跌反涨？",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
+          "title": "机构：伊朗战争正以前所未有的速度消耗全球石油缓冲库存",
+          "url": "https://flash.jin10.com/detail/20260509214114227800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时19分"
+          "time_info": "22时52分"
+        },
+        {
+          "title": "霍梅尼之孙：伊朗最高领袖对各项事务保持监督",
+          "url": "https://flash.jin10.com/detail/20260509211628079800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "伊朗议会将以视频方式召开战事爆发以来首次会议",
@@ -418,17 +456,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
-        },
-        {
-          "title": "停火期间遇袭，伊朗会强硬反击吗？伊朗大使回应凤凰",
-          "url": "https://news.ifeng.com/c/8szLTDMoDY1",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
         },
         {
           "title": "遭美国扣押的伊朗货船抵达巴基斯坦卡拉奇港",
@@ -635,6 +662,18 @@
       "match_count": 47,
       "titles": [
         {
+          "title": "受够了！德国喊话多国组建对抗特朗普新联盟",
+          "url": "https://news.ifeng.com/c/8syALbeUOvl",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时58分 ~ 22时52分]"
+        },
+        {
           "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
           "url": "https://www.cls.cn/detail/2366051",
           "source": "财联社热门",
@@ -655,18 +694,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时18分 ~ 07时57分]"
-        },
-        {
-          "title": "受够了！德国喊话多国组建对抗特朗普新联盟",
-          "url": "https://news.ifeng.com/c/8syALbeUOvl",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时58分 ~ 21时19分]"
         },
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部：目前无进一步信息提供",
@@ -694,6 +721,19 @@
           "time_info": "[10时58分 ~ 21时19分]"
         },
         {
+          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
+          "url": "https://wallstreetcn.com/articles/3771883",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时24分 ~ 22时52分]"
+        },
+        {
           "title": "中方回应何时发布特朗普访华消息",
           "url": "https://www.toutiao.com/trending/7637034985857810475/",
           "source": "今日头条",
@@ -718,18 +758,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时18分 ~ 07时57分]"
-        },
-        {
-          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
-          "url": "https://wallstreetcn.com/articles/3771883",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时24分 ~ 21时19分]"
         },
         {
           "title": "伊朗战争丨特朗普称可能恢复“自由计划”",
@@ -1172,22 +1200,8 @@
     },
     {
       "keyword_group": "ai 人工智能 agent 大模型 多模态 全模态 跨模态 AGI AIGC AI+ AIPC AI语料 数字人",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
-        {
-          "title": "AI狂热已近尾声？“大空头”敲响警钟：市场好似互联网泡沫破裂前夕",
-          "url": "https://www.cls.cn/detail/2366653",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时58分 ~ 21时19分]"
-        },
         {
           "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
           "url": "https://m.thepaper.cn/newsDetail_forward_33126767",
@@ -1198,11 +1212,12 @@
             9,
             5,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时58分 ~ 21时19分]"
+          "appearance_count": 11,
+          "time_info": "[10时58分 ~ 22时52分]"
         },
         {
           "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
@@ -1215,8 +1230,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时52分 ~ 21时19分]"
+          "appearance_count": 10,
+          "time_info": "[13时52分 ~ 22时52分]"
+        },
+        {
+          "title": "AI狂热已近尾声？“大空头”敲响警钟：市场好似互联网泡沫破裂前夕",
+          "url": "https://www.cls.cn/detail/2366653",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时58分 ~ 22时52分]"
         },
         {
           "title": "摆脱传统试错模式，“90后”创业者用AI解决化工研发痛点",
@@ -1228,11 +1258,12 @@
             16,
             12,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时58分 ~ 21时19分]"
+          "appearance_count": 11,
+          "time_info": "[10时58分 ~ 22时52分]"
         },
         {
           "title": "私募和AI合体意味着什么",
@@ -1296,6 +1327,31 @@
           "time_info": "[06时08分 ~ 07时57分]"
         },
         {
+          "title": "德国AI动力无人机初创公司Helsing正计划以约180亿美元的估值筹集新一轮资金。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3101062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时56分 ~ 22时52分]"
+        },
+        {
+          "title": "35 岁主管被公司用 AI 替岗，月薪从 2.5 万降到 1.5 万，拒绝后被裁，面对技术替代，劳动者该怎么办？",
+          "url": "https://www.zhihu.com/question/2034624017219499142",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时19分 ~ 22时52分]"
+        },
+        {
           "title": "美联储报告：地缘政治风险、石油冲击、人工智能、私人信贷以及持续通胀/货币紧缩是威胁美国金融稳定的五大主要风险。",
           "url": "https://flash.jin10.com/detail/20260509040340876800",
           "source": "金十数据",
@@ -1316,18 +1372,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时04分 ~ 07时57分]"
-        },
-        {
-          "title": "德国AI动力无人机初创公司Helsing正计划以约180亿美元的估值筹集新一轮资金。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3101062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时56分 ~ 21时19分]"
         },
         {
           "title": "工信部启动人工智能科技伦理审查与服务先导计划，加快推动审查工作落地实施",
@@ -1352,6 +1396,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时52分 ~ 15时59分]"
+        },
+        {
+          "title": "大空头：当前AI热潮酷似2000年互联网泡沫“破灭前几个月”",
+          "url": "https://wallstreetcn.com/articles/3771893",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 22时52分]"
         },
         {
           "title": "Forward Air Corp.（FWRD）收跌43%，创1999年以来最差单日表现。",
@@ -1411,17 +1466,6 @@
           "time_info": "05时04分"
         },
         {
-          "title": "35 岁主管被公司用 AI 替岗，月薪从 2.5 万降到 1.5 万，拒绝后被裁，面对技术替代，劳动者该怎么办？",
-          "url": "https://www.zhihu.com/question/2034624017219499142",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
           "title": "报道：AI芯片制造商Cerebras将上调IPO价格区间，因需求太踊跃",
           "url": "https://wallstreetcn.com/livenews/3100890",
           "source": "华尔街见闻-快讯",
@@ -1436,7 +1480,7 @@
     },
     {
       "keyword_group": "芯片 光刻机 存储芯片 半导体 IGBT概念 光模块 CPO概念 中芯概念 chiplet AI芯片",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
@@ -1446,8 +1490,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时58分 ~ 21时19分]"
+          "appearance_count": 11,
+          "time_info": "[10时58分 ~ 22时52分]"
         },
         {
           "title": "编造芯片订单虚假信息，获利不足300元，2人被罚45万",
@@ -1459,8 +1503,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时52分 ~ 21时19分]"
+          "appearance_count": 10,
+          "time_info": "[13时52分 ~ 22时52分]"
         },
         {
           "title": "英特尔、苹果据传达成芯片制造初步协议 任天堂Switch全面涨价 | 环球市场",
@@ -1469,11 +1513,12 @@
           "ranks": [
             12,
             11,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时58分 ~ 21时19分]"
+          "appearance_count": 11,
+          "time_info": "[10时58分 ~ 22时52分]"
         },
         {
           "title": "国安部：某手机芯片厂漏洞被不法分子利用",
@@ -1488,8 +1533,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时52分 ~ 21时19分]"
+          "appearance_count": 10,
+          "time_info": "[13时52分 ~ 22时52分]"
         },
         {
           "title": "前所未见！客户提议出钱帮海力士“买光刻机，建生产线”",
@@ -1503,6 +1548,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时18分 ~ 07时57分]"
+        },
+        {
+          "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
+          "url": "https://wallstreetcn.com/articles/3771870",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时59分 ~ 22时52分]"
         },
         {
           "title": "非农缓解“滞胀”担忧，芯片股力撑美股新高，英特尔暴涨14%，伊朗局势不明，油价承压横盘",
@@ -1527,6 +1585,17 @@
           "time_info": "10时58分"
         },
         {
+          "title": "中瓷电子：静电卡盘产品已通过国内头部半导体设备公司上机验证",
+          "url": "https://flash.jin10.com/detail/20260509220504354800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "苹果与英特尔达成芯片制造初步协议",
           "url": "https://flash.jin10.com/detail/20260509005945809800",
           "source": "金十数据",
@@ -1536,18 +1605,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
-        },
-        {
-          "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
-          "url": "https://wallstreetcn.com/articles/3771870",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时59分 ~ 18时59分]"
         },
         {
           "title": "美股行业ETF多数收跌，网络股ETF跌超0.8%，半导体指数涨4.9%",
@@ -1861,6 +1918,17 @@
           "time_info": "[01时18分 ~ 07时57分]"
         },
         {
+          "title": "一季度智能消费设备制造表现亮眼",
+          "url": "https://www.douyin.com/hot/2493758",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时19分 ~ 22时52分]"
+        },
+        {
           "title": "央媒评“豆包”推出付费模式：探索商业化路径无可厚非，但应兼顾用户消费能力",
           "url": "https://m.thepaper.cn/newsDetail_forward_33120286",
           "source": "澎湃新闻",
@@ -1871,17 +1939,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时18分 ~ 07时57分]"
-        },
-        {
-          "title": "一季度智能消费设备制造表现亮眼",
-          "url": "https://www.douyin.com/hot/2493758",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
         },
         {
           "title": "中国黄金协会：一季度我国黄金消费量303.292吨，同比增长4.41%",
@@ -1900,11 +1957,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            15
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时56分 ~ 22时52分]"
+        },
+        {
+          "title": "贵州茅台酱香系列酒市场工作会召开",
+          "url": "https://wallstreetcn.com/livenews/3101072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时56分 ~ 21时19分]"
+          "time_info": "[21时19分 ~ 22时52分]"
+        },
+        {
+          "title": "贵州茅台酱香系列酒市场工作会召开",
+          "url": "https://flash.jin10.com/detail/20260509201032033800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时19分 ~ 22时52分]"
         },
         {
           "title": "标普500指数的11个板块涨跌各异，信息技术/科技板块收涨2.74%，刷新收盘历史高位至6573.22点；可选消费、原材料、房地产、日用消费品板块至多涨0.5%，工业、能源、金融、保健、公用事业板块至多跌0.91%。",
@@ -1917,28 +1999,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时04分 ~ 06时08分]"
-        },
-        {
-          "title": "贵州茅台酱香系列酒市场工作会召开",
-          "url": "https://wallstreetcn.com/livenews/3101072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "贵州茅台酱香系列酒市场工作会召开",
-          "url": "https://flash.jin10.com/detail/20260509201032033800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
         },
         {
           "title": "“4只皮皮虾1035元”消费者再发声",
@@ -2134,11 +2194,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时58分 ~ 21时19分]"
+          "appearance_count": 6,
+          "time_info": "[18时58分 ~ 22时52分]"
         },
         {
           "title": "科技赋能 向新而行",
@@ -2147,9 +2208,23 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时19分 ~ 22时52分]"
+        },
+        {
+          "title": "美科技股“火爆行情”很快结束？资深分析师列四大信号力证！",
+          "url": "https://www.cls.cn/detail/2366890",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时58分 ~ 22时52分]"
         },
         {
           "title": "特朗普媒体科技集团一季度资产规模22亿美元。 一季度营收90万美元，净亏损4.059亿美元，调整后EBITDA亏损3.878亿美元。 一季度运营现金流0.179亿美元。",
@@ -2162,19 +2237,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时04分 ~ 06时08分]"
-        },
-        {
-          "title": "美科技股“火爆行情”很快结束？资深分析师列四大信号力证！",
-          "url": "https://www.cls.cn/detail/2366890",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时58分 ~ 21时19分]"
         },
         {
           "title": "美股信息科技指数收涨约4.2%",
@@ -2236,7 +2298,7 @@
     },
     {
       "keyword_group": "算力 电源设备 液冷 云计算 一体机 边缘计算 PCB PLC概念",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "四部门：探索核电、氢能等能源以直连方式为算力设施供能，持续提升算力设施绿电占比",
@@ -2278,6 +2340,32 @@
           "time_info": "[05时04分 ~ 07时57分]"
         },
         {
+          "title": "国常会：加强水网、新型电网、算力网、新一代通信网、城市地下管网、物流网等规划建设",
+          "url": "https://flash.jin10.com/detail/20260509191922370800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时56分 ~ 22时52分]"
+        },
+        {
+          "title": "国常会：加强水网、新型电网、算力网、新一代通信网、城市地下管网、物流网等规划建设",
+          "url": "https://wallstreetcn.com/livenews/3101061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时56分 ~ 22时52分]"
+        },
+        {
           "title": "普惠算力多项重要成果在雄安新区发布",
           "url": "https://wallstreetcn.com/livenews/3100982",
           "source": "华尔街见闻-快讯",
@@ -2291,27 +2379,14 @@
         },
         {
           "title": "国常会：加强水网、新型电网、算力网、新一代通信网、城市地下管网、物流网等规划建设",
-          "url": "https://flash.jin10.com/detail/20260509191922370800",
-          "source": "金十数据",
+          "url": "https://www.cls.cn/detail/2367007",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            20
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时56分 ~ 21时19分]"
-        },
-        {
-          "title": "国常会：加强水网、新型电网、算力网、新一代通信网、城市地下管网、物流网等规划建设",
-          "url": "https://wallstreetcn.com/livenews/3101061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时56分 ~ 21时19分]"
+          "time_info": "[22时51分 ~ 22时52分]"
         },
         {
           "title": "AI算力的下一个瓶颈：涨价的CPU、抢不到的货",
@@ -2444,8 +2519,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时24分 ~ 21时19分]"
+          "appearance_count": 8,
+          "time_info": "[17时24分 ~ 22时52分]"
         },
         {
           "title": "【每日收评】三大指数震荡调整，商业航天、机器人概念联袂爆发，两市成交额连续三日突破3万亿",
@@ -2523,9 +2598,111 @@
       ]
     },
     {
+      "keyword_group": "新能源 供暖 光伏 风电设备 风能 煤炭 锂电 储能 地热能 核能核电 氢能源 充电桩 高压快充 虚拟电厂 固态电池 刀片电池 钒电池 HIT电池 钙钛矿电池 BC电池 燃料电池 电力 动力电池回收 电网设备 超级电容 绿色电力",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "八家新能源车企远程「锁电」被约谈，续航最高缩水 200 公里，此举有哪些实际影响？法律上如何定性车企行为？",
+          "url": "https://www.zhihu.com/question/2036053539319804953",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时58分 ~ 13时52分]"
+        },
+        {
+          "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
+          "url": "https://wallstreetcn.com/livenews/3101076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时19分 ~ 22时52分]"
+        },
+        {
+          "title": "交通运输部：加快推动新能源重卡规模化应用 建设零碳运输走廊",
+          "url": "https://wallstreetcn.com/livenews/3101079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
+          "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
+          "url": "https://flash.jin10.com/detail/20260509210146377800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时19分 ~ 22时52分]"
+        },
+        {
+          "title": "中汽协：8家新能源车企锁电被约谈不实",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%B1%BD%E5%8D%8F%EF%BC%9A8%E5%AE%B6%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%BC%81%E9%94%81%E7%94%B5%E8%A2%AB%E7%BA%A6%E8%B0%88%E4%B8%8D%E5%AE%9E",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时19分 ~ 22时52分]"
+        },
+        {
+          "title": "中汽协辟谣新能源车企被约谈",
+          "url": "https://www.toutiao.com/trending/7637639591230701574/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 22时52分]"
+        },
+        {
+          "title": "8家新能源车企被约谈",
+          "url": "https://www.baidu.com/s?wd=8%E5%AE%B6%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%BC%81%E8%A2%AB%E7%BA%A6%E8%B0%88",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 7,
       "titles": [
+        {
+          "title": "DeepSeek睁眼,开放识图模式",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354128&amp;topic_name=DeepSeek%E7%9D%81%E7%9C%BC%2C%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            6,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时59分 ~ 22时52分]"
+        },
         {
           "title": "冲击中国AI融资王！报道：DeepSeek首轮融资目标500亿元，估值或突破3500亿元",
           "url": "https://wallstreetcn.com/articles/3771864",
@@ -2554,20 +2731,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时52分 ~ 21时19分]"
-        },
-        {
-          "title": "DeepSeek睁眼,开放识图模式",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354128&amp;topic_name=DeepSeek%E7%9D%81%E7%9C%BC%2C%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时59分 ~ 21时19分]"
         },
         {
           "title": "阿里未参与DeepSeek融资谈判，市场人士否认“谈崩”传闻",
@@ -2621,7 +2784,7 @@
     },
     {
       "keyword_group": "新能源汽车 比亚迪 王传福",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "比亚迪否认被约谈",
@@ -2635,6 +2798,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[17时24分 ~ 21时19分]"
+        },
+        {
+          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时58分 ~ 22时52分]"
         },
         {
           "title": "比亚迪、特斯拉、小鹏、理想否认被约谈",
@@ -2663,17 +2840,15 @@
           "time_info": "[13时52分 ~ 17时25分]"
         },
         {
-          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
-          "source": "澎湃新闻",
+          "title": "比亚迪、小鹏等多家车企辟谣网传约谈名单，该名单为何能快速刷屏？问题根源到底在哪？",
+          "url": "https://www.zhihu.com/question/2036439996056457663",
+          "source": "知乎",
           "ranks": [
-            17,
-            15,
-            14
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时58分 ~ 21时19分]"
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 22时52分]"
         },
         {
           "title": "比亚迪、特斯拉、小鹏、理想等车企否认被约谈",
@@ -2696,68 +2871,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 供暖 光伏 风电设备 风能 煤炭 锂电 储能 地热能 核能核电 氢能源 充电桩 高压快充 虚拟电厂 固态电池 刀片电池 钒电池 HIT电池 钙钛矿电池 BC电池 燃料电池 电力 动力电池回收 电网设备 超级电容 绿色电力",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "八家新能源车企远程「锁电」被约谈，续航最高缩水 200 公里，此举有哪些实际影响？法律上如何定性车企行为？",
-          "url": "https://www.zhihu.com/question/2036053539319804953",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 13时52分]"
-        },
-        {
-          "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
-          "url": "https://flash.jin10.com/detail/20260509210146377800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
-          "url": "https://wallstreetcn.com/livenews/3101076",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "中汽协：8家新能源车企锁电被约谈不实",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%B1%BD%E5%8D%8F%EF%BC%9A8%E5%AE%B6%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%BC%81%E9%94%81%E7%94%B5%E8%A2%AB%E7%BA%A6%E8%B0%88%E4%B8%8D%E5%AE%9E",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "8家新能源车企被约谈",
-          "url": "https://www.baidu.com/s?wd=8%E5%AE%B6%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%BC%81%E8%A2%AB%E7%BA%A6%E8%B0%88",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
         }
       ]
     },
@@ -2840,8 +2953,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时56分 ~ 21时19分]"
+          "appearance_count": 13,
+          "time_info": "[07时56分 ~ 22时52分]"
         },
         {
           "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
@@ -2947,6 +3060,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
+          "url": "https://wallstreetcn.com/articles/3771878",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时24分 ~ 22时52分]"
+        },
+        {
           "title": "纳斯达克100指数指数涨幅扩大至2.1%，成分股英特尔一度涨18.8%，MNST涨14.6%，美光科技涨13.3%，闪迪涨12.2%，高通涨9.5%，AMD、应用材料、科磊至少涨约6%，思科涨5.2%，阿斯麦ADR涨4.2%，特斯拉涨3.6%，铿腾电子涨1.9%，英伟达涨1.9%，吉利德科学、Workday跌超2.5%，微芯科技跌3.1%，AppLovin跌6.2%，Axon跌7.6%，南美电商MercadoLibre跌12.8%。 半导体指数涨5.2%。标普500指数涨0.8%。",
           "url": "https://wallstreetcn.com/livenews/3100859",
           "source": "华尔街见闻-快讯",
@@ -2957,17 +3082,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 03时19分]"
-        },
-        {
-          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
-          "url": "https://wallstreetcn.com/articles/3771878",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时24分 ~ 21时19分]"
         },
         {
           "title": "特斯拉召回173辆Cybertruck",
@@ -3048,8 +3162,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时58分 ~ 21时19分]"
+          "appearance_count": 6,
+          "time_info": "[18时58分 ~ 22时52分]"
         },
         {
           "title": "字节跳动已将今年的AI基础设施支出计划增加25%至2,000亿元人民币。（南华早报）",
@@ -3112,6 +3226,48 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai sora",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
+          "url": "https://www.cls.cn/detail/2366815",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时59分 ~ 22时52分]"
+        },
+        {
+          "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
+          "url": "https://www.zhihu.com/question/2036152296388523178",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 22时52分]"
+        },
+        {
+          "title": "ChatGPT的恐怖我后知后觉",
+          "url": "https://s.weibo.com/weibo?q=ChatGPT%E7%9A%84%E6%81%90%E6%80%96%E6%88%91%E5%90%8E%E7%9F%A5%E5%90%8E%E8%A7%89&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
         }
       ]
     },
@@ -3326,37 +3482,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai sora",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
-          "url": "https://www.cls.cn/detail/2366815",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时59分 ~ 21时19分]"
-        },
-        {
-          "title": "ChatGPT的恐怖我后知后觉",
-          "url": "https://s.weibo.com/weibo?q=ChatGPT%E7%9A%84%E6%81%90%E6%80%96%E6%88%91%E5%90%8E%E7%9F%A5%E5%90%8E%E8%A7%89&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
         }
       ]
     },
