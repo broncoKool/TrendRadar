@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T14:45:18.603403+08:00",
-  "total_titles_processed": 800,
+  "generated_at": "2026-05-17T17:06:42.233820+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "谈判濒临破裂，美以被曝最早下周恢复对伊朗打击，选项包括地面夺取核材料",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时01分 ~ 14时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时01分 ~ 17时06分]"
         },
         {
           "title": "消息人士：美以或最早下周恢复对伊朗军事行动",
@@ -50,11 +50,12 @@
           "ranks": [
             1,
             10,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时06分 ~ 14时45分]"
+          "appearance_count": 8,
+          "time_info": "[03时06分 ~ 17时06分]"
         },
         {
           "title": "伊朗一机油工厂发生火灾致至少10人受伤",
@@ -152,26 +153,39 @@
           "time_info": "[04时49分 ~ 07时54分]"
         },
         {
+          "title": "伊朗与阿联酋爆发言辞冲突，金砖外长会未发表联合公报",
+          "url": "https://news.ifeng.com/c/8tBrZpkE9r7",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时28分 ~ 17时06分]"
+        },
+        {
+          "title": "伊朗宣布5月19日起恢复股票市场交易",
+          "url": "https://www.cls.cn/detail/2373254",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时28分 ~ 17时06分]"
+        },
+        {
           "title": "卡塔尔外交部：卡塔尔首相兼外交大臣与沙特外交大臣进行了电话会谈。双方回顾了两国的合作关系及进一步支持和强化合作的途径，还讨论了地区局势发展，尤其是涉及美国与伊朗停火的相关事项，以及旨在降级紧张局势、提升地区安全与稳定的努力。",
           "url": "https://flash.jin10.com/detail/20260517141215258800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
-          "title": "北约情报机构认为伊朗仍保有大部分导弹库存及设施",
-          "url": "https://flash.jin10.com/detail/20260517141106720800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 17时06分]"
         },
         {
           "title": "据伊朗国家媒体：伊朗西北部一家发动机油厂火灾已完全扑灭，未报告伤亡情况。",
@@ -184,6 +198,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时11分 ~ 03时06分]"
+        },
+        {
+          "title": "北约情报机构认为伊朗仍保有大部分导弹库存及设施",
+          "url": "https://flash.jin10.com/detail/20260517141106720800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 17时06分]"
+        },
+        {
+          "title": "伊朗宣布5月19日起恢复股票市场交易",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33189620",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时28分 ~ 17时06分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：世界正站在新秩序的开端。未来属于全球南方国家。",
@@ -210,40 +249,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时49分 ~ 07时54分]"
-        },
-        {
-          "title": "伊朗与阿联酋爆发言辞冲突，金砖外长会未发表联合公报",
-          "url": "https://news.ifeng.com/c/8tBrZpkE9r7",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时28分 ~ 14时45分]"
-        },
-        {
-          "title": "伊朗宣布5月19日起恢复股票市场交易",
-          "url": "https://www.cls.cn/detail/2373254",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时28分 ~ 14时45分]"
-        },
-        {
-          "title": "伊朗宣布5月19日起恢复股票市场交易",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33189620",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时28分 ~ 14时45分]"
         },
         {
           "title": "美国怀疑伊朗黑客入侵多州加油站燃油监测系统",
@@ -329,13 +334,24 @@
           "time_info": "01时11分"
         },
         {
+          "title": "伊朗南部省份发生客车侧翻事故 已致7人死亡",
+          "url": "https://flash.jin10.com/detail/20260517154832016800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
           "title": "伊朗宣布5月19日起恢复股市交易",
           "url": "https://www.douyin.com/hot/2501755",
           "source": "抖音",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -420,7 +436,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普：不希望看到台湾有人闹“独立”",
@@ -430,20 +446,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时01分 ~ 14时45分]"
-        },
-        {
-          "title": "特朗普警告台独",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E5%8F%B0%E7%8B%AC%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时01分 ~ 14时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时01分 ~ 17时06分]"
         },
         {
           "title": "听到特朗普这句话，台湾当局该醒了",
@@ -455,6 +459,19 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时01分 ~ 14时45分]"
+        },
+        {
+          "title": "特朗普警告台独",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E5%8F%B0%E7%8B%AC%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时01分 ~ 17时06分]"
         },
         {
           "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
@@ -479,8 +496,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时01分 ~ 14时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时01分 ~ 17时06分]"
         },
         {
           "title": "特朗普警告台湾不要试图走向“独立”",
@@ -519,8 +536,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时01分 ~ 14时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时01分 ~ 17时06分]"
         },
         {
           "title": "特朗普谈中国行：巨大成功 非常精彩",
@@ -539,11 +556,12 @@
           "url": "https://www.zhihu.com/question/2039007666429583394",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时28分 ~ 14时45分]"
+          "appearance_count": 4,
+          "time_info": "[11时28分 ~ 17时06分]"
         },
         {
           "title": "特朗普暗示伊朗局势是“风暴前的平静”",
@@ -564,11 +582,12 @@
           "source": "微博",
           "ranks": [
             4,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时28分 ~ 14时45分]"
+          "appearance_count": 4,
+          "time_info": "[11时28分 ~ 17时06分]"
         },
         {
           "title": "特朗普：如果不能达成和平协议，伊朗将面临“非常糟糕的处境”",
@@ -602,11 +621,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时29分 ~ 14时45分]"
+          "appearance_count": 3,
+          "time_info": "[11时29分 ~ 17时06分]"
         },
         {
           "title": "美国总统特朗普：马里兰州刚刚曝光了50万张假邮寄选票。作为一个国家，我们不能再容忍下去了！选民身份验证和公民身份证明现在必须得到批准，不正当的邮寄投票必须被制止！",
@@ -619,6 +639,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 01时11分]"
+        },
+        {
+          "title": "岛内称特朗普警告“台独”重击赖当局",
+          "url": "https://www.toutiao.com/trending/7640276210946179115/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 17时06分]"
         },
         {
           "title": "美国总统特朗普：《拯救美国法案》现在就必须通过，要利用住房法案和《外国情报监控法》来推动它。",
@@ -677,15 +709,15 @@
           "time_info": "11时29分"
         },
         {
-          "title": "岛内称特朗普警告“台独”重击赖当局",
-          "url": "https://www.toutiao.com/trending/7640276210946179115/",
-          "source": "今日头条",
+          "title": "特朗普访华后续观察",
+          "url": "https://www.douyin.com/hot/2502108",
+          "source": "抖音",
           "ranks": [
-            14
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时45分"
+          "time_info": "17时06分"
         },
         {
           "title": "美参议院官员删除特朗普白宫宴会厅安保资金条款",
@@ -716,7 +748,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -746,7 +778,7 @@
     },
     {
       "keyword_group": "ai 人工智能 agent 大模型 多模态 全模态 跨模态 AGI AIGC AI+ AIPC AI语料 数字人",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
@@ -758,8 +790,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时01分 ~ 14时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时01分 ~ 17时06分]"
         },
         {
           "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
@@ -783,8 +815,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时01分 ~ 14时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时01分 ~ 17时06分]"
         },
         {
           "title": "万字拆解AI瓶颈：磷化铟紧缺已是“灾难”，下一个爆发点在“电网保卫战”",
@@ -818,11 +850,12 @@
           "ranks": [
             20,
             17,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时01分 ~ 14时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时01分 ~ 17时06分]"
         },
         {
           "title": "这一次，真的不一样！野村：拥抱AI新常态，三星、海力士估值应参考台积电",
@@ -873,6 +906,28 @@
           "time_info": "[00时01分 ~ 00时02分]"
         },
         {
+          "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
+          "url": "https://wallstreetcn.com/articles/3772446",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "中信证券：今年的AI+能化或与2025年的AI+资源类似",
+          "url": "https://flash.jin10.com/detail/20260517152451542800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
           "title": "法国文化部长：今后不会资助“用人工智能取代创作者”的影视作品",
           "url": "https://flash.jin10.com/detail/20260517095922483800",
           "source": "金十数据",
@@ -896,11 +951,12 @@
           "ranks": [
             4,
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时01分 ~ 14时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时01分 ~ 17时06分]"
         },
         {
           "title": "监管首次明确！四大类现代服务业与新型消费企业获明确支持",
@@ -982,11 +1038,12 @@
           "url": "https://www.toutiao.com/trending/7639551707320696875/",
           "source": "今日头条",
           "ranks": [
-            19
+            19,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 17时06分]"
         },
         {
           "title": "揭秘“恋陪”：有人月消费万元",
@@ -995,7 +1052,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -1006,7 +1063,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         }
@@ -1100,7 +1157,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         }
@@ -1108,7 +1165,7 @@
     },
     {
       "keyword_group": "英伟达 NVIDIA 黄仁勋",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "原油大涨掀债市抛售潮，美股回落，英伟达跌超4%，长债收益率创数年新高，金属重挫",
@@ -1132,8 +1189,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时01分 ~ 14时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时01分 ~ 17时06分]"
         },
         {
           "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
@@ -1144,8 +1201,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时28分 ~ 14时45分]"
+          "appearance_count": 4,
+          "time_info": "[11时28分 ~ 17时06分]"
         },
         {
           "title": "黄仁勋说没有任何工作我看不上",
@@ -1179,12 +1236,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时28分 ~ 11时29分]"
+        },
+        {
+          "title": "黄仁勋同款",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E5%90%8C%E6%AC%BE&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
         }
       ]
     },
     {
       "keyword_group": "芯片 光刻机 存储芯片 半导体 IGBT概念 光模块 CPO概念 中芯概念 chiplet AI芯片",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "国产光纤光模块卖爆全球",
@@ -1205,11 +1273,12 @@
             4,
             6,
             15,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时06分 ~ 14时45分]"
+          "appearance_count": 8,
+          "time_info": "[03时06分 ~ 17时06分]"
         },
         {
           "title": "阿斯麦与塔塔电子合作推进印度芯片计划",
@@ -1237,13 +1306,24 @@
           "time_info": "[04时49分 ~ 07时54分]"
         },
         {
+          "title": "韩国将投入超1亿美元扶持中小企业 覆盖半导体产业",
+          "url": "https://wallstreetcn.com/livenews/3104845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
           "title": "韩国总理：三星半导体工厂停工一天损失将高达1万亿韩元",
           "url": "https://flash.jin10.com/detail/20260517124248424800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -1261,8 +1341,84 @@
       ]
     },
     {
+      "keyword_group": "军工 航空 航天 航母",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "伯克希尔“新王新气象”：Q1减仓零售、油气，加仓谷歌，还建仓了航空",
+          "url": "https://wallstreetcn.com/articles/3772402",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时01分 ~ 07时54分]"
+        },
+        {
+          "title": "美国“福特”号航母返回美国母港",
+          "url": "https://flash.jin10.com/detail/20260517054026599800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时54分]"
+        },
+        {
+          "title": "美福特号航母返回美国 结束为期11个月部署",
+          "url": "https://wallstreetcn.com/livenews/3104834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 17时06分]"
+        },
+        {
+          "title": "美国国防部长赫格塞思：致“福特”号航母打击群的勇士们，欢迎回家。",
+          "url": "https://flash.jin10.com/detail/20260517010711735800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时06分 ~ 04时49分]"
+        },
+        {
+          "title": "“福特”号航母返回美国，部署时长达326天",
+          "url": "https://www.cls.cn/detail/2373307",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "商业航天概念股巨力索具遭证监会立案，涉嫌信披误导性陈述，过去半年股价涨 3 倍，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2038931761447564255",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "上证指数 机构重仓 社保重仓 QFII重仓 基金重仓 基金 创投 NFT概念 REITs概念 稳定币 数字货币",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "全球最大对冲基金调仓大动作：大举加仓芯片 全面清仓软件股",
@@ -1271,11 +1427,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时01分 ~ 14时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时01分 ~ 17时06分]"
         },
         {
           "title": "比尔·盖茨基金会出售其持有的最后一批微软股票",
@@ -1322,59 +1479,109 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时01分 ~ 00时02分]"
+        },
+        {
+          "title": "中无人机：股东中航一期基金拟减持不超1%股份",
+          "url": "https://flash.jin10.com/detail/20260517154058464800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
         }
       ]
     },
     {
-      "keyword_group": "军工 航空 航天 航母",
+      "keyword_group": "银行 金融科技 GDR概念",
       "match_count": 4,
       "titles": [
         {
-          "title": "伯克希尔“新王新气象”：Q1减仓零售、油气，加仓谷歌，还建仓了航空",
-          "url": "https://wallstreetcn.com/articles/3772402",
+          "title": "韩国央行数据显示，韩国4月银行对家庭贷款净增加2.1万亿韩元，3月为净增加0.5万亿韩元。",
+          "url": "https://flash.jin10.com/detail/20260517110124311800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "霍尔木兹6月重开是“异想天开”！这家银行认为：夏天油价可能创新高，从而冲击股市",
+          "url": "https://wallstreetcn.com/articles/3772441",
           "source": "华尔街见闻",
           "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时01分 ~ 07时54分]"
-        },
-        {
-          "title": "美国“福特”号航母返回美国母港",
-          "url": "https://flash.jin10.com/detail/20260517054026599800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时46分 ~ 07时54分]"
-        },
-        {
-          "title": "美国国防部长赫格塞思：致“福特”号航母打击群的勇士们，欢迎回家。",
-          "url": "https://flash.jin10.com/detail/20260517010711735800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时06分 ~ 04时49分]"
-        },
-        {
-          "title": "美福特号航母返回美国 结束为期11个月部署",
-          "url": "https://wallstreetcn.com/livenews/3104834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "多家银行关停独立信用卡App，有何影响？",
+          "url": "https://flash.jin10.com/detail/20260517132651273800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "14时45分"
+        },
+        {
+          "title": "因以贷还贷掩盖不良等，江西银行及相关分支机构合计被罚90万",
+          "url": "https://flash.jin10.com/detail/20260517152840187800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 电源设备 液冷 云计算 一体机 边缘计算 PCB PLC概念",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "算力版国家电网要来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%AE%97%E5%8A%9B%E7%89%88%E5%9B%BD%E5%AE%B6%E7%94%B5%E7%BD%91%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            20,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时45分 ~ 14时45分]"
+        },
+        {
+          "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
+          "url": "https://wallstreetcn.com/articles/3772431",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 17时06分]"
+        },
+        {
+          "title": "算力网要来了！",
+          "url": "https://wallstreetcn.com/articles/3772436",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
         }
       ]
     },
@@ -1388,11 +1595,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时28分 ~ 14时45分]"
+          "appearance_count": 4,
+          "time_info": "[11时28分 ~ 17时06分]"
         },
         {
           "title": "法国为何出售在中国的电力资产",
@@ -1401,7 +1609,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -1428,11 +1636,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时29分 ~ 14时45分]"
+          "appearance_count": 3,
+          "time_info": "[11时29分 ~ 17时06分]"
         },
         {
           "title": "摩尔线程与国家具身智能应用中试基地签署战略合作协议",
@@ -1452,7 +1661,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         }
@@ -1498,60 +1707,42 @@
       ]
     },
     {
-      "keyword_group": "算力 电源设备 液冷 云计算 一体机 边缘计算 PCB PLC概念",
-      "match_count": 2,
+      "keyword_group": "科技",
+      "match_count": 3,
       "titles": [
         {
-          "title": "算力版国家电网要来了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%AE%97%E5%8A%9B%E7%89%88%E5%9B%BD%E5%AE%B6%E7%94%B5%E7%BD%91%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
+          "title": "长安汽车否认与千里科技合作",
+          "url": "https://wallstreetcn.com/livenews/3104835",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            25,
-            20,
-            3
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时45分 ~ 14时45分]"
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 17时06分]"
         },
         {
-          "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
-          "url": "https://wallstreetcn.com/articles/3772431",
-          "source": "华尔街见闻",
+          "title": "宏和科技：向香港联交所递交境外上市股份（H股）发行并上市申请",
+          "url": "https://flash.jin10.com/detail/20260517154345958800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "银行 金融科技 GDR概念",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "韩国央行数据显示，韩国4月银行对家庭贷款净增加2.1万亿韩元，3月为净增加0.5万亿韩元。",
-          "url": "https://flash.jin10.com/detail/20260517110124311800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
+          "time_info": "17时06分"
         },
         {
-          "title": "多家银行关停独立信用卡App，有何影响？",
-          "url": "https://flash.jin10.com/detail/20260517132651273800",
-          "source": "金十数据",
+          "title": "西安电子科技大学某导师官宣跑路，个人主页三连喊「我跑了」，可能是什么情况？反映了大学教育生态什么问题？",
+          "url": "https://www.zhihu.com/question/2038901266051502596",
+          "source": "知乎",
           "ranks": [
-            12
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时45分"
+          "time_info": "17时06分"
         }
       ]
     },
@@ -1622,11 +1813,12 @@
           "source": "贴吧",
           "ranks": [
             10,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时01分 ~ 14时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时01分 ~ 17时06分]"
         },
         {
           "title": "王橹杰iPad上面视频是心理问题",
@@ -1635,7 +1827,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         }
@@ -1666,6 +1858,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "30年美债没守住5%“生死线”！美银Hartnett：“地狱之门”已打开，6月初是“卖出窗口”",
+          "url": "https://wallstreetcn.com/articles/3772363",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 17时06分]"
+        },
+        {
+          "title": "30年期美债收益率破5%意味着什么",
+          "url": "https://www.toutiao.com/trending/7640417850984762889/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
         }
       ]
     },
@@ -1703,6 +1924,23 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时01分 ~ 14时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "医药 创新药 化学制药 AI制药 中药 SPD概念 CRO概念 医废处理",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "济川药业：蒲地蓝消炎口服液获批国家中药二级保护品种",
+          "url": "https://flash.jin10.com/detail/20260517153559345800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
         }
       ]
     },
@@ -1757,8 +1995,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时01分 ~ 14时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时01分 ~ 17时06分]"
         }
       ]
     },
@@ -1802,23 +2040,6 @@
       ]
     },
     {
-      "keyword_group": "科技",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "长安汽车否认与千里科技合作",
-          "url": "https://wallstreetcn.com/livenews/3104835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        }
-      ]
-    },
-    {
       "keyword_group": "月球 登月 火星 宇宙 飞船 航空",
       "match_count": 1,
       "titles": [
@@ -1833,6 +2054,23 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时01分 ~ 07时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "脑机接口 体外诊断 辅助生殖",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "广药集团将控股达安基因 布局体外诊断领域",
+          "url": "https://flash.jin10.com/detail/20260517151914116800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
         }
       ]
     },
@@ -1852,23 +2090,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时10分 ~ 07时54分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "30年美债没守住5%“生死线”！美银Hartnett：“地狱之门”已打开，6月初是“卖出窗口”",
-          "url": "https://wallstreetcn.com/articles/3772363",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
         }
       ]
     }
