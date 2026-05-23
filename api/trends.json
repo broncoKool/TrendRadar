@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-23T06:59:44.452130+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-05-23T08:13:55.060958+08:00",
+  "total_titles_processed": 558,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "鲁比奥：伊朗问题确实有一些进展",
           "url": "https://news.ifeng.com/c/8tKwzchzUFC",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时52分 ~ 06时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时52分 ~ 08时13分]"
         },
         {
           "title": "伊朗“最大内鬼”，原来是他？",
@@ -26,19 +27,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时52分 ~ 06时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时52分 ~ 08时13分]"
         },
         {
           "title": "伊朗官员：结束战争、解除封锁以及确保霍尔木兹海峡稳定是优先事项",
           "url": "https://flash.jin10.com/detail/20260523041413545800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时10分 ~ 06时59分]"
+          "appearance_count": 3,
+          "time_info": "[05时10分 ~ 08时13分]"
         },
         {
           "title": "伊朗外交部发言人：巴基斯坦陆军参谋长穆尼尔是外交进程的延续，不能说这必然意味着我们已经到达了一个转折点或决定性状态。",
@@ -50,6 +52,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "知情人士：美筹备对伊朗发动新一轮军事打击",
+          "url": "https://news.ifeng.com/c/8tLyq3d0i0r",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
         },
         {
           "title": "伊朗外交部发言人：来自卡塔尔的代表团目前正在与伊朗外交部长进行会谈，但巴基斯坦方面仍是谈判中的调解方。",
@@ -99,6 +112,18 @@
           "time_info": "[01时52分 ~ 03时46分]"
         },
         {
+          "title": "伊媒：知情人士称伊朗谈判仍在继续 所有争议问题形成共识前不会达成协议",
+          "url": "https://flash.jin10.com/detail/20260523040131039800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时10分 ~ 08时13分]"
+        },
+        {
           "title": "共和党参议员：美国应完成摧毁伊朗常规军事能力的行动",
           "url": "https://wallstreetcn.com/livenews/3108186",
           "source": "华尔街见闻-快讯",
@@ -111,15 +136,16 @@
           "time_info": "[01时52分 ~ 03时46分]"
         },
         {
-          "title": "伊媒：知情人士称伊朗谈判仍在继续 所有争议问题形成共识前不会达成协议",
-          "url": "https://flash.jin10.com/detail/20260523040131039800",
-          "source": "金十数据",
+          "title": "报道：伊朗军方准备好应对美方任何行动",
+          "url": "https://wallstreetcn.com/livenews/3108258",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            11,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时10分 ~ 06时59分]"
+          "time_info": "[06时59分 ~ 08时13分]"
         },
         {
           "title": "伊朗外交部发言人：谈判的重点是结束战争。",
@@ -175,17 +201,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
-        },
-        {
-          "title": "报道：伊朗军方准备好应对美方任何行动",
-          "url": "https://wallstreetcn.com/livenews/3108258",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时59分"
         },
         {
           "title": "伊朗外交部发言人：当前伊美谈判不涉及核问题",
@@ -301,7 +316,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普声称要与赖清德通话，美媒分析后果",
@@ -323,8 +338,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时52分 ~ 06时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时52分 ~ 08时13分]"
         },
         {
           "title": "特朗普向沃什施压",
@@ -387,6 +402,18 @@
           "time_info": "[01时52分 ~ 03时46分]"
         },
         {
+          "title": "美国总统特朗普：伊朗永远不会拥有核武器，他们知道这一点。",
+          "url": "https://wallstreetcn.com/livenews/3108245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时59分 ~ 08时13分]"
+        },
+        {
           "title": "美国总统特朗普：我们已经从委内瑞拉攫取了如此多的石油。 等我解决完伊朗问题，油价将暴跌。 我们已经阻止了伊朗拥有核武器。 伊朗问题很快就会结束。",
           "url": "https://wallstreetcn.com/livenews/3108235",
           "source": "华尔街见闻-快讯",
@@ -396,6 +423,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        },
+        {
+          "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
+          "url": "https://wallstreetcn.com/articles/3772950",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
         },
         {
           "title": "特朗普发文称无法参加儿子婚礼",
@@ -475,17 +513,6 @@
           "time_info": "05时10分"
         },
         {
-          "title": "美国总统特朗普：伊朗永远不会拥有核武器，他们知道这一点。",
-          "url": "https://wallstreetcn.com/livenews/3108245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时59分"
-        },
-        {
           "title": "美国商务部长卢特尼克捍卫总统特朗普入股英特尔的做法，要求一名法官驳回该公司股东有关这笔交易涉嫌政府非法持股的指控。",
           "url": "https://wallstreetcn.com/livenews/3108172",
           "source": "华尔街见闻-快讯",
@@ -531,11 +558,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时52分 ~ 06时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时52分 ~ 08时13分]"
         },
         {
           "title": "郝哥李广奇回应AI买瓜",
@@ -545,11 +573,12 @@
             16,
             13,
             17,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时52分 ~ 06时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时52分 ~ 08时13分]"
         },
         {
           "title": "夏奇拉来批daidai作业啦",
@@ -561,8 +590,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时45分 ~ 06时59分]"
+          "appearance_count": 6,
+          "time_info": "[03时45分 ~ 08时13分]"
         },
         {
           "title": "ai漫剧硬通货 泡面火腿纯净水",
@@ -570,11 +599,24 @@
           "source": "微博",
           "ranks": [
             7,
-            8
+            8,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时09分 ~ 06时59分]"
+          "appearance_count": 4,
+          "time_info": "[05时09分 ~ 08时13分]"
+        },
+        {
+          "title": "美国批准向多个间谍部门的90亿美元拨款，用于利用人工智能（AI）技术。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3108254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时59分 ~ 08时13分]"
         },
         {
           "title": "印度成AI时代最大输家了吗",
@@ -586,84 +628,98 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
-        },
-        {
-          "title": "美国批准向多个间谍部门的90亿美元拨款，用于利用人工智能（AI）技术。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3108254",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时59分"
         }
       ]
     },
     {
-      "keyword_group": "上证指数 机构重仓 社保重仓 QFII重仓 基金重仓 基金 创投 NFT概念 REITs概念 稳定币 数字货币",
-      "match_count": 5,
+      "keyword_group": "美股",
+      "match_count": 7,
       "titles": [
         {
-          "title": "证监会等八部门：全面取缔境外证券期货基金非法跨境经营活动，设置两年集中整治期",
-          "url": "https://wallstreetcn.com/articles/3772917",
-          "source": "华尔街见闻",
+          "title": "周五（5月22日），美股降息赢家指数涨0.59%，报80.30点，美联储理事沃勒讲话之际回吐涨幅、美联储主席沃什宣誓就职之后再北京时间01:28显著拉升，本周累计上涨4.96%。 周三至周五持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3108274",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            4
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时52分 ~ 06时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
         },
         {
-          "title": "整治非法跨境证券期货基金经营活动，证监会等八部门联合出手",
-          "url": "https://www.cls.cn/detail/2379069",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时52分 ~ 05时10分]"
-        },
-        {
-          "title": "美国财政部：投资基金在最新的双周报告期内购买了293.32亿美元的10年期国债，较上月的281.03亿美元有所增加；购买了183.40亿美元的30年期债券，较上月的164.15亿美元有所增加；购买了416.36亿美元3年期国债，较上月的428.10亿美元有所减少。",
-          "url": "https://flash.jin10.com/detail/20260523030238729800",
+          "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260523040728628800",
           "source": "金十数据",
           "ranks": [
-            3
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时10分 ~ 08时13分]"
+        },
+        {
+          "title": "金十图示：2026年05月22日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260523040726833800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时10分 ~ 08时13分]"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 高通涨超11%",
+          "url": "https://flash.jin10.com/detail/20260523040305525800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时10分 ~ 08时13分]"
+        },
+        {
+          "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260523021145540800",
+          "source": "金十数据",
+          "ranks": [
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
         },
         {
-          "title": "Tradeweb运营数据显示，受国际货币基金组织（IMF）积极表态的刺激，塞内加尔2033年到期的美元主权债券上涨0.5美分，买盘报价略高于面值的53%（53美分/1美元），刷新了5月月中以来的最高水平。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3108265",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2026年05月22日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260523020941374800",
+          "source": "金十数据",
           "ranks": [
-            5
+            16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时59分"
+          "time_info": "03时46分"
         },
         {
-          "title": "国际货币基金组织（IMF）发言人：确认IMF将于6月派遣专家团队前往塞内加尔首都达喀尔进行技术性谈判。 目前，IMF正与塞内加尔官方通力合作，以期“在宏观经济展望、融资需求以及改革优先事项上达成共识”。",
-          "url": "https://wallstreetcn.com/livenews/3108264",
-          "source": "华尔街见闻-快讯",
+          "title": "美股标普连涨八周 富途控股跌27.53%",
+          "url": "https://www.toutiao.com/trending/7642859924128550441/",
+          "source": "今日头条",
           "ranks": [
-            6
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时59分"
+          "time_info": "08时13分"
         }
       ]
     },
     {
       "keyword_group": "芯片 光刻机 存储芯片 半导体 IGBT概念 光模块 CPO概念 中芯概念 chiplet AI芯片",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美光科技CEO Mehrotra：存储芯片供应短缺问题将持续到2026年之后。（彭博）",
@@ -688,6 +744,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时10分 ~ 06时59分]"
+        },
+        {
+          "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
+          "url": "https://www.cls.cn/detail/2379649",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌2.2%，本周累跌4.8%。 热门中概股里，蔚来初步收跌6.8%，美团跌4.3%，拼多多跌3.3%，网易涨2%，日月光半导体涨6.8%。",
@@ -725,63 +792,65 @@
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "上证指数 机构重仓 社保重仓 QFII重仓 基金重仓 基金 创投 NFT概念 REITs概念 稳定币 数字货币",
       "match_count": 5,
       "titles": [
         {
-          "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260523040728628800",
-          "source": "金十数据",
+          "title": "证监会等八部门：全面取缔境外证券期货基金非法跨境经营活动，设置两年集中整治期",
+          "url": "https://wallstreetcn.com/articles/3772917",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时10分 ~ 06时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时52分 ~ 08时13分]"
         },
         {
-          "title": "金十图示：2026年05月22日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260523040726833800",
-          "source": "金十数据",
+          "title": "整治非法跨境证券期货基金经营活动，证监会等八部门联合出手",
+          "url": "https://www.cls.cn/detail/2379069",
+          "source": "财联社热门",
           "ranks": [
-            12
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时10分 ~ 06时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 05时10分]"
         },
         {
-          "title": "美股收盘：三大股指收涨 高通涨超11%",
-          "url": "https://flash.jin10.com/detail/20260523040305525800",
+          "title": "美国财政部：投资基金在最新的双周报告期内购买了293.32亿美元的10年期国债，较上月的281.03亿美元有所增加；购买了183.40亿美元的30年期债券，较上月的164.15亿美元有所增加；购买了416.36亿美元3年期国债，较上月的428.10亿美元有所减少。",
+          "url": "https://flash.jin10.com/detail/20260523030238729800",
           "source": "金十数据",
           "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时10分 ~ 06时59分]"
-        },
-        {
-          "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260523021145540800",
-          "source": "金十数据",
-          "ranks": [
-            15
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
         },
         {
-          "title": "金十图示：2026年05月22日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260523020941374800",
-          "source": "金十数据",
+          "title": "Tradeweb运营数据显示，受国际货币基金组织（IMF）积极表态的刺激，塞内加尔2033年到期的美元主权债券上涨0.5美分，买盘报价略高于面值的53%（53美分/1美元），刷新了5月月中以来的最高水平。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3108265",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时46分"
+          "appearance_count": 2,
+          "time_info": "[06时59分 ~ 08时13分]"
+        },
+        {
+          "title": "国际货币基金组织（IMF）发言人：确认IMF将于6月派遣专家团队前往塞内加尔首都达喀尔进行技术性谈判。 目前，IMF正与塞内加尔官方通力合作，以期“在宏观经济展望、融资需求以及改革优先事项上达成共识”。",
+          "url": "https://wallstreetcn.com/livenews/3108264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时59分 ~ 08时13分]"
         }
       ]
     },
@@ -794,50 +863,54 @@
           "url": "https://flash.jin10.com/detail/20260523040746436800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时10分 ~ 06时59分]"
+          "appearance_count": 3,
+          "time_info": "[05时10分 ~ 08时13分]"
         },
         {
           "title": "截止至5月19日当周CFTC商品类商业持仓报告在金十数据中心更新啦！欢迎点击查看>>",
           "url": "https://flash.jin10.com/detail/20260523040744716800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时10分 ~ 06时59分]"
+          "appearance_count": 3,
+          "time_info": "[05时10分 ~ 08时13分]"
         },
         {
           "title": "截止至5月19日当周CFTC外汇类非商业持仓报告在金十数据中心更新啦！欢迎点击查看>>",
           "url": "https://flash.jin10.com/detail/20260523040742628800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时10分 ~ 06时59分]"
+          "appearance_count": 3,
+          "time_info": "[05时10分 ~ 08时13分]"
         },
         {
           "title": "截止至5月19日当周CFTC外汇类商业持仓报告在金十数据中心更新啦！欢迎点击查看>>",
           "url": "https://flash.jin10.com/detail/20260523040740897800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时10分 ~ 06时59分]"
+          "appearance_count": 3,
+          "time_info": "[05时10分 ~ 08时13分]"
         }
       ]
     },
     {
       "keyword_group": "英伟达 NVIDIA 黄仁勋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "苹果谷歌英伟达，集体松了口气",
@@ -847,8 +920,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时52分 ~ 06时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时52分 ~ 08时13分]"
         },
         {
           "title": "台当局称正调查3人将英伟达芯片走私到大陆，外交部回应",
@@ -860,6 +933,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时52分 ~ 06时59分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达收跌1.9%，业绩报告发布当周回撤超4.4%",
+          "url": "https://wallstreetcn.com/livenews/3108276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
         },
         {
           "title": "本周，标普累涨约0.9%，道指涨2.1%，纳指涨0.3%，半导体指数涨5.1%，超大规模云服务商指数跌1.1%，科技股七巨头指数跌1.2%。 标普500指数初步收涨0.4%，保健板块涨1.2%，科技板块涨0.5%，能源板块涨0.2%，电信板块跌0.6%。 纳斯达克100指数初步收涨0.4%，成分股中，高通初步收涨11.5%，罗斯百货涨17.6%，Zscaler涨6.8%，恩智浦涨5.8%，Workday涨4.8%，Strategy跌3%，拼多多跌3.3%，闪迪跌3.7%，游戏股TTWO跌4.2% Merck初步收涨5.7%，Salesforce涨2.3%，思科涨2%，领跑道指成分股，麦当劳跌0.7%，沃尔玛跌0.7%，英伟达跌1.9%。",
@@ -875,48 +959,20 @@
       ]
     },
     {
-      "keyword_group": "claude Anthropic",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "市场消息：消息人士称，Anthropic将于下周尽快完成最新一轮融资，规模将超过300亿美元。Anthropic预计下个月收入年化将超过500亿美元。",
-          "url": "https://flash.jin10.com/detail/20260523034722842800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时10分 ~ 06时59分]"
-        },
-        {
-          "title": "报道：Anthropic最快下周完成逾300亿美元融资轮",
-          "url": "https://wallstreetcn.com/livenews/3108218",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        },
-        {
-          "title": "Anthropic介绍Project Glasssing的最新情况：发现大部分合作伙伴具有脆弱性，每个都发现数百个脆弱点。 下周将与伙伴们扩展Glasswing。 希望将Project Glasswing拓展至更多伙伴。 Mythos在开源项目上发现脆弱点。 希望在安全防护措施到位后扩大Mythos级别模型的应用。",
-          "url": "https://wallstreetcn.com/livenews/3108217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        }
-      ]
-    },
-    {
       "keyword_group": "科技",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
+          "url": "https://wallstreetcn.com/articles/3772907",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        },
         {
           "title": "恒生指数主连夜盘收跌0.49%，报25430点。 恒生科技指数主连夜盘收跌0.74%，报4824点。",
           "url": "https://wallstreetcn.com/livenews/3108206",
@@ -953,9 +1009,102 @@
       ]
     },
     {
+      "keyword_group": "特斯拉 马斯克",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "雷军：“媲美保时捷和特斯拉”不是吹嘘，希望大家有耐心再等小米5年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33206353",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时52分 ~ 08时13分]"
+        },
+        {
+          "title": "SpaceX成功发射星舰，马斯克IPO帝国版图迎来关键大考",
+          "url": "https://wallstreetcn.com/livenews/3108267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时59分 ~ 08时13分]"
+        },
+        {
+          "title": "马斯克SpaceX星舰V3首飞成功",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8BSpaceX%E6%98%9F%E8%88%B0V3%E9%A6%96%E9%A3%9E%E6%88%90%E5%8A%9F%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "claude Anthropic",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "市场消息：消息人士称，Anthropic将于下周尽快完成最新一轮融资，规模将超过300亿美元。Anthropic预计下个月收入年化将超过500亿美元。",
+          "url": "https://flash.jin10.com/detail/20260523034722842800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时10分 ~ 08时13分]"
+        },
+        {
+          "title": "报道：Anthropic最快下周完成逾300亿美元融资轮",
+          "url": "https://wallstreetcn.com/livenews/3108218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "Anthropic介绍Project Glasssing的最新情况：发现大部分合作伙伴具有脆弱性，每个都发现数百个脆弱点。 下周将与伙伴们扩展Glasswing。 希望将Project Glasswing拓展至更多伙伴。 Mythos在开源项目上发现脆弱点。 希望在安全防护措施到位后扩大Mythos级别模型的应用。",
+          "url": "https://wallstreetcn.com/livenews/3108217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "银行 金融科技 GDR概念",
       "match_count": 2,
       "titles": [
+        {
+          "title": "世界银行紧急驰援埃博拉疫情，正酝酿更大规模资金支持计划",
+          "url": "https://wallstreetcn.com/livenews/3108247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时59分 ~ 08时13分]"
+        },
         {
           "title": "美联储：华尔街银行生前遗愿不存在任何合规缺陷",
           "url": "https://wallstreetcn.com/livenews/3108233",
@@ -966,45 +1115,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
-        },
-        {
-          "title": "世界银行紧急驰援埃博拉疫情，正酝酿更大规模资金支持计划",
-          "url": "https://wallstreetcn.com/livenews/3108247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 马斯克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "雷军：“媲美保时捷和特斯拉”不是吹嘘，希望大家有耐心再等小米5年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33206353",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时52分 ~ 06时59分]"
-        },
-        {
-          "title": "SpaceX成功发射星舰，马斯克IPO帝国版图迎来关键大考",
-          "url": "https://wallstreetcn.com/livenews/3108267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时59分"
         }
       ]
     },
@@ -1056,11 +1166,12 @@
           "url": "https://wallstreetcn.com/livenews/3108253",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时59分 ~ 08时13分]"
         }
       ]
     },
@@ -1106,8 +1217,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时52分 ~ 06时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时52分 ~ 08时13分]"
         }
       ]
     },
@@ -1120,11 +1231,12 @@
           "url": "https://www.cls.cn/detail/2379168",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时52分 ~ 06时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时52分 ~ 08时13分]"
         }
       ]
     },
@@ -1141,8 +1253,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时52分 ~ 06时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时52分 ~ 08时13分]"
         }
       ]
     },
@@ -1177,8 +1289,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时52分 ~ 06时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时52分 ~ 08时13分]"
         }
       ]
     },
@@ -1195,8 +1307,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时52分 ~ 06时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时52分 ~ 08时13分]"
         }
       ]
     },
@@ -1213,8 +1325,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时52分 ~ 06时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时52分 ~ 08时13分]"
         }
       ]
     },
@@ -1244,11 +1356,12 @@
           "url": "https://wallstreetcn.com/livenews/3108244",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            22,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时59分 ~ 08时13分]"
         }
       ]
     }
