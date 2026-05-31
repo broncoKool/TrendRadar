@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T20:15:25.460979+08:00",
-  "total_titles_processed": 1074,
+  "generated_at": "2026-05-31T22:45:44.164814+08:00",
+  "total_titles_processed": 1215,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 36,
       "titles": [
         {
           "title": "伊朗准备为哈梅内伊举行盛大葬礼",
@@ -66,9 +66,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
+        },
+        {
+          "title": "伊朗议员：核问题不在谈判议程中 聚焦彻底结束战争",
+          "url": "https://flash.jin10.com/detail/20260531215927555800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "美国财长贝森特：霍尔木兹海峡必须恢复至（美国和以色列挑起伊朗战争）之前的水平。",
+          "url": "https://wallstreetcn.com/livenews/3111960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "据伊朗国家电视台：伊朗已获得与美国的谅解备忘录非正式文本。文本显示，伊朗将有权决定霍尔木兹海峡船只的性质，并将决定霍尔木兹海峡的航线和费用。",
@@ -297,13 +319,46 @@
           "time_info": "16时45分"
         },
         {
+          "title": "据伊朗国家媒体报道，伊朗伊斯兰革命卫队打击了伊拉克北部的“分离主义组织”据点。",
+          "url": "https://flash.jin10.com/detail/20260531215434150800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "伊朗国家媒体：伊朗伊斯兰革命卫队对伊拉克北部的“分离主义组织”据点实施了打击。",
+          "url": "https://wallstreetcn.com/livenews/3111959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "伊朗国家安全与外交政策委员会成员科萨里表示，核问题已被排除在谈判桌之外；目前尚未达成最终协议。（伊朗学生通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3111958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：在格什姆岛和阿巴斯港听到的声响，是因销毁战争遗留爆炸物所致。",
           "url": "https://flash.jin10.com/detail/20260531190212564800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -325,7 +380,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -372,13 +427,37 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社：埃及方面要求以色列完全撤出黎巴嫩。",
+          "url": "https://flash.jin10.com/detail/20260531203535600800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
+          "url": "https://wallstreetcn.com/articles/3773514",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时18分 ~ 22时45分]"
+        },
         {
           "title": "美伊局势迷雾重重：特朗普被曝推迟作“最终决定” 双方仍各说各话",
           "url": "https://www.cls.cn/detail/2385988",
@@ -390,19 +469,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时04分 ~ 13时18分]"
-        },
-        {
-          "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
-          "url": "https://wallstreetcn.com/articles/3773514",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 20时15分]"
         },
         {
           "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
@@ -453,6 +519,17 @@
           "time_info": "[01时04分 ~ 08时02分]"
         },
         {
+          "title": "美国总统特朗普：我们也将继续推进与叙利亚和伊拉克政府的战略合作，因此我们与他们的关系将持续加深！",
+          "url": "https://flash.jin10.com/detail/20260531221123279800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "美国总统特朗普：事实上，这是我进行的第四次此类测试，全部都是完美的，120道题目中答对120道！能够获得满分是非常罕见的，尤其是连续四次都能做到。",
           "url": "https://flash.jin10.com/detail/20260531123639729800",
           "source": "金十数据",
@@ -462,6 +539,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
+        },
+        {
+          "title": "美国总统特朗普：我很高兴地宣布，美国驻土耳其大使Tom Barrack在工作中表现出色，他将被任命为叙利亚和伊拉克事务的特别总统特使。",
+          "url": "https://flash.jin10.com/detail/20260531221054605800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "美国总统特朗普：Tom Barrack将兼任土耳其大使和叙利亚特使。",
+          "url": "https://wallstreetcn.com/livenews/3111962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "美国总统特朗普：将不在“自由250”音乐会上演出，但会在华盛顿特区同一地点的竞选集会上发表演讲。",
@@ -598,7 +697,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -650,7 +749,7 @@
     },
     {
       "keyword_group": "ai 人工智能 agent 大模型 多模态 全模态 跨模态 AGI AIGC AI+ AIPC AI语料 数字人",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "市值超2600亿港元！MiniMax再冲A股 港股“大模型双雄”即将又会师",
@@ -662,8 +761,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时04分 ~ 20时15分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 22时45分]"
         },
         {
           "title": "“牛市”底气：全球企业盈利已“脱离基本面”，利润率将冲击历史记录，“AI效果类似中国加入WTO”",
@@ -680,6 +779,19 @@
           "time_info": "[01时04分 ~ 16时45分]"
         },
         {
+          "title": "当胡彦斌1个月写出APP，AI时代已经扑面而来",
+          "url": "https://wallstreetcn.com/articles/3773513",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时18分 ~ 22时45分]"
+        },
+        {
           "title": "官方出手,AI吸附遭刑事打击",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354704&amp;topic_name=%E5%AE%98%E6%96%B9%E5%87%BA%E6%89%8B%2CAI%E5%90%B8%E9%99%84%E9%81%AD%E5%88%91%E4%BA%8B%E6%89%93%E5%87%BB",
           "source": "贴吧",
@@ -690,6 +802,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时04分 ~ 13时18分]"
+        },
+        {
+          "title": "高盛加入“AI瓶颈交易”：MLCC是新存储，已成AI服务器“第三大成本项”",
+          "url": "https://wallstreetcn.com/articles/3773499",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时58分 ~ 22时45分]"
         },
         {
           "title": "面向超大规模药物发现的人工智能虚拟筛选平台——GalaxyVS正式发布",
@@ -704,19 +827,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时05分 ~ 08时02分]"
-        },
-        {
-          "title": "当胡彦斌1个月写出APP，AI时代已经扑面而来",
-          "url": "https://wallstreetcn.com/articles/3773513",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 20时15分]"
         },
         {
           "title": "报道：软银承诺投资750亿欧元在法国建设AI设施，总规模5 GW",
@@ -759,17 +869,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时04分 ~ 08时02分]"
-        },
-        {
-          "title": "高盛加入“AI瓶颈交易”：MLCC是新存储，已成AI服务器“第三大成本项”",
-          "url": "https://wallstreetcn.com/articles/3773499",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时58分 ~ 20时15分]"
         },
         {
           "title": "AI军备竞赛下一个爆发点！高盛：电容就是“新内存”",
@@ -830,11 +929,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时45分 ~ 20时15分]"
+          "appearance_count": 4,
+          "time_info": "[16时45分 ~ 22时45分]"
         },
         {
           "title": "方正证券：AI主线继续演绎，同时兼顾HALO资产左侧的布局机会",
@@ -847,6 +947,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时58分 ~ 20时15分]"
+        },
+        {
+          "title": "让小孩学AI是浪费时间吗",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%A9%E5%B0%8F%E5%AD%A9%E5%AD%A6AI%E6%98%AF%E6%B5%AA%E8%B4%B9%E6%97%B6%E9%97%B4%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         }
       ]
     },
@@ -862,8 +973,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时58分 ~ 20时15分]"
+          "appearance_count": 3,
+          "time_info": "[18时58分 ~ 22时45分]"
         },
         {
           "title": "黄仁勋预告“PC新时代”：英伟达不想只卖GPU了",
@@ -939,8 +1050,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 20时15分]"
+          "appearance_count": 3,
+          "time_info": "[16时45分 ~ 22时45分]"
         },
         {
           "title": "黄仁勋在英伟达台北总部调侃居家办公",
@@ -1001,8 +1112,19 @@
     },
     {
       "keyword_group": "芯片 光刻机 存储芯片 半导体 IGBT概念 光模块 CPO概念 中芯概念 chiplet AI芯片",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "MCU巨头意法半导体年内二次涨价",
+          "url": "https://wallstreetcn.com/livenews/3111963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
         {
           "title": "芯片三巨头齐聚！COMPUTEX下周揭幕 哪些亮点值得期待？",
           "url": "https://www.cls.cn/detail/2386206",
@@ -1012,8 +1134,44 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 20时15分]"
+          "appearance_count": 5,
+          "time_info": "[13时18分 ~ 22时45分]"
+        },
+        {
+          "title": "景顺长城全球芯片LOF将于2026年6月1日开市起至当日10:30停牌。",
+          "url": "https://wallstreetcn.com/livenews/3111929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时15分 ~ 22时45分]"
+        },
+        {
+          "title": "小米自研芯片「玄戒 o3」六月量产，台积电 3nm 加持下性能会有多大提升？",
+          "url": "https://www.zhihu.com/question/2043989303341142831",
+          "source": "知乎",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时15分 ~ 22时45分]"
+        },
+        {
+          "title": "中韩半导体ETF华泰柏瑞将于2026年6月1日开市起至当日10:30停牌。",
+          "url": "https://wallstreetcn.com/livenews/3111928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时15分 ~ 22时45分]"
         },
         {
           "title": "景顺长城全球芯片LOF：将于2026年6月1日开市起至当日10:30停牌。",
@@ -1022,18 +1180,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        },
-        {
-          "title": "景顺长城全球芯片LOF将于2026年6月1日开市起至当日10:30停牌。",
-          "url": "https://wallstreetcn.com/livenews/3111929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -1044,18 +1191,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        },
-        {
-          "title": "中韩半导体ETF华泰柏瑞将于2026年6月1日开市起至当日10:30停牌。",
-          "url": "https://wallstreetcn.com/livenews/3111928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -1069,17 +1205,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
-        },
-        {
-          "title": "小米自研芯片「玄戒 o3」六月量产，台积电 3nm 加持下性能会有多大提升？",
-          "url": "https://www.zhihu.com/question/2043989303341142831",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时15分"
         }
       ]
     },
@@ -1106,7 +1231,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -1169,6 +1294,86 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "具身智能 零部件 人形机器人 虚拟机器人 云深处 智元 优必选 松延动力 Figure 波士顿动力 传感器 陀螺仪 机器人概念",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美军人形机器人已实战部署",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B7%B2%E5%AE%9E%E6%88%98%E9%83%A8%E7%BD%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 22时45分]"
+        },
+        {
+          "title": "美国人形机器人被曝已投入俄乌战场 军事专家：基本不能打仗",
+          "url": "https://wallstreetcn.com/livenews/3111829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            7,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 08时02分]"
+        },
+        {
+          "title": "北京推动“人工智能+文旅”发展，长城等将试点应用具身智能设备",
+          "url": "https://wallstreetcn.com/livenews/3111877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 18时58分]"
+        },
+        {
+          "title": "“没有零件就造不出设备”！韩国半导体检测设备业面临“史上最严重”零部件紧张",
+          "url": "https://wallstreetcn.com/articles/3773493",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时01分 ~ 13时18分]"
+        },
+        {
+          "title": "美媒：美公司在乌克兰测试人形机器人，计划将技术引入美军",
+          "url": "https://wallstreetcn.com/livenews/3111943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "美公司被曝拟在乌战场测试升级版人形机器人",
+          "url": "https://flash.jin10.com/detail/20260531171541034800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时58分"
         }
       ]
     },
@@ -1255,71 +1460,67 @@
       ]
     },
     {
-      "keyword_group": "具身智能 零部件 人形机器人 虚拟机器人 云深处 智元 优必选 松延动力 Figure 波士顿动力 传感器 陀螺仪 机器人概念",
+      "keyword_group": "上证指数 机构重仓 社保重仓 QFII重仓 基金重仓 基金 创投 NFT概念 REITs概念 稳定币 数字货币",
       "match_count": 5,
       "titles": [
         {
-          "title": "美军人形机器人已实战部署",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B7%B2%E5%AE%9E%E6%88%98%E9%83%A8%E7%BD%B2",
-          "source": "bilibili 热搜",
+          "title": "长鑫科技背后“稳赚”了八家券商！毛估460亿，科创投资正成券商第三条成长主线",
+          "url": "https://www.cls.cn/detail/2386026",
+          "source": "财联社热门",
           "ranks": [
-            12,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时04分 ~ 20时15分]"
-        },
-        {
-          "title": "美国人形机器人被曝已投入俄乌战场 军事专家：基本不能打仗",
-          "url": "https://wallstreetcn.com/livenews/3111829",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            7,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 08时02分]"
-        },
-        {
-          "title": "北京推动“人工智能+文旅”发展，长城等将试点应用具身智能设备",
-          "url": "https://wallstreetcn.com/livenews/3111877",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            2,
             3,
-            11,
-            23
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时18分 ~ 18时58分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 22时45分]"
         },
         {
-          "title": "“没有零件就造不出设备”！韩国半导体检测设备业面临“史上最严重”零部件紧张",
-          "url": "https://wallstreetcn.com/articles/3773493",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时01分 ~ 13时18分]"
-        },
-        {
-          "title": "美公司被曝拟在乌战场测试升级版人形机器人",
-          "url": "https://flash.jin10.com/detail/20260531171541034800",
+          "title": "华夏基金：巴西ETF暂停申购赎回业务",
+          "url": "https://flash.jin10.com/detail/20260531175755248800",
           "source": "金十数据",
           "ranks": [
-            20
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时58分 ~ 20时15分]"
+        },
+        {
+          "title": "美联储理事沃勒：稳定币将扩大美国货币政策的影响范围",
+          "url": "https://wallstreetcn.com/livenews/3111954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "丹麦养老基金将SpaceX列入黑名单：估值虚高、治理\"灾难性\"",
+          "url": "https://wallstreetcn.com/articles/3773476",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时58分"
+          "time_info": "03时16分"
+        },
+        {
+          "title": "美联储理事沃勒：稳定币普及将放大美联储政策影响力",
+          "url": "https://flash.jin10.com/detail/20260531213439482800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         }
       ]
     },
@@ -1370,6 +1571,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费 消费电子 新零售 茅台",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "十年老手机号过户要签保底消费？电信：属“一级靓号”，已专项申请免除",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33271869",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 20时15分]"
+        },
+        {
+          "title": "印度政府：国内消费的汽油和柴油现行消费税税率不变。",
+          "url": "https://flash.jin10.com/detail/20260531033934084800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 08时02分]"
+        },
+        {
+          "title": "印度政府：用于国内消费结关的汽油和柴油现行消费税税率保持不变",
+          "url": "https://wallstreetcn.com/livenews/3111843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时05分 ~ 13时18分]"
+        },
+        {
+          "title": "新华时评｜稻城亚丁们，该放弃“捆绑消费”思维了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33274259",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         }
       ]
     },
@@ -1433,135 +1689,62 @@
       ]
     },
     {
-      "keyword_group": "算力 电源设备 液冷 云计算 一体机 边缘计算 PCB PLC概念",
-      "match_count": 3,
+      "keyword_group": "新能源 供暖 光伏 风电设备 风能 煤炭 锂电 储能 地热能 核能核电 氢能源 充电桩 高压快充 虚拟电厂 固态电池 刀片电池 钒电池 HIT电池 钙钛矿电池 BC电池 燃料电池 电力 动力电池回收 电网设备 超级电容 绿色电力",
+      "match_count": 4,
       "titles": [
         {
-          "title": "全国首个绿色算力全栈AI平台上线",
-          "url": "https://www.cls.cn/detail/2386167",
-          "source": "财联社热门",
+          "title": "大V：印度电力被48度高温击穿",
+          "url": "https://www.toutiao.com/trending/7645994846196338214/",
+          "source": "今日头条",
           "ranks": [
             1
           ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时04分 ~ 20时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
-          "title": "多地电力负荷连创新高 算力用电年均或增超千亿度 绿电直连开启消纳“第二通道”",
-          "url": "https://www.cls.cn/detail/2386135",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时04分 ~ 20时15分]"
-        },
-        {
-          "title": "周末要闻汇总：全国首个绿色算力全栈AI平台上线；MiniMax启动A股上市辅导",
-          "url": "https://www.cls.cn/detail/2386314",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时58分 ~ 20时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "消费 消费电子 新零售 茅台",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "十年老手机号过户要签保底消费？电信：属“一级靓号”，已专项申请免除",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33271869",
+          "title": "云南一水电站未取得电力业务许可证违规供电，被罚没超200万元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33273413",
           "source": "澎湃新闻",
           "ranks": [
-            5,
-            3
+            9,
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时18分 ~ 20时15分]"
         },
         {
-          "title": "印度政府：国内消费的汽油和柴油现行消费税税率不变。",
-          "url": "https://flash.jin10.com/detail/20260531033934084800",
-          "source": "金十数据",
+          "title": "老人点燃杨絮 20辆新能源车被烧毁",
+          "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E7%82%B9%E7%87%83%E6%9D%A8%E7%B5%AE+20%E8%BE%86%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%A2%AB%E7%83%A7%E6%AF%81",
+          "source": "百度热搜",
           "ranks": [
-            7,
+            26,
             10,
-            11
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时58分 ~ 08时02分]"
+          "time_info": "[18时58分 ~ 22时45分]"
         },
         {
-          "title": "印度政府：用于国内消费结关的汽油和柴油现行消费税税率保持不变",
-          "url": "https://wallstreetcn.com/livenews/3111843",
+          "title": "7273辆新能源车从江苏南通出海欧洲",
+          "url": "https://wallstreetcn.com/livenews/3111946",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            9,
-            25
+            16
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时05分 ~ 13时18分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "上证指数 机构重仓 社保重仓 QFII重仓 基金重仓 基金 创投 NFT概念 REITs概念 稳定币 数字货币",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "长鑫科技背后“稳赚”了八家券商！毛估460亿，科创投资正成券商第三条成长主线",
-          "url": "https://www.cls.cn/detail/2386026",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时04分 ~ 20时15分]"
-        },
-        {
-          "title": "华夏基金：巴西ETF暂停申购赎回业务",
-          "url": "https://flash.jin10.com/detail/20260531175755248800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时58分 ~ 20时15分]"
-        },
-        {
-          "title": "丹麦养老基金将SpaceX列入黑名单：估值虚高、治理\"灾难性\"",
-          "url": "https://wallstreetcn.com/articles/3773476",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时16分"
+          "time_info": "22时45分"
         }
       ]
     },
     {
       "keyword_group": "华为 海思 昇腾 鸿蒙 HarmonyOS 任正非",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "台积电领先10年？黄仁勋误读了华为韬定律",
@@ -1592,11 +1775,67 @@
           "url": "https://www.zhihu.com/question/2044415469747007658",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时15分 ~ 22时45分]"
+        },
+        {
+          "title": "华境S上市，15万级唯一标配华为乾崑全家桶旗舰大六座来了",
+          "url": "https://wallstreetcn.com/livenews/3111952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时15分"
+          "time_info": "22时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 电源设备 液冷 云计算 一体机 边缘计算 PCB PLC概念",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "全国首个绿色算力全栈AI平台上线",
+          "url": "https://www.cls.cn/detail/2386167",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 22时45分]"
+        },
+        {
+          "title": "多地电力负荷连创新高 算力用电年均或增超千亿度 绿电直连开启消纳“第二通道”",
+          "url": "https://www.cls.cn/detail/2386135",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 22时45分]"
+        },
+        {
+          "title": "周末要闻汇总：全国首个绿色算力全栈AI平台上线；MiniMax启动A股上市辅导",
+          "url": "https://www.cls.cn/detail/2386314",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时58分 ~ 22时45分]"
         }
       ]
     },
@@ -1614,8 +1853,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时04分 ~ 20时15分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 22时45分]"
         },
         {
           "title": "10名中国车主诉特斯拉FSD欺诈索395万",
@@ -1650,17 +1889,30 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "司机激活智驾并双手脱离方向盘不到一分钟，撞上半挂车，轿车上一家三口身亡，智驾真的能解放双手吗？",
+          "url": "https://www.zhihu.com/question/2044378272578932828",
+          "source": "知乎",
+          "ranks": [
+            15,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时15分 ~ 22时45分]"
+        },
+        {
           "title": "“司机夜间激活智驾并双手脱离方向盘”，江西一轿车追尾致3死调查报告公布",
           "url": "https://m.thepaper.cn/newsDetail_forward_33275467",
           "source": "澎湃新闻",
           "ranks": [
             15,
             14,
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时45分 ~ 20时15分]"
+          "appearance_count": 4,
+          "time_info": "[16时45分 ~ 22时45分]"
         },
         {
           "title": "1家3口车祸身亡 事发前司机激活智驾",
@@ -1672,17 +1924,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
-        },
-        {
-          "title": "司机激活智驾并双手脱离方向盘不到一分钟，撞上半挂车，轿车上一家三口身亡，智驾真的能解放双手吗？",
-          "url": "https://www.zhihu.com/question/2044378272578932828",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时15分"
         }
       ]
     },
@@ -1715,37 +1956,6 @@
       ]
     },
     {
-      "keyword_group": "新能源 供暖 光伏 风电设备 风能 煤炭 锂电 储能 地热能 核能核电 氢能源 充电桩 高压快充 虚拟电厂 固态电池 刀片电池 钒电池 HIT电池 钙钛矿电池 BC电池 燃料电池 电力 动力电池回收 电网设备 超级电容 绿色电力",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "云南一水电站未取得电力业务许可证违规供电，被罚没超200万元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33273413",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 20时15分]"
-        },
-        {
-          "title": "老人点燃杨絮 20辆新能源车被烧毁",
-          "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E7%82%B9%E7%87%83%E6%9D%A8%E7%B5%AE+20%E8%BE%86%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%A2%AB%E7%83%A7%E6%AF%81",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时58分 ~ 20时15分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "低空经济 海洋经济 深地经济 盲盒经济 谷子经济 共享经济 地摊经济 首发经济 黄发经济 银发经济 宠物经济",
       "match_count": 2,
       "titles": [
@@ -1754,11 +1964,12 @@
           "url": "https://wallstreetcn.com/livenews/3111934",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时15分 ~ 22时45分]"
         },
         {
           "title": "《广东省低空经济发展条例（征求意见稿）》公开征求意见",
@@ -1815,8 +2026,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时58分 ~ 20时15分]"
+          "appearance_count": 3,
+          "time_info": "[18时58分 ~ 22时45分]"
         },
         {
           "title": "为什么无论是 chatgpt 还是 deepseek 都会在 24 点游戏上表现的这么差？",
@@ -1845,11 +2056,12 @@
             17,
             24,
             27,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时04分 ~ 20时15分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 22时45分]"
         },
         {
           "title": "为什么比亚迪既能自研芯片，又敢兜底 1 年？如何评价？",
@@ -1897,6 +2109,65 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai sora",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "报道：OpenAI在讨论将花旗、摩根大通纳入IPO承销商名单",
+          "url": "https://wallstreetcn.com/livenews/3111808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 04时58分]"
+        },
+        {
+          "title": "OpenAI模型推翻80年的数学经典猜想，引发学界震动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33276037",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "连涨9周，自3月低点反弹20%！美股这波反弹之凶猛“历史罕见”",
+          "url": "https://wallstreetcn.com/articles/3773491",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 08时02分]"
+        },
+        {
+          "title": "美股的“午夜钟声”或将敲响",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%9A%84%E2%80%9C%E5%8D%88%E5%A4%9C%E9%92%9F%E5%A3%B0%E2%80%9D%E6%88%96%E5%B0%86%E6%95%B2%E5%93%8D",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "大数据 数据集 语料 数据中心 数据要素",
       "match_count": 1,
       "titles": [
@@ -1934,6 +2205,23 @@
       ]
     },
     {
+      "keyword_group": "宇树 王兴兴",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "下周重磅日程：美非农、ComputeX大会、宇树IPO上会、美团博通财报",
+          "url": "https://wallstreetcn.com/articles/3773422",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "微软 Microsoft",
       "match_count": 1,
       "titles": [
@@ -1948,24 +2236,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时04分 ~ 16时45分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai sora",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "报道：OpenAI在讨论将花旗、摩根大通纳入IPO承销商名单",
-          "url": "https://wallstreetcn.com/livenews/3111808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时58分]"
         }
       ]
     },
@@ -2018,25 +2288,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时01分 ~ 08时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "连涨9周，自3月低点反弹20%！美股这波反弹之凶猛“历史罕见”",
-          "url": "https://wallstreetcn.com/articles/3773491",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 08时02分]"
         }
       ]
     }
