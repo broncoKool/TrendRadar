@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T21:44:18.618146+08:00",
-  "total_titles_processed": 1295,
+  "generated_at": "2026-06-06T23:16:44.248479+08:00",
+  "total_titles_processed": 1375,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 64,
+      "match_count": 66,
       "titles": [
         {
           "title": "伊朗外长：哈梅内伊遇害那一刻，我就在他办公室里",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时26分 ~ 19时27分]"
+        },
+        {
+          "title": "伊朗外交部谴责美军多次违反停火协议",
+          "url": "https://wallstreetcn.com/livenews/3115473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 23时16分]"
         },
         {
           "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
@@ -53,26 +65,15 @@
           "time_info": "17时27分"
         },
         {
-          "title": "美媒曝以色列在伊朗周边多国设据点",
-          "url": "https://flash.jin10.com/detail/20260606211807242800",
+          "title": "世界杯伊朗代表团十余人遭美国拒签",
+          "url": "https://flash.jin10.com/detail/20260606223809441800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "伊朗外交部谴责美军多次违反停火协议",
-          "url": "https://wallstreetcn.com/livenews/3115473",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
+          "time_info": "23时16分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：巴基斯坦内政部长将于周六前往德黑兰。",
@@ -84,39 +85,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
-        },
-        {
-          "title": "据伊朗学生通讯社：巴基斯坦内政部长已出发前往德黑兰。",
-          "url": "https://flash.jin10.com/detail/20260606211126426800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "伊朗足协：多名国家队随队成员未获签证 美国违背国际体育规则",
-          "url": "https://wallstreetcn.com/livenews/3115472",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "伊朗外交部发布关于美国持续违反停火的声明",
-          "url": "https://flash.jin10.com/detail/20260606205532485800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
         },
         {
           "title": "伊朗副外长加里巴巴迪：如果国际原子能机构希望成为外交解决方案的一部分，就必须避免将技术报告变成政治施压的工具。",
@@ -139,6 +107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
+        },
+        {
+          "title": "伊朗代表团：对核设施的攻击不应被正常化",
+          "url": "https://flash.jin10.com/detail/20260606220551364800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "伊朗称美军第五舰队总部遭打击，美方否认",
@@ -174,6 +153,43 @@
           "time_info": "17时27分"
         },
         {
+          "title": "伊朗足协：多名国家队随队成员未获签证 美国违背国际体育规则",
+          "url": "https://wallstreetcn.com/livenews/3115472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 23时16分]"
+        },
+        {
+          "title": "美媒曝以色列在伊朗周边多国设据点",
+          "url": "https://flash.jin10.com/detail/20260606211807242800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 23时16分]"
+        },
+        {
+          "title": "美国海上封锁已使伊朗损失近60亿美元石油收入",
+          "url": "https://wallstreetcn.com/livenews/3115452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时27分 ~ 23时16分]"
+        },
+        {
           "title": "报道：多名伊朗世界杯工作人员被美国拒签",
           "url": "https://wallstreetcn.com/livenews/3115430",
           "source": "华尔街见闻-快讯",
@@ -199,16 +215,16 @@
           "time_info": "[19时27分 ~ 21时44分]"
         },
         {
-          "title": "美国海上封锁已使伊朗损失近60亿美元石油收入",
-          "url": "https://wallstreetcn.com/livenews/3115452",
-          "source": "华尔街见闻-快讯",
+          "title": "据伊朗学生通讯社：巴基斯坦内政部长已出发前往德黑兰。",
+          "url": "https://flash.jin10.com/detail/20260606211126426800",
+          "source": "金十数据",
           "ranks": [
-            1,
-            20
+            2,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时27分 ~ 21时44分]"
+          "time_info": "[21时44分 ~ 23时16分]"
         },
         {
           "title": "据伊朗媒体Fars News：霍尔木兹甘省政府称，由于对未爆弹药的排除，霍尔木兹港在接下来的四天内可能会听到爆炸声。",
@@ -233,6 +249,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时56分 ~ 05时27分]"
+        },
+        {
+          "title": "伊朗外交部发布关于美国持续违反停火的声明",
+          "url": "https://flash.jin10.com/detail/20260606205532485800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 23时16分]"
         },
         {
           "title": "伊朗外长：亲历已故最高领袖遇害瞬间",
@@ -260,6 +288,19 @@
           "time_info": "[14时53分 ~ 19时27分]"
         },
         {
+          "title": "伊朗称在边境地区击毙6名恐怖分子",
+          "url": "https://wallstreetcn.com/livenews/3115446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时27分 ~ 23时16分]"
+        },
+        {
           "title": "伊朗最高领袖军事顾问警告美国或将“损失惨重”",
           "url": "https://wallstreetcn.com/livenews/3115423",
           "source": "华尔街见闻-快讯",
@@ -284,16 +325,28 @@
           "time_info": "[11时31分 ~ 14时53分]"
         },
         {
-          "title": "伊朗称在边境地区击毙6名恐怖分子",
-          "url": "https://wallstreetcn.com/livenews/3115446",
+          "title": "美媒曝以色列在伊朗周边多国设据点",
+          "url": "https://wallstreetcn.com/livenews/3115465",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            26
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时27分 ~ 21时44分]"
+          "time_info": "[21时44分 ~ 23时16分]"
+        },
+        {
+          "title": "伊朗政府：伊朗工业部长赛义德·穆罕默德·阿塔巴克与白俄罗斯官员召开会议，强调扩大工业、贸易和物流合作，重点讨论联合生产、机械供应和运输发展。",
+          "url": "https://flash.jin10.com/detail/20260606203248151800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 23时16分]"
         },
         {
           "title": "伊朗外长：我亲历已故最高领袖遇害瞬间",
@@ -308,6 +361,30 @@
           "time_info": "[17时27分 ~ 19时27分]"
         },
         {
+          "title": "巴基斯坦内政部长周六访问伊朗 旨在打破美伊僵局并达成临时协议的新提案",
+          "url": "https://flash.jin10.com/detail/20260606202748225800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 23时16分]"
+        },
+        {
+          "title": "科威特军方：伊朗袭击造成物质损失，但没有人员伤亡。",
+          "url": "https://flash.jin10.com/detail/20260606200409038800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 23时16分]"
+        },
+        {
           "title": "伊朗称拦截违规油轮后遭美军攻击 警告美勿重演恶行",
           "url": "https://wallstreetcn.com/livenews/3115407",
           "source": "华尔街见闻-快讯",
@@ -320,6 +397,18 @@
           "time_info": "[11时31分 ~ 14时53分]"
         },
         {
+          "title": "科威特军方：周六拦截了来自伊朗的七枚导弹。",
+          "url": "https://flash.jin10.com/detail/20260606200351570800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 23时16分]"
+        },
+        {
           "title": "美军称拦截伊朗导弹和无人机",
           "url": "https://wallstreetcn.com/livenews/3115405",
           "source": "华尔街见闻-快讯",
@@ -330,6 +419,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时31分 ~ 14时53分]"
+        },
+        {
+          "title": "海湾合作委员会秘书长：伊朗继续其恐怖活动的行为证明了其破坏安全的意图。",
+          "url": "https://flash.jin10.com/detail/20260606194054552800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 23时16分]"
         },
         {
           "title": "伊朗革命卫队称中东地区美军基地遭袭",
@@ -366,28 +467,6 @@
           "time_info": "17时27分"
         },
         {
-          "title": "美媒曝以色列在伊朗周边多国设据点",
-          "url": "https://wallstreetcn.com/livenews/3115465",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "伊朗政府：伊朗工业部长赛义德·穆罕默德·阿塔巴克与白俄罗斯官员召开会议，强调扩大工业、贸易和物流合作，重点讨论联合生产、机械供应和运输发展。",
-          "url": "https://flash.jin10.com/detail/20260606203248151800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
           "title": "巴林军方表示，成功拦截了来自伊朗的三枚导弹和多架无人机。",
           "url": "https://flash.jin10.com/detail/20260606180922879800",
           "source": "金十数据",
@@ -397,17 +476,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
-        },
-        {
-          "title": "巴基斯坦内政部长周六访问伊朗 旨在打破美伊僵局并达成临时协议的新提案",
-          "url": "https://flash.jin10.com/detail/20260606202748225800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
         },
         {
           "title": "据沙特媒体哈达斯（Alhadath）：消息人士称，伊朗要求就核文件的细节进行为期三个月的谈判。",
@@ -421,17 +489,6 @@
           "time_info": "19时27分"
         },
         {
-          "title": "科威特军方：伊朗袭击造成物质损失，但没有人员伤亡。",
-          "url": "https://flash.jin10.com/detail/20260606200409038800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗和巴基斯坦的内政部长再次会晤，就地区局势发展进行磋商。",
           "url": "https://flash.jin10.com/detail/20260606102952590800",
           "source": "金十数据",
@@ -441,17 +498,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
-        },
-        {
-          "title": "科威特军方：周六拦截了来自伊朗的七枚导弹。",
-          "url": "https://flash.jin10.com/detail/20260606200351570800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
         },
         {
           "title": "伊朗最高领袖顾问重申：伊朗和阿曼对霍尔木兹海峡拥有主权",
@@ -498,17 +544,6 @@
           "time_info": "19时27分"
         },
         {
-          "title": "海湾合作委员会秘书长：伊朗继续其恐怖活动的行为证明了其破坏安全的意图。",
-          "url": "https://flash.jin10.com/detail/20260606194054552800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
           "title": "美军中央司令部称拦截了伊朗导弹和无人机",
           "url": "https://flash.jin10.com/detail/20260606101944957800",
           "source": "金十数据",
@@ -548,7 +583,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -647,7 +682,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -680,7 +715,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -732,7 +767,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "在这件事上，特朗普宣布要花7亿美元",
@@ -769,6 +804,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时31分 ~ 14时53分]"
+        },
+        {
+          "title": "特朗普戴上金牌后开玩笑称“不想还了”：我喜欢金子，要留着",
+          "url": "https://v.ifeng.com/c/8tjL2UjJKhb",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 23时16分]"
         },
         {
           "title": "普京：感谢特朗普调教泽连斯基举止",
@@ -835,17 +881,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
-        },
-        {
-          "title": "特朗普戴上金牌后开玩笑称“不想还了”：我喜欢金子，要留着",
-          "url": "https://v.ifeng.com/c/8tjL2UjJKhb",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
         },
         {
           "title": "美媒：特朗普称已敦促普尔特对国家情报局进行裁员",
@@ -1249,6 +1284,17 @@
           "time_info": "11时31分"
         },
         {
+          "title": "伊朗高官：谈判主动权在特朗普手里",
+          "url": "https://www.toutiao.com/trending/7648086385831804969/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普赦免斯蒂芬·E·拜尔（ STEPHEN E. BUYER）。",
           "url": "https://flash.jin10.com/detail/20260606094705564800",
           "source": "金十数据",
@@ -1274,7 +1320,7 @@
     },
     {
       "keyword_group": "ai 人工智能 agent 大模型 多模态 全模态 跨模态 AGI AIGC AI+ AIPC AI语料 数字人",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
@@ -1282,11 +1328,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时10分 ~ 21时44分]"
+          "appearance_count": 8,
+          "time_info": "[07时10分 ~ 23时16分]"
         },
         {
           "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
@@ -1299,6 +1346,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时55分 ~ 07时10分]"
+        },
+        {
+          "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
+          "url": "https://wallstreetcn.com/articles/3774007",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时53分 ~ 23时16分]"
         },
         {
           "title": "马上评｜该对AI外呼骚扰电话出手了",
@@ -1328,20 +1387,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时55分 ~ 21时44分]"
-        },
-        {
-          "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
-          "url": "https://wallstreetcn.com/articles/3774007",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时53分 ~ 21时44分]"
+          "appearance_count": 13,
+          "time_info": "[01时55分 ~ 23时16分]"
         },
         {
           "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
@@ -1574,6 +1621,17 @@
           "time_info": "19时27分"
         },
         {
+          "title": "施一公在人民日报发文《人工智能时代，教育何为》，如何理解他的这篇文章？",
+          "url": "https://www.zhihu.com/question/2046182456277956497",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "据Politico：特朗普最早将于下周与人工智能公司会面，商讨政府利润分成计划。",
           "url": "https://flash.jin10.com/detail/20260606031919745800",
           "source": "金十数据",
@@ -1594,6 +1652,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
+        },
+        {
+          "title": "为什么现在 AI 生成到了人人喊打的境遇？大量劣质一眼假的东西泛滥成灾？",
+          "url": "https://www.zhihu.com/question/2044941270087463980",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
+          "title": "ai广告",
+          "url": "https://s.weibo.com/weibo?q=ai%E5%B9%BF%E5%91%8A&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "据福布斯：人工智能编程初创公司Lovable正在洽谈融资，目标估值约120亿美元。",
@@ -1643,7 +1723,7 @@
     },
     {
       "keyword_group": "黄金 贵金属 能源金属 稀土 磁性材料 锂矿 钛白粉 有色 煤炭 小金属 钢铁",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "男子偷走百万黄金 留下半瓶可乐",
@@ -1679,8 +1759,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时31分 ~ 21时44分]"
+          "appearance_count": 7,
+          "time_info": "[11时31分 ~ 23时16分]"
         },
         {
           "title": "母亲把黄金藏水壶被女儿当废品卖了",
@@ -1708,6 +1788,17 @@
           "time_info": "03时56分"
         },
         {
+          "title": "金饰价格跌去约21% 黄金还能买吗",
+          "url": "https://www.toutiao.com/trending/7648263144199949867/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "女子60克黄金藏水壶 女儿当废品卖了",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%9060%E5%85%8B%E9%BB%84%E9%87%91%E8%97%8F%E6%B0%B4%E5%A3%B6+%E5%A5%B3%E5%84%BF%E5%BD%93%E5%BA%9F%E5%93%81%E5%8D%96%E4%BA%86",
           "source": "百度热搜",
@@ -1732,6 +1823,18 @@
           "time_info": "[01时55分 ~ 07时10分]"
         },
         {
+          "title": "黄金抹去2026年全部涨幅，白银单日暴跌8.5%，美国强劲就业数据推升加息预期",
+          "url": "https://wallstreetcn.com/articles/3773995",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时27分 ~ 23时16分]"
+        },
+        {
           "title": "废品站称没见60g黄金母亲疑其撒谎",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BA%9F%E5%93%81%E7%AB%99%E7%A7%B0%E6%B2%A1%E8%A7%8160g%E9%BB%84%E9%87%91%E6%AF%8D%E4%BA%B2%E7%96%91%E5%85%B6%E6%92%92%E8%B0%8E%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -1742,18 +1845,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时53分 ~ 17时27分]"
-        },
-        {
-          "title": "黄金抹去2026年全部涨幅，白银单日暴跌8.5%，美国强劲就业数据推升加息预期",
-          "url": "https://wallstreetcn.com/articles/3773995",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时27分 ~ 21时44分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至6月2日当周，COMEX黄金期货投机性净多头头寸增加 14,409手至111,341手。",
@@ -1802,6 +1893,162 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
+          "url": "https://wallstreetcn.com/articles/3773949",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时55分 ~ 14时53分]"
+        },
+        {
+          "title": "美股三大指数集体收跌，纳指跌超 1100 点，美国非农数据大幅超预期，加息预期升温，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2046360260902909588",
+          "source": "知乎",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时31分 ~ 21时44分]"
+        },
+        {
+          "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
+          "url": "https://www.cls.cn/detail/2392638",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时27分 ~ 23时16分]"
+        },
+        {
+          "title": "美股一夜蒸发超万亿美元市值",
+          "url": "https://www.toutiao.com/trending/7648103085272731199/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 19时27分]"
+        },
+        {
+          "title": "如何看待美股一夜蒸发2万亿",
+          "url": "https://www.toutiao.com/trending/7648181420996693523/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 21时44分]"
+        },
+        {
+          "title": "美股遭遇抛售，但高盛称未见仓位极端拥挤现象",
+          "url": "https://wallstreetcn.com/livenews/3115345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 07时10分]"
+        },
+        {
+          "title": "如何应对美股泡沫爆破",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E7%BE%8E%E8%82%A1%E6%B3%A1%E6%B2%AB%E7%88%86%E7%A0%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
+          "title": "金十图示：2026年06月05日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260606040853818800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "特朗普称美股应随“绝佳”就业报告上涨，哈塞特表示定价年内加息是错误的",
+          "url": "https://wallstreetcn.com/articles/3773991",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
+          "title": "金十图示：2026年06月05日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260606040847799800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "CoreWeave美股盘后跌3.6%。 该公司股东Jane Street Singapore登记减持高达920万股，可能还将时不时地出售所持股份。",
+          "url": "https://wallstreetcn.com/livenews/3115338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "美股三大指数齐跌 纳指跌逾千点",
+          "url": "https://www.toutiao.com/trending/7647681791742214171/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "新兴市场ETF收跌超6.5%，领跌美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3115331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "英伟达 NVIDIA 黄仁勋",
       "match_count": 12,
       "titles": [
@@ -1836,11 +2083,23 @@
           "ranks": [
             14,
             17,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时26分 ~ 21时44分]"
+          "appearance_count": 5,
+          "time_info": "[17时26分 ~ 23时16分]"
+        },
+        {
+          "title": "黄仁勋坐过的炸鸡店椅子火了，有韩国人排队三小时",
+          "url": "https://news.ifeng.com/c/8tk2DSWJkSa",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 23时16分]"
         },
         {
           "title": "市场消息：美国参议员沃伦呼吁英伟达(NVDA.O)总裁于6月11日出席听证会。",
@@ -1852,17 +2111,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
-        },
-        {
-          "title": "黄仁勋坐过的炸鸡店椅子火了，有韩国人排队三小时",
-          "url": "https://news.ifeng.com/c/8tk2DSWJkSa",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
         },
         {
           "title": "英伟达新品被指内存容量“缩水” 海内外存储股应声重挫",
@@ -1944,151 +2192,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
-          "url": "https://wallstreetcn.com/articles/3773949",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时55分 ~ 14时53分]"
-        },
-        {
-          "title": "美股三大指数集体收跌，纳指跌超 1100 点，美国非农数据大幅超预期，加息预期升温，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2046360260902909588",
-          "source": "知乎",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时31分 ~ 21时44分]"
-        },
-        {
-          "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
-          "url": "https://www.cls.cn/detail/2392638",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时27分 ~ 21时44分]"
-        },
-        {
-          "title": "美股一夜蒸发超万亿美元市值",
-          "url": "https://www.toutiao.com/trending/7648103085272731199/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时26分 ~ 19时27分]"
-        },
-        {
-          "title": "如何看待美股一夜蒸发2万亿",
-          "url": "https://www.toutiao.com/trending/7648181420996693523/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时27分 ~ 21时44分]"
-        },
-        {
-          "title": "美股遭遇抛售，但高盛称未见仓位极端拥挤现象",
-          "url": "https://wallstreetcn.com/livenews/3115345",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 07时10分]"
-        },
-        {
-          "title": "如何应对美股泡沫爆破",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E7%BE%8E%E8%82%A1%E6%B3%A1%E6%B2%AB%E7%88%86%E7%A0%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "金十图示：2026年06月05日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260606040853818800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "金十图示：2026年06月05日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260606040847799800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "CoreWeave美股盘后跌3.6%。 该公司股东Jane Street Singapore登记减持高达920万股，可能还将时不时地出售所持股份。",
-          "url": "https://wallstreetcn.com/livenews/3115338",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "美股三大指数齐跌 纳指跌逾千点",
-          "url": "https://www.toutiao.com/trending/7647681791742214171/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时31分"
-        },
-        {
-          "title": "新兴市场ETF收跌超6.5%，领跌美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3115331",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "上证指数 机构重仓 社保重仓 QFII重仓 基金重仓 基金 创投 NFT概念 REITs概念 稳定币 数字货币",
       "match_count": 11,
       "titles": [
@@ -2100,11 +2203,12 @@
             2,
             3,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时31分 ~ 21时44分]"
+          "appearance_count": 7,
+          "time_info": "[11时31分 ~ 23时16分]"
         },
         {
           "title": "事关私募基金高质量发展 国办公布指导意见",
@@ -2157,6 +2261,17 @@
           "time_info": "[11时31分 ~ 17时27分]"
         },
         {
+          "title": "吴清：公募基金要坚决遏制赌押赛道、风格漂移、高位发行等顽疾",
+          "url": "https://wallstreetcn.com/articles/3774022",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 23时16分]"
+        },
+        {
           "title": "上银基金总经理尉迟平离任",
           "url": "https://wallstreetcn.com/livenews/3115410",
           "source": "华尔街见闻-快讯",
@@ -2191,17 +2306,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时27分 ~ 19时27分]"
-        },
-        {
-          "title": "吴清：公募基金要坚决遏制赌押赛道、风格漂移、高位发行等顽疾",
-          "url": "https://wallstreetcn.com/articles/3774022",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
         },
         {
           "title": "数字货币市场持续下挫，小盘、中盘指数在非农日跌超9%",
@@ -2240,8 +2344,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时10分 ~ 21时44分]"
+          "appearance_count": 8,
+          "time_info": "[07时10分 ~ 23时16分]"
         },
         {
           "title": "美国芯片股单日蒸发逾万亿美元市值，费城半导体指数创六年最大单日跌幅",
@@ -2253,8 +2357,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时31分 ~ 21时44分]"
+          "appearance_count": 7,
+          "time_info": "[11时31分 ~ 23时16分]"
         },
         {
           "title": "美国政府发布关于铝、钢铁、铜关税的指引。标普目前跌2.6%，道指跌711点、跌幅1.38%，纳指跌4%，半导体指数重挫9.1%。",
@@ -2382,8 +2486,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时53分 ~ 21时44分]"
+          "appearance_count": 6,
+          "time_info": "[14时53分 ~ 23时16分]"
         },
         {
           "title": "吴清：新一轮科技革命和产业变革加快突破 亟需构建更加适配的金融服务体系",
@@ -2568,7 +2672,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         }
@@ -2651,6 +2755,151 @@
       ]
     },
     {
+      "keyword_group": "特斯拉 马斯克",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "特朗普“官宣”：我和马斯克又成朋友了",
+          "url": "https://news.ifeng.com/c/8tjmsxXSCQI",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时26分 ~ 23时16分]"
+        },
+        {
+          "title": "阿斯麦：马斯克将出席本公司闭门技术研讨会，讨论Terafab项目",
+          "url": "https://wallstreetcn.com/livenews/3115479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
+          "title": "美国总统特朗普：马斯克80%的时候很聪明，20%的时候很糟糕。",
+          "url": "https://flash.jin10.com/detail/20260606053856908800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时10分"
+        },
+        {
+          "title": "美国总统特朗普：马斯克曾有一个糟糕的时刻，但现在他是我的一个好朋友。 在马斯克身上，有80%的聪明、也有20%的糟糕时刻",
+          "url": "https://wallstreetcn.com/livenews/3115357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时10分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收跌超6.5%，英伟达也跌6.2%",
+          "url": "https://wallstreetcn.com/livenews/3115381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "特朗普官宣和马斯克又成朋友了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%98%E5%AE%A3%E5%92%8C%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%88%E6%88%90%E6%9C%8B%E5%8F%8B%E4%BA%86%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "金价跌回2025年",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E2025%E5%B9%B4%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时27分]"
+        },
+        {
+          "title": "国际金价在非农日跌约3.3%，白银跌8%，纽约铜跌超4%",
+          "url": "https://wallstreetcn.com/livenews/3115341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "金价年内大跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%B9%B4%E5%86%85%E5%A4%A7%E8%B7%8C%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
+          "title": "金价银价又大跌了",
+          "url": "https://www.douyin.com/hot/2524975",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
+          "title": "美就业数据推动加息预期 金价承压并回吐年内涨幅",
+          "url": "https://flash.jin10.com/detail/20260606031454932800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "大数据 数据集 语料 数据中心 数据要素",
       "match_count": 5,
       "titles": [
@@ -2708,129 +2957,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 马斯克",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "特朗普“官宣”：我和马斯克又成朋友了",
-          "url": "https://news.ifeng.com/c/8tjmsxXSCQI",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时26分 ~ 21时44分]"
-        },
-        {
-          "title": "美国总统特朗普：马斯克80%的时候很聪明，20%的时候很糟糕。",
-          "url": "https://flash.jin10.com/detail/20260606053856908800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时10分"
-        },
-        {
-          "title": "美国总统特朗普：马斯克曾有一个糟糕的时刻，但现在他是我的一个好朋友。 在马斯克身上，有80%的聪明、也有20%的糟糕时刻",
-          "url": "https://wallstreetcn.com/livenews/3115357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时10分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收跌超6.5%，英伟达也跌6.2%",
-          "url": "https://wallstreetcn.com/livenews/3115381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时31分"
-        },
-        {
-          "title": "特朗普官宣和马斯克又成朋友了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%98%E5%AE%A3%E5%92%8C%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%88%E6%88%90%E6%9C%8B%E5%8F%8B%E4%BA%86%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "金价跌回2025年",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E2025%E5%B9%B4%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 17时27分]"
-        },
-        {
-          "title": "国际金价在非农日跌约3.3%，白银跌8%，纽约铜跌超4%",
-          "url": "https://wallstreetcn.com/livenews/3115341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时31分"
-        },
-        {
-          "title": "金价年内大跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%B9%B4%E5%86%85%E5%A4%A7%E8%B7%8C%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "美就业数据推动加息预期 金价承压并回吐年内涨幅",
-          "url": "https://flash.jin10.com/detail/20260606031454932800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时56分"
         }
       ]
     },
@@ -2991,9 +3117,60 @@
       ]
     },
     {
+      "keyword_group": "军工 航空 航天 航母",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "马桶干翻价值130亿美元的航母",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%A1%B6%E5%B9%B2%E7%BF%BB%E4%BB%B7%E5%80%BC130%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E8%88%AA%E6%AF%8D",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 23时16分]"
+        },
+        {
+          "title": "新西兰航空CEO：计划在2027财年以约150美元/桶的价格采购新加坡航空燃油。",
+          "url": "https://flash.jin10.com/detail/20260606215535029800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
+          "title": "新西兰航空CEO：航空公司通过对冲和票价上涨仅抵消了25%-40%的燃料成本影响。",
+          "url": "https://flash.jin10.com/detail/20260606215525644800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "iphone ipad mac ios",
       "match_count": 3,
       "titles": [
+        {
+          "title": "苹果iOS27渲染视频",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9CiOS27%E6%B8%B2%E6%9F%93%E8%A7%86%E9%A2%91%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 23时16分]"
+        },
         {
           "title": "iOS27五大看点",
           "url": "https://search.bilibili.com/all?keyword=iOS27%E4%BA%94%E5%A4%A7%E7%9C%8B%E7%82%B9",
@@ -3001,7 +3178,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -3015,17 +3192,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
-        },
-        {
-          "title": "苹果iOS27渲染视频",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9CiOS27%E6%B8%B2%E6%9F%93%E8%A7%86%E9%A2%91%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
         }
       ]
     },
@@ -3111,6 +3277,34 @@
       ]
     },
     {
+      "keyword_group": "宇树 王兴兴",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "宇树合作英伟达被批",
+          "url": "https://s.weibo.com/weibo?q=%E5%AE%87%E6%A0%91%E5%90%88%E4%BD%9C%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%A2%AB%E6%89%B9&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "详解宇树科技42亿IPO背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%8042%E4%BA%BFIPO%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "字节 bytedance 张一鸣",
       "match_count": 2,
       "titles": [
@@ -3145,17 +3339,6 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
-          "url": "https://wallstreetcn.com/articles/3773921",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时55分 ~ 07时10分]"
-        },
-        {
           "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
           "url": "https://www.cls.cn/detail/2392488",
           "source": "财联社热门",
@@ -3166,8 +3349,19 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时31分 ~ 23时16分]"
+        },
+        {
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时31分 ~ 21时44分]"
+          "time_info": "[01时55分 ~ 07时10分]"
         }
       ]
     },
@@ -3220,23 +3414,6 @@
       ]
     },
     {
-      "keyword_group": "军工 航空 航天 航母",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马桶干翻价值130亿美元的航母",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%A1%B6%E5%B9%B2%E7%BF%BB%E4%BB%B7%E5%80%BC130%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E8%88%AA%E6%AF%8D",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        }
-      ]
-    },
-    {
       "keyword_group": "新能源 供暖 光伏 风电设备 风能 煤炭 锂电 储能 地热能 核能核电 氢能源 充电桩 高压快充 虚拟电厂 固态电池 刀片电池 钒电池 HIT电池 钙钛矿电池 BC电池 燃料电池 电力 动力电池回收 电网设备 超级电容 绿色电力",
       "match_count": 1,
       "titles": [
@@ -3265,9 +3442,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 23时16分]"
         }
       ]
     },
@@ -3305,25 +3482,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时55分 ~ 21时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "宇树 王兴兴",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "宇树合作英伟达被批",
-          "url": "https://s.weibo.com/weibo?q=%E5%AE%87%E6%A0%91%E5%90%88%E4%BD%9C%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%A2%AB%E6%89%B9&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时53分"
+          "appearance_count": 13,
+          "time_info": "[01时55分 ~ 23时16分]"
         }
       ]
     },
