@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T07:18:00.862414+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-06-13T11:44:54.640613+08:00",
+  "total_titles_processed": 753,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 36,
+      "match_count": 44,
       "titles": [
         {
           "title": "伊朗发布“头骨世界杯”海报",
@@ -18,17 +18,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时18分 ~ 03时05分]"
-        },
-        {
-          "title": "阿联酋外交部驳斥媒体报道，称：我们尚未释放任何被冻结的伊朗资金。",
-          "url": "https://wallstreetcn.com/livenews/3119102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时18分"
         },
         {
           "title": "美以袭击伊朗进入第 105 天，当前局势如何？有哪些值得关注的信息？",
@@ -45,6 +34,17 @@
           "time_info": "[00时18分 ~ 07时18分]"
         },
         {
+          "title": "美伊达成一致，伊朗外长：第一阶段将以远程电子方式签署",
+          "url": "https://news.ifeng.com/c/8tuxeZuZndm",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
           "title": "真主党：根据伊朗官员向我们传达的信息，以色列将依据该协议从黎巴嫩领土撤军。黎巴嫩也被纳入伊朗与美国停火协议之中。",
           "url": "https://flash.jin10.com/detail/20260613024716162800",
           "source": "金十数据",
@@ -54,6 +54,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "霍尔木兹将重开？伊朗曝光14点协议草案",
+          "url": "https://news.ifeng.com/c/8tuse7CSv3h",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
         },
         {
           "title": "阿联酋已同意向伊朗释放总计100亿美元的资金。（路透）",
@@ -67,16 +78,52 @@
           "time_info": "03时05分"
         },
         {
+          "title": "美军称伊朗发射多架单向攻击无人机",
+          "url": "https://wallstreetcn.com/livenews/3119115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
           "title": "美官员称有信心未来几天内与伊朗签署谅解备忘录",
           "url": "https://wallstreetcn.com/livenews/3119085",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            13
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时45分 ~ 11时44分]"
+        },
+        {
+          "title": "阿联酋外交部驳斥媒体报道，称：我们尚未释放任何被冻结的伊朗资金。",
+          "url": "https://wallstreetcn.com/livenews/3119102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时45分 ~ 07时18分]"
+          "time_info": "[07时18分 ~ 11时44分]"
+        },
+        {
+          "title": "伊朗南部爆炸声因警告性射击",
+          "url": "https://wallstreetcn.com/livenews/3119090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时18分 ~ 11时44分]"
         },
         {
           "title": "伊朗外长：伊美谅解备忘录可能在几天内签署",
@@ -234,15 +281,26 @@
           "time_info": "03时05分"
         },
         {
-          "title": "伊朗南部爆炸声因警告性射击",
-          "url": "https://wallstreetcn.com/livenews/3119090",
-          "source": "华尔街见闻-快讯",
+          "title": "油价下挫5%！伊朗公布伊美谅解备忘录新细节，霍尔木兹海峡或30天内重开",
+          "url": "https://wallstreetcn.com/articles/3774522",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时18分"
+          "time_info": "11时44分"
+        },
+        {
+          "title": "美中央司令部：伊朗发射了多架单向攻击无人机，试图袭击通过霍尔木兹海峡的商船。美军在数小时内击落了所有这些无人机，海峡通航未受影响。这条国际贸易通道仍然保持开放。",
+          "url": "https://flash.jin10.com/detail/20260613093322843800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
         },
         {
           "title": "美官员：伊朗承诺永久放弃核武器，但美方需建立核查机制",
@@ -289,6 +347,17 @@
           "time_info": "03时05分"
         },
         {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：一名黎巴嫩官方消息人士表示，与以色列代表的第五轮谈判将于6月22日在华盛顿举行。",
+          "url": "https://flash.jin10.com/detail/20260613091201134800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
           "title": "据路透：消息人士称，阿联酋已同意为伊朗解冻数十亿美元资金。",
           "url": "https://flash.jin10.com/detail/20260613021007048800",
           "source": "金十数据",
@@ -298,6 +367,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "伊朗外长披露伊美谅解备忘录草案部分内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33372202",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
         },
         {
           "title": "伊朗外交部：伊方正在审议谅解备忘录草案",
@@ -377,6 +457,17 @@
           "time_info": "05时45分"
         },
         {
+          "title": "伊朗美国已就协议文本达成一致",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%BE%8E%E5%9B%BD%E5%B7%B2%E5%B0%B1%E5%8D%8F%E8%AE%AE%E6%96%87%E6%9C%AC%E8%BE%BE%E6%88%90%E4%B8%80%E8%87%B4%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
           "title": "美国内政部长伯格姆谈伊朗谈判：市场反应积极并不意外。",
           "url": "https://wallstreetcn.com/livenews/3119059",
           "source": "华尔街见闻-快讯",
@@ -412,8 +503,193 @@
       ]
     },
     {
+      "keyword_group": "特朗普",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
+          "url": "https://wallstreetcn.com/articles/3774457",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 03时05分]"
+        },
+        {
+          "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33365641",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            14,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 11时44分]"
+        },
+        {
+          "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
+          "url": "https://news.ifeng.com/c/8ttnDWEmW7E",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 07时18分]"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗外长被指控为迎合特朗普路线而损害伊朗谈判立场。",
+          "url": "https://flash.jin10.com/detail/20260613104207547800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
+          "title": "美国内政部长道格·伯格姆：（谈及伊朗谈判）特朗普已经让该地区各方与其保持一致立场。",
+          "url": "https://flash.jin10.com/detail/20260613033812680800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 07时18分]"
+        },
+        {
+          "title": "特朗普说打死委内瑞拉一黑帮团伙头目",
+          "url": "https://wallstreetcn.com/livenews/3119112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
+          "title": "提醒：美国总统特朗普在自家社交媒体平台上张贴伊朗外长关于两国“协议”（谅解备忘录/MoU）社交媒体帖子的截图。",
+          "url": "https://wallstreetcn.com/livenews/3118983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
+        {
+          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
+          "url": "https://www.cls.cn/detail/2398839",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
+          "title": "美国总统特朗普在社交平台上发布了伊朗外长阿拉格齐关于美伊协议的推文截图。",
+          "url": "https://flash.jin10.com/detail/20260612233459476800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
+        {
+          "title": "特朗普：美军打死“阿拉瓜火车”组织首领尼尼奥·格雷罗",
+          "url": "https://flash.jin10.com/detail/20260613092918763800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
+          "title": "雪佛龙CEO Mike Wirth：公司对（波斯湾）石油外流规模的看法并没有美国总统特朗普的能源部长Wright那样乐观。 到7月左右，石油库存水平可能达到令人不安的程度。",
+          "url": "https://wallstreetcn.com/livenews/3118976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
+        {
+          "title": "美国官员：相信盟友会支持与伊朗的这项协议。 相信以色列会支持。 总统特朗普6月11日与以色列总理内塔尼亚胡通话。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3119021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "美国总统特朗普：此次行动是在与我们委内瑞拉的朋友密切协调下进行的，我们与委内瑞拉方面合作得非常顺利。",
+          "url": "https://flash.jin10.com/detail/20260613090715507800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
+          "title": "美国总统特朗普：在我重返总统办公室之前，乔·拜登向数百万非法犯罪分子敞开了我们的南部边境，任由这支外来军队强暴、残害、谋杀美国公民而完全不受惩罚。",
+          "url": "https://flash.jin10.com/detail/20260613090651699800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
+          "title": "美国总统特朗普：在我的指示下，美国南方司令部发动了一次迅速而致命的打击，成功击毙了“阿拉瓜火车”这一地球上最残暴的恐怖组织之一的臭名昭著的头目“尼诺·格雷罗”（Niño Guerrero）。",
+          "url": "https://flash.jin10.com/detail/20260613090539450800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
+          "title": "特朗普押注“超级周末”：80岁生日前签下美伊“终战”协议",
+          "url": "https://flash.jin10.com/detail/20260612231948150800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特斯拉 马斯克",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "今晚，SpaceX历史性IPO：马斯克“信仰溢价”迎来资本公投！",
@@ -421,11 +697,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 07时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 11时44分]"
         },
         {
           "title": "特斯拉(TSLA.O)股价在SpaceX上市后下跌2.1%。",
@@ -470,6 +747,41 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "【早报】5月金融数据出炉；马斯克成万亿美元富豪",
+          "url": "https://www.cls.cn/detail/2398924",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
+          "title": "SpaceX美国IPO要点总结：马斯克的财富相当于七个巴菲特",
+          "url": "https://wallstreetcn.com/livenews/3119089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时18分 ~ 11时44分]"
+        },
+        {
+          "title": "SpaceX总裁不排除未来与特斯拉合并：两家公司目标正趋于一致",
+          "url": "https://www.cls.cn/detail/2398816",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 11时44分]"
         },
         {
           "title": "周五（6月12日），彭博电动汽车价格回报指数涨3.59%，报3785.58点，北京时间08:00高开高走，12:00之前开始持稳于3760点附近，美股开盘后略微扩大涨幅。 本周累计上涨0.07%，整体呈现出W形走势。 成分股中，淡水河谷印尼公司收涨10.30%，ITM能源涨8.98%，“特斯拉劲敌”Rivian涨7.85%，理想汽车H股涨7.24%，美国雅宝涨7.14%表现第五，在下跌的六只成分股中，普拉格动力跌2.47%，MobilEye跌2.51%。",
@@ -517,32 +829,181 @@
           "time_info": "[00时18分 ~ 00时19分]"
         },
         {
-          "title": "SpaceX美国IPO要点总结：马斯克的财富相当于七个巴菲特",
-          "url": "https://wallstreetcn.com/livenews/3119089",
+          "title": "SpaceX敲钟上市！马斯克成首位万亿美元富翁：我们想带每一个“你”去超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33369933",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
+          "title": "70年首富榜背后的财富密码：为什么首位万亿富豪是马斯克",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333532",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
+          "title": "一周热榜精选：美伊达成和平协议文本？SPCX涨19%马斯克成万亿富豪",
+          "url": "https://flash.jin10.com/detail/20260613090819670800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "claude Anthropic",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "亚马逊云服务(AWS)：Anthropic已要求我们撤销所有用户在全部区域范围内对Claude Fable 5和Claude Mythos 5的访问权限。所有其他Anthropic模型不受影响。",
+          "url": "https://wallstreetcn.com/livenews/3119114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
+          "title": "上线仅四日就遭下架，Fable 5和Mythos 5被美政府列出口管制，Anthropic服从但不认同",
+          "url": "https://wallstreetcn.com/articles/3774567",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
+          "title": "Anthropic称美国限制外国访问Fable 5和Mythos 5",
+          "url": "https://wallstreetcn.com/livenews/3119109",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时18分"
+          "time_info": "11时44分"
         },
         {
-          "title": "SpaceX总裁不排除未来与特斯拉合并：两家公司目标正趋于一致",
-          "url": "https://www.cls.cn/detail/2398816",
-          "source": "财联社热门",
+          "title": "报道：美国封锁境外获取Anthropic先进AI模型的渠道",
+          "url": "https://wallstreetcn.com/livenews/3119106",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时45分"
+          "time_info": "11时44分"
+        },
+        {
+          "title": "亚马逊云服务(AWS)：Anthropic已要求我们撤销所有用户在全部区域范围内对Claude Fable 5和Claude Mythos 5的访问权限。所有其他Anthropic模型不受影响。",
+          "url": "https://flash.jin10.com/detail/20260613093036412800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
+          "title": "美国禁止外国主体访问Fable 5和Mythos 5，Anthropic发长文驳斥",
+          "url": "https://flash.jin10.com/detail/20260613092355958800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
+          "title": "Anthropic：目前还没有测试人员能够找到一种通用的越狱方法。",
+          "url": "https://flash.jin10.com/detail/20260613085714642800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
+          "title": "Anthropic：不同意存在某个潜在越狱漏洞，就应成为召回已部署给数亿用户的商业模型的原因。",
+          "url": "https://flash.jin10.com/detail/20260613085652306800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
+          "title": "Anthropic：我们的理解是，美国政府认为其已获悉一种绕过或“越狱”Fable 5 的方法。怀疑目前任何模型提供商都无法实现完美的越狱防御。",
+          "url": "https://flash.jin10.com/detail/20260613085557283800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
+          "title": "Anthropic：今日下午5点21分收到美国政府的指令，该信函未说明其国家安全关切的具体细节。",
+          "url": "https://flash.jin10.com/detail/20260613085514501800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
+          "title": "Anthropic：该命令的实际效果是，我们必须立即为所有客户禁用Fable 5 和 Mythos 5，以确保合规。",
+          "url": "https://flash.jin10.com/detail/20260613085459635800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
+          "title": "Anthropic：美国政府发布出口管制指令，暂停所有外国国籍人士对人工智能模型FABLE 5和Mythos 5的访问。",
+          "url": "https://flash.jin10.com/detail/20260613085422876800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
         }
       ]
     },
     {
       "keyword_group": "ai 人工智能 agent 大模型 多模态 全模态 跨模态 AGI AIGC AI+ AIPC AI语料 数字人",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "抖音AI创作大赛首个爆款出现",
@@ -614,6 +1075,28 @@
           "time_info": "00时19分"
         },
         {
+          "title": "周五（6月12日），美股人工智能（AI）赢家指数涨1.93%，报424.15点，本周累计上涨5.43%。 成分股中，Arm控股收涨11.27%，希捷科技涨7.25%，西部数据涨6.35%，高意公司Coherent涨5.90%表现第四，阿斯麦ADR收跌1.89%跌幅第四大。",
+          "url": "https://wallstreetcn.com/livenews/3119107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
+          "title": "世界杯AI视频绿茵恩仇录火了",
+          "url": "https://www.douyin.com/hot/2531568",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
           "title": "据华尔街日报：高盛总裁表示，SpaceX IPO显示了投资者对人工智能的热情。",
           "url": "https://flash.jin10.com/detail/20260612232213902800",
           "source": "金十数据",
@@ -649,113 +1132,6 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
-          "url": "https://wallstreetcn.com/articles/3774457",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 03时05分]"
-        },
-        {
-          "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
-          "url": "https://news.ifeng.com/c/8ttnDWEmW7E",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 07时18分]"
-        },
-        {
-          "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33365641",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 07时18分]"
-        },
-        {
-          "title": "美国内政部长道格·伯格姆：（谈及伊朗谈判）特朗普已经让该地区各方与其保持一致立场。",
-          "url": "https://flash.jin10.com/detail/20260613033812680800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时45分 ~ 07时18分]"
-        },
-        {
-          "title": "提醒：美国总统特朗普在自家社交媒体平台上张贴伊朗外长关于两国“协议”（谅解备忘录/MoU）社交媒体帖子的截图。",
-          "url": "https://wallstreetcn.com/livenews/3118983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "美国总统特朗普在社交平台上发布了伊朗外长阿拉格齐关于美伊协议的推文截图。",
-          "url": "https://flash.jin10.com/detail/20260612233459476800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "雪佛龙CEO Mike Wirth：公司对（波斯湾）石油外流规模的看法并没有美国总统特朗普的能源部长Wright那样乐观。 到7月左右，石油库存水平可能达到令人不安的程度。",
-          "url": "https://wallstreetcn.com/livenews/3118976",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "美国官员：相信盟友会支持与伊朗的这项协议。 相信以色列会支持。 总统特朗普6月11日与以色列总理内塔尼亚胡通话。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3119021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时05分"
-        },
-        {
-          "title": "特朗普押注“超级周末”：80岁生日前签下美伊“终战”协议",
-          "url": "https://flash.jin10.com/detail/20260612231948150800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "银行 金融科技 GDR概念",
       "match_count": 8,
       "titles": [
@@ -769,6 +1145,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时45分 ~ 07时18分]"
+        },
+        {
+          "title": "渣打银行驻纽约经济学家Dan Pan：（美国与伊朗达成）协议前景仍存在大量不确定性。 如果我们看到风险情绪因突发新闻而出现回调，我也不会感到惊讶。",
+          "url": "https://wallstreetcn.com/livenews/3119092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时18分 ~ 11时44分]"
         },
         {
           "title": "美联储：美国上周银行存款19.296万亿美元，之前一周19.338万亿美元。",
@@ -793,17 +1181,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时45分 ~ 07时18分]"
-        },
-        {
-          "title": "渣打银行驻纽约经济学家Dan Pan：（美国与伊朗达成）协议前景仍存在大量不确定性。 如果我们看到风险情绪因突发新闻而出现回调，我也不会感到惊讶。",
-          "url": "https://wallstreetcn.com/livenews/3119092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时18分"
         },
         {
           "title": "意大利银行板块收涨超3%",
@@ -856,6 +1233,18 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
+          "url": "https://wallstreetcn.com/articles/3774481",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时17分 ~ 11时44分]"
+        },
+        {
           "title": "SpaceX开盘狂飙29%，美股指转跌，太空概念股跳水，布油跌幅收窄",
           "url": "https://wallstreetcn.com/articles/3774481",
           "source": "华尔街见闻",
@@ -868,15 +1257,16 @@
           "time_info": "[00时18分 ~ 05时45分]"
         },
         {
-          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
-          "url": "https://wallstreetcn.com/articles/3774481",
-          "source": "华尔街见闻",
+          "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
+          "url": "https://www.cls.cn/detail/2398916",
+          "source": "财联社热门",
           "ranks": [
-            5
+            9,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时17分 ~ 07时18分]"
+          "appearance_count": 3,
+          "time_info": "[07时17分 ~ 11时44分]"
         },
         {
           "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
@@ -884,11 +1274,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时45分 ~ 07时18分]"
+          "appearance_count": 4,
+          "time_info": "[05时45分 ~ 11时44分]"
         },
         {
           "title": "金十图示：2026年06月12日（周五）美股热门股票行情一览（美股收盘）",
@@ -900,17 +1291,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时45分 ~ 07时18分]"
-        },
-        {
-          "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
-          "url": "https://www.cls.cn/detail/2398916",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时17分 ~ 07时18分]"
         },
         {
           "title": "金十图示：2026年06月12日（周五）热门中概股行情一览（美股收盘）",
@@ -990,11 +1370,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33368139",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时17分 ~ 07时18分]"
+          "appearance_count": 3,
+          "time_info": "[07时17分 ~ 11时44分]"
         },
         {
           "title": "太空运输公司Rocket Lab股价一度下跌10%；Redwire重挫11%；卫星宽带公司AST SpaceMobile下滑11%；火箭与航天器制造商Firefly Aerospace跌幅最深达14%；Intuitive Machines下跌12%；而太空旅行公司维珍银河（Virgin Galactic）的股价更是暴跌27%。",
@@ -1033,18 +1414,19 @@
     },
     {
       "keyword_group": "黄金 贵金属 能源金属 稀土 磁性材料 锂矿 钛白粉 有色 煤炭 小金属 钢铁",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "澎湃回声｜男子30年前被扣押2859克黄金续：盖州市公安局已返还财产，双方和解",
           "url": "https://m.thepaper.cn/newsDetail_forward_33364376",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 07时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 11时44分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 6月12日（周五）晚盘收盘上涨1.22%报919.5元/克；<br/>上海黄金交易所白银T+D 6月12日（周五）晚盘收盘上涨3.57%报16420.0元/千克。",
@@ -1078,6 +1460,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "黄金上涨原因",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91%E4%B8%8A%E6%B6%A8%E5%8E%9F%E5%9B%A0&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
         },
         {
           "title": "现货白银日内涨幅扩大至1.00%，现报68.02美元/盎司。现货黄金现涨0.5%。",
@@ -1176,8 +1569,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 07时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 11时44分]"
         },
         {
           "title": "业绩下滑遭炮轰、新战略被指“不务正业” 同仁堂科技转型困局凸显|直击股东会",
@@ -1189,8 +1582,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 07时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 11时44分]"
         },
         {
           "title": "美股七巨头收盘播报｜周五（6月12日），美国科技股七巨头（Magnificent 7）指数跌0.23%，报210.45点，本周累跌2.86%，6月8-11日持续走低，期内主要持稳于210点附近。 “超大”市值科技股指数涨0.60%，报433.85点，本周累跌1.50%。",
@@ -1240,11 +1633,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 07时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 11时44分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，可转债ETF涨约1.2%，布油基金跌约2.7%",
@@ -1293,11 +1687,12 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时05分 ~ 07时18分]"
+          "appearance_count": 5,
+          "time_info": "[03时05分 ~ 11时44分]"
         },
         {
           "title": "余承东：防诈骗买鸿蒙",
@@ -1397,6 +1792,94 @@
       ]
     },
     {
+      "keyword_group": "新能源 供暖 光伏 风电设备 风能 煤炭 锂电 储能 地热能 核能核电 氢能源 充电桩 高压快充 虚拟电厂 固态电池 刀片电池 钒电池 HIT电池 钙钛矿电池 BC电池 燃料电池 电力 动力电池回收 电网设备 超级电容 绿色电力",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "新能源二手车越来越「香」了，交易量走高，保值率提升，为何会出现这一变化？是短期回暖还是长期趋势？",
+          "url": "https://www.zhihu.com/question/2047600648644816926",
+          "source": "知乎",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 03时05分]"
+        },
+        {
+          "title": "燃油车反击新能源车 成本催升订单",
+          "url": "https://www.baidu.com/s?wd=%E7%87%83%E6%B2%B9%E8%BD%A6%E5%8F%8D%E5%87%BB%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6+%E6%88%90%E6%9C%AC%E5%82%AC%E5%8D%87%E8%AE%A2%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达 NVIDIA 黄仁勋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "涉及中国，英伟达否认",
+          "url": "https://news.ifeng.com/c/8ttGAgbmaV3",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 07时18分]"
+        },
+        {
+          "title": "AI材料短缺蔓延：英伟达亲自下场抢购HVLP4铜箔，2026年缺口达1500吨",
+          "url": "https://wallstreetcn.com/articles/3774502",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价回落女子一口气买入90克金手镯",
+          "url": "https://www.toutiao.com/trending/7649567619948822578/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            8,
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 07时18分]"
+        },
+        {
+          "title": "单线逻辑失效！为何这轮通胀没救起金价？｜大师复盘",
+          "url": "https://flash.jin10.com/detail/20260613095629145800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "算力 电源设备 液冷 云计算 一体机 边缘计算 PCB PLC概念",
       "match_count": 1,
       "titles": [
@@ -1433,20 +1916,36 @@
       ]
     },
     {
-      "keyword_group": "新能源 供暖 光伏 风电设备 风能 煤炭 锂电 储能 地热能 核能核电 氢能源 充电桩 高压快充 虚拟电厂 固态电池 刀片电池 钒电池 HIT电池 钙钛矿电池 BC电池 燃料电池 电力 动力电池回收 电网设备 超级电容 绿色电力",
+      "keyword_group": "F5G MLCC概念 通信设备 光通信 UWB概念",
       "match_count": 1,
       "titles": [
         {
-          "title": "新能源二手车越来越「香」了，交易量走高，保值率提升，为何会出现这一变化？是短期回暖还是长期趋势？",
-          "url": "https://www.zhihu.com/question/2047600648644816926",
-          "source": "知乎",
+          "title": "蓝思科技：收购同昇光电 加速布局光通信",
+          "url": "https://flash.jin10.com/detail/20260613112837541800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            18
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 03时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "具身智能 零部件 人形机器人 虚拟机器人 云深处 智元 优必选 松延动力 Figure 波士顿动力 传感器 陀螺仪 机器人概念",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "具身智能行业5月融资额环比降近六成",
+          "url": "https://wallstreetcn.com/livenews/3119108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
         }
       ]
     },
@@ -1502,19 +2001,19 @@
       ]
     },
     {
-      "keyword_group": "英伟达 NVIDIA 黄仁勋",
+      "keyword_group": "chatgpt openai sora",
       "match_count": 1,
       "titles": [
         {
-          "title": "涉及中国，英伟达否认",
-          "url": "https://news.ifeng.com/c/8ttGAgbmaV3",
-          "source": "凤凰网",
+          "title": "OpenAI遭美国多个州的总检察长联盟调查。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3119103",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            14
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 07时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
         }
       ]
     },
@@ -1553,26 +2052,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价回落女子一口气买入90克金手镯",
-          "url": "https://www.toutiao.com/trending/7649567619948822578/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            8,
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 07时18分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -1582,11 +2061,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            11
+            11,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时45分 ~ 07时18分]"
+          "appearance_count": 3,
+          "time_info": "[05时45分 ~ 11时44分]"
         }
       ]
     },
