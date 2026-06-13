@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T15:48:40.815835+08:00",
-  "total_titles_processed": 917,
+  "generated_at": "2026-06-13T18:30:12.195111+08:00",
+  "total_titles_processed": 1071,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 47,
+      "match_count": 54,
       "titles": [
         {
           "title": "伊朗发布“头骨世界杯”海报",
@@ -109,11 +109,59 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            15
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时44分 ~ 18时30分]"
+        },
+        {
+          "title": "伊朗外长披露伊美谅解备忘录草案部分内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33372202",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时44分 ~ 18时30分]"
+        },
+        {
+          "title": "多名伊朗国足代表团成员签证被拒，美国回应",
+          "url": "https://news.ifeng.com/c/8tvGP2lQey4",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时48分 ~ 18时30分]"
+        },
+        {
+          "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33372320",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时48分 ~ 18时30分]"
+        },
+        {
+          "title": "世界杯伊朗队训练场旁发现腐尸",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BC%8A%E6%9C%97%E9%98%9F%E8%AE%AD%E7%BB%83%E5%9C%BA%E6%97%81%E5%8F%91%E7%8E%B0%E8%85%90%E5%B0%B8",
+          "source": "百度热搜",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时44分 ~ 15时48分]"
+          "time_info": "[18时29分 ~ 18时30分]"
         },
         {
           "title": "油价下挫5%！伊朗公布伊美谅解备忘录新细节，霍尔木兹海峡或30天内重开",
@@ -140,6 +188,17 @@
           "time_info": "[07时18分 ~ 11时44分]"
         },
         {
+          "title": "“美伊协议即将达成”叙事回归，但伊朗拒绝放弃霍尔木兹海峡“筹码”",
+          "url": "https://wallstreetcn.com/articles/3774540",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时30分]"
+        },
+        {
           "title": "伊朗外长：伊美谅解备忘录可能在几天内签署",
           "url": "https://flash.jin10.com/detail/20260613040333383800",
           "source": "金十数据",
@@ -149,18 +208,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时45分 ~ 07时18分]"
-        },
-        {
-          "title": "伊朗外长披露伊美谅解备忘录草案部分内容",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33372202",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 15时48分]"
         },
         {
           "title": "伊朗外长阿拉格齐：如果谈判的最后阶段完成，协议将由双方以远程方式签署，随后再对外公布。",
@@ -195,6 +242,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时45分 ~ 07时18分]"
+        },
+        {
+          "title": "伊朗国足被美国卡脖子后近况曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%9B%BD%E8%B6%B3%E8%A2%AB%E7%BE%8E%E5%9B%BD%E5%8D%A1%E8%84%96%E5%AD%90%E5%90%8E%E8%BF%91%E5%86%B5%E6%9B%9D%E5%85%89%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时30分]"
         },
         {
           "title": "伊朗外长阿拉格齐：我们的剑将始终高悬在霍尔木兹海峡上。",
@@ -274,15 +332,15 @@
           "time_info": "[05时45分 ~ 07时18分]"
         },
         {
-          "title": "多名伊朗国足代表团成员签证被拒，美国回应",
-          "url": "https://news.ifeng.com/c/8tvGP2lQey4",
-          "source": "凤凰网",
+          "title": "巴基斯坦外长：与瑞士外长一致希望美国与伊朗的努力能促进地区和平与稳定。",
+          "url": "https://flash.jin10.com/detail/20260613173510600800",
+          "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时48分"
+          "time_info": "18时30分"
         },
         {
           "title": "【伊朗外交部：伊方正在审议谅解备忘录草案】伊朗外交部发言人巴加埃表示，目前伊美双方已经在大多数问题上达成谅解，伊朗内部正在对谅解备忘录文本进行最后阶段的汇总。因此，伊朗外长阿拉格齐此前关于“双方已非常接近达成谅解”的表态是准确且值得关注的。相关决策机构的会议正在举行，这是一个持续推进的过程。为达成一个最终且具有决定性的结果，决策机构和相关部门之间必须形成共识。 巴加埃还表示，目前有关协议文本内容的各种猜测均未获得证实。虽然外交进程中的具体细节暂不便公开讨论，但这并不意味着公众没有知情权。（央视）",
@@ -294,6 +352,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "黎巴嫩外长否认美伊协议中包含了黎巴嫩停火条款，并强调需要将黎巴嫩事务与伊朗事务分开。",
+          "url": "https://flash.jin10.com/detail/20260613173416307800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
         },
         {
           "title": "美国中央司令部：美国军队持续对伊朗实施严格封锁。自4月13日以来，美国中央司令部已引导139艘服从指令的商业船只改变航线，并使9艘不遵守命令的船只失去航行能力。",
@@ -316,6 +385,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "黎巴嫩外长：即使伊朗政权没有垮台，黎巴嫩也有能力终结真主党的武器问题。",
+          "url": "https://flash.jin10.com/detail/20260613173245745800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
         },
         {
           "title": "美中央司令部：伊朗发射了多架单向攻击无人机，试图袭击通过霍尔木兹海峡的商船。美军在数小时内击落了所有这些无人机，海峡通航未受影响。这条国际贸易通道仍然保持开放。",
@@ -395,17 +475,6 @@
           "time_info": "03时05分"
         },
         {
-          "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33372320",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时48分"
-        },
-        {
           "title": "伊朗外交部：伊方正在审议谅解备忘录草案",
           "url": "https://flash.jin10.com/detail/20260613020830003800",
           "source": "金十数据",
@@ -426,6 +495,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "黎巴嫩总理：我们要求黎巴嫩真主党拯救国家，将黎巴嫩的利益置于伊朗的利益之上。",
+          "url": "https://flash.jin10.com/detail/20260613170428114800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
         },
         {
           "title": "伊朗外长称伊美“从未如此接近达成”谅解备忘录",
@@ -467,7 +547,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
         },
@@ -591,23 +671,36 @@
           "time_info": "11时44分"
         },
         {
+          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
+          "url": "https://www.cls.cn/detail/2398839",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时44分 ~ 18时30分]"
+        },
+        {
+          "title": "特朗普：美军打死“阿拉瓜火车”组织首领",
+          "url": "https://news.ifeng.com/c/8tuxrPNiEYB",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时48分 ~ 18时30分]"
+        },
+        {
           "title": "特朗普说打死委内瑞拉一黑帮团伙头目",
           "url": "https://wallstreetcn.com/livenews/3119112",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
             18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 15时48分]"
-        },
-        {
-          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
-          "url": "https://www.cls.cn/detail/2398839",
-          "source": "财联社热门",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -623,17 +716,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时45分 ~ 07时18分]"
-        },
-        {
-          "title": "特朗普：美军打死“阿拉瓜火车”组织首领",
-          "url": "https://news.ifeng.com/c/8tuxrPNiEYB",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时48分"
         },
         {
           "title": "提醒：美国总统特朗普在自家社交媒体平台上张贴伊朗外长关于两国“协议”（谅解备忘录/MoU）社交媒体帖子的截图。",
@@ -675,7 +757,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
         },
@@ -749,7 +831,7 @@
     },
     {
       "keyword_group": "特斯拉 马斯克",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "今晚，SpaceX历史性IPO：马斯克“信仰溢价”迎来资本公投！",
@@ -759,11 +841,24 @@
             10,
             8,
             7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 18时30分]"
+        },
+        {
+          "title": "【早报】5月金融数据出炉；马斯克成万亿美元富豪",
+          "url": "https://www.cls.cn/detail/2398924",
+          "source": "财联社热门",
+          "ranks": [
+            5,
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 15时48分]"
+          "appearance_count": 4,
+          "time_info": "[11时44分 ~ 18时30分]"
         },
         {
           "title": "特斯拉(TSLA.O)股价在SpaceX上市后下跌2.1%。",
@@ -810,29 +905,56 @@
           "time_info": "00时19分"
         },
         {
-          "title": "【早报】5月金融数据出炉；马斯克成万亿美元富豪",
-          "url": "https://www.cls.cn/detail/2398924",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 15时48分]"
-        },
-        {
           "title": "SpaceX总裁不排除未来与特斯拉合并：两家公司目标正趋于一致",
           "url": "https://www.cls.cn/detail/2398816",
           "source": "财联社热门",
           "ranks": [
             12,
             11,
-            10
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时45分 ~ 18时30分]"
+        },
+        {
+          "title": "70年首富榜背后的财富密码：为什么首位万亿富豪是马斯克",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333532",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时44分 ~ 18时30分]"
+        },
+        {
+          "title": "SpaceX敲钟上市！马斯克成首位万亿美元富翁：我们想带每一个“你”去超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33369933",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时44分 ~ 18时30分]"
+        },
+        {
+          "title": "全球首位万亿美元级别富豪，马斯克=7个巴菲特！美民主党呼吁征收富人税",
+          "url": "https://wallstreetcn.com/articles/3774553",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[05时45分 ~ 15时48分]"
+          "time_info": "[15时48分 ~ 18时30分]"
         },
         {
           "title": "SpaceX美国IPO要点总结：马斯克的财富相当于七个巴菲特",
@@ -847,18 +969,6 @@
           "time_info": "[07时18分 ~ 11时44分]"
         },
         {
-          "title": "70年首富榜背后的财富密码：为什么首位万亿富豪是马斯克",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333532",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 15时48分]"
-        },
-        {
           "title": "周五（6月12日），彭博电动汽车价格回报指数涨3.59%，报3785.58点，北京时间08:00高开高走，12:00之前开始持稳于3760点附近，美股开盘后略微扩大涨幅。 本周累计上涨0.07%，整体呈现出W形走势。 成分股中，淡水河谷印尼公司收涨10.30%，ITM能源涨8.98%，“特斯拉劲敌”Rivian涨7.85%，理想汽车H股涨7.24%，美国雅宝涨7.14%表现第五，在下跌的六只成分股中，普拉格动力跌2.47%，MobilEye跌2.51%。",
           "url": "https://wallstreetcn.com/livenews/3119076",
           "source": "华尔街见闻-快讯",
@@ -871,16 +981,15 @@
           "time_info": "[05时45分 ~ 07时18分]"
         },
         {
-          "title": "SpaceX敲钟上市！马斯克成首位万亿美元富翁：我们想带每一个“你”去超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33369933",
-          "source": "澎湃新闻",
+          "title": "SpaceX上市首日即成2万亿巨头 马斯克财富迈入万亿时代",
+          "url": "https://www.cls.cn/detail/2398920",
+          "source": "财联社热门",
           "ranks": [
-            16,
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时44分 ~ 15时48分]"
+          "time_info": "[18时29分 ~ 18时30分]"
         },
         {
           "title": "马斯克成全球首位万亿富翁",
@@ -916,17 +1025,6 @@
           "time_info": "[00时18分 ~ 00时19分]"
         },
         {
-          "title": "全球首位万亿美元级别富豪，马斯克=7个巴菲特！美民主党呼吁征收富人税",
-          "url": "https://wallstreetcn.com/articles/3774553",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时48分"
-        },
-        {
           "title": "一周热榜精选：美伊达成和平协议文本？SPCX涨19%马斯克成万亿富豪",
           "url": "https://flash.jin10.com/detail/20260613090819670800",
           "source": "金十数据",
@@ -943,6 +1041,18 @@
       "keyword_group": "ai 人工智能 agent 大模型 多模态 全模态 跨模态 AGI AIGC AI+ AIPC AI语料 数字人",
       "match_count": 16,
       "titles": [
+        {
+          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
+          "url": "https://www.cls.cn/detail/2398996",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时48分 ~ 18时30分]"
+        },
         {
           "title": "抖音AI创作大赛首个爆款出现",
           "url": "https://www.douyin.com/hot/2532139",
@@ -978,15 +1088,17 @@
           "time_info": "[00时18分 ~ 07时18分]"
         },
         {
-          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
-          "url": "https://www.cls.cn/detail/2398996",
-          "source": "财联社热门",
+          "title": "世界杯AI视频绿茵恩仇录火了",
+          "url": "https://www.douyin.com/hot/2531568",
+          "source": "抖音",
           "ranks": [
-            5
+            20,
+            8,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时48分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时44分 ~ 18时30分]"
         },
         {
           "title": "抖音AI反网暴行动来了",
@@ -1013,18 +1125,6 @@
           "time_info": "[00时18分 ~ 05时45分]"
         },
         {
-          "title": "世界杯AI视频绿茵恩仇录火了",
-          "url": "https://www.douyin.com/hot/2531568",
-          "source": "抖音",
-          "ranks": [
-            20,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 15时48分]"
-        },
-        {
           "title": "周五（6月12日），美股人工智能（AI）赢家指数涨1.93%，报424.15点，本周累计上涨5.43%。 成分股中，Arm控股收涨11.27%，希捷科技涨7.25%，西部数据涨6.35%，高意公司Coherent涨5.90%表现第四，阿斯麦ADR收跌1.89%跌幅第四大。",
           "url": "https://wallstreetcn.com/livenews/3119107",
           "source": "华尔街见闻-快讯",
@@ -1043,7 +1143,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
         },
@@ -1054,7 +1154,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
         },
@@ -1076,7 +1176,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
         },
@@ -1109,7 +1209,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
         },
@@ -1137,9 +1237,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时48分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时48分 ~ 18时30分]"
         },
         {
           "title": "上线仅四日就遭下架，Fable 5和Mythos 5被美政府列出口管制，Anthropic服从但不认同",
@@ -1147,11 +1247,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 15时48分]"
+          "appearance_count": 4,
+          "time_info": "[11时44分 ~ 18时30分]"
         },
         {
           "title": "亚马逊云服务(AWS)：Anthropic已要求我们撤销所有用户在全部区域范围内对Claude Fable 5和Claude Mythos 5的访问权限。所有其他Anthropic模型不受影响。",
@@ -1159,11 +1260,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            16
+            16,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 15时48分]"
+          "appearance_count": 3,
+          "time_info": "[11时44分 ~ 18时30分]"
         },
         {
           "title": "Anthropic称美国限制外国访问Fable 5和Mythos 5",
@@ -1290,7 +1392,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
         },
@@ -1312,7 +1414,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
         },
@@ -1323,7 +1425,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
         },
@@ -1486,6 +1588,20 @@
           "time_info": "[00时18分 ~ 00时19分]"
         },
         {
+          "title": "日本拟设军工业支持机构，强化武器出口与技术发展",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33368139",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时17分 ~ 18时30分]"
+        },
+        {
           "title": "2万亿航天巨头来了！SpaceX首秀收涨19%，超3500亿美元疯抢史上最大IPO",
           "url": "https://wallstreetcn.com/articles/3774544",
           "source": "华尔街见闻",
@@ -1508,19 +1624,6 @@
           "time_info": "03时05分"
         },
         {
-          "title": "日本拟设军工业支持机构，强化武器出口与技术发展",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33368139",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时17分 ~ 15时48分]"
-        },
-        {
           "title": "太空运输公司Rocket Lab股价一度下跌10%；Redwire重挫11%；卫星宽带公司AST SpaceMobile下滑11%；火箭与航天器制造商Firefly Aerospace跌幅最深达14%；Intuitive Machines下跌12%；而太空旅行公司维珍银河（Virgin Galactic）的股价更是暴跌27%。",
           "url": "https://wallstreetcn.com/livenews/3118992",
           "source": "华尔街见闻-快讯",
@@ -1538,7 +1641,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
         },
@@ -1644,7 +1747,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
         },
@@ -1666,40 +1769,30 @@
       "match_count": 8,
       "titles": [
         {
-          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
-          "url": "https://wallstreetcn.com/articles/3774481",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时17分 ~ 15时48分]"
-        },
-        {
           "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
           "url": "https://www.cls.cn/detail/2398916",
           "source": "财联社热门",
           "ranks": [
             9,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时17分 ~ 15时48分]"
+          "appearance_count": 6,
+          "time_info": "[07时17分 ~ 18时30分]"
         },
         {
-          "title": "SpaceX开盘狂飙29%，美股指转跌，太空概念股跳水，布油跌幅收窄",
+          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
           "url": "https://wallstreetcn.com/articles/3774481",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            5
+            5,
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 05时45分]"
+          "appearance_count": 6,
+          "time_info": "[07时17分 ~ 18时30分]"
         },
         {
           "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
@@ -1712,8 +1805,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时45分 ~ 15时48分]"
+          "appearance_count": 7,
+          "time_info": "[05时45分 ~ 18时30分]"
+        },
+        {
+          "title": "SpaceX开盘狂飙29%，美股指转跌，太空概念股跳水，布油跌幅收窄",
+          "url": "https://wallstreetcn.com/articles/3774481",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 05时45分]"
         },
         {
           "title": "金十图示：2026年06月12日（周五）美股热门股票行情一览（美股收盘）",
@@ -1764,7 +1869,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "165天！长鑫科技IPO注册生效 科创板迎来国产DRAM龙头",
@@ -1787,19 +1892,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 15时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 18时30分]"
         },
         {
           "title": "中国证券报：要发挥科创板“硬科技”成色足优势，持续丰富为科技型企业提供的全生命周期金融服务",
           "url": "https://wallstreetcn.com/livenews/3119128",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时48分 ~ 18时30分]"
         },
         {
           "title": "美股七巨头收盘播报｜周五（6月12日），美国科技股七巨头（Magnificent 7）指数跌0.23%，报210.45点，本周累跌2.86%，6月8-11日持续走低，期内主要持稳于210点附近。 “超大”市值科技股指数涨0.60%，报433.85点，本周累跌1.50%。",
@@ -1836,6 +1942,82 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时45分 ~ 07时18分]"
+        },
+        {
+          "title": "北京科技型企业孵化器达133家 新认定27家",
+          "url": "https://wallstreetcn.com/livenews/3119138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 海思 昇腾 鸿蒙 HarmonyOS 任正非",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "6 月 12 日华为发布开源盘古 2.0 模型，如何评价 openPangu 2.0 ？",
+          "url": "https://www.zhihu.com/question/2048823351049707836",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时05分 ~ 11时44分]"
+        },
+        {
+          "title": "鸿蒙成中国第二大智能手机操作系统",
+          "url": "https://www.toutiao.com/trending/7649891185179557929/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时48分 ~ 18时30分]"
+        },
+        {
+          "title": "余承东：防诈骗买鸿蒙",
+          "url": "https://www.toutiao.com/trending/7650414983611875378/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 00时19分]"
+        },
+        {
+          "title": "华为发布鸿蒙7操作系统",
+          "url": "https://www.toutiao.com/trending/7650113709931593734/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 00时19分]"
+        },
+        {
+          "title": "全新深蓝S07增程版上市，搭载华为乾崑智驾ADS Pro",
+          "url": "https://wallstreetcn.com/livenews/3119133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
         }
       ]
     },
@@ -1861,7 +2043,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
         },
@@ -1870,11 +2052,12 @@
           "url": "https://wallstreetcn.com/livenews/3119129",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时48分 ~ 18时30分]"
         },
         {
           "title": "周五（6月12日），美股存储芯片与硬件供应链指数涨3.91%，报233.15点，美股早盘显著上涨，北京时间22:00以来持续交投于2340点附近、高位窄幅震荡，本周累计上涨17.34%。 成分股普遍走高，希捷科技涨7.25%，西部数据涨6.35%，泰瑞达、闪迪至少涨5.24%，应用材料、Rambus、拉姆研究至少涨1.18%，美光科技则收跌1.43%。",
@@ -1956,62 +2139,22 @@
       ]
     },
     {
-      "keyword_group": "华为 海思 昇腾 鸿蒙 HarmonyOS 任正非",
+      "keyword_group": "新能源 供暖 光伏 风电设备 风能 煤炭 锂电 储能 地热能 核能核电 氢能源 充电桩 高压快充 虚拟电厂 固态电池 刀片电池 钒电池 HIT电池 钙钛矿电池 BC电池 燃料电池 电力 动力电池回收 电网设备 超级电容 绿色电力",
       "match_count": 4,
       "titles": [
         {
-          "title": "6 月 12 日华为发布开源盘古 2.0 模型，如何评价 openPangu 2.0 ？",
-          "url": "https://www.zhihu.com/question/2048823351049707836",
-          "source": "知乎",
+          "title": "燃油车反击新能源车 成本催升订单",
+          "url": "https://www.baidu.com/s?wd=%E7%87%83%E6%B2%B9%E8%BD%A6%E5%8F%8D%E5%87%BB%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6+%E6%88%90%E6%9C%AC%E5%82%AC%E5%8D%87%E8%AE%A2%E5%8D%95",
+          "source": "百度热搜",
           "ranks": [
-            6,
-            4,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时05分 ~ 11时44分]"
-        },
-        {
-          "title": "余承东：防诈骗买鸿蒙",
-          "url": "https://www.toutiao.com/trending/7650414983611875378/",
-          "source": "今日头条",
-          "ranks": [
+            28,
+            12,
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 4,
+          "time_info": "[11时44分 ~ 18时30分]"
         },
-        {
-          "title": "华为发布鸿蒙7操作系统",
-          "url": "https://www.toutiao.com/trending/7650113709931593734/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
-        },
-        {
-          "title": "鸿蒙成中国第二大智能手机操作系统",
-          "url": "https://www.toutiao.com/trending/7649891185179557929/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 供暖 光伏 风电设备 风能 煤炭 锂电 储能 地热能 核能核电 氢能源 充电桩 高压快充 虚拟电厂 固态电池 刀片电池 钒电池 HIT电池 钙钛矿电池 BC电池 燃料电池 电力 动力电池回收 电网设备 超级电容 绿色电力",
-      "match_count": 3,
-      "titles": [
         {
           "title": "新能源二手车越来越「香」了，交易量走高，保值率提升，为何会出现这一变化？是短期回暖还是长期趋势？",
           "url": "https://www.zhihu.com/question/2047600648644816926",
@@ -2025,16 +2168,15 @@
           "time_info": "[00时18分 ~ 03时05分]"
         },
         {
-          "title": "燃油车反击新能源车 成本催升订单",
-          "url": "https://www.baidu.com/s?wd=%E7%87%83%E6%B2%B9%E8%BD%A6%E5%8F%8D%E5%87%BB%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6+%E6%88%90%E6%9C%AC%E5%82%AC%E5%8D%87%E8%AE%A2%E5%8D%95",
-          "source": "百度热搜",
+          "title": "十一部门：到2030年，新能源重卡渗透率达到40%，保有量突破160万辆",
+          "url": "https://wallstreetcn.com/livenews/3119134",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28,
-            12
+            20
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 15时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
         },
         {
           "title": "11部门发文推动新能源重卡应用",
@@ -2043,9 +2185,48 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "算力 电源设备 液冷 云计算 一体机 边缘计算 PCB PLC概念",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "SpaceX在遭遇技术问题后将Colossus 1算力出租给Anthropic",
+          "url": "https://flash.jin10.com/detail/20260613024305641800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "联手打造太空算力？SpaceX刚上市，马斯克就喊话黄仁勋：合作升级！",
+          "url": "https://wallstreetcn.com/articles/3774568",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时30分]"
+        },
+        {
+          "title": "粤港澳大湾区枢纽公共算力服务平台Token工厂在韶关正式点亮",
+          "url": "https://wallstreetcn.com/livenews/3119135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
         }
       ]
     },
@@ -2085,7 +2266,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
         }
@@ -2152,19 +2333,30 @@
       ]
     },
     {
-      "keyword_group": "算力 电源设备 液冷 云计算 一体机 边缘计算 PCB PLC概念",
-      "match_count": 1,
+      "keyword_group": "AMD",
+      "match_count": 2,
       "titles": [
         {
-          "title": "SpaceX在遭遇技术问题后将Colossus 1算力出租给Anthropic",
-          "url": "https://flash.jin10.com/detail/20260613024305641800",
+          "title": "“木头姐”卖出AMD股票，买入SpaceX股票",
+          "url": "https://wallstreetcn.com/livenews/3119137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
+        {
+          "title": "“木头姐”卖出AMD股票，买入SpaceX股票",
+          "url": "https://flash.jin10.com/detail/20260613143851318800",
           "source": "金十数据",
           "ranks": [
-            3
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时05分"
+          "time_info": "15时48分"
         }
       ]
     },
@@ -2271,23 +2463,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AMD",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“木头姐”卖出AMD股票，买入SpaceX股票",
-          "url": "https://flash.jin10.com/detail/20260613143851318800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时48分"
         }
       ]
     },
