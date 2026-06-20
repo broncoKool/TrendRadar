@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T16:57:20.107366+08:00",
-  "total_titles_processed": 915,
+  "generated_at": "2026-06-20T19:21:28.188543+08:00",
+  "total_titles_processed": 1029,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普和高市早苗因珍珠港发生争吵",
@@ -63,11 +63,23 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时15分 ~ 19时21分]"
+        },
+        {
+          "title": "特朗普：今年将再次访问中国",
+          "url": "https://news.ifeng.com/c/8u6mys1KcVF",
+          "source": "凤凰网",
+          "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时15分 ~ 16时57分]"
+          "time_info": "[16时57分 ~ 19时21分]"
         },
         {
           "title": "特朗普视察新专机，专家担心安全性可能不如现有的“空军一号”",
@@ -83,15 +95,15 @@
           "time_info": "[06时58分 ~ 13时15分]"
         },
         {
-          "title": "特朗普：今年将再次访问中国",
-          "url": "https://news.ifeng.com/c/8u6mys1KcVF",
-          "source": "凤凰网",
+          "title": "特朗普自夸对伊战争成果：伊朗被“完全击败”，美国不再软弱",
+          "url": "https://flash.jin10.com/detail/20260620190142057800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时57分"
+          "time_info": "19时21分"
         },
         {
           "title": "特朗普：美伊须60天内达成长期协议，否则将采取进一步行动",
@@ -118,6 +130,17 @@
           "time_info": "[01时58分 ~ 06时58分]"
         },
         {
+          "title": "美国总统特朗普：伊朗在军事上正被“彻底击败”。",
+          "url": "https://wallstreetcn.com/livenews/3122240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
           "title": "美国总统特朗普透露，卡塔尔赠予的空军一号专机已经搭载了星链通信网络。",
           "url": "https://flash.jin10.com/detail/20260620040803014800",
           "source": "金十数据",
@@ -128,6 +151,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时12分 ~ 08时16分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-20）",
+          "url": "https://flash.jin10.com/detail/20260620184815728800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "美国总统特朗普：（谈及委内瑞拉和古巴）委内瑞拉有石油。古巴没有。古巴有不错的地产和漂亮的海岸线。",
@@ -177,17 +211,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时12分 ~ 08时16分]"
-        },
-        {
-          "title": "意外长取消访美：特朗普冒犯了意大利",
-          "url": "https://www.toutiao.com/trending/7653072490532556324/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
         },
         {
           "title": "美国总统特朗普：（谈及七国集团）他们本应保留八国集团。如果那样的话，俄乌之间可能就不会发生战争了，但奥巴马不想让普京留在那里。以前是八国集团。如果当初保留下来，会好得多。",
@@ -250,6 +273,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时12分 ~ 08时16分]"
+        },
+        {
+          "title": "意外长取消访美：特朗普冒犯了意大利",
+          "url": "https://www.toutiao.com/trending/7653072490532556324/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 19时21分]"
         },
         {
           "title": "美国总统特朗普：我结束了8场战争，与伊朗的战争是最艰难的。",
@@ -461,7 +496,29 @@
           "time_info": "[01时59分 ~ 03时57分]"
         },
         {
+          "title": "特朗普坚称伊朗无条件投降了",
+          "url": "https://news.ifeng.com/c/8u6jGmZtj71",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
           "title": "特朗普言论“冒犯了整个意大利”，意外长取消访美",
+          "url": "https://news.ifeng.com/c/8u70Bz5ivT7",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
+          "title": "特朗普“剧透”，意大利怒了",
           "url": "https://news.ifeng.com/c/8u70Bz5ivT7",
           "source": "凤凰网",
           "ranks": [
@@ -469,7 +526,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时57分"
+          "time_info": "19时21分"
         },
         {
           "title": "美媒：特朗普周五与以色列通话 要求以方同意与真主党停火",
@@ -500,7 +557,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -547,12 +604,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "特朗普在摇摆州支持率大跌",
+          "url": "https://www.toutiao.com/trending/7652819170371420203/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "伊朗推迟赴瑞士行程！黎巴嫩问题成变数 万斯指责以色列对美缺乏信任",
@@ -564,8 +632,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时58分 ~ 16时57分]"
+          "appearance_count": 11,
+          "time_info": "[01时58分 ~ 19时21分]"
         },
         {
           "title": "伊朗宣布霍尔木兹海峡通行新规",
@@ -596,11 +664,12 @@
           "ranks": [
             7,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时58分 ~ 16时57分]"
+          "appearance_count": 11,
+          "time_info": "[01时58分 ~ 19时21分]"
         },
         {
           "title": "霍尔木兹海峡已重开，但伊朗收费吗、找得到油轮吗？",
@@ -676,6 +745,17 @@
           "time_info": "01时59分"
         },
         {
+          "title": "美伊谈判能否顺利举行？伊朗有何先决条件？凤凰记者解读",
+          "url": "https://news.ifeng.com/c/8u6rTy30ATU",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
           "title": "伊朗副外长：美国必须确保以色列遵守谅解备忘录",
           "url": "https://flash.jin10.com/detail/20260620075600565800",
           "source": "金十数据",
@@ -729,11 +809,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时15分 ~ 19时21分]"
+        },
+        {
+          "title": "伊朗国防部：持续努力提升军事准备，改善防御能力。",
+          "url": "https://flash.jin10.com/detail/20260620161710499800",
+          "source": "金十数据",
+          "ranks": [
+            6,
             20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时15分 ~ 16时57分]"
+          "time_info": "[16时57分 ~ 19时21分]"
         },
         {
           "title": "五角大楼或需800亿美元为伊朗战事“埋单”",
@@ -783,15 +876,27 @@
           "time_info": "[01时58分 ~ 01时59分]"
         },
         {
-          "title": "伊朗国防部：持续努力提升军事准备，改善防御能力。",
-          "url": "https://flash.jin10.com/detail/20260620161710499800",
+          "title": "伊朗队进球功臣还在穿2014年的球鞋",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%9F%E8%BF%9B%E7%90%83%E5%8A%9F%E8%87%A3%E8%BF%98%E5%9C%A8%E7%A9%BF2014%E5%B9%B4%E7%9A%84%E7%90%83%E9%9E%8B",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 19时21分]"
+        },
+        {
+          "title": "伊方威胁若以色列持续攻击黎巴嫩 伊朗将退出谈判",
+          "url": "https://flash.jin10.com/detail/20260620174109237800",
           "source": "金十数据",
           "ranks": [
-            6
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时57分"
+          "time_info": "19时21分"
         },
         {
           "title": "伊朗外交部副部长：60天后，我们将采用新的机制来管理霍尔木兹海峡，并向该地区国家提出特别倡议。",
@@ -822,7 +927,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -855,7 +960,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -866,7 +971,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -877,7 +982,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -924,23 +1029,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
-        },
-        {
-          "title": "伊朗队进球功臣还在穿2014年的球鞋",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%9F%E8%BF%9B%E7%90%83%E5%8A%9F%E8%87%A3%E8%BF%98%E5%9C%A8%E7%A9%BF2014%E5%B9%B4%E7%9A%84%E7%90%83%E9%9E%8B",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
         }
       ]
     },
     {
       "keyword_group": "ai 人工智能 agent 大模型 多模态 全模态 跨模态 AGI AIGC AI+ AIPC AI语料 数字人",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
@@ -969,6 +1063,18 @@
           "time_info": "[03时57分 ~ 13时15分]"
         },
         {
+          "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
+          "url": "https://wallstreetcn.com/articles/3775106",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 19时21分]"
+        },
+        {
           "title": "第一次见心眼这么多的AI",
           "url": "https://www.douyin.com/hot/2541043",
           "source": "抖音",
@@ -985,22 +1091,12 @@
           "url": "https://flash.jin10.com/detail/20260620164622907800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
-          "url": "https://wallstreetcn.com/articles/3775106",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 19时21分]"
         },
         {
           "title": "埃森哲股价暴跌18%创近十年新低，AI冲击与中东动荡双重施压",
@@ -1019,11 +1115,45 @@
           "url": "https://wallstreetcn.com/articles/3775111",
           "source": "华尔街见闻",
           "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 19时21分]"
+        },
+        {
+          "title": "美国电网扛不住AI热潮",
+          "url": "https://wallstreetcn.com/livenews/3122234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "腾讯：微信正在灰度测试 AI助手“小微”",
+          "url": "https://wallstreetcn.com/livenews/3122233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
+          "url": "https://wallstreetcn.com/articles/3775113",
+          "source": "华尔街见闻",
+          "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时57分"
+          "time_info": "19时21分"
         },
         {
           "title": "挪威将禁止小学生使用生成式人工智能",
@@ -1032,9 +1162,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
+        },
+        {
+          "title": "美国电网扛不住AI热潮",
+          "url": "https://flash.jin10.com/detail/20260620165448483800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "当AI开始自己造AI",
@@ -1043,7 +1184,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -1065,7 +1206,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -1090,6 +1231,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
+        },
+        {
+          "title": "1年500元你会把脸卖给AI短剧吗",
+          "url": "https://s.weibo.com/weibo?q=%231%E5%B9%B4500%E5%85%83%E4%BD%A0%E4%BC%9A%E6%8A%8A%E8%84%B8%E5%8D%96%E7%BB%99AI%E7%9F%AD%E5%89%A7%E5%90%97%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         }
       ]
     },
@@ -1107,8 +1259,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时58分 ~ 16时57分]"
+          "appearance_count": 11,
+          "time_info": "[01时58分 ~ 19时21分]"
         },
         {
           "title": "沃什“鹰派首秀”，高盛下调黄金目标价，“如果今年真加息，金价会进一步下跌”",
@@ -1130,7 +1282,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -1139,11 +1291,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%9C%9F%E8%80%B3%E5%85%B6%E9%BB%84%E9%87%91%E4%B8%80%E4%BB%A3%E8%80%BB%E8%BE%B1%E5%87%BA%E5%B1%80",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 19时21分]"
         },
         {
           "title": "土耳其黄金一代耻辱出局",
@@ -1152,7 +1305,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -1185,7 +1338,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         }
@@ -1221,6 +1374,18 @@
           "time_info": "[05时12分 ~ 08时16分]"
         },
         {
+          "title": "投资者买“老破小” 收益胜过存银行",
+          "url": "https://www.baidu.com/s?wd=%E6%8A%95%E8%B5%84%E8%80%85%E4%B9%B0%E2%80%9C%E8%80%81%E7%A0%B4%E5%B0%8F%E2%80%9D+%E6%94%B6%E7%9B%8A%E8%83%9C%E8%BF%87%E5%AD%98%E9%93%B6%E8%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 19时21分]"
+        },
+        {
           "title": "中东股市收盘播报｜周五（6月19日），土耳其伊斯坦布尔证交所全国100指数收跌0.63%，报14734.50点，脱离5月12日以来最高收盘位，本周累计上涨5.71%。 伊斯坦布尔证交所银行指数收涨0.31%，报18994.50点，北京时间20:50出现一波短线拉升行情，逼近2月27日收盘位20287.20点，本周累涨9.98%。",
           "url": "https://wallstreetcn.com/livenews/3122142",
           "source": "华尔街见闻-快讯",
@@ -1244,17 +1409,6 @@
           "time_info": "13时15分"
         },
         {
-          "title": "投资者买“老破小” 收益胜过存银行",
-          "url": "https://www.baidu.com/s?wd=%E6%8A%95%E8%B5%84%E8%80%85%E4%B9%B0%E2%80%9C%E8%80%81%E7%A0%B4%E5%B0%8F%E2%80%9D+%E6%94%B6%E7%9B%8A%E8%83%9C%E8%BF%87%E5%AD%98%E9%93%B6%E8%A1%8C",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
           "title": "意大利股市继续创收盘历史新高，银行板块本周涨6.7%",
           "url": "https://wallstreetcn.com/livenews/3122144",
           "source": "华尔街见闻-快讯",
@@ -1268,222 +1422,8 @@
       ]
     },
     {
-      "keyword_group": "芯片 光刻机 存储芯片 半导体 IGBT概念 光模块 CPO概念 中芯概念 chiplet AI芯片",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
-          "url": "https://www.cls.cn/detail/2404187",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时58分 ~ 16时57分]"
-        },
-        {
-          "title": "EMIB+玻璃基板+金刚石......陈立武谈英特尔芯片业务：在材料层面寻求突破",
-          "url": "https://www.cls.cn/detail/2404404",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时58分 ~ 16时57分]"
-        },
-        {
-          "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
-          "url": "https://wallstreetcn.com/articles/3774963",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时58分 ~ 06时58分]"
-        },
-        {
-          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
-          "url": "https://www.cls.cn/detail/2404196",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时58分 ~ 16时57分]"
-        },
-        {
-          "title": "存储芯片涨价失控",
-          "url": "https://s.weibo.com/weibo?q=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E6%B6%A8%E4%BB%B7%E5%A4%B1%E6%8E%A7&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时57分 ~ 08时16分]"
-        },
-        {
-          "title": "美股存储芯片持续暴涨",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E6%8C%81%E7%BB%AD%E6%9A%B4%E6%B6%A8&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大数据 数据集 语料 数据中心 数据要素",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "SemiAnalysis：半数2026年美国数据中心将取消？这是被\"AI编码\"出来的假警报",
-          "url": "https://wallstreetcn.com/articles/3775091",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时57分 ~ 16时57分]"
-        },
-        {
-          "title": "大数据看端午假期热点",
-          "url": "https://www.toutiao.com/trending/7652640126610247231/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时15分"
-        },
-        {
-          "title": "鸿海董事长：每1GW Vera Rubin数据中心，资本开支高达470亿美元，每年电力成本13亿美元",
-          "url": "https://wallstreetcn.com/articles/3775108",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "据知情人士透露，阿布扎比支持的AI投资者MGX一直在探索收购新加坡数据中心运营商DayOne的可行性，预计潜在交易金额（至少）数十亿美元。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3122191",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            7,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时58分 ~ 13时15分]"
-        },
-        {
-          "title": "消息人士称，阿布扎比技术投资公司MGX正考虑以数十亿美元收购数据中心运营商DayOne。",
-          "url": "https://flash.jin10.com/detail/20260620024848847800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时57分 ~ 06时58分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "军工 航空 航天 航母",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "春秋航空日本飞机在哈尔滨机场重着陆",
-          "url": "https://www.baidu.com/s?wd=%E6%98%A5%E7%A7%8B%E8%88%AA%E7%A9%BA%E6%97%A5%E6%9C%AC%E9%A3%9E%E6%9C%BA%E5%9C%A8%E5%93%88%E5%B0%94%E6%BB%A8%E6%9C%BA%E5%9C%BA%E9%87%8D%E7%9D%80%E9%99%86",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            8,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时58分 ~ 06时58分]"
-        },
-        {
-          "title": "日本春秋航空飞机在哈尔滨机场重着陆",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%98%A5%E7%A7%8B%E8%88%AA%E7%A9%BA%E9%A3%9E%E6%9C%BA%E5%9C%A8%E5%93%88%E5%B0%94%E6%BB%A8%E6%9C%BA%E5%9C%BA%E9%87%8D%E7%9D%80%E9%99%86",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时15分 ~ 08时16分]"
-        },
-        {
-          "title": "瑞安航空首席执行官奥利里：公司可能会从美伊协议中获得一些刺激。",
-          "url": "https://flash.jin10.com/detail/20260620160453631800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "瑞安航空首席执行官奥利里：如果油价降至每桶低于80美元或80美元左右，我们肯定会考虑为2027年夏季开始对冲。",
-          "url": "https://flash.jin10.com/detail/20260620160437580800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "瑞安航空首席执行官奥利里：客运量良好，但价格似乎与去年持平。",
-          "url": "https://flash.jin10.com/detail/20260620160424778800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特斯拉 马斯克",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
@@ -1495,8 +1435,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时58分 ~ 16时57分]"
+          "appearance_count": 11,
+          "time_info": "[01时58分 ~ 19时21分]"
         },
         {
           "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
@@ -1545,12 +1485,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
+        },
+        {
+          "title": "马斯克获得3.04亿股特斯拉股票",
+          "url": "https://www.toutiao.com/trending/7653199724945866803/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         }
       ]
     },
     {
       "keyword_group": "iphone ipad mac ios",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美国国务卿卢比奥计划下周前往中东地区，计划前往科威特、阿联酋、巴林。（Axios）",
@@ -1570,11 +1521,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%8F%B2%E4%B8%8A%E6%9C%80%E8%B4%B5iPhone%E8%A6%81%E6%9D%A5%E4%BA%86%E5%90%97",
           "source": "百度热搜",
           "ranks": [
-            13
+            13,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 19时21分]"
         },
         {
           "title": "据AXIOS：美国总统特朗普表示，我们将能够控制以色列不攻击黎巴嫩。",
@@ -1608,12 +1560,105 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
+        },
+        {
+          "title": "涨完价的iPhone还香吗",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B6%A8%E5%AE%8C%E4%BB%B7%E7%9A%84iPhone%E8%BF%98%E9%A6%99%E5%90%97%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 光刻机 存储芯片 半导体 IGBT概念 光模块 CPO概念 中芯概念 chiplet AI芯片",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
+          "url": "https://www.cls.cn/detail/2404187",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时58分 ~ 19时21分]"
+        },
+        {
+          "title": "EMIB+玻璃基板+金刚石......陈立武谈英特尔芯片业务：在材料层面寻求突破",
+          "url": "https://www.cls.cn/detail/2404404",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时58分 ~ 19时21分]"
+        },
+        {
+          "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
+          "url": "https://wallstreetcn.com/articles/3774963",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时58分 ~ 06时58分]"
+        },
+        {
+          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
+          "url": "https://www.cls.cn/detail/2404196",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时58分 ~ 19时21分]"
+        },
+        {
+          "title": "存储芯片涨价失控",
+          "url": "https://s.weibo.com/weibo?q=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E6%B6%A8%E4%BB%B7%E5%A4%B1%E6%8E%A7&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时57分 ~ 08时16分]"
+        },
+        {
+          "title": "美股存储芯片持续暴涨",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E6%8C%81%E7%BB%AD%E6%9A%B4%E6%B6%A8&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时57分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "国际金价再跳水失守4200美元，国内金饰克价破1300元",
@@ -1635,7 +1680,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -1653,6 +1698,18 @@
           "time_info": "[01时58分 ~ 08时16分]"
         },
         {
+          "title": "金价下跌买30克镯子差价有一万多",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%B9%B030%E5%85%8B%E9%95%AF%E5%AD%90%E5%B7%AE%E4%BB%B7%E6%9C%89%E4%B8%80%E4%B8%87%E5%A4%9A",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 19时21分]"
+        },
+        {
           "title": "金价银价双双下跌",
           "url": "https://www.douyin.com/hot/2540227",
           "source": "抖音",
@@ -1664,13 +1721,147 @@
           "time_info": "[01时58分 ~ 01时59分]"
         },
         {
-          "title": "金价下跌买30克镯子差价有一万多",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%B9%B030%E5%85%8B%E9%95%AF%E5%AD%90%E5%B7%AE%E4%BB%B7%E6%9C%89%E4%B8%80%E4%B8%87%E5%A4%9A",
-          "source": "百度热搜",
+          "title": "金价这轮下跌何时到底",
+          "url": "https://www.toutiao.com/trending/7653410213311024681/",
+          "source": "今日头条",
           "ranks": [
-            17
+            7
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大数据 数据集 语料 数据中心 数据要素",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "SemiAnalysis：半数2026年美国数据中心将取消？这是被\"AI编码\"出来的假警报",
+          "url": "https://wallstreetcn.com/articles/3775091",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时57分 ~ 19时21分]"
+        },
+        {
+          "title": "鸿海董事长：每1GW Vera Rubin数据中心，资本开支高达470亿美元，每年电力成本13亿美元",
+          "url": "https://wallstreetcn.com/articles/3775108",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 19时21分]"
+        },
+        {
+          "title": "大数据看端午假期热点",
+          "url": "https://www.toutiao.com/trending/7652640126610247231/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
+          "title": "据知情人士透露，阿布扎比支持的AI投资者MGX一直在探索收购新加坡数据中心运营商DayOne的可行性，预计潜在交易金额（至少）数十亿美元。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3122191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时58分 ~ 13时15分]"
+        },
+        {
+          "title": "消息人士称，阿布扎比技术投资公司MGX正考虑以数十亿美元收购数据中心运营商DayOne。",
+          "url": "https://flash.jin10.com/detail/20260620024848847800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时57分 ~ 06时58分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "军工 航空 航天 航母",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "春秋航空日本飞机在哈尔滨机场重着陆",
+          "url": "https://www.baidu.com/s?wd=%E6%98%A5%E7%A7%8B%E8%88%AA%E7%A9%BA%E6%97%A5%E6%9C%AC%E9%A3%9E%E6%9C%BA%E5%9C%A8%E5%93%88%E5%B0%94%E6%BB%A8%E6%9C%BA%E5%9C%BA%E9%87%8D%E7%9D%80%E9%99%86",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            8,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时58分 ~ 06时58分]"
+        },
+        {
+          "title": "瑞安航空首席执行官奥利里：公司可能会从美伊协议中获得一些刺激。",
+          "url": "https://flash.jin10.com/detail/20260620160453631800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 19时21分]"
+        },
+        {
+          "title": "瑞安航空首席执行官奥利里：如果油价降至每桶低于80美元或80美元左右，我们肯定会考虑为2027年夏季开始对冲。",
+          "url": "https://flash.jin10.com/detail/20260620160437580800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 19时21分]"
+        },
+        {
+          "title": "日本春秋航空飞机在哈尔滨机场重着陆",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%98%A5%E7%A7%8B%E8%88%AA%E7%A9%BA%E9%A3%9E%E6%9C%BA%E5%9C%A8%E5%93%88%E5%B0%94%E6%BB%A8%E6%9C%BA%E5%9C%BA%E9%87%8D%E7%9D%80%E9%99%86",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时15分 ~ 08时16分]"
+        },
+        {
+          "title": "瑞安航空首席执行官奥利里：客运量良好，但价格似乎与去年持平。",
+          "url": "https://flash.jin10.com/detail/20260620160424778800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         }
@@ -1709,11 +1900,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 16时57分]"
+          "appearance_count": 3,
+          "time_info": "[13时15分 ~ 19时21分]"
         }
       ]
     },
@@ -1726,11 +1918,12 @@
           "url": "https://wallstreetcn.com/livenews/3122228",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 19时21分]"
         },
         {
           "title": "为什么机器人领域都在弄具身智能了，感觉中间跳了一大步?",
@@ -1750,7 +1943,47 @@
           "ranks": [
             20
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "京东 刘强东",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "苏州市委书记范波会见京东集团创始人刘强东",
+          "url": "https://flash.jin10.com/detail/20260620185738874800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "京东方A：未来公司资本开支金额将逐渐降低",
+          "url": "https://wallstreetcn.com/livenews/3122229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 19时21分]"
+        },
+        {
+          "title": "京东方A：未来公司资本开支金额将逐渐降低",
+          "url": "https://flash.jin10.com/detail/20260620155306161800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         }
@@ -1826,19 +2059,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时15分 ~ 16时57分]"
+          "appearance_count": 5,
+          "time_info": "[08时15分 ~ 19时21分]"
         },
         {
           "title": "1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股",
           "url": "https://wallstreetcn.com/articles/3775107",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 19时21分]"
         }
       ]
     },
@@ -1916,34 +2150,6 @@
       ]
     },
     {
-      "keyword_group": "京东 刘强东",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "京东方A：未来公司资本开支金额将逐渐降低",
-          "url": "https://wallstreetcn.com/livenews/3122229",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "京东方A：未来公司资本开支金额将逐渐降低",
-          "url": "https://flash.jin10.com/detail/20260620155306161800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        }
-      ]
-    },
-    {
       "keyword_group": "claude Anthropic",
       "match_count": 2,
       "titles": [
@@ -1983,11 +2189,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 16时57分]"
+          "appearance_count": 3,
+          "time_info": "[13时15分 ~ 19时21分]"
         },
         {
           "title": "征服者强的买瓜宇宙",
@@ -2012,11 +2219,12 @@
           "url": "https://www.zhihu.com/question/2050369021711853387",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 19时21分]"
         }
       ]
     },
@@ -2051,8 +2259,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时58分 ~ 16时57分]"
+          "appearance_count": 11,
+          "time_info": "[01时58分 ~ 19时21分]"
         }
       ]
     },
@@ -2067,7 +2275,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         }
@@ -2119,8 +2327,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 16时57分]"
+          "appearance_count": 3,
+          "time_info": "[13时15分 ~ 19时21分]"
         }
       ]
     },
@@ -2135,9 +2343,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 19时21分]"
         }
       ]
     }
