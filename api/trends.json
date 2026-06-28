@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T16:52:54.350305+08:00",
-  "total_titles_processed": 889,
+  "generated_at": "2026-06-28T19:08:34.020195+08:00",
+  "total_titles_processed": 1027,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 69,
+      "match_count": 78,
       "titles": [
         {
           "title": "伊朗战事将如何影响美军中东布局？",
@@ -30,8 +30,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 16时52分]"
+          "appearance_count": 10,
+          "time_info": "[00时05分 ~ 19时08分]"
         },
         {
           "title": "美伊签协议后美军首次开火，称空袭伊朗回应商船在霍尔木兹遭袭，伊方称挫败美袭击、将严厉回应",
@@ -119,17 +119,6 @@
           "time_info": "08时03分"
         },
         {
-          "title": "伊朗外长：30天内海峡将由伊朗全面监督管理 任何干预将延迟重开",
-          "url": "https://flash.jin10.com/detail/20260628164949906800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时52分"
-        },
-        {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：数枚炮弹袭击了格什姆岛的一个村庄。",
           "url": "https://flash.jin10.com/detail/20260628055148653800",
           "source": "金十数据",
@@ -150,17 +139,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
-        },
-        {
-          "title": "巴林称拦截并摧毁伊朗导弹和无人机",
-          "url": "https://wallstreetcn.com/livenews/3125646",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时52分"
         },
         {
           "title": "伊朗出局",
@@ -196,15 +174,15 @@
           "time_info": "13时17分"
         },
         {
-          "title": "伊朗外长阿拉格齐：德黑兰欢迎与伊拉克等海湾阿拉伯国家就海湾安全问题进行谈判的框架。",
-          "url": "https://flash.jin10.com/detail/20260628164210683800",
-          "source": "金十数据",
+          "title": "伊朗外长阿拉格齐：伊朗对霍尔木兹海峡恢复通行负有全部责任。 外部势力干预霍尔木兹海峡会带来局势升级风险。",
+          "url": "https://wallstreetcn.com/livenews/3125652",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时52分"
+          "time_info": "19时08分"
         },
         {
           "title": "美国再对伊朗实施军事打击",
@@ -224,9 +202,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
+        },
+        {
+          "title": "伊朗外长到访伊拉克",
+          "url": "https://wallstreetcn.com/livenews/3125651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "美国再次打击伊朗 锡里克地区传出爆炸声",
@@ -246,7 +235,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         },
@@ -273,6 +262,31 @@
           "time_info": "[00时05分 ~ 08时03分]"
         },
         {
+          "title": "伊朗谴责美袭击伊朗南部",
+          "url": "https://wallstreetcn.com/livenews/3125631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 19时08分]"
+        },
+        {
+          "title": "巴林称拦截并摧毁伊朗导弹和无人机",
+          "url": "https://wallstreetcn.com/livenews/3125646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 19时08分]"
+        },
+        {
           "title": "伊朗队最后时刻出局",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%9F%E6%9C%80%E5%90%8E%E6%97%B6%E5%88%BB%E5%87%BA%E5%B1%80",
           "source": "百度热搜",
@@ -297,16 +311,28 @@
           "time_info": "[02时03分 ~ 04时09分]"
         },
         {
-          "title": "伊朗谴责美袭击伊朗南部",
-          "url": "https://wallstreetcn.com/livenews/3125631",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗外长：30天内海峡将由伊朗全面监督管理 任何干预将延迟重开",
+          "url": "https://flash.jin10.com/detail/20260628164949906800",
+          "source": "金十数据",
           "ranks": [
             1,
-            12
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时17分 ~ 16时52分]"
+          "time_info": "[16时52分 ~ 19时08分]"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：德黑兰欢迎与伊拉克等海湾阿拉伯国家就海湾安全问题进行谈判的框架。",
+          "url": "https://flash.jin10.com/detail/20260628164210683800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 19时08分]"
         },
         {
           "title": "伊朗压哨出局",
@@ -319,6 +345,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时17分 ~ 16时52分]"
+        },
+        {
+          "title": "伊朗锡里克地区传出爆炸声 美军称再对伊实施打击",
+          "url": "https://www.cls.cn/detail/2410985",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 19时08分]"
+        },
+        {
+          "title": "伊朗锡里克地区传出爆炸声，美军称再对伊实施打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470204",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 19时08分]"
+        },
+        {
+          "title": "伊朗无缘世界杯32强",
+          "url": "https://www.douyin.com/hot/2550399",
+          "source": "抖音",
+          "ranks": [
+            10,
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 19时08分]"
         },
         {
           "title": "市场消息：伊朗外长阿拉格齐周日将访问伊拉克。",
@@ -334,52 +399,17 @@
           "time_info": "[04时09分 ~ 08时03分]"
         },
         {
-          "title": "伊朗锡里克地区传出爆炸声 美军称再对伊实施打击",
-          "url": "https://www.cls.cn/detail/2410985",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 16时52分]"
-        },
-        {
-          "title": "伊朗锡里克地区传出爆炸声，美军称再对伊实施打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470204",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 16时52分]"
-        },
-        {
-          "title": "伊朗无缘世界杯32强",
-          "url": "https://www.douyin.com/hot/2550399",
-          "source": "抖音",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 16时52分]"
-        },
-        {
           "title": "伊朗革命卫队威胁对美军基地发起“地狱”式打击",
           "url": "https://wallstreetcn.com/livenews/3125622",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 16时52分]"
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 19时08分]"
         },
         {
           "title": "伊朗革命卫队称打击8处美军设施",
@@ -387,11 +417,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 16时52分]"
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 19时08分]"
         },
         {
           "title": "美军称打击10个伊朗军事目标",
@@ -399,11 +430,61 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            24
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 19时08分]"
+        },
+        {
+          "title": "美军称对伊朗实施新一轮打击",
+          "url": "https://www.douyin.com/hot/2550107",
+          "source": "抖音",
+          "ranks": [
+            20,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 19时08分]"
+        },
+        {
+          "title": "伊朗队90分钟被“耍”6次",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%9F90%E5%88%86%E9%92%9F%E8%A2%AB%E2%80%9C%E8%80%8D%E2%80%9D6%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时17分 ~ 16时52分]"
+          "time_info": "[16时52分 ~ 19时08分]"
+        },
+        {
+          "title": "伊朗称将更强烈回应美进一步行为",
+          "url": "https://wallstreetcn.com/livenews/3125634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 19时08分]"
+        },
+        {
+          "title": "伊朗官员称伊朗已与阿联酋恢复贸易",
+          "url": "https://wallstreetcn.com/livenews/3125632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 19时08分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：通过与美国签署协议，黎巴嫩政府实际上是在告诉伊朗和黎巴嫩真主党离开黎巴嫩，把事务交给黎巴嫩自己处理。",
@@ -436,18 +517,6 @@
           "ranks": [
             15,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 16时52分]"
-        },
-        {
-          "title": "美军称对伊朗实施新一轮打击",
-          "url": "https://www.douyin.com/hot/2550107",
-          "source": "抖音",
-          "ranks": [
-            20,
-            15
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -489,6 +558,17 @@
           "time_info": "[08时02分 ~ 08时03分]"
         },
         {
+          "title": "沙特外交部：我们对伊朗对科威特和巴林的攻击以及对霍尔木兹海峡航行安全和自由的威胁表示最强烈的谴责。",
+          "url": "https://flash.jin10.com/detail/20260628181041753800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "美军深夜空袭伊朗",
           "url": "https://www.toutiao.com/trending/7655846117610884671/",
           "source": "今日头条",
@@ -498,17 +578,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
-        },
-        {
-          "title": "伊朗队90分钟被“耍”6次",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%9F90%E5%88%86%E9%92%9F%E8%A2%AB%E2%80%9C%E8%80%8D%E2%80%9D6%E6%AC%A1",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时52分"
         },
         {
           "title": "伊朗6月通胀率同比升至88.6%",
@@ -539,9 +608,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
+        },
+        {
+          "title": "伊朗队队长怒斥：这届世界杯是场灾难",
+          "url": "https://news.ifeng.com/c/8uKJ5MNERg6",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "美国打击伊朗后，伊朗无人机袭击巴林且有油轮遭袭",
@@ -555,24 +635,24 @@
           "time_info": "02时03分"
         },
         {
+          "title": "世界杯伊朗队从天堂跌入地狱",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BC%8A%E6%9C%97%E9%98%9F%E4%BB%8E%E5%A4%A9%E5%A0%82%E8%B7%8C%E5%85%A5%E5%9C%B0%E7%8B%B1",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "伊朗外长阿拉格齐：与伊拉克外长进行了非常好的会谈。",
           "url": "https://flash.jin10.com/detail/20260628163437826800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时52分"
-        },
-        {
-          "title": "伊朗称将更强烈回应美进一步行为",
-          "url": "https://wallstreetcn.com/livenews/3125634",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         },
@@ -586,6 +666,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
+        },
+        {
+          "title": "伊朗队队长怒斥国际足联：不公平",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%9F%E9%98%9F%E9%95%BF%E6%80%92%E6%96%A5%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%EF%BC%9A%E4%B8%8D%E5%85%AC%E5%B9%B3",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "市场消息：伊朗在霍尔木兹海峡袭击了一艘油轮。造成损坏，但没有人员伤亡。",
@@ -605,7 +696,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         },
@@ -616,20 +707,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         },
         {
-          "title": "伊朗官员称伊朗已与阿联酋恢复贸易",
-          "url": "https://wallstreetcn.com/livenews/3125632",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗外长呼吁与海湾国家建立“安全框架”",
+          "url": "https://flash.jin10.com/detail/20260628174806783800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时52分"
+          "time_info": "19时08分"
         },
         {
           "title": "伊朗：打击8处美军设施",
@@ -660,9 +751,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
+        },
+        {
+          "title": "伊朗最后时刻无缘淘汰赛，一图速览世界杯32强",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470690",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "沙特外交部谴责伊朗对巴林的攻击，认为这是对国际法的侵犯。",
@@ -698,6 +800,17 @@
           "time_info": "13时17分"
         },
         {
+          "title": "伊朗队队长：这届世界杯是场灾难",
+          "url": "https://www.toutiao.com/trending/7655334803939885099/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：我们正在打破伊朗的外交轴心。我们已达成一项框架协议，使我们能够结束与黎巴嫩的冲突。",
           "url": "https://flash.jin10.com/detail/20260628015821360800",
           "source": "金十数据",
@@ -715,7 +828,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         },
@@ -770,7 +883,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         },
@@ -781,7 +894,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         },
@@ -792,7 +905,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         }
@@ -800,7 +913,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "欧盟回应特朗普关税威胁：坚决捍卫自身权利",
@@ -816,6 +929,17 @@
           "time_info": "[00时05分 ~ 16时52分]"
         },
         {
+          "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
+          "url": "https://wallstreetcn.com/articles/3775683",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 19时08分]"
+        },
+        {
           "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
           "url": "https://news.ifeng.com/c/8uInDi1ssY8",
           "source": "凤凰网",
@@ -827,15 +951,16 @@
           "time_info": "[00时05分 ~ 08时03分]"
         },
         {
-          "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
-          "url": "https://wallstreetcn.com/articles/3775683",
-          "source": "华尔街见闻",
+          "title": "学特朗普“卖金卡”，阿根廷这次直接卖国籍？",
+          "url": "https://news.ifeng.com/c/8uJmUX0Ymhg",
+          "source": "凤凰网",
           "ranks": [
-            1
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 16时52分]"
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 19时08分]"
         },
         {
           "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
@@ -849,17 +974,6 @@
           "time_info": "[00时05分 ~ 08时03分]"
         },
         {
-          "title": "学特朗普“卖金卡”，阿根廷这次直接卖国籍？",
-          "url": "https://news.ifeng.com/c/8uJmUX0Ymhg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 16时52分]"
-        },
-        {
           "title": "特朗普驳斥哈格曼新书为“假新闻”，重申选举胜利叙事",
           "url": "https://flash.jin10.com/detail/20260628122518438800",
           "source": "金十数据",
@@ -869,6 +983,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-28）",
+          "url": "https://flash.jin10.com/detail/20260628181334156800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "特朗普提名兰斯·施罗耶出任美移民与海关执法局局长",
@@ -959,6 +1084,19 @@
           "time_info": "[04时09分 ~ 08时03分]"
         },
         {
+          "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470245",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 19时08分]"
+        },
+        {
           "title": "特朗普孙女发逛白宫vlog美国网友破防",
           "url": "https://www.toutiao.com/trending/7656026817400475182/",
           "source": "今日头条",
@@ -983,16 +1121,15 @@
           "time_info": "[06时02分 ~ 08时03分]"
         },
         {
-          "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470245",
-          "source": "澎湃新闻",
+          "title": "美军连续第二天空袭伊朗，特朗普威胁伊朗或将不复存在，局势会再度持续升温吗？美方此轮袭击想达成哪些目标？",
+          "url": "https://www.zhihu.com/question/2054471851032539301",
+          "source": "知乎",
           "ranks": [
-            17,
-            18
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时17分 ~ 16时52分]"
+          "time_info": "[16时52分 ~ 19时08分]"
         },
         {
           "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
@@ -1007,6 +1144,17 @@
           "time_info": "[13时17分 ~ 16时52分]"
         },
         {
+          "title": "扛不住成本，苹果游说特朗普政府",
+          "url": "https://news.ifeng.com/c/8uKEvaozU5k",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "欧盟回应特朗普关税威胁：坚决捍卫自身权利",
           "url": "https://news.ifeng.com/c/8uJtXiv6RM9",
           "source": "凤凰网",
@@ -1018,21 +1166,21 @@
           "time_info": "13时17分"
         },
         {
-          "title": "美军连续第二天空袭伊朗，特朗普威胁伊朗或将不复存在，局势会再度持续升温吗？美方此轮袭击想达成哪些目标？",
-          "url": "https://www.zhihu.com/question/2054471851032539301",
+          "title": "特朗普威胁对欧洲国家征收 100% 报复性关税，以回应欧洲国家对美企征收数字服务税，对双方互有什么影响?",
+          "url": "https://www.zhihu.com/question/2054137186371609939",
           "source": "知乎",
           "ranks": [
-            13
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时52分"
+          "time_info": "19时08分"
         }
       ]
     },
     {
       "keyword_group": "芯片 光刻机 存储芯片 半导体 IGBT概念 光模块 CPO概念 中芯概念 chiplet AI芯片",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "又一半导体气体或陷入短缺 存储巨头全力加紧采购",
@@ -1042,8 +1190,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 16时52分]"
+          "appearance_count": 10,
+          "time_info": "[00时05分 ~ 19时08分]"
         },
         {
           "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
@@ -1054,8 +1202,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 16时52分]"
+          "appearance_count": 10,
+          "time_info": "[00时05分 ~ 19时08分]"
         },
         {
           "title": "半导体拖累美股，标普、纳指五连跌，美光跌6%，金银走高，原油一度跌4%",
@@ -1067,6 +1215,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时05分 ~ 08时03分]"
+        },
+        {
+          "title": "半导体龙头集体加注 先进封装何以成为最具壁垒环节？",
+          "url": "https://www.cls.cn/detail/2410063",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时05分 ~ 19时08分]"
         },
         {
           "title": "外媒：苹果寻求获准从长鑫存储购买内存芯片",
@@ -1081,18 +1241,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时05分 ~ 13时17分]"
-        },
-        {
-          "title": "半导体龙头集体加注 先进封装何以成为最具壁垒环节？",
-          "url": "https://www.cls.cn/detail/2410063",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 16时52分]"
         },
         {
           "title": "存储芯片大涨 苹果美光打口水战",
@@ -1127,8 +1275,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 16时52分]"
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 19时08分]"
         },
         {
           "title": "存储芯片成本大涨，苹果美光打起“口水战”，到底谁为涨价买单？",
@@ -1140,12 +1288,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时02分 ~ 08时03分]"
+        },
+        {
+          "title": "下周重磅日程：美国非农、中国PMI、沃什出席欧洲央行论坛，半导体“7月涨价潮”",
+          "url": "https://wallstreetcn.com/articles/3775686",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "苹果芯片成本涨45售价狂加250美元",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E8%8A%AF%E7%89%87%E6%88%90%E6%9C%AC%E6%B6%A845%E5%94%AE%E4%BB%B7%E7%8B%82%E5%8A%A0250%E7%BE%8E%E5%85%83&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "苹果请求采购中国存储芯片",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E8%AF%B7%E6%B1%82%E9%87%87%E8%B4%AD%E4%B8%AD%E5%9B%BD%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         }
       ]
     },
     {
       "keyword_group": "ai 人工智能 agent 大模型 多模态 全模态 跨模态 AGI AIGC AI+ AIPC AI语料 数字人",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
@@ -1156,8 +1337,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 16时52分]"
+          "appearance_count": 10,
+          "time_info": "[00时05分 ~ 19时08分]"
         },
         {
           "title": "纯中二?美官员把AI当英雄",
@@ -1170,8 +1351,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 16时52分]"
+          "appearance_count": 10,
+          "time_info": "[00时05分 ~ 19时08分]"
         },
         {
           "title": "我喜欢的漫画被AI改编了",
@@ -1181,11 +1362,12 @@
             13,
             10,
             19,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时05分 ~ 16时52分]"
+          "appearance_count": 8,
+          "time_info": "[00时05分 ~ 19时08分]"
         },
         {
           "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
@@ -1194,9 +1376,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 19时08分]"
         },
         {
           "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
@@ -1216,11 +1398,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 16时52分]"
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 19时08分]"
         },
         {
           "title": "央视曝光高考志愿填报咨询陷阱，资质造假、照着 AI 念，高考志愿咨询服务是智商税吗？",
@@ -1244,6 +1427,176 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时02分 ~ 08时03分]"
+        },
+        {
+          "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
+          "url": "https://wallstreetcn.com/articles/3775696",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "纳指科技ETF景顺：6月29日开市起停牌 10:30起复牌",
+          "url": "https://flash.jin10.com/detail/20260628182343949800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 19时08分]"
+        },
+        {
+          "title": "中泰证券：后续市场风格依然是科技扩散而非风格切换",
+          "url": "https://flash.jin10.com/detail/20260628175358592800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "雅克科技：目前没有六氟化钨相关业务",
+          "url": "https://flash.jin10.com/detail/20260628161447033800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
+          "title": "富信科技：网传公司销售周志奇演讲完整原文为杜撰文章",
+          "url": "https://flash.jin10.com/detail/20260628110823067800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "中材科技：子公司泰山玻纤电子布、特种纤维布产品销售收入总体占比较小",
+          "url": "https://flash.jin10.com/detail/20260628154556882800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
+          "title": "好利科技：实控人筹划公司控制权变更事项 明起停牌",
+          "url": "https://flash.jin10.com/detail/20260628153844958800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "银行 金融科技 GDR概念",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "假文件骗500亿,银行当场抓包",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355675&amp;topic_name=%E5%81%87%E6%96%87%E4%BB%B6%E9%AA%97500%E4%BA%BF%2C%E9%93%B6%E8%A1%8C%E5%BD%93%E5%9C%BA%E6%8A%93%E5%8C%85",
+          "source": "贴吧",
+          "ranks": [
+            26,
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时05分 ~ 13时17分]"
+        },
+        {
+          "title": "登云股份：参股公司采矿许可证到期及银行借款逾期",
+          "url": "https://flash.jin10.com/detail/20260628161906825800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
+          "title": "国际清算银行：需要协调全球监管以增强金融稳定性。",
+          "url": "https://flash.jin10.com/detail/20260628170228561800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "国际清算银行：信息传递出紧迫感，需整合公共债务。创纪录的公共债务与高杠杆对冲基金日益增大之间的相互作用，正带来日益增长的金融稳定风险。",
+          "url": "https://flash.jin10.com/detail/20260628170217857800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "国际清算银行：人工智能热潮的可持续性、金融脆弱性、紧张的公共财政以及通胀，都是全球经济所面临的风险。",
+          "url": "https://flash.jin10.com/detail/20260628170103760800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "老赖有钱不还 欠20家银行20亿",
+          "url": "https://www.baidu.com/s?wd=%E8%80%81%E8%B5%96%E6%9C%89%E9%92%B1%E4%B8%8D%E8%BF%98+%E6%AC%A020%E5%AE%B6%E9%93%B6%E8%A1%8C20%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时05分"
         }
       ]
     },
@@ -1315,70 +1668,69 @@
       ]
     },
     {
-      "keyword_group": "科技",
+      "keyword_group": "新能源 供暖 光伏 风电设备 风能 煤炭 锂电 储能 地热能 核能核电 氢能源 充电桩 高压快充 虚拟电厂 固态电池 刀片电池 钒电池 HIT电池 钙钛矿电池 BC电池 燃料电池 电力 动力电池回收 电网设备 超级电容 绿色电力",
       "match_count": 5,
       "titles": [
         {
-          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
-          "source": "澎湃新闻",
+          "title": "未来5年充电供热供暖将有大变化",
+          "url": "https://www.toutiao.com/trending/7656345359567916590/",
+          "source": "今日头条",
           "ranks": [
-            19,
-            14
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时17分 ~ 16时52分]"
+          "time_info": "[16时52分 ~ 19时08分]"
         },
         {
-          "title": "雅克科技：目前没有六氟化钨相关业务",
-          "url": "https://flash.jin10.com/detail/20260628161447033800",
+          "title": "委内瑞拉代总统：地震重灾区六成电力已恢复",
+          "url": "https://wallstreetcn.com/livenews/3125586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 08时03分]"
+        },
+        {
+          "title": "立新能源：2026年公司新增风电装机规模250万千瓦",
+          "url": "https://flash.jin10.com/detail/20260628174413332800",
           "source": "金十数据",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时52分"
+          "time_info": "19时08分"
         },
         {
-          "title": "富信科技：网传公司销售周志奇演讲完整原文为杜撰文章",
-          "url": "https://flash.jin10.com/detail/20260628110823067800",
+          "title": "匈牙利政府：国家电力输电系统运营商MAVIR预计周日和下周一的峰值负荷将保持在夏季纪录水平以下。",
+          "url": "https://flash.jin10.com/detail/20260628171314323800",
           "source": "金十数据",
           "ranks": [
-            14
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "未来5年 充电供热供暖将有大变化",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A55%E5%B9%B4+%E5%85%85%E7%94%B5%E4%BE%9B%E7%83%AD%E4%BE%9B%E6%9A%96%E5%B0%86%E6%9C%89%E5%A4%A7%E5%8F%98%E5%8C%96",
+          "source": "百度热搜",
+          "ranks": [
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
-        },
-        {
-          "title": "中材科技：子公司泰山玻纤电子布、特种纤维布产品销售收入总体占比较小",
-          "url": "https://flash.jin10.com/detail/20260628154556882800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时52分"
-        },
-        {
-          "title": "好利科技：实控人筹划公司控制权变更事项 明起停牌",
-          "url": "https://flash.jin10.com/detail/20260628153844958800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时52分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
@@ -1425,15 +1777,26 @@
           "ranks": [
             9
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 19时08分]"
+        },
+        {
+          "title": "豆包和DeepSeek的博弈",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%92%8CDeepSeek%E7%9A%84%E5%8D%9A%E5%BC%88&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时52分"
+          "time_info": "19时08分"
         }
       ]
     },
     {
       "keyword_group": "算力 电源设备 液冷 云计算 一体机 边缘计算 PCB PLC概念",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "中京电子：未来PCB市场竞争预计将会加剧",
@@ -1442,7 +1805,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         },
@@ -1458,95 +1821,26 @@
           "time_info": "13时17分"
         },
         {
+          "title": "多家A股公司扎堆发异动公告，涉PCB、玻璃基板、液冷等热门赛道",
+          "url": "https://www.cls.cn/detail/2411079",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "祥鑫科技：液冷散热产品不会对公司的经营业绩产生重大影响",
           "url": "https://flash.jin10.com/detail/20260628154829666800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "银行 金融科技 GDR概念",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "假文件骗500亿,银行当场抓包",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355675&amp;topic_name=%E5%81%87%E6%96%87%E4%BB%B6%E9%AA%97500%E4%BA%BF%2C%E9%93%B6%E8%A1%8C%E5%BD%93%E5%9C%BA%E6%8A%93%E5%8C%85",
-          "source": "贴吧",
-          "ranks": [
-            26,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 13时17分]"
-        },
-        {
-          "title": "登云股份：参股公司采矿许可证到期及银行借款逾期",
-          "url": "https://flash.jin10.com/detail/20260628161906825800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时52分"
-        },
-        {
-          "title": "老赖有钱不还 欠20家银行20亿",
-          "url": "https://www.baidu.com/s?wd=%E8%80%81%E8%B5%96%E6%9C%89%E9%92%B1%E4%B8%8D%E8%BF%98+%E6%AC%A020%E5%AE%B6%E9%93%B6%E8%A1%8C20%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 供暖 光伏 风电设备 风能 煤炭 锂电 储能 地热能 核能核电 氢能源 充电桩 高压快充 虚拟电厂 固态电池 刀片电池 钒电池 HIT电池 钙钛矿电池 BC电池 燃料电池 电力 动力电池回收 电网设备 超级电容 绿色电力",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "未来5年充电供热供暖将有大变化",
-          "url": "https://www.toutiao.com/trending/7656345359567916590/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时52分"
-        },
-        {
-          "title": "委内瑞拉代总统：地震重灾区六成电力已恢复",
-          "url": "https://wallstreetcn.com/livenews/3125586",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 08时03分]"
-        },
-        {
-          "title": "未来5年 充电供热供暖将有大变化",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A55%E5%B9%B4+%E5%85%85%E7%94%B5%E4%BE%9B%E7%83%AD%E4%BE%9B%E6%9A%96%E5%B0%86%E6%9C%89%E5%A4%A7%E5%8F%98%E5%8C%96",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
         }
       ]
     },
@@ -1601,11 +1895,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 16时52分]"
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 19时08分]"
         },
         {
           "title": "据伊朗伊斯兰共和国广播电视台称，伊朗西南部锡里克地区传出爆炸声，爆炸与多枚炮弹击中一座通信塔有关。美媒AXIOS网站称，美国对伊朗实施空袭。",
@@ -1624,6 +1919,45 @@
           "source": "金十数据",
           "ranks": [
             22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金 贵金属 能源金属 稀土 磁性材料 锂矿 钛白粉 有色 煤炭 小金属 钢铁",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "利率破 5，黄金崩？长江证券想证明：加息未必利空黄金",
+          "url": "https://wallstreetcn.com/articles/3775691",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "大洗牌！货币贬值交易退潮，黄金究竟怎么了？",
+          "url": "https://flash.jin10.com/detail/20260628155101156800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
+          "title": "黄金投资者周报上新！",
+          "url": "https://flash.jin10.com/detail/20260628104742126800",
+          "source": "金十数据",
+          "ranks": [
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1662,6 +1996,34 @@
       ]
     },
     {
+      "keyword_group": "军工 航空 航天 航母",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美媒爆料，驻日美军航母成“毒窝”",
+          "url": "https://news.ifeng.com/c/8uJhzJTegOW",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 19时08分]"
+        },
+        {
+          "title": "离大谱！美军航母藏毒窝，58人被一锅端",
+          "url": "https://news.ifeng.com/c/8uKCREN9yya",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "超导",
       "match_count": 2,
       "titles": [
@@ -1673,11 +2035,12 @@
             8,
             7,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 16时52分]"
+          "appearance_count": 10,
+          "time_info": "[00时05分 ~ 19时08分]"
         },
         {
           "title": "全球最大人造太阳超导磁体在中国",
@@ -1693,6 +2056,35 @@
       ]
     },
     {
+      "keyword_group": "具身智能 零部件 人形机器人 虚拟机器人 云深处 智元 优必选 松延动力 Figure 波士顿动力 传感器 陀螺仪 机器人概念",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "智元第15000台机器人下线",
+          "url": "https://wallstreetcn.com/livenews/3125638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 19时08分]"
+        },
+        {
+          "title": "智元第15000台通用人形机器人量产下线",
+          "url": "https://flash.jin10.com/detail/20260628165142082800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "英伟达 NVIDIA 黄仁勋",
       "match_count": 2,
       "titles": [
@@ -1701,11 +2093,12 @@
           "url": "https://wallstreetcn.com/livenews/3125641",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 19时08分]"
         },
         {
           "title": "超声电子：未供货英伟达 高速覆铜板等研发项目存在不确定性",
@@ -1714,37 +2107,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 贵金属 能源金属 稀土 磁性材料 锂矿 钛白粉 有色 煤炭 小金属 钢铁",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "大洗牌！货币贬值交易退潮，黄金究竟怎么了？",
-          "url": "https://flash.jin10.com/detail/20260628155101156800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时52分"
-        },
-        {
-          "title": "黄金投资者周报上新！",
-          "url": "https://flash.jin10.com/detail/20260628104742126800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时17分"
+          "time_info": "16时52分"
         }
       ]
     },
@@ -1761,8 +2126,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 16时52分]"
+          "appearance_count": 10,
+          "time_info": "[00时05分 ~ 19时08分]"
         },
         {
           "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
@@ -1798,23 +2163,6 @@
       ]
     },
     {
-      "keyword_group": "军工 航空 航天 航母",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美媒爆料，驻日美军航母成“毒窝”",
-          "url": "https://news.ifeng.com/c/8uJhzJTegOW",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时52分"
-        }
-      ]
-    },
-    {
       "keyword_group": "新材料 PVDF 氟化工 非金属材料 水泥建材 碳化硅 碳纤维",
       "match_count": 1,
       "titles": [
@@ -1823,28 +2171,12 @@
           "url": "https://wallstreetcn.com/livenews/3125633",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "具身智能 零部件 人形机器人 虚拟机器人 云深处 智元 优必选 松延动力 Figure 波士顿动力 传感器 陀螺仪 机器人概念",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "智元第15000台机器人下线",
-          "url": "https://wallstreetcn.com/livenews/3125638",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 19时08分]"
         }
       ]
     },
@@ -1966,11 +2298,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 16时52分]"
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 19时08分]"
         }
       ]
     }
