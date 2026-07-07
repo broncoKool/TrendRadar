@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T06:06:54.741491+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2026-07-08T07:49:43.687209+08:00",
+  "total_titles_processed": 690,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 06时06分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 07时49分]"
         },
         {
           "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
@@ -28,8 +28,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 06时06分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 07时49分]"
         },
         {
           "title": "Anthropic：Claude CoWork投放到移动端和网页。",
@@ -59,11 +59,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E8%87%AA%E7%A0%94%E8%8A%AF%E7%89%87",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 07时49分]"
         },
         {
           "title": "Anthropic：将Claude Code双倍协作（Cowork）使用额度延长至8月5日。",
@@ -105,9 +106,116 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金 铜 锂 镍",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "头条世界杯｜C罗的时代结束了，葡萄牙也浪费了黄金一代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531419",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 07时49分]"
+        },
+        {
+          "title": "【早报】美方：强力打击伊朗、终止对伊油制裁豁免；美股科技股集体跳水；原油大涨、黄金收跌；阿根廷3-2逆转埃及",
+          "url": "https://www.cls.cn/detail/2419797",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 7月7日（周二）晚盘收盘上涨0.24%报905.0元/克；<br/>上海黄金交易所白银T+D 7月7日（周二）晚盘收盘下跌0.09%报14850.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260708023206477800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "现货黄金跌约1.5%，白银跌超3%",
+          "url": "https://wallstreetcn.com/livenews/3130176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "国际铜夜盘收涨0.18%，沪铜收涨0.14%，沪铝收涨0.59%，沪锌收跌0.02%，沪铅收涨0.88%，沪镍收跌0.16%，沪锡收涨0.51%。 氧化铝夜盘收跌0.18%，铝合金收涨0.85%。 不锈钢夜盘收跌0.27%。",
+          "url": "https://wallstreetcn.com/livenews/3130114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "LME期铜收跌38美元，报13366美元/吨。 LME期铝收涨22美元，报3138美元/吨。 LME期锌收跌19美元，报3572美元/吨。 LME期铅收涨4美元，报1884美元/吨。 LME期镍收跌74美元，报16348美元/吨。 LME期锡收涨286美元，报53350美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3130111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "需求强劲驱动产销高增，锂电材料企业上半年业绩扎堆报喜",
+          "url": "https://wallstreetcn.com/livenews/3130203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
+        },
+        {
+          "title": "现货黄金日内跌幅达1.5%，报4100.45美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3130139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "41家机构参与，香港黄金中央清算系统试运营",
+          "url": "https://wallstreetcn.com/livenews/3130196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
         }
       ]
     },
@@ -121,33 +229,48 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 06时06分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 07时49分]"
         },
         {
           "title": "证监会：对安某编造传播涉中公教育虚假信息立案调查",
           "url": "https://www.cls.cn/detail/2419566",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 06时06分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 07时49分]"
         },
         {
           "title": "证监会对安某编造传播涉中公教育虚假信息立案调查",
           "url": "https://wallstreetcn.com/articles/3776397",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 06时06分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 07时49分]"
+        },
+        {
+          "title": "证监会对安某编造传播涉中公教育虚假信息立案调查，一句低俗赌约，中公教育离奇涨停，其将承担哪些法律责任？",
+          "url": "https://www.zhihu.com/question/2057930097039090211",
+          "source": "知乎",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 07时49分]"
         },
         {
           "title": "国务院原则同意《旅游强国建设“十五五”规划》",
@@ -162,25 +285,13 @@
           "time_info": "[00时20分 ~ 06时06分]"
         },
         {
-          "title": "证监会对安某编造传播涉中公教育虚假信息立案调查，一句低俗赌约，中公教育离奇涨停，其将承担哪些法律责任？",
-          "url": "https://www.zhihu.com/question/2057930097039090211",
-          "source": "知乎",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 06时06分]"
-        },
-        {
           "title": "伊朗外交部：谴责美国财政部撤销对伊朗石油销售制裁的临时暂停措施。",
           "url": "https://flash.jin10.com/detail/20260708052324165800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -221,8 +332,19 @@
     },
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "三星开始量产用于英伟达Vera Rubin平台的先进固态硬盘",
+          "url": "https://wallstreetcn.com/livenews/3130228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
+        },
         {
           "title": "纳斯达克：预计SK海力士将于7月10日上市交易。",
           "url": "https://wallstreetcn.com/livenews/3130186",
@@ -230,7 +352,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -241,7 +363,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -280,6 +402,17 @@
           "time_info": "00时20分"
         },
         {
+          "title": "三星量产供英伟达Vera Rubin使用的新一代企业级SSD",
+          "url": "https://flash.jin10.com/detail/20260708072134952800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
+        },
+        {
           "title": "美国三年期国债发行一级交易商中标比例创历史新低",
           "url": "https://wallstreetcn.com/livenews/3130116",
           "source": "华尔街见闻-快讯",
@@ -297,82 +430,9 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "头条世界杯｜C罗的时代结束了，葡萄牙也浪费了黄金一代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531419",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 06时06分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 7月7日（周二）晚盘收盘上涨0.24%报905.0元/克；<br/>上海黄金交易所白银T+D 7月7日（周二）晚盘收盘下跌0.09%报14850.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260708023206477800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时56分"
-        },
-        {
-          "title": "现货黄金跌约1.5%，白银跌超3%",
-          "url": "https://wallstreetcn.com/livenews/3130176",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时06分"
-        },
-        {
-          "title": "国际铜夜盘收涨0.18%，沪铜收涨0.14%，沪铝收涨0.59%，沪锌收跌0.02%，沪铅收涨0.88%，沪镍收跌0.16%，沪锡收涨0.51%。 氧化铝夜盘收跌0.18%，铝合金收涨0.85%。 不锈钢夜盘收跌0.27%。",
-          "url": "https://wallstreetcn.com/livenews/3130114",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时56分"
-        },
-        {
-          "title": "LME期铜收跌38美元，报13366美元/吨。 LME期铝收涨22美元，报3138美元/吨。 LME期锌收跌19美元，报3572美元/吨。 LME期铅收涨4美元，报1884美元/吨。 LME期镍收跌74美元，报16348美元/吨。 LME期锡收涨286美元，报53350美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3130111",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时56分"
-        },
-        {
-          "title": "现货黄金日内跌幅达1.5%，报4100.45美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3130139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时47分"
         }
       ]
     },
@@ -389,8 +449,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 06时06分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 07时49分]"
         },
         {
           "title": "我国人形机器人整机产量有望破十万台",
@@ -400,8 +460,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 06时06分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 07时49分]"
         },
         {
           "title": "Meta在聊天机器人和Instagram中推出AI图像生成模型",
@@ -519,8 +579,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 06时06分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 07时49分]"
         },
         {
           "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
@@ -536,6 +596,34 @@
       ]
     },
     {
+      "keyword_group": "HBM DDR5 存储芯片",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股存储芯片指数初步收跌6.8%，费城半导体指数跌4.9%。 标普500指数初步收跌0.4%，科技板块跌1.8%，工业板块跌1.6%，能源板块涨3.2%。 纳斯达克100指数初步收跌1.8%，成分股中，Astera Labs初步收跌12%，泰瑞达跌10.3%，英特尔跌10.1%，迈威尔科技/美满电子、西部数据、Nebius集团、科磊、拉姆研究、闪迪至少跌7.1%，汤森路透则涨3.2%，Workday行4%，再生元制药涨4.1%，Diamondback Energy涨4.2%，吉利德科学涨5.2%。 道指成分股里，雪佛龙涨3.6%。",
+          "url": "https://wallstreetcn.com/livenews/3130154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "周二（7月7日），美国科技股七巨头（Magnificent 7）指数涨0.14%，北京时间23:40-00:50曾显著反弹；“超大”市值科技股指数跌1.26%。 美股存储芯片与硬件供应链指数跌6.52%，报208.40点，跳空低开之后，整体持续低位震荡。 美股超大规模云服务商（Hyperscalers）涨0.59%。 信息科技指数跌4.52%，报403.66点。 人工智能（AI）赢家指数跌4.08%，报398.90点。 AI软件先驱指数涨0.67%，报111.18点。",
+          "url": "https://wallstreetcn.com/livenews/3130197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "无人机 通航",
       "match_count": 2,
       "titles": [
@@ -546,7 +634,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -564,19 +652,30 @@
       ]
     },
     {
-      "keyword_group": "HBM DDR5 存储芯片",
-      "match_count": 1,
+      "keyword_group": "并购 重组 借壳 资产重组",
+      "match_count": 2,
       "titles": [
         {
-          "title": "美股存储芯片指数初步收跌6.8%，费城半导体指数跌4.9%。 标普500指数初步收跌0.4%，科技板块跌1.8%，工业板块跌1.6%，能源板块涨3.2%。 纳斯达克100指数初步收跌1.8%，成分股中，Astera Labs初步收跌12%，泰瑞达跌10.3%，英特尔跌10.1%，迈威尔科技/美满电子、西部数据、Nebius集团、科磊、拉姆研究、闪迪至少跌7.1%，汤森路透则涨3.2%，Workday行4%，再生元制药涨4.1%，Diamondback Energy涨4.2%，吉利德科学涨5.2%。 道指成分股里，雪佛龙涨3.6%。",
-          "url": "https://wallstreetcn.com/livenews/3130154",
-          "source": "华尔街见闻-快讯",
+          "title": "法院记录显示，美国俄勒冈州正寻求获取有关派拉蒙游说特朗普政府支持该并购交易的相关文件。",
+          "url": "https://flash.jin10.com/detail/20260708071441781800",
+          "source": "金十数据",
           "ranks": [
-            15
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时47分"
+          "time_info": "07时49分"
+        },
+        {
+          "title": "法院记录显示，美国俄勒冈州请求法院命令派拉蒙天舞遵守与并购相关的调查要求。俄勒冈州总检察长在法院文件中表示，派拉蒙计划在7月16日当天完成对华纳兄弟的收购。",
+          "url": "https://flash.jin10.com/detail/20260708071331124800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
         }
       ]
     },
@@ -592,8 +691,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 06时06分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 07时49分]"
         }
       ]
     },
@@ -611,6 +710,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "创新药 ADC CAR-T GLP-1",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "28只创新药主题基金总规模突破1300亿元",
+          "url": "https://wallstreetcn.com/livenews/3130217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
         }
       ]
     }
