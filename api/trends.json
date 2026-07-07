@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T00:20:31.116657+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-08T02:56:17.143290+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "Anthropic：Claude CoWork投放到移动端和网页。",
@@ -19,37 +19,28 @@
           "time_info": "00时20分"
         },
         {
-          "title": "DeepSeek被曝自研芯片",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E8%87%AA%E7%A0%94%E8%8A%AF%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
           "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
           "url": "https://www.zhihu.com/question/2057753624717911009",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时56分]"
         },
         {
           "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
           "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时56分]"
         },
         {
           "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
@@ -57,6 +48,17 @@
           "source": "凤凰网",
           "ranks": [
             12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时56分]"
+        },
+        {
+          "title": "DeepSeek被曝自研芯片",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E8%87%AA%E7%A0%94%E8%8A%AF%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -83,6 +85,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "谷歌公司：Gemini API中受管理的Agents具备新的能力。",
+          "url": "https://wallstreetcn.com/livenews/3130107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
         }
       ]
     },
@@ -95,11 +108,12 @@
           "url": "https://www.cls.cn/detail/2419636",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时56分]"
         },
         {
           "title": "证监会：对安某编造传播涉中公教育虚假信息立案调查",
@@ -109,8 +123,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时56分]"
         },
         {
           "title": "证监会对安某编造传播涉中公教育虚假信息立案调查",
@@ -120,8 +134,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时56分]"
+        },
+        {
+          "title": "证监会对安某编造传播涉中公教育虚假信息立案调查，一句低俗赌约，中公教育离奇涨停，其将承担哪些法律责任？",
+          "url": "https://www.zhihu.com/question/2057930097039090211",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时56分]"
+        },
+        {
+          "title": "国务院原则同意《旅游强国建设“十五五”规划》",
+          "url": "https://www.cls.cn/detail/2419268",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时56分]"
         },
         {
           "title": "美国财政部拍卖六周期国债，得标利率3.635%，投标倍数2.74。 拍卖52周期国债，得标利率3.860%，投标倍数3.14。",
@@ -133,62 +169,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
-        },
-        {
-          "title": "证监会对安某编造传播涉中公教育虚假信息立案调查，一句低俗赌约，中公教育离奇涨停，其将承担哪些法律责任？",
-          "url": "https://www.zhihu.com/question/2057930097039090211",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "国务院原则同意《旅游强国建设“十五五”规划》",
-          "url": "https://www.cls.cn/detail/2419268",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
-          "url": "https://wallstreetcn.com/articles/3776319",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "巨头开始卖算力，打开了什么魔盒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33529097",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
         }
       ]
     },
     {
       "keyword_group": "人形机器人 机器人 具身智能 灵巧手",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "我国人形机器人整机产量有望破十万台",
@@ -198,8 +184,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时56分]"
         },
         {
           "title": "人形机器人成高端制造出口新名片",
@@ -209,19 +195,103 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时56分]"
+        },
+        {
+          "title": "Meta在聊天机器人和Instagram中推出AI图像生成模型",
+          "url": "https://wallstreetcn.com/livenews/3130132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时20分"
+          "time_info": "02时56分"
+        },
+        {
+          "title": "Meta在聊天机器人和Instagram中推出AI图像生成模型",
+          "url": "https://flash.jin10.com/detail/20260708020143676800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
         }
       ]
     },
     {
-      "keyword_group": "稀土 锗 镓 锑 钨",
-      "match_count": 2,
+      "keyword_group": "黄金 铜 锂 镍",
+      "match_count": 4,
       "titles": [
         {
-          "title": "日本从废旧空调中提稀土，这对其稀土战略和全球供应链意味着什么？",
-          "url": "https://www.zhihu.com/question/2057185895623791482",
-          "source": "知乎",
+          "title": "头条世界杯｜C罗的时代结束了，葡萄牙也浪费了黄金一代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531419",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时56分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 7月7日（周二）晚盘收盘上涨0.24%报905.0元/克；<br/>上海黄金交易所白银T+D 7月7日（周二）晚盘收盘下跌0.09%报14850.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260708023206477800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "国际铜夜盘收涨0.18%，沪铜收涨0.14%，沪铝收涨0.59%，沪锌收跌0.02%，沪铅收涨0.88%，沪镍收跌0.16%，沪锡收涨0.51%。 氧化铝夜盘收跌0.18%，铝合金收涨0.85%。 不锈钢夜盘收跌0.27%。",
+          "url": "https://wallstreetcn.com/livenews/3130114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "LME期铜收跌38美元，报13366美元/吨。 LME期铝收涨22美元，报3138美元/吨。 LME期锌收跌19美元，报3572美元/吨。 LME期铅收涨4美元，报1884美元/吨。 LME期镍收跌74美元，报16348美元/吨。 LME期锡收涨286美元，报53350美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3130111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "免税 旅游 酒店 餐饮",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "文化和旅游部印发《旅游强国建设“十五五”规划》",
+          "url": "https://wallstreetcn.com/livenews/3130123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "媒体：顾客点15元麻辣烫引辱骂，餐饮店主的戾气从何而来？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33530507",
+          "source": "澎湃新闻",
           "ranks": [
             12
           ],
@@ -230,21 +300,21 @@
           "time_info": "00时20分"
         },
         {
-          "title": "Peabody股价快速转涨，该公司在稀土、关键矿物问题上获得美国能源部拨款，意味着其位于怀俄明州Powder River盆地的项目获得特朗普政府的支持。",
-          "url": "https://wallstreetcn.com/livenews/3130075",
+          "title": "未来五年旅游普惠性将进一步凸显",
+          "url": "https://wallstreetcn.com/livenews/3130122",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时20分"
+          "time_info": "02时56分"
         }
       ]
     },
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "阿根廷对阵埃及首发轮换",
@@ -267,6 +337,75 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "美国三年期国债发行一级交易商中标比例创历史新低",
+          "url": "https://wallstreetcn.com/livenews/3130116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "巨头开始卖算力，打开了什么魔盒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33529097",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时56分]"
+        },
+        {
+          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
+          "url": "https://wallstreetcn.com/articles/3776319",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "稀土 锗 镓 锑 钨",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "日本从废旧空调中提稀土，这对其稀土战略和全球供应链意味着什么？",
+          "url": "https://www.zhihu.com/question/2057185895623791482",
+          "source": "知乎",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时56分]"
+        },
+        {
+          "title": "Peabody股价快速转涨，该公司在稀土、关键矿物问题上获得美国能源部拨款，意味着其位于怀俄明州Powder River盆地的项目获得特朗普政府的支持。",
+          "url": "https://wallstreetcn.com/livenews/3130075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时20分"
         }
       ]
     },
@@ -282,8 +421,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时56分]"
         }
       ]
     },
@@ -305,36 +444,19 @@
       ]
     },
     {
-      "keyword_group": "黄金 铜 锂 镍",
+      "keyword_group": "无人机 通航",
       "match_count": 1,
       "titles": [
         {
-          "title": "头条世界杯｜C罗的时代结束了，葡萄牙也浪费了黄金一代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531419",
-          "source": "澎湃新闻",
+          "title": "乌克兰无人机神话的另一面",
+          "url": "https://www.toutiao.com/trending/7659767025903865380/",
+          "source": "今日头条",
           "ranks": [
-            6
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "免税 旅游 酒店 餐饮",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "媒体：顾客点15元麻辣烫引辱骂，餐饮店主的戾气从何而来？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33530507",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[02时55分 ~ 02时56分]"
         }
       ]
     }
