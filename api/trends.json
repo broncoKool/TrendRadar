@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T12:29:53.967753+08:00",
-  "total_titles_processed": 932,
+  "generated_at": "2026-07-07T15:32:27.193785+08:00",
+  "total_titles_processed": 1082,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "十大上市车企年中销量完成率：奇瑞吉利超四成 北汽蓝谷不足25%",
@@ -27,9 +27,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
+        },
+        {
+          "title": "协鑫能科：与英伟达的合作处于初期洽谈阶段",
+          "url": "https://wallstreetcn.com/livenews/3129808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "美国众议院议长约翰逊：随着民主党无视、否认甚至助长欺诈，共和党正在与特朗普总统合作，根除腐败蓝州中的浪费、欺诈和滥用，确保纳税人的钱不被滥用。",
@@ -43,6 +54,17 @@
           "time_info": "02时06分"
         },
         {
+          "title": "协鑫能科：与英伟达的合作处于初期洽谈阶段",
+          "url": "https://flash.jin10.com/detail/20260707151411733800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
           "title": "为什么日本足球崛起几十年没突破 16 强，摩洛哥却短短十几年成为 8 强常客？",
           "url": "https://www.zhihu.com/question/2057148749714134022",
           "source": "知乎",
@@ -54,6 +76,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时48分 ~ 08时02分]"
+        },
+        {
+          "title": "我国碳-14核电池，完成全链条自主化关键突破",
+          "url": "https://www.cls.cn/detail/2418603",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时33分 ~ 15时32分]"
         },
         {
           "title": "中国人民银行行长潘功胜：支持更多优质企业到香港上市和发债 债券通“南向通”年度投资净额度提升至8000亿元",
@@ -80,15 +114,15 @@
           "time_info": "[11时34分 ~ 12时29分]"
         },
         {
-          "title": "我国碳-14核电池，完成全链条自主化关键突破",
-          "url": "https://www.cls.cn/detail/2418603",
-          "source": "财联社热门",
+          "title": "广东发布今年首个洪水红色预警",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%8F%91%E5%B8%83%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E6%B4%AA%E6%B0%B4%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6",
+          "source": "百度热搜",
           "ranks": [
-            13
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时33分 ~ 11时34分]"
+          "time_info": "[15时31分 ~ 15时32分]"
         },
         {
           "title": "驱魔录全网首发",
@@ -158,13 +192,24 @@
           "time_info": "06时07分"
         },
         {
+          "title": "远景动力大圆柱电池产品已规模化量产 将供应宝马新世代纯电平台多款车型",
+          "url": "https://wallstreetcn.com/livenews/3129797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
           "title": "潘功胜：支持香港金管局将人民币业务资金安排规模增至5000亿元，境外央行回购工具落地首单签约和首批操作",
           "url": "https://wallstreetcn.com/livenews/3129724",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         },
@@ -208,7 +253,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         },
@@ -230,7 +275,149 @@
           "ranks": [
             27
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时06分 ~ 08时02分]"
+        },
+        {
+          "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
+          "url": "https://www.zhihu.com/question/2057753624717911009",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时29分 ~ 15时32分]"
+        },
+        {
+          "title": "前华为天才少年吐槽DeepSeek面试",
+          "url": "https://www.baidu.com/s?wd=%E5%89%8D%E5%8D%8E%E4%B8%BA%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E5%90%90%E6%A7%BDDeepSeek%E9%9D%A2%E8%AF%95",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时29分 ~ 15时32分]"
+        },
+        {
+          "title": "前华为天才少年吐槽DeepSeek面试",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%89%8D%E5%8D%8E%E4%B8%BA%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E5%90%90%E6%A7%BDDeepSeek%E9%9D%A2%E8%AF%95%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时33分 ~ 12时29分]"
+        },
+        {
+          "title": "DeepSeek面试",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E9%9D%A2%E8%AF%95%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 15时32分]"
+        },
+        {
+          "title": "Claude被封 天才程序员陨落",
+          "url": "https://s.weibo.com/weibo?q=Claude%E8%A2%AB%E5%B0%81%20%E5%A4%A9%E6%89%8D%E7%A8%8B%E5%BA%8F%E5%91%98%E9%99%A8%E8%90%BD&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 15时32分]"
+        },
+        {
+          "title": "招商证券国际：腾讯混元Hy3跻身第一梯队 AI产品生态加速",
+          "url": "https://flash.jin10.com/detail/20260707121237234800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
+        {
+          "title": "如何评价腾讯 7 月 6 日发布的混元 Hy3 ？",
+          "url": "https://www.zhihu.com/question/2057495402358596554",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时06分"
+        },
+        {
+          "title": "智谱：媒体称撤回A股辅导备案报道失实",
+          "url": "https://wallstreetcn.com/livenews/3129739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
+        {
+          "title": "马斯克：Grok Imagine更新。",
+          "url": "https://wallstreetcn.com/livenews/3129788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "【腾讯正式发布升级版人工智能模型混元Hy3】腾讯在微信公众号发布声明，正式发布混元模型Hy3。声明称，Hy3是在今年4月发布的预览版基础上的升级版本。",
+          "url": "https://wallstreetcn.com/livenews/3129495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时06分"
+        },
+        {
+          "title": "智谱：媒体称撤回A股辅导备案报导失实",
+          "url": "https://flash.jin10.com/detail/20260707114807815800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         }
@@ -238,7 +425,7 @@
     },
     {
       "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "【早报】道指创新高，存储、半导体板块爆发；黄金、白银大涨，油价下跌；C罗告别世界杯",
@@ -249,8 +436,20 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时01分 ~ 15时32分]"
+        },
+        {
+          "title": "头条世界杯｜C罗的时代结束了，葡萄牙也浪费了黄金一代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531419",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[08时01分 ~ 12时29分]"
+          "time_info": "[11时33分 ~ 15时32分]"
         },
         {
           "title": "香港黄金中央清算及结算系统今日开展试营运",
@@ -263,17 +462,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时34分 ~ 12时29分]"
-        },
-        {
-          "title": "头条世界杯｜C罗的时代结束了，葡萄牙也浪费了黄金一代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531419",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 12时29分]"
         },
         {
           "title": "LME期铜收涨37美元，报13404美元/吨。 LME期铝收涨25美元，报3116美元/吨。 LME期锌收涨50美元，报3591美元/吨。 LME期铅收跌12美元，报1880美元/吨。 LME期镍收跌2美元，报16422美元/吨。 LME期锡收涨436美元，报53064美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -359,9 +547,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
+        },
+        {
+          "title": "现货黄金日内下跌1.00%，现报4122.52美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3129774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         }
       ]
     },
@@ -376,11 +575,12 @@
           "ranks": [
             16,
             11,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时06分 ~ 12时29分]"
+          "appearance_count": 10,
+          "time_info": "[02时06分 ~ 15时32分]"
         },
         {
           "title": "99 万机器人伴侣续航仅 2-4 小时，为啥续航这么差​？技术核心卡点在哪？可能对用户体验有哪些影响？",
@@ -426,9 +626,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
+        },
+        {
+          "title": "第15000台机器人下线、超130家机器人领域企业集聚浦东 上海如何孕育具身智能？",
+          "url": "https://www.cls.cn/detail/2418658",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时29分 ~ 15时32分]"
         },
         {
           "title": "99万元机器人伴侣续航撑不过一晚",
@@ -441,17 +652,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时48分 ~ 06时07分]"
-        },
-        {
-          "title": "第15000台机器人下线、超130家机器人领域企业集聚浦东 上海如何孕育具身智能？",
-          "url": "https://www.cls.cn/detail/2418658",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时29分"
         },
         {
           "title": "前5月机器人规上企业营收超900亿元",
@@ -471,7 +671,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         },
@@ -489,116 +689,22 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
-      "match_count": 9,
+      "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
+      "match_count": 6,
       "titles": [
         {
-          "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
-          "url": "https://wallstreetcn.com/articles/3776130",
+          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
+          "url": "https://wallstreetcn.com/articles/3776319",
           "source": "华尔街见闻",
           "ranks": [
-            4,
+            7,
+            6,
             5
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[02时06分 ~ 08时02分]"
+          "time_info": "[11时33分 ~ 15时32分]"
         },
-        {
-          "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
-          "url": "https://www.zhihu.com/question/2057753624717911009",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "前华为天才少年吐槽DeepSeek面试",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%89%8D%E5%8D%8E%E4%B8%BA%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E5%90%90%E6%A7%BDDeepSeek%E9%9D%A2%E8%AF%95%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 12时29分]"
-        },
-        {
-          "title": "招商证券国际：腾讯混元Hy3跻身第一梯队 AI产品生态加速",
-          "url": "https://flash.jin10.com/detail/20260707121237234800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "如何评价腾讯 7 月 6 日发布的混元 Hy3 ？",
-          "url": "https://www.zhihu.com/question/2057495402358596554",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "智谱：媒体称撤回A股辅导备案报道失实",
-          "url": "https://wallstreetcn.com/livenews/3129739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "【腾讯正式发布升级版人工智能模型混元Hy3】腾讯在微信公众号发布声明，正式发布混元模型Hy3。声明称，Hy3是在今年4月发布的预览版基础上的升级版本。",
-          "url": "https://wallstreetcn.com/livenews/3129495",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "前华为天才少年吐槽DeepSeek面试",
-          "url": "https://www.baidu.com/s?wd=%E5%89%8D%E5%8D%8E%E4%B8%BA%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E5%90%90%E6%A7%BDDeepSeek%E9%9D%A2%E8%AF%95",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "智谱：媒体称撤回A股辅导备案报导失实",
-          "url": "https://flash.jin10.com/detail/20260707114807815800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
-      "match_count": 6,
-      "titles": [
         {
           "title": "国家发展改革委披露人工智能产业“十五五”五大工作思路 强化模型、算力、数据等关键技术攻关",
           "url": "https://wallstreetcn.com/livenews/3129745",
@@ -606,7 +712,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         },
@@ -624,27 +730,16 @@
           "time_info": "[02时06分 ~ 08时02分]"
         },
         {
-          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
-          "url": "https://wallstreetcn.com/articles/3776319",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 12时29分]"
-        },
-        {
           "title": "巨头开始卖算力，打开了什么魔盒",
           "url": "https://m.thepaper.cn/newsDetail_forward_33529097",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 12时29分]"
+          "appearance_count": 5,
+          "time_info": "[11时33分 ~ 15时32分]"
         },
         {
           "title": "光弘科技7月7日在互动平台表示，公司已涉及各类服务器算力板卡、算力节点及散热组件的制造。目前相关业务在公司整体业务中的占比较低，但预计后续将以较快速度增长。",
@@ -653,7 +748,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         },
@@ -680,11 +775,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 12时29分]"
+          "appearance_count": 4,
+          "time_info": "[11时33分 ~ 15时32分]"
         },
         {
           "title": "两大利空实为误读？野村：市场对存储芯片需求降温的恐慌明显过度",
@@ -704,7 +800,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         },
@@ -796,7 +892,7 @@
     },
     {
       "keyword_group": "国务院 发改委 工信部 财政部 证监会",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "国家发改委：预计今年AI手机、AI电脑的销量将首次超过非AI产品",
@@ -805,7 +901,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         },
@@ -816,7 +912,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         },
@@ -830,12 +926,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
+        },
+        {
+          "title": "工信部公开征求《建筑材料放射性核素限量》等2项强制性国家标准（征求意见稿）意见。",
+          "url": "https://flash.jin10.com/detail/20260707145554814800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek ChatGPT Claude Gemini Agent 智能体",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "智能体下线,AI女友凉了？",
@@ -861,12 +968,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时34分 ~ 12时29分]"
+        },
+        {
+          "title": "世界人工智能大会下周开幕！华为最大规模超节点真机、全球首款AI智能体手机等首秀",
+          "url": "https://www.cls.cn/detail/2418905",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         }
       ]
     },
     {
       "keyword_group": "免税 旅游 酒店 餐饮",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "互联网巨头开始“买房收租”？京东7.5亿港元买下香港酒店将改学生宿舍",
@@ -895,6 +1013,73 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时06分 ~ 06时07分]"
+        },
+        {
+          "title": "媒体：顾客点15元麻辣烫引辱骂，餐饮店主的戾气从何而来？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33530507",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 15时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "光刻机 EDA 先进封装 CoWoS Chiplet 晶圆",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "韬定律从理论走向工程落地 EDA成关键胜负手？",
+          "url": "https://www.cls.cn/detail/2417907",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时06分 ~ 06时07分]"
+        },
+        {
+          "title": "新思科技停产部分传统EDA软件",
+          "url": "https://wallstreetcn.com/livenews/3129787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "脑机接口",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "脑虎科技“三全”脑机接口系统启动GCP注册临床试验",
+          "url": "https://wallstreetcn.com/livenews/3129806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "脑虎科技“三全”脑机接口系统启动GCP注册临床试验",
+          "url": "https://flash.jin10.com/detail/20260707150558304800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         }
       ]
     },
@@ -930,25 +1115,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时06分 ~ 12时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "光刻机 EDA 先进封装 CoWoS Chiplet 晶圆",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "韬定律从理论走向工程落地 EDA成关键胜负手？",
-          "url": "https://www.cls.cn/detail/2417907",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 06时07分]"
+          "appearance_count": 10,
+          "time_info": "[02时06分 ~ 15时32分]"
         }
       ]
     },
@@ -999,7 +1167,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         }
@@ -1034,7 +1202,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
         }
