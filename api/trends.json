@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T18:47:52.651429+08:00",
-  "total_titles_processed": 1252,
+  "generated_at": "2026-07-07T21:13:10.817073+08:00",
+  "total_titles_processed": 1406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "十大上市车企年中销量完成率：奇瑞吉利超四成 北汽蓝谷不足25%",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时06分 ~ 08时02分]"
+        },
+        {
+          "title": "小红书上市 被举报",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%BA%A2%E4%B9%A6%E4%B8%8A%E5%B8%82%20%E8%A2%AB%E4%B8%BE%E6%8A%A5&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时12分 ~ 21时13分]"
         },
         {
           "title": "香港交易所与跨境清算公司签署合作备忘录 加强香港离岸人民币结算基础设施建设",
@@ -176,7 +187,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         },
@@ -220,7 +231,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         },
@@ -253,7 +264,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         },
@@ -315,9 +326,220 @@
       ]
     },
     {
+      "keyword_group": "黄金 铜 锂 镍",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "【早报】道指创新高，存储、半导体板块爆发；黄金、白银大涨，油价下跌；C罗告别世界杯",
+          "url": "https://www.cls.cn/detail/2418591",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时01分 ~ 15时32分]"
+        },
+        {
+          "title": "头条世界杯｜C罗的时代结束了，葡萄牙也浪费了黄金一代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531419",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时33分 ~ 21时13分]"
+        },
+        {
+          "title": "广期所调整多晶硅、碳酸锂期货相关合约交易手续费标准",
+          "url": "https://flash.jin10.com/detail/20260707184318452800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "香港黄金中央清算及结算系统今日开展试营运",
+          "url": "https://wallstreetcn.com/livenews/3129720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 12时29分]"
+        },
+        {
+          "title": "葡萄牙主帅马丁内斯辞职，连续带崩葡萄牙 + 比利时，他算「黄金一代」杀手吗？",
+          "url": "https://www.zhihu.com/question/2057801400864569325",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时12分 ~ 21时13分]"
+        },
+        {
+          "title": "LME期铜收涨37美元，报13404美元/吨。 LME期铝收涨25美元，报3116美元/吨。 LME期锌收涨50美元，报3591美元/吨。 LME期铅收跌12美元，报1880美元/吨。 LME期镍收跌2美元，报16422美元/吨。 LME期锡收涨436美元，报53064美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3129508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时06分"
+        },
+        {
+          "title": "周一（7月6日）纽约尾盘，现货黄金跌0.32%，报4163.55美元/盎司。 COMEX黄金期货涨1.19%，报4175美元/盎司。 现货白银跌0.62%，报62.0263美元/盎司。 COMEX白银期货涨2.31%，报62.475美元/盎司。 COMEX铜期货涨1.41%，报6.2560美元/磅。 现货铂金跌0.62%，现货钯金跌0.21%。",
+          "url": "https://wallstreetcn.com/livenews/3129567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报164500元/吨，较上日16:30价格下跌250元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3129700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "天齐锂业：交易商协会同意公司注册发行不超过60亿元债务融资工具。",
+          "url": "https://wallstreetcn.com/livenews/3129897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加1.427吨，当前持仓量为1002.793吨。",
+          "url": "https://flash.jin10.com/detail/20260707063148132800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "汇丰集团行政总裁艾桥智：汇丰计划扩大在香港的黄金储存能力 预计在未来几个月内提升至200吨",
+          "url": "https://wallstreetcn.com/livenews/3129891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：6月30日当周，投机者所持COMEX黄金净多头头寸增加3,808手合约，至116,817手合约。 所持COMEX白银净多头头寸增加至12,747手合约，创逾七周新高。 所持COMEX铜净多头头寸减少至61,367手合约，创逾九周新低。 所持NYMEX铂金净多头头寸减少至7,862手合约，创超过十六周新低。 所持NYMEX钯金净空头头寸增加至5,989手合月，创大约十个月新高。",
+          "url": "https://wallstreetcn.com/livenews/3129537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "若西方黄金基金资金流稳定，黄金下半年将重新看向4500上方",
+          "url": "https://flash.jin10.com/detail/20260707105606371800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "必和必拓智利铜矿扩建获首批环评批准，近150亿美元工程即将启动",
+          "url": "https://flash.jin10.com/detail/20260707105519832800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "交通银行首批参与香港黄金交易",
+          "url": "https://wallstreetcn.com/livenews/3129984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
+          "title": "金十图示：2026年07月07日（周二）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260707115102471800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
+        {
+          "title": "现货黄金日内下跌1.00%，现报4122.52美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3129774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
       "match_count": 15,
       "titles": [
+        {
+          "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
+          "url": "https://www.zhihu.com/question/2057753624717911009",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时29分 ~ 21时13分]"
+        },
         {
           "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
           "url": "https://wallstreetcn.com/articles/3776130",
@@ -329,19 +551,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时06分 ~ 08时02分]"
-        },
-        {
-          "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
-          "url": "https://www.zhihu.com/question/2057753624717911009",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时29分 ~ 18时47分]"
         },
         {
           "title": "前华为天才少年吐槽DeepSeek面试",
@@ -367,6 +576,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时33分 ~ 12时29分]"
+        },
+        {
+          "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时47分 ~ 21时13分]"
+        },
+        {
+          "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
+          "url": "https://tech.ifeng.com/c/8uYAqpu54ML",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时47分 ~ 21时13分]"
         },
         {
           "title": "DeepSeek面试",
@@ -424,35 +657,13 @@
           "time_info": "12时29分"
         },
         {
-          "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
-          "url": "https://tech.ifeng.com/c/8uYAqpu54ML",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时47分"
-        },
-        {
-          "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时47分"
-        },
-        {
           "title": "前华为天才少年吐槽DeepSeek面试",
           "url": "https://www.toutiao.com/trending/7658530038409969718/",
           "source": "今日头条",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         },
@@ -492,183 +703,8 @@
       ]
     },
     {
-      "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "【早报】道指创新高，存储、半导体板块爆发；黄金、白银大涨，油价下跌；C罗告别世界杯",
-          "url": "https://www.cls.cn/detail/2418591",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时01分 ~ 15时32分]"
-        },
-        {
-          "title": "头条世界杯｜C罗的时代结束了，葡萄牙也浪费了黄金一代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531419",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时33分 ~ 18时47分]"
-        },
-        {
-          "title": "广期所调整多晶硅、碳酸锂期货相关合约交易手续费标准",
-          "url": "https://flash.jin10.com/detail/20260707184318452800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时47分"
-        },
-        {
-          "title": "香港黄金中央清算及结算系统今日开展试营运",
-          "url": "https://wallstreetcn.com/livenews/3129720",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 12时29分]"
-        },
-        {
-          "title": "LME期铜收涨37美元，报13404美元/吨。 LME期铝收涨25美元，报3116美元/吨。 LME期锌收涨50美元，报3591美元/吨。 LME期铅收跌12美元，报1880美元/吨。 LME期镍收跌2美元，报16422美元/吨。 LME期锡收涨436美元，报53064美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3129508",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "周一（7月6日）纽约尾盘，现货黄金跌0.32%，报4163.55美元/盎司。 COMEX黄金期货涨1.19%，报4175美元/盎司。 现货白银跌0.62%，报62.0263美元/盎司。 COMEX白银期货涨2.31%，报62.475美元/盎司。 COMEX铜期货涨1.41%，报6.2560美元/磅。 现货铂金跌0.62%，现货钯金跌0.21%。",
-          "url": "https://wallstreetcn.com/livenews/3129567",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报164500元/吨，较上日16:30价格下跌250元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3129700",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时34分"
-        },
-        {
-          "title": "天齐锂业：交易商协会同意公司注册发行不超过60亿元债务融资工具。",
-          "url": "https://wallstreetcn.com/livenews/3129897",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时47分"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加1.427吨，当前持仓量为1002.793吨。",
-          "url": "https://flash.jin10.com/detail/20260707063148132800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "汇丰集团行政总裁艾桥智：汇丰计划扩大在香港的黄金储存能力 预计在未来几个月内提升至200吨",
-          "url": "https://wallstreetcn.com/livenews/3129891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时47分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：6月30日当周，投机者所持COMEX黄金净多头头寸增加3,808手合约，至116,817手合约。 所持COMEX白银净多头头寸增加至12,747手合约，创逾七周新高。 所持COMEX铜净多头头寸减少至61,367手合约，创逾九周新低。 所持NYMEX铂金净多头头寸减少至7,862手合约，创超过十六周新低。 所持NYMEX钯金净空头头寸增加至5,989手合月，创大约十个月新高。",
-          "url": "https://wallstreetcn.com/livenews/3129537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时48分"
-        },
-        {
-          "title": "若西方黄金基金资金流稳定，黄金下半年将重新看向4500上方",
-          "url": "https://flash.jin10.com/detail/20260707105606371800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时34分"
-        },
-        {
-          "title": "必和必拓智利铜矿扩建获首批环评批准，近150亿美元工程即将启动",
-          "url": "https://flash.jin10.com/detail/20260707105519832800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时34分"
-        },
-        {
-          "title": "金十图示：2026年07月07日（周二）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260707115102471800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "现货黄金日内下跌1.00%，现报4122.52美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3129774",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人形机器人 机器人 具身智能 灵巧手",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "优必选回应仿生机器人争议：续航2-4小时是行业普遍情况，定位是情感陪伴，不是伴侣",
@@ -720,6 +756,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时06分 ~ 08时02分]"
+        },
+        {
+          "title": "我国人形机器人整机产量有望破十万台",
+          "url": "https://www.toutiao.com/trending/7659749336267640329/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时12分 ~ 21时13分]"
+        },
+        {
+          "title": "人形机器人成高端制造出口新名片",
+          "url": "https://www.douyin.com/hot/2562518",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时12分 ~ 21时13分]"
         },
         {
           "title": "IDC：到2030年全球商用服务机器人出货量将达45.4万台 市场规模将至31.7亿美元",
@@ -792,7 +850,7 @@
     },
     {
       "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
@@ -804,8 +862,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时33分 ~ 18时47分]"
+          "appearance_count": 8,
+          "time_info": "[11时33分 ~ 21时13分]"
         },
         {
           "title": "巨头开始卖算力，打开了什么魔盒",
@@ -814,22 +872,24 @@
           "ranks": [
             20,
             15,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时33分 ~ 18时47分]"
+          "appearance_count": 8,
+          "time_info": "[11时33分 ~ 21时13分]"
         },
         {
           "title": "SemiAnalysis又发报告：Meta算力采购将加速 明年资本支出或大增！",
           "url": "https://www.cls.cn/detail/2419081",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时47分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时47分 ~ 21时13分]"
         },
         {
           "title": "国家发展改革委披露人工智能产业“十五五”五大工作思路 强化模型、算力、数据等关键技术攻关",
@@ -854,6 +914,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时06分 ~ 08时02分]"
+        },
+        {
+          "title": "行云科技：预计上半年净利润1000万元-1500万元，同比增长432.77%-699.15%；报告期内，公司算力业务快速发展，公司已销售67台服务器并确认当期收入，增加当期毛利润约6500万元。",
+          "url": "https://wallstreetcn.com/livenews/3130002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "光弘科技7月7日在互动平台表示，公司已涉及各类服务器算力板卡、算力节点及散热组件的制造。目前相关业务在公司整体业务中的占比较低，但预计后续将以较快速度增长。",
@@ -884,7 +955,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         }
@@ -899,11 +970,12 @@
           "url": "https://www.toutiao.com/trending/7659325454973599753/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时47分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时47分 ~ 21时13分]"
         },
         {
           "title": "无人机转移广西强降雨被困人员",
@@ -1028,7 +1100,7 @@
     },
     {
       "keyword_group": "国务院 发改委 工信部 财政部 证监会",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "国家发改委：预计今年AI手机、AI电脑的销量将首次超过非AI产品",
@@ -1053,6 +1125,17 @@
           "time_info": "12时29分"
         },
         {
+          "title": "证监会对安某编造传播涉中公教育虚假信息立案调查",
+          "url": "https://wallstreetcn.com/livenews/3130009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "国家发改委王若蒙：AI手机、AI电脑的销量预计今年有望首次超过非AI产品",
           "url": "https://flash.jin10.com/detail/20260707105427162800",
           "source": "金十数据",
@@ -1073,6 +1156,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek ChatGPT Claude Gemini Agent 智能体",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "世界人工智能大会下周开幕！华为最大规模超节点真机、全球首款AI智能体手机等首秀",
+          "url": "https://www.cls.cn/detail/2418905",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时32分 ~ 21时13分]"
+        },
+        {
+          "title": "智能体下线,AI女友凉了？",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
+          "source": "贴吧",
+          "ranks": [
+            28,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时06分 ~ 08时02分]"
+        },
+        {
+          "title": "上海市经信委主任汤文侃：业界最大规模超节点华为Atlas 950、阶跃Agent操作系统、全球首款AI智能体手机将在2026世界人工智能大会首秀",
+          "url": "https://wallstreetcn.com/livenews/3129706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 12时29分]"
+        },
+        {
+          "title": "全球首款AI智能体手机",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BEAI%E6%99%BA%E8%83%BD%E4%BD%93%E6%89%8B%E6%9C%BA%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时12分 ~ 21时13分]"
         }
       ]
     },
@@ -1101,11 +1239,24 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            14
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时31分 ~ 21时13分]"
+        },
+        {
+          "title": "马克龙下榻酒店附近连发爆炸",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E4%B8%8B%E6%A6%BB%E9%85%92%E5%BA%97%E9%99%84%E8%BF%91%E8%BF%9E%E5%8F%91%E7%88%86%E7%82%B8",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            22
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时31分 ~ 18时47分]"
+          "time_info": "[18时47分 ~ 21时13分]"
         },
         {
           "title": "武汉一酒店爆改超市日售200多种菜品",
@@ -1119,60 +1270,45 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时06分 ~ 06时07分]"
-        },
-        {
-          "title": "马克龙下榻酒店附近连发爆炸",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E4%B8%8B%E6%A6%BB%E9%85%92%E5%BA%97%E9%99%84%E8%BF%91%E8%BF%9E%E5%8F%91%E7%88%86%E7%82%B8",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时47分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek ChatGPT Claude Gemini Agent 智能体",
+      "keyword_group": "稀土 锗 镓 锑 钨",
       "match_count": 3,
       "titles": [
         {
-          "title": "智能体下线,AI女友凉了？",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
+          "title": "日本从废旧空调中提稀土，这对其稀土战略和全球供应链意味着什么？",
+          "url": "https://www.zhihu.com/question/2057185895623791482",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时12分 ~ 21时13分]"
+        },
+        {
+          "title": "空调炼稀土,日本没招了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355907&amp;topic_name=%E7%A9%BA%E8%B0%83%E7%82%BC%E7%A8%80%E5%9C%9F%2C%E6%97%A5%E6%9C%AC%E6%B2%A1%E6%8B%9B%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            28,
-            29,
             30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时06分 ~ 08时02分]"
+          "appearance_count": 2,
+          "time_info": "[02时06分 ~ 04时48分]"
         },
         {
-          "title": "世界人工智能大会下周开幕！华为最大规模超节点真机、全球首款AI智能体手机等首秀",
-          "url": "https://www.cls.cn/detail/2418905",
-          "source": "财联社热门",
+          "title": "日本从废旧空调中提取稀土",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%BB%8E%E5%BA%9F%E6%97%A7%E7%A9%BA%E8%B0%83%E4%B8%AD%E6%8F%90%E5%8F%96%E7%A8%80%E5%9C%9F",
+          "source": "bilibili 热搜",
           "ranks": [
-            8,
-            4
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时32分 ~ 18时47分]"
-        },
-        {
-          "title": "上海市经信委主任汤文侃：业界最大规模超节点华为Atlas 950、阶跃Agent操作系统、全球首款AI智能体手机将在2026世界人工智能大会首秀",
-          "url": "https://wallstreetcn.com/livenews/3129706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 12时29分]"
+          "appearance_count": 1,
+          "time_info": "18时47分"
         }
       ]
     },
@@ -1228,7 +1364,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         }
@@ -1259,34 +1395,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "稀土 锗 镓 锑 钨",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "空调炼稀土,日本没招了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355907&amp;topic_name=%E7%A9%BA%E8%B0%83%E7%82%BC%E7%A8%80%E5%9C%9F%2C%E6%97%A5%E6%9C%AC%E6%B2%A1%E6%8B%9B%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时06分 ~ 04时48分]"
-        },
-        {
-          "title": "日本从废旧空调中提取稀土",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%BB%8E%E5%BA%9F%E6%97%A7%E7%A9%BA%E8%B0%83%E4%B8%AD%E6%8F%90%E5%8F%96%E7%A8%80%E5%9C%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时47分"
         }
       ]
     },
@@ -1355,9 +1463,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时47分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时47分 ~ 21时13分]"
         }
       ]
     },
