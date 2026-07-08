@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-08T09:50:11.606166+08:00",
-  "total_titles_processed": 831,
+  "generated_at": "2026-07-08T13:02:44.537369+08:00",
+  "total_titles_processed": 1005,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 14,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "视源股份：公司于2026年7月7日向香港联交所更新递交了本次发行并上市的申请，并于同日在香港联交所网站刊登了相关申请资料。",
+          "url": "https://wallstreetcn.com/livenews/3130382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
         {
           "title": "三星开始量产用于英伟达Vera Rubin平台的先进固态硬盘",
           "url": "https://wallstreetcn.com/livenews/3130228",
@@ -25,7 +36,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -58,7 +69,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -79,11 +90,12 @@
           "url": "https://www.cls.cn/detail/2419794",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时49分 ~ 09时50分]"
+          "appearance_count": 3,
+          "time_info": "[09时49分 ~ 13时02分]"
         },
         {
           "title": "阿根廷对阵埃及首发轮换",
@@ -108,6 +120,28 @@
           "time_info": "00时20分"
         },
         {
+          "title": "荷兰大臣访华：同中方合作良好，希望解决安世半导体问题",
+          "url": "https://news.ifeng.com/c/8uaVWTkSZ4C",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "存储热潮将持续？SK海力士赴美上市受热捧 据悉已获数倍超额认购",
+          "url": "https://www.cls.cn/detail/2419859",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "三星量产供英伟达Vera Rubin使用的新一代企业级SSD",
           "url": "https://flash.jin10.com/detail/20260708072134952800",
           "source": "金十数据",
@@ -119,6 +153,28 @@
           "time_info": "07时49分"
         },
         {
+          "title": "阿联酋阿布扎比国家石油公司ADNOC：根据协议，公司与MOTIR将通力合作，支持向韩国炼油企业增加长期原油供应。",
+          "url": "https://flash.jin10.com/detail/20260708122154726800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "阿联酋阿布扎比国家石油公司ADNOC：合作建立在现有安排基础上，包括韩国可获得高达2400万桶阿联酋原油的机会。",
+          "url": "https://flash.jin10.com/detail/20260708122119196800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "美国三年期国债发行一级交易商中标比例创历史新低",
           "url": "https://wallstreetcn.com/livenews/3130116",
           "source": "华尔街见闻-快讯",
@@ -128,6 +184,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "在职考研乱象调查：“院校合作”招生，是捷径还是陷阱？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33535499",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "阿联酋阿布扎比国家石油公司ADNOC：通过长期原油供应和储存合作，深化与韩国的能源安全伙伴关系。",
+          "url": "https://flash.jin10.com/detail/20260708122054486800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "小米汽车发布新品牌SKYNOMAD",
+          "url": "https://www.toutiao.com/trending/7659350915090612267/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "据The Information：SpaceXAI计划最早于周三发布与Cursor合作的新模型。",
@@ -147,7 +236,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -158,7 +247,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         }
@@ -166,7 +255,7 @@
     },
     {
       "keyword_group": "国务院 发改委 工信部 财政部 证监会",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "证监会”闪电“查处！“南京路宝宝总”造谣中公教育被查",
@@ -182,24 +271,24 @@
           "time_info": "[00时20分 ~ 09时50分]"
         },
         {
-          "title": "证监会：对安某编造传播涉中公教育虚假信息立案调查",
-          "url": "https://www.cls.cn/detail/2419566",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 09时50分]"
-        },
-        {
           "title": "证监会对安某编造传播涉中公教育虚假信息立案调查",
           "url": "https://wallstreetcn.com/articles/3776397",
           "source": "华尔街见闻",
           "ranks": [
             7,
             5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 13时02分]"
+        },
+        {
+          "title": "证监会：对安某编造传播涉中公教育虚假信息立案调查",
+          "url": "https://www.cls.cn/detail/2419566",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            6
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -236,7 +325,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -269,9 +358,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "中国财政部发行10年期债券，规模900亿元，发行利率1.7249%，边际利率1.7418%，预期1.7400%，投标倍数7.23倍，边际倍数8.97倍。",
+          "url": "https://wallstreetcn.com/livenews/3130362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "中国财政部发行63天期债券，规模300亿元，发行利率0.8081%，边际利率0.8936%，预期0.8300%，投标倍数3.20倍，边际倍数4.11倍。",
+          "url": "https://wallstreetcn.com/livenews/3130360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "科威特财政部声明：2025-26财年赤字为71亿第纳尔。 2025-26财年总收入为164.5亿第纳尔。 2025-26财年石油收入为136亿第纳尔。 2025-26财年总支出为236亿第纳尔。",
@@ -299,7 +410,7 @@
     },
     {
       "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
@@ -312,8 +423,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 09时50分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 13时02分]"
         },
         {
           "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
@@ -363,6 +474,17 @@
           "time_info": "[00时20分 ~ 02时56分]"
         },
         {
+          "title": "阿里 全员卸载Claude",
+          "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E9%87%8C%20%E5%85%A8%E5%91%98%E5%8D%B8%E8%BD%BDClaude&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "Anthropic：将Claude Code双倍协作（Cowork）使用额度延长至8月5日。",
           "url": "https://flash.jin10.com/detail/20260708000001537800",
           "source": "金十数据",
@@ -396,6 +518,17 @@
           "time_info": "02时56分"
         },
         {
+          "title": "恒生科技指数涨超4%，智谱涨13%，华虹宏力、联想集团涨超8%，中芯国际涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3130347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "前华为天才少年吐槽DeepSeek面试",
           "url": "https://www.toutiao.com/trending/7658530038409969718/",
           "source": "今日头条",
@@ -405,12 +538,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
+        },
+        {
+          "title": "李稻葵：中国大模型已换了一条赛道",
+          "url": "https://www.toutiao.com/trending/7659803693465734699/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     },
     {
       "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "头条世界杯｜C罗的时代结束了，葡萄牙也浪费了黄金一代",
@@ -434,8 +578,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时49分 ~ 09时50分]"
+          "appearance_count": 4,
+          "time_info": "[07时49分 ~ 13时02分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 7月7日（周二）晚盘收盘上涨0.24%报905.0元/克；<br/>上海黄金交易所白银T+D 7月7日（周二）晚盘收盘下跌0.09%报14850.0元/千克。",
@@ -504,6 +648,17 @@
           "time_info": "04时47分"
         },
         {
+          "title": "一觉醒来黄金又跌了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E9%BB%84%E9%87%91%E5%8F%88%E8%B7%8C%E4%BA%86%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "41家机构参与，香港黄金中央清算系统试运营",
           "url": "https://wallstreetcn.com/livenews/3130196",
           "source": "华尔街见闻-快讯",
@@ -518,7 +673,7 @@
     },
     {
       "keyword_group": "人形机器人 机器人 具身智能 灵巧手",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "人形机器人成高端制造出口新名片",
@@ -550,7 +705,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -566,6 +721,17 @@
           "time_info": "02时56分"
         },
         {
+          "title": "券商晨会精华：机器人轴承不可忽视，国产新势力乘势而上",
+          "url": "https://www.cls.cn/detail/2419816",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "Meta在聊天机器人和Instagram中推出AI图像生成模型",
           "url": "https://flash.jin10.com/detail/20260708020143676800",
           "source": "金十数据",
@@ -575,6 +741,118 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "无人机 通航",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "据Axios：一名美国官员表示，此次打击目标包括伊朗防空系统、海岸监视系统、地对空导弹设施、反舰巡航导弹阵地、无人机发射设施以及港口设施。",
+          "url": "https://flash.jin10.com/detail/20260708054432073800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "乌克兰无人机神话的另一面",
+          "url": "https://www.toutiao.com/trending/7659767025903865380/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时55分 ~ 02时56分]"
+        },
+        {
+          "title": "直击南宁洪灾丨横州六蓝水库坝体缺口已无洪水漫出，无人机吊运瓶装水进村",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33534270",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 09时50分]"
+        },
+        {
+          "title": "伊朗称击落一架美军“死神”无人机",
+          "url": "https://www.toutiao.com/trending/7659992996650614826/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "伊朗媒体称伊朗击落一架美军无人机",
+          "url": "https://wallstreetcn.com/livenews/3130365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "巨头开始卖算力，打开了什么魔盒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33529097",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 07时49分]"
+        },
+        {
+          "title": "算力硬件、AI服务器概念盘初拉升，浪潮信息、威尔高、紫光股份涨停，锐捷网络、长盈通、星网锐捷、华丰科技涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3130284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
+          "url": "https://wallstreetcn.com/articles/3776319",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时20分"
+        },
+        {
+          "title": "7月8日午间收评：科创50半日涨超3%，算力、芯片股集体走强",
+          "url": "https://wallstreetcn.com/livenews/3130353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     },
@@ -612,7 +890,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -630,127 +908,20 @@
       ]
     },
     {
-      "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "巨头开始卖算力，打开了什么魔盒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33529097",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 07时49分]"
-        },
-        {
-          "title": "算力硬件、AI服务器概念盘初拉升，浪潮信息、威尔高、紫光股份涨停，锐捷网络、长盈通、星网锐捷、华丰科技涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3130284",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
-          "url": "https://wallstreetcn.com/articles/3776319",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "HBM DDR5 存储芯片",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股存储芯片指数初步收跌6.8%，费城半导体指数跌4.9%。 标普500指数初步收跌0.4%，科技板块跌1.8%，工业板块跌1.6%，能源板块涨3.2%。 纳斯达克100指数初步收跌1.8%，成分股中，Astera Labs初步收跌12%，泰瑞达跌10.3%，英特尔跌10.1%，迈威尔科技/美满电子、西部数据、Nebius集团、科磊、拉姆研究、闪迪至少跌7.1%，汤森路透则涨3.2%，Workday行4%，再生元制药涨4.1%，Diamondback Energy涨4.2%，吉利德科学涨5.2%。 道指成分股里，雪佛龙涨3.6%。",
-          "url": "https://wallstreetcn.com/livenews/3130154",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "苹果开始测试长鑫存储芯片",
-          "url": "https://flash.jin10.com/detail/20260708092335497800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "周二（7月7日），美国科技股七巨头（Magnificent 7）指数涨0.14%，北京时间23:40-00:50曾显著反弹；“超大”市值科技股指数跌1.26%。 美股存储芯片与硬件供应链指数跌6.52%，报208.40点，跳空低开之后，整体持续低位震荡。 美股超大规模云服务商（Hyperscalers）涨0.59%。 信息科技指数跌4.52%，报403.66点。 人工智能（AI）赢家指数跌4.08%，报398.90点。 AI软件先驱指数涨0.67%，报111.18点。",
-          "url": "https://wallstreetcn.com/livenews/3130197",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "无人机 通航",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "据Axios：一名美国官员表示，此次打击目标包括伊朗防空系统、海岸监视系统、地对空导弹设施、反舰巡航导弹阵地、无人机发射设施以及港口设施。",
-          "url": "https://flash.jin10.com/detail/20260708054432073800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时06分"
-        },
-        {
-          "title": "乌克兰无人机神话的另一面",
-          "url": "https://www.toutiao.com/trending/7659767025903865380/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时55分 ~ 02时56分]"
-        },
-        {
-          "title": "直击南宁洪灾丨横州六蓝水库坝体缺口已无洪水漫出，无人机吊运瓶装水进村",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33534270",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时49分 ~ 09时50分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "免税 旅游 酒店 餐饮",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "旅游7天定律",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%85%E6%B8%B87%E5%A4%A9%E5%AE%9A%E5%BE%8B&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
         {
           "title": "文化和旅游部印发《旅游强国建设“十五五”规划》",
           "url": "https://wallstreetcn.com/livenews/3130123",
@@ -787,6 +958,45 @@
       ]
     },
     {
+      "keyword_group": "HBM DDR5 存储芯片",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股存储芯片指数初步收跌6.8%，费城半导体指数跌4.9%。 标普500指数初步收跌0.4%，科技板块跌1.8%，工业板块跌1.6%，能源板块涨3.2%。 纳斯达克100指数初步收跌1.8%，成分股中，Astera Labs初步收跌12%，泰瑞达跌10.3%，英特尔跌10.1%，迈威尔科技/美满电子、西部数据、Nebius集团、科磊、拉姆研究、闪迪至少跌7.1%，汤森路透则涨3.2%，Workday行4%，再生元制药涨4.1%，Diamondback Energy涨4.2%，吉利德科学涨5.2%。 道指成分股里，雪佛龙涨3.6%。",
+          "url": "https://wallstreetcn.com/livenews/3130154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "苹果开始测试长鑫存储芯片",
+          "url": "https://flash.jin10.com/detail/20260708092335497800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "周二（7月7日），美国科技股七巨头（Magnificent 7）指数涨0.14%，北京时间23:40-00:50曾显著反弹；“超大”市值科技股指数跌1.26%。 美股存储芯片与硬件供应链指数跌6.52%，报208.40点，跳空低开之后，整体持续低位震荡。 美股超大规模云服务商（Hyperscalers）涨0.59%。 信息科技指数跌4.52%，报403.66点。 人工智能（AI）赢家指数跌4.08%，报398.90点。 AI软件先驱指数涨0.67%，报111.18点。",
+          "url": "https://wallstreetcn.com/livenews/3130197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "光模块 CPO 800G 1.6T AEC DAC 高速铜缆",
       "match_count": 2,
       "titles": [
@@ -797,7 +1007,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -808,9 +1018,37 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple iPhone",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "印度开源,华强北抢发苹果18",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355989&amp;topic_name=%E5%8D%B0%E5%BA%A6%E5%BC%80%E6%BA%90%2C%E5%8D%8E%E5%BC%BA%E5%8C%97%E6%8A%A2%E5%8F%91%E8%8B%B9%E6%9E%9C18",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "苹果机密文件遭泄密 印度政府介入",
+          "url": "https://www.toutiao.com/trending/7659753483104423430/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时20分"
         }
       ]
     },
@@ -854,25 +1092,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 09时50分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple iPhone",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "苹果机密文件遭泄密 印度政府介入",
-          "url": "https://www.toutiao.com/trending/7659753483104423430/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 13时02分]"
         }
       ]
     },
