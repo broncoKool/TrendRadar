@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T17:19:28.648555+08:00",
-  "total_titles_processed": 1160,
+  "generated_at": "2026-07-11T18:57:02.238055+08:00",
+  "total_titles_processed": 1262,
   "failed_sources": [],
   "trends": [
     {
@@ -60,11 +60,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时16分 ~ 17时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时16分 ~ 18时57分]"
         },
         {
           "title": "航天新突破,长十乙回收成功",
@@ -78,8 +79,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时16分 ~ 17时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时16分 ~ 18时57分]"
         },
         {
           "title": "印度拿什么和中国抢空调订单",
@@ -157,6 +158,29 @@
           "time_info": "[02时18分 ~ 04时16分]"
         },
         {
+          "title": "“先免妈、再上位” ：奥精医疗内斗上演连续剧 上市首任董事长“回董”被董事会拦下",
+          "url": "https://www.cls.cn/detail/2423530",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时07分 ~ 18时57分]"
+        },
+        {
+          "title": "战锤40K全球首发实机演示",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%98%E9%94%A440K%E5%85%A8%E7%90%83%E9%A6%96%E5%8F%91%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 18时57分]"
+        },
+        {
           "title": "中央气象台发布今年首个暴雨红警",
           "url": "https://www.toutiao.com/trending/7660322607220883465/",
           "source": "今日头条",
@@ -227,18 +251,6 @@
           "time_info": "[15时07分 ~ 17时19分]"
         },
         {
-          "title": "“先免妈、再上位” ：奥精医疗内斗上演连续剧 上市首任董事长“回董”被董事会拦下",
-          "url": "https://www.cls.cn/detail/2423530",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时07分 ~ 17时19分]"
-        },
-        {
           "title": "西班牙vs比利时首发阵容",
           "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99vs%E6%AF%94%E5%88%A9%E6%97%B6%E9%A6%96%E5%8F%91%E9%98%B5%E5%AE%B9&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -281,17 +293,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
-        },
-        {
-          "title": "战锤40K全球首发实机演示",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%98%E9%94%A440K%E5%85%A8%E7%90%83%E9%A6%96%E5%8F%91%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
         },
         {
           "title": "隆华科技集团旗下丰联科光电实现G8.7 AMOLED银合金管靶全自主量产出货",
@@ -374,7 +375,7 @@
     },
     {
       "keyword_group": "商业航天 火箭 卫星互联网 北斗",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "中国可回收火箭里程碑时刻！长征十号乙首飞成功，实现全球首创海上网系回收",
@@ -555,26 +556,41 @@
           "time_info": "[07时50分 ~ 09时48分]"
         },
         {
-          "title": "日本可回收火箭着陆成功 仅飞11米",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8F%AF%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD%E7%9D%80%E9%99%86%E6%88%90%E5%8A%9F+%E4%BB%85%E9%A3%9E11%E7%B1%B3",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
           "title": "“日本可回收火箭着陆成功”？日媒：只飞了11米",
           "url": "https://news.ifeng.com/c/8ufkpdmHw6H",
           "source": "凤凰网",
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 18时57分]"
+        },
+        {
+          "title": "视频丨为什么要回收火箭？答案来了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33564244",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时56分 ~ 18时57分]"
+        },
+        {
+          "title": "日本可回收火箭着陆成功 仅飞11米",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8F%AF%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD%E7%9D%80%E9%99%86%E6%88%90%E5%8A%9F+%E4%BB%85%E9%A3%9E11%E7%B1%B3",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 18时57分]"
         },
         {
           "title": "多元化突破 液化天然气制甲烷首次应用于长征系列火箭",
@@ -587,19 +603,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时48分 ~ 12时57分]"
-        },
-        {
-          "title": "视频丨为什么要回收火箭？答案来了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33564244",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时56分 ~ 17时19分]"
         },
         {
           "title": "火箭网系回收有何优势",
@@ -670,6 +673,17 @@
           "time_info": "[09时47分 ~ 09时48分]"
         },
         {
+          "title": "日媒拆台日本火箭只飞了11米",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E6%8B%86%E5%8F%B0%E6%97%A5%E6%9C%AC%E7%81%AB%E7%AE%AD%E5%8F%AA%E9%A3%9E%E4%BA%8611%E7%B1%B3%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
+        },
+        {
           "title": "中国为什么要用一张网接火箭",
           "url": "https://www.toutiao.com/trending/7660922779482459684/",
           "source": "今日头条",
@@ -679,6 +693,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时56分 ~ 12时57分]"
+        },
+        {
+          "title": "中国用一张网“接住”了火箭",
+          "url": "https://www.toutiao.com/trending/7661185740323163658/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
         },
         {
           "title": "商业航天板块引爆ETF行情，有ETF单日净申购近21亿元",
@@ -742,6 +768,18 @@
       "match_count": 21,
       "titles": [
         {
+          "title": "科技股续撑纳指三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",
+          "url": "https://wallstreetcn.com/articles/3776623",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时50分 ~ 18时57分]"
+        },
+        {
           "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
           "url": "https://wallstreetcn.com/articles/3776523",
           "source": "华尔街见闻",
@@ -752,17 +790,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时16分 ~ 07时51分]"
-        },
-        {
-          "title": "科技股续撑纳指三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",
-          "url": "https://wallstreetcn.com/articles/3776623",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时50分 ~ 17时19分]"
         },
         {
           "title": "三星堆考古新发现：青铜顶尊跪坐人像并非神话符号，是古人祭祀实录",
@@ -778,6 +805,20 @@
           "time_info": "[00时16分 ~ 07时51分]"
         },
         {
+          "title": "一人一句致敬比利时黄金一代",
+          "url": "https://www.douyin.com/hot/2566621",
+          "source": "抖音",
+          "ranks": [
+            14,
+            19,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时47分 ~ 18时57分]"
+        },
+        {
           "title": "AI叙事助美股三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",
           "url": "https://wallstreetcn.com/articles/3776623",
           "source": "华尔街见闻",
@@ -787,6 +828,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时52分 ~ 06时53分]"
+        },
+        {
+          "title": "头条世界杯｜西班牙绝杀送走黄金一代，36场不败静候法国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33564226",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时56分 ~ 18时57分]"
         },
         {
           "title": "比利时黄金一代落幕",
@@ -800,20 +854,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时52分 ~ 07时51分]"
-        },
-        {
-          "title": "一人一句致敬比利时黄金一代",
-          "url": "https://www.douyin.com/hot/2566621",
-          "source": "抖音",
-          "ranks": [
-            14,
-            19,
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 17时19分]"
         },
         {
           "title": "印度接盘救得了印尼镍矿产业吗",
@@ -842,19 +882,6 @@
           "time_info": "[04时16分 ~ 07时51分]"
         },
         {
-          "title": "头条世界杯｜西班牙绝杀送走黄金一代，36场不败静候法国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33564226",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时56分 ~ 17时19分]"
-        },
-        {
           "title": "现货黄金本周跌1.5%，纽约铜涨1.9%",
           "url": "https://wallstreetcn.com/livenews/3132253",
           "source": "华尔街见闻-快讯",
@@ -868,6 +895,18 @@
           "time_info": "[05时53分 ~ 09时48分]"
         },
         {
+          "title": "德布劳内等比利时黄金一代结束了他们最后的世界杯旅途，他们本届比赛表现怎么样？你对黄金一代有哪些记忆？",
+          "url": "https://www.zhihu.com/question/2059159511039055807",
+          "source": "知乎",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 18时57分]"
+        },
+        {
           "title": "比利时止步8强黄金一代落幕",
           "url": "https://www.baidu.com/s?wd=%E6%AF%94%E5%88%A9%E6%97%B6%E6%AD%A2%E6%AD%A58%E5%BC%BA%E9%BB%84%E9%87%91%E4%B8%80%E4%BB%A3%E8%90%BD%E5%B9%95",
           "source": "百度热搜",
@@ -878,18 +917,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时52分 ~ 07时51分]"
-        },
-        {
-          "title": "德布劳内等比利时黄金一代结束了他们最后的世界杯旅途，他们本届比赛表现怎么样？你对黄金一代有哪些记忆？",
-          "url": "https://www.zhihu.com/question/2059159511039055807",
-          "source": "知乎",
-          "ranks": [
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 17时19分]"
         },
         {
           "title": "比利时黄金一代余晖落幕",
@@ -994,7 +1021,7 @@
     },
     {
       "keyword_group": "无人机 通航",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "为生命让步,无人机救人被怒赞",
@@ -1008,8 +1035,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时16分 ~ 17时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时16分 ~ 18时57分]"
         },
         {
           "title": "原则上无人机不许吊人但人民大于原则",
@@ -1032,11 +1059,23 @@
           "url": "https://www.zhihu.com/question/2058898849314486143",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 18时57分]"
+        },
+        {
+          "title": "无人机吊起2人神图系AI合成",
+          "url": "https://www.toutiao.com/trending/7660829419656888339/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
         },
         {
           "title": "“我也是第一次用无人机运人”",
@@ -1101,7 +1140,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -1112,7 +1151,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -1156,6 +1195,20 @@
           "time_info": "[00时16分 ~ 06时53分]"
         },
         {
+          "title": "SK海力士CEO：2027年将迎来史上最严重存储芯片短缺，供不应求或持续至2030年后",
+          "url": "https://wallstreetcn.com/articles/3776685",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时56分 ~ 18时57分]"
+        },
+        {
           "title": "SK海力士CEO Kwak Noh-Jung：存储芯片供应短缺可能会持续至2030年之后。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3132206",
           "source": "华尔街见闻-快讯",
@@ -1167,28 +1220,16 @@
           "time_info": "02时18分"
         },
         {
-          "title": "SK海力士CEO：2027年将迎来史上最严重存储芯片短缺，供不应求或持续至2030年后",
-          "url": "https://wallstreetcn.com/articles/3776685",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时56分 ~ 17时19分]"
-        },
-        {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
           "url": "https://www.cls.cn/detail/2423546",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 18时57分]"
         },
         {
           "title": "特朗普宣布美光将在美投资2500亿美元制造存储芯片",
@@ -1244,6 +1285,17 @@
           "time_info": "[05时53分 ~ 07时51分]"
         },
         {
+          "title": "国务院安委会对福建泉州「7·9」重大火灾查处挂牌督办，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2059215563638018597",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 18时57分]"
+        },
+        {
           "title": "国务院安委会对晋江28死火灾挂牌督办",
           "url": "https://www.toutiao.com/trending/7661080342958181930/",
           "source": "今日头条",
@@ -1253,17 +1305,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时56分 ~ 12时57分]"
-        },
-        {
-          "title": "国务院安委会对福建泉州「7·9」重大火灾查处挂牌督办，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2059215563638018597",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
         },
         {
           "title": "伊朗外交部长：伊朗迄今信守承诺，不像美国财政部长那样违反谅解备忘录第9条这一违规行为是美国其他违规和失误的延续。",
@@ -1373,8 +1414,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时16分 ~ 17时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时16分 ~ 18时57分]"
         },
         {
           "title": "智元-蓝思机器人智能产线项目在惠州签约 计划首年机器人产能超1000台",
@@ -1448,8 +1489,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 17时19分]"
+          "appearance_count": 8,
+          "time_info": "[09时47分 ~ 18时57分]"
         },
         {
           "title": "大模型算法是否会催生一大批不懂业务的算法工程师，热度过后他们将何去何从？",
@@ -1477,8 +1518,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时16分 ~ 17时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时16分 ~ 18时57分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -1486,11 +1527,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时56分 ~ 17时19分]"
+          "appearance_count": 6,
+          "time_info": "[12时56分 ~ 18时57分]"
         }
       ]
     },
@@ -1555,7 +1597,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         }
@@ -1590,7 +1632,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         }
