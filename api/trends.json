@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T12:57:11.675503+08:00",
-  "total_titles_processed": 917,
+  "generated_at": "2026-07-11T15:07:48.295456+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "离职率突破新高，本届世界杯迎来主教练离任潮",
@@ -63,8 +63,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时16分 ~ 12时57分]"
+          "appearance_count": 16,
+          "time_info": "[00时16分 ~ 15时07分]"
         },
         {
           "title": "航天新突破,长十乙回收成功",
@@ -73,11 +73,12 @@
           "ranks": [
             10,
             11,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时16分 ~ 12时57分]"
+          "appearance_count": 16,
+          "time_info": "[00时16分 ~ 15时07分]"
         },
         {
           "title": "印度拿什么和中国抢空调订单",
@@ -155,6 +156,18 @@
           "time_info": "[02时18分 ~ 04时16分]"
         },
         {
+          "title": "中央气象台发布今年首个暴雨红警",
+          "url": "https://www.toutiao.com/trending/7660322607220883465/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时56分 ~ 15时07分]"
+        },
+        {
           "title": "伊朗外交部发言人巴盖伊：伊朗决心确保霍尔木兹海峡海上交通安全，并继续与阿曼开展合作。",
           "url": "https://flash.jin10.com/detail/20260711042255340800",
           "source": "金十数据",
@@ -212,15 +225,15 @@
           "time_info": "[04时15分 ~ 04时16分]"
         },
         {
-          "title": "中央气象台发布今年首个暴雨红警",
-          "url": "https://www.toutiao.com/trending/7660322607220883465/",
-          "source": "今日头条",
+          "title": "“先免妈、再上位” ：奥精医疗内斗上演连续剧 上市首任董事长“回董”被董事会拦下",
+          "url": "https://www.cls.cn/detail/2423530",
+          "source": "财联社热门",
           "ranks": [
-            25
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 12时57分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
         },
         {
           "title": "卡塔尔埃米尔办公室：卡塔尔埃米尔与巴基斯坦总理确认，将继续合作支持地区安全，维护航运和海上通道安全。",
@@ -256,13 +269,24 @@
           "time_info": "09时48分"
         },
         {
+          "title": "最高级别！今年首个暴雨红色预警发布",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%80%E9%AB%98%E7%BA%A7%E5%88%AB%EF%BC%81%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
           "title": "隆华科技集团旗下丰联科光电实现G8.7 AMOLED银合金管靶全自主量产出货",
           "url": "https://flash.jin10.com/detail/20260711110349200800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
         },
@@ -273,7 +297,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
         },
@@ -354,20 +378,6 @@
           "time_info": "[00时16分 ~ 12时57分]"
         },
         {
-          "title": "UP主实拍中国首枚火箭回收",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%8B%8D%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%9E%9A%E7%81%AB%E7%AE%AD%E5%9B%9E%E6%94%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            3,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时16分 ~ 12时57分]"
-        },
-        {
           "title": "长十乙的「网系回收」和星舰的「筷子夹火箭」、以及猎鹰火箭相比，哪个技术难度更大，应用前景更好？",
           "url": "https://www.zhihu.com/question/2058873625373930494",
           "source": "知乎",
@@ -380,6 +390,37 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时16分 ~ 07时51分]"
+        },
+        {
+          "title": "UP主实拍中国首枚火箭回收",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%8B%8D%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%9E%9A%E7%81%AB%E7%AE%AD%E5%9B%9E%E6%94%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            3,
+            5,
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时16分 ~ 15时07分]"
+        },
+        {
+          "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
+          "url": "https://wallstreetcn.com/articles/3776629",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时16分 ~ 15时07分]"
         },
         {
           "title": "商业航天板块午后逆势拉升，可回收火箭技术落地重塑产业链估值",
@@ -410,21 +451,6 @@
           "time_info": "[00时16分 ~ 09时48分]"
         },
         {
-          "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
-          "url": "https://wallstreetcn.com/articles/3776629",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时16分 ~ 12时57分]"
-        },
-        {
           "title": "外媒感叹中国火箭回收“创造历史”",
           "url": "https://www.toutiao.com/trending/7660881053470736434/",
           "source": "今日头条",
@@ -449,11 +475,12 @@
             11,
             21,
             9,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 09时48分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 15时07分]"
         },
         {
           "title": "长征十号乙火箭首飞圆满成功",
@@ -536,6 +563,30 @@
           "time_info": "[07时50分 ~ 09时48分]"
         },
         {
+          "title": "长征十号乙火箭发射回收纪实",
+          "url": "https://search.bilibili.com/all?keyword=%E9%95%BF%E5%BE%81%E5%8D%81%E5%8F%B7%E4%B9%99%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E5%9B%9E%E6%94%B6%E7%BA%AA%E5%AE%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时56分 ~ 15时07分]"
+        },
+        {
+          "title": "视频丨为什么要回收火箭？答案来了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33564244",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时56分 ~ 15时07分]"
+        },
+        {
           "title": "全球首次运载火箭网系回收过程公布",
           "url": "https://www.toutiao.com/trending/7661050462577348106/",
           "source": "今日头条",
@@ -569,17 +620,6 @@
           "time_info": "[07时50分 ~ 07时51分]"
         },
         {
-          "title": "视频丨为什么要回收火箭？答案来了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33564244",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 12时57分]"
-        },
-        {
           "title": "为什么要回收火箭",
           "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD",
           "source": "百度热搜",
@@ -589,17 +629,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时47分 ~ 09时48分]"
-        },
-        {
-          "title": "长征十号乙火箭发射回收纪实",
-          "url": "https://search.bilibili.com/all?keyword=%E9%95%BF%E5%BE%81%E5%8D%81%E5%8F%B7%E4%B9%99%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E5%9B%9E%E6%94%B6%E7%BA%AA%E5%AE%9E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 12时57分]"
         },
         {
           "title": "中国为什么要用一张网接火箭",
@@ -652,7 +681,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
         },
@@ -693,8 +722,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时50分 ~ 12时57分]"
+          "appearance_count": 7,
+          "time_info": "[07时50分 ~ 15时07分]"
         },
         {
           "title": "三星堆考古新发现：青铜顶尊跪坐人像并非神话符号，是古人祭祀实录",
@@ -760,6 +789,19 @@
           "time_info": "[04时16分 ~ 07时51分]"
         },
         {
+          "title": "一人一句致敬比利时黄金一代",
+          "url": "https://www.douyin.com/hot/2566621",
+          "source": "抖音",
+          "ranks": [
+            14,
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时47分 ~ 15时07分]"
+        },
+        {
           "title": "现货黄金本周跌1.5%，纽约铜涨1.9%",
           "url": "https://wallstreetcn.com/livenews/3132253",
           "source": "华尔街见闻-快讯",
@@ -771,18 +813,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时53分 ~ 09时48分]"
-        },
-        {
-          "title": "一人一句致敬比利时黄金一代",
-          "url": "https://www.douyin.com/hot/2566621",
-          "source": "抖音",
-          "ranks": [
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 12时57分]"
         },
         {
           "title": "比利时止步8强黄金一代落幕",
@@ -801,11 +831,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33564226",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 12时57分]"
+          "appearance_count": 3,
+          "time_info": "[12时56分 ~ 15时07分]"
         },
         {
           "title": "德布劳内等比利时黄金一代结束了他们最后的世界杯旅途，他们本届比赛表现怎么样？你对黄金一代有哪些记忆？",
@@ -921,7 +952,7 @@
     },
     {
       "keyword_group": "无人机 通航",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "为生命让步,无人机救人被怒赞",
@@ -930,11 +961,12 @@
           "ranks": [
             7,
             8,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时16分 ~ 12时57分]"
+          "appearance_count": 16,
+          "time_info": "[00时16分 ~ 15时07分]"
         },
         {
           "title": "原则上无人机不许吊人但人民大于原则",
@@ -975,6 +1007,17 @@
           "time_info": "[09时47分 ~ 09时48分]"
         },
         {
+          "title": "中国无人机“违例”操作 全网破防",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%97%A0%E4%BA%BA%E6%9C%BA%E2%80%9C%E8%BF%9D%E4%BE%8B%E2%80%9D%E6%93%8D%E4%BD%9C+%E5%85%A8%E7%BD%91%E7%A0%B4%E9%98%B2",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：乌克兰将组建快速反应部队，结合突击队和无人机部队。",
           "url": "https://flash.jin10.com/detail/20260711013530134800",
           "source": "金十数据",
@@ -995,6 +1038,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "无人机吊起2人神图系AI合成",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%90%8A%E8%B5%B72%E4%BA%BA%E7%A5%9E%E5%9B%BE%E7%B3%BBAI%E5%90%88%E6%88%90%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
         },
         {
           "title": "美国驻联合国代表：伊朗已部署巡航导弹和无人机以攻击商船。",
@@ -1040,11 +1094,12 @@
           "url": "https://wallstreetcn.com/articles/3776685",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 12时57分]"
+          "appearance_count": 3,
+          "time_info": "[12时56分 ~ 15时07分]"
         },
         {
           "title": "特朗普宣布美光将在美投资2500亿美元制造存储芯片",
@@ -1138,6 +1193,72 @@
       ]
     },
     {
+      "keyword_group": "人形机器人 机器人 具身智能 灵巧手",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "给朋友拍照时就这样变身机器人",
+          "url": "https://www.douyin.com/hot/2566457",
+          "source": "抖音",
+          "ranks": [
+            11,
+            7,
+            8,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时16分 ~ 15时07分]"
+        },
+        {
+          "title": "智元-蓝思机器人智能产线项目在惠州签约 计划首年机器人产能超1000台",
+          "url": "https://flash.jin10.com/detail/20260710234153746800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "售价十几万的仿生机器人有何卖点",
+          "url": "https://www.toutiao.com/trending/7660876752276688438/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 06时53分]"
+        },
+        {
+          "title": "宇树机器人给猪做手术登上Nature",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%BB%99%E7%8C%AA%E5%81%9A%E6%89%8B%E6%9C%AF%E7%99%BB%E4%B8%8ANature",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
+          "title": "宇树科技王兴兴：机器人一定会走向普通消费者",
+          "url": "https://wallstreetcn.com/livenews/3132147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "国务院 发改委 工信部 财政部 证监会",
       "match_count": 5,
       "titles": [
@@ -1184,7 +1305,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
         },
@@ -1195,63 +1316,9 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人形机器人 机器人 具身智能 灵巧手",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "给朋友拍照时就这样变身机器人",
-          "url": "https://www.douyin.com/hot/2566457",
-          "source": "抖音",
-          "ranks": [
-            11,
-            7,
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时16分 ~ 12时57分]"
-        },
-        {
-          "title": "智元-蓝思机器人智能产线项目在惠州签约 计划首年机器人产能超1000台",
-          "url": "https://flash.jin10.com/detail/20260710234153746800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "售价十几万的仿生机器人有何卖点",
-          "url": "https://www.toutiao.com/trending/7660876752276688438/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 06时53分]"
-        },
-        {
-          "title": "宇树科技王兴兴：机器人一定会走向普通消费者",
-          "url": "https://wallstreetcn.com/livenews/3132147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
         }
       ]
     },
@@ -1279,8 +1346,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 12时57分]"
+          "appearance_count": 5,
+          "time_info": "[09时47分 ~ 15时07分]"
         },
         {
           "title": "大模型算法是否会催生一大批不懂业务的算法工程师，热度过后他们将何去何从？",
@@ -1308,19 +1375,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时16分 ~ 12时57分]"
+          "appearance_count": 16,
+          "time_info": "[00时16分 ~ 15时07分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
           "url": "https://www.cls.cn/detail/2422869",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 12时57分]"
+          "appearance_count": 3,
+          "time_info": "[12时56分 ~ 15时07分]"
         }
       ]
     },
@@ -1365,11 +1433,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时16分 ~ 12时57分]"
+          "appearance_count": 16,
+          "time_info": "[00时16分 ~ 15时07分]"
         }
       ]
     },
