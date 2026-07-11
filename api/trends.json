@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T19:46:33.425552+08:00",
-  "total_titles_processed": 1335,
+  "generated_at": "2026-07-11T20:57:45.461265+08:00",
+  "total_titles_processed": 1407,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 32,
+      "match_count": 38,
       "titles": [
         {
           "title": "离职率突破新高，本届世界杯迎来主教练离任潮",
@@ -65,8 +65,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时16分 ~ 19时46分]"
+          "appearance_count": 21,
+          "time_info": "[00时16分 ~ 20时57分]"
         },
         {
           "title": "航天新突破,长十乙回收成功",
@@ -78,11 +78,12 @@
             17,
             16,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时16分 ~ 19时46分]"
+          "appearance_count": 21,
+          "time_info": "[00时16分 ~ 20时57分]"
         },
         {
           "title": "印度拿什么和中国抢空调订单",
@@ -130,11 +131,26 @@
           "url": "https://wallstreetcn.com/livenews/3132351",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 20时57分]"
+        },
+        {
+          "title": "“先免妈、再上位” ：奥精医疗内斗上演连续剧 上市首任董事长“回董”被董事会拦下",
+          "url": "https://www.cls.cn/detail/2423530",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时07分 ~ 20时57分]"
         },
         {
           "title": "巴基斯坦总理：同意推进伊朗总统佩泽希齐扬近期访巴期间确定的双边合作议程。",
@@ -148,6 +164,39 @@
           "time_info": "02时18分"
         },
         {
+          "title": "沐曦天使轮5000万5年浮盈74亿 投资机构：中国或将诞生多家万亿市值上市企业",
+          "url": "https://wallstreetcn.com/livenews/3132354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "沐曦天使轮5000万5年浮盈74亿 投资机构：中国或将诞生多家万亿市值上市企业",
+          "url": "https://flash.jin10.com/detail/20260711202515883800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "埃尼集团CEO：中东冲突若持续，油市或于2027年初突破当前区间",
+          "url": "https://flash.jin10.com/detail/20260711200952058800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "习近平同朝鲜劳动党总书记、国务委员会委员长金正恩就《中朝友好合作互助条约》签订65周年互致贺电。（央视新闻）",
           "url": "https://wallstreetcn.com/livenews/3132272",
           "source": "华尔街见闻-快讯",
@@ -159,17 +208,16 @@
           "time_info": "09时48分"
         },
         {
-          "title": "“先免妈、再上位” ：奥精医疗内斗上演连续剧 上市首任董事长“回董”被董事会拦下",
-          "url": "https://www.cls.cn/detail/2423530",
-          "source": "财联社热门",
+          "title": "战锤40K全球首发实机演示",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%98%E9%94%A440K%E5%85%A8%E7%90%83%E9%A6%96%E5%8F%91%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            9,
-            7
+            15,
+            16
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[15时07分 ~ 19时46分]"
+          "time_info": "[17时19分 ~ 20时57分]"
         },
         {
           "title": "巴基斯坦Sharif：与伊朗总统通话。 我们讨论了地区局势。 同意推进双边合作。",
@@ -182,18 +230,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 04时16分]"
-        },
-        {
-          "title": "战锤40K全球首发实机演示",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%98%E9%94%A440K%E5%85%A8%E7%90%83%E9%A6%96%E5%8F%91%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时19分 ~ 19时46分]"
         },
         {
           "title": "中央气象台发布今年首个暴雨红警",
@@ -277,6 +313,28 @@
           "time_info": "[04时15分 ~ 04时16分]"
         },
         {
+          "title": "意大利油企埃尼集团首席执行官：中东冲突若持续，油市或于2027年初突破当前区间。",
+          "url": "https://flash.jin10.com/detail/20260711195515068800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "河南多地路面突破72℃",
+          "url": "https://www.toutiao.com/trending/7660199613651107859/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "卡塔尔埃米尔办公室：卡塔尔埃米尔与巴基斯坦总理确认，将继续合作支持地区安全，维护航运和海上通道安全。",
           "url": "https://flash.jin10.com/detail/20260711031632460800",
           "source": "金十数据",
@@ -286,6 +344,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "京东首个RoboBase项目落地广州黄埔",
+          "url": "https://flash.jin10.com/detail/20260711194338297800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "据日经新闻：大众汽车正寻求与日产合作，在美国开发一款大型SUV。",
@@ -390,7 +459,7 @@
     },
     {
       "keyword_group": "商业航天 火箭 卫星互联网 北斗",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "中国可回收火箭里程碑时刻！长征十号乙首飞成功，实现全球首创海上网系回收",
@@ -545,6 +614,17 @@
           "time_info": "[00时16分 ~ 12时57分]"
         },
         {
+          "title": "“日本可回收火箭着陆成功”？日媒：只飞了11米",
+          "url": "https://news.ifeng.com/c/8ufkpdmHw6H",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时19分 ~ 20时57分]"
+        },
+        {
           "title": "长征十号乙运载火箭成功实现一子级可控回收，这一技术有多难？此次成功回收具有哪些重要意义？",
           "url": "https://www.zhihu.com/question/2058516301257994660",
           "source": "知乎",
@@ -571,17 +651,6 @@
           "time_info": "[07时50分 ~ 09时48分]"
         },
         {
-          "title": "“日本可回收火箭着陆成功”？日媒：只飞了11米",
-          "url": "https://news.ifeng.com/c/8ufkpdmHw6H",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时19分 ~ 19时46分]"
-        },
-        {
           "title": "视频丨为什么要回收火箭？答案来了",
           "url": "https://m.thepaper.cn/newsDetail_forward_33564244",
           "source": "澎湃新闻",
@@ -592,8 +661,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时56分 ~ 19时46分]"
+          "appearance_count": 8,
+          "time_info": "[12时56分 ~ 20时57分]"
         },
         {
           "title": "日本可回收火箭着陆成功 仅飞11米",
@@ -602,11 +671,23 @@
           "ranks": [
             4,
             6,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时19分 ~ 19时46分]"
+          "appearance_count": 5,
+          "time_info": "[17时19分 ~ 20时57分]"
+        },
+        {
+          "title": "又赢?日本可回收火箭仅飞11米",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356098&amp;topic_name=%E5%8F%88%E8%B5%A2%3F%E6%97%A5%E6%9C%AC%E5%8F%AF%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD%E4%BB%85%E9%A3%9E11%E7%B1%B3",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "多元化突破 液化天然气制甲烷首次应用于长征系列火箭",
@@ -619,6 +700,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时48分 ~ 12时57分]"
+        },
+        {
+          "title": "日媒拆台日本火箭只飞了11米",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E6%8B%86%E5%8F%B0%E6%97%A5%E6%9C%AC%E7%81%AB%E7%AE%AD%E5%8F%AA%E9%A3%9E%E4%BA%8611%E7%B1%B3%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时56分 ~ 20时57分]"
         },
         {
           "title": "火箭网系回收有何优势",
@@ -643,17 +735,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时56分 ~ 15时07分]"
-        },
-        {
-          "title": "日媒拆台日本火箭只飞了11米",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E6%8B%86%E5%8F%B0%E6%97%A5%E6%9C%AC%E7%81%AB%E7%AE%AD%E5%8F%AA%E9%A3%9E%E4%BA%8611%E7%B1%B3%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时56分 ~ 19时46分]"
         },
         {
           "title": "全球首次运载火箭网系回收过程公布",
@@ -789,11 +870,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时50分 ~ 19时46分]"
+          "appearance_count": 12,
+          "time_info": "[07时50分 ~ 20时57分]"
         },
         {
           "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
@@ -821,6 +903,19 @@
           "time_info": "[00时16分 ~ 07时51分]"
         },
         {
+          "title": "头条世界杯｜西班牙绝杀送走黄金一代，36场不败静候法国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33564226",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时56分 ~ 20时57分]"
+        },
+        {
           "title": "一人一句致敬比利时黄金一代",
           "url": "https://www.douyin.com/hot/2566621",
           "source": "抖音",
@@ -833,19 +928,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时47分 ~ 18时57分]"
-        },
-        {
-          "title": "头条世界杯｜西班牙绝杀送走黄金一代，36场不败静候法国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33564226",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时56分 ~ 19时46分]"
         },
         {
           "title": "AI叙事助美股三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",
@@ -872,6 +954,18 @@
           "time_info": "[05时52分 ~ 07时51分]"
         },
         {
+          "title": "德布劳内等比利时黄金一代结束了他们最后的世界杯旅途，他们本届比赛表现怎么样？你对黄金一代有哪些记忆？",
+          "url": "https://www.zhihu.com/question/2059159511039055807",
+          "source": "知乎",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时56分 ~ 20时57分]"
+        },
+        {
           "title": "印度接盘救得了印尼镍矿产业吗",
           "url": "https://www.toutiao.com/trending/7660881021776170502/",
           "source": "今日头条",
@@ -883,17 +977,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时15分 ~ 07时51分]"
-        },
-        {
-          "title": "沃什国会听证会撞上CPI，利率定价博弈主宰黄金命运！",
-          "url": "https://flash.jin10.com/detail/20260711192500599800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时46分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：7月7日当周，投机者所持COMEX黄金净多头头寸减少1,964手合约，至114,854手合约。 所持COMEX白银净多头头寸减少616手合约，至12,131手合约。 所持COMEX铜净多头头寸减少970手合约，至60,397手合约，创11周新低。 所持NYMEX铂金净多头头寸降低至7,476手合约，创17周新低。 所持NYMEX钯净空头头寸增至6,382手合约，创10个月新高。",
@@ -909,16 +992,16 @@
           "time_info": "[04时16分 ~ 07时51分]"
         },
         {
-          "title": "德布劳内等比利时黄金一代结束了他们最后的世界杯旅途，他们本届比赛表现怎么样？你对黄金一代有哪些记忆？",
-          "url": "https://www.zhihu.com/question/2059159511039055807",
-          "source": "知乎",
+          "title": "沃什国会听证会撞上CPI，利率定价博弈主宰黄金命运！",
+          "url": "https://flash.jin10.com/detail/20260711192500599800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            20
+            3,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时56分 ~ 19时46分]"
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 20时57分]"
         },
         {
           "title": "现货黄金本周跌1.5%，纽约铜涨1.9%",
@@ -1048,7 +1131,7 @@
     },
     {
       "keyword_group": "无人机 通航",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "为生命让步,无人机救人被怒赞",
@@ -1060,11 +1143,12 @@
             14,
             13,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时16分 ~ 19时46分]"
+          "appearance_count": 21,
+          "time_info": "[00时16分 ~ 20时57分]"
         },
         {
           "title": "原则上无人机不许吊人但人民大于原则",
@@ -1091,8 +1175,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时19分 ~ 19时46分]"
+          "appearance_count": 5,
+          "time_info": "[17时19分 ~ 20时57分]"
         },
         {
           "title": "无人机吊起2人神图系AI合成",
@@ -1102,8 +1186,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时56分 ~ 19时46分]"
+          "appearance_count": 4,
+          "time_info": "[18时56分 ~ 20时57分]"
         },
         {
           "title": "“我也是第一次用无人机运人”",
@@ -1149,6 +1233,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
+        },
+        {
+          "title": "中国无人机救人事件梳理",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%95%91%E4%BA%BA%E4%BA%8B%E4%BB%B6%E6%A2%B3%E7%90%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "乌克兰总统泽连斯基：乌克兰将组建快速反应部队，结合突击队和无人机部队。",
@@ -1208,106 +1303,9 @@
       ]
     },
     {
-      "keyword_group": "国务院 发改委 工信部 财政部 证监会",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "国务院原则同意《中医药振兴发展“十五五”规划》",
-          "url": "https://www.cls.cn/detail/2422955",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 09时48分]"
-        },
-        {
-          "title": "国务院安委会对福建泉州「7·9」重大火灾查处挂牌督办，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2059215563638018597",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时19分 ~ 19时46分]"
-        },
-        {
-          "title": "美国国务院：美国国务卿鲁比奥与沙特外交大臣费萨尔通话。",
-          "url": "https://flash.jin10.com/detail/20260711044555579800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时53分 ~ 07时51分]"
-        },
-        {
-          "title": "国务院安委会对晋江28死火灾挂牌督办",
-          "url": "https://www.toutiao.com/trending/7661080342958181930/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 12时57分]"
-        },
-        {
-          "title": "财政部、应急管理部紧急预拨4000万元中央自然灾害救灾资金，支持福建、浙江做好“巴威”台风应急抢险救灾工作。",
-          "url": "https://wallstreetcn.com/livenews/3132341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
-          "title": "伊朗外交部长：伊朗迄今信守承诺，不像美国财政部长那样违反谅解备忘录第9条这一违规行为是美国其他违规和失误的延续。",
-          "url": "https://flash.jin10.com/detail/20260711101517977800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        },
-        {
-          "title": "国务院安委会对福建泉州“7·9”重大火灾查处挂牌督办",
-          "url": "https://wallstreetcn.com/livenews/3132285",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        }
-      ]
-    },
-    {
       "keyword_group": "HBM DDR5 存储芯片",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "存储芯片巨头SK海力士登陆美股",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%99%BB%E9%99%86%E7%BE%8E%E8%82%A1",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 06时53分]"
-        },
         {
           "title": "SK海力士CEO：2027年将迎来史上最严重存储芯片短缺，供不应求或持续至2030年后",
           "url": "https://wallstreetcn.com/articles/3776685",
@@ -1319,8 +1317,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时56分 ~ 19时46分]"
+          "appearance_count": 8,
+          "time_info": "[12时56分 ~ 20时57分]"
+        },
+        {
+          "title": "存储芯片巨头SK海力士登陆美股",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%99%BB%E9%99%86%E7%BE%8E%E8%82%A1",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 06时53分]"
         },
         {
           "title": "SK海力士CEO Kwak Noh-Jung：存储芯片供应短缺可能会持续至2030年之后。（彭博电视）",
@@ -1334,17 +1343,40 @@
           "time_info": "02时18分"
         },
         {
+          "title": "存储芯片股过去数周跌超20% 底层逻辑面临重估",
+          "url": "https://wallstreetcn.com/livenews/3132353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
           "url": "https://www.cls.cn/detail/2423546",
           "source": "财联社热门",
           "ranks": [
             12,
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时19分 ~ 19时46分]"
+          "appearance_count": 5,
+          "time_info": "[17时19分 ~ 20时57分]"
+        },
+        {
+          "title": "存储芯片股过去数周跌超20% 底层逻辑面临重估",
+          "url": "https://flash.jin10.com/detail/20260711200334609800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "特朗普宣布美光将在美投资2500亿美元制造存储芯片",
@@ -1371,8 +1403,95 @@
       ]
     },
     {
+      "keyword_group": "国务院 发改委 工信部 财政部 证监会",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "国务院原则同意《中医药振兴发展“十五五”规划》",
+          "url": "https://www.cls.cn/detail/2422955",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 09时48分]"
+        },
+        {
+          "title": "国务院安委会对福建泉州「7·9」重大火灾查处挂牌督办，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2059215563638018597",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时19分 ~ 20时57分]"
+        },
+        {
+          "title": "美国国务院：美国国务卿鲁比奥与沙特外交大臣费萨尔通话。",
+          "url": "https://flash.jin10.com/detail/20260711044555579800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时53分 ~ 07时51分]"
+        },
+        {
+          "title": "财政部、应急管理部紧急预拨4000万元中央自然灾害救灾资金，支持福建、浙江做好“巴威”台风应急抢险救灾工作。",
+          "url": "https://wallstreetcn.com/livenews/3132341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 20时57分]"
+        },
+        {
+          "title": "国务院安委会对晋江28死火灾挂牌督办",
+          "url": "https://www.toutiao.com/trending/7661080342958181930/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时56分 ~ 12时57分]"
+        },
+        {
+          "title": "伊朗外交部长：伊朗迄今信守承诺，不像美国财政部长那样违反谅解备忘录第9条这一违规行为是美国其他违规和失误的延续。",
+          "url": "https://flash.jin10.com/detail/20260711101517977800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
+          "title": "国务院安委会对福建泉州“7·9”重大火灾查处挂牌督办",
+          "url": "https://wallstreetcn.com/livenews/3132285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 Apple iPhone",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI回应苹果公司的诉讼：我们对其他公司的商业秘密没兴趣。 我们仍然侧重于打造创新科技。",
@@ -1434,6 +1553,81 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时53分 ~ 07时51分]"
+        },
+        {
+          "title": "iPhone18机模体验",
+          "url": "https://search.bilibili.com/all?keyword=iPhone18%E6%9C%BA%E6%A8%A1%E4%BD%93%E9%AA%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
+          "url": "https://wallstreetcn.com/articles/3776605",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 05时53分]"
+        },
+        {
+          "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
+          "url": "https://wallstreetcn.com/articles/3776665",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时47分 ~ 20时57分]"
+        },
+        {
+          "title": "智谱创始人唐杰发布内部信：将开启 Touch High（摸高）计划，“不登顶，就是失败”",
+          "url": "https://wallstreetcn.com/livenews/3132350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 20时57分]"
+        },
+        {
+          "title": "大模型算法是否会催生一大批不懂业务的算法工程师，热度过后他们将何去何从？",
+          "url": "https://www.zhihu.com/question/7707791899",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 07时51分]"
+        },
+        {
+          "title": "当哈兰德遇到豆包",
+          "url": "https://www.douyin.com/hot/2567460",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         }
       ]
     },
@@ -1451,11 +1645,12 @@
             8,
             6,
             4,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时16分 ~ 19时46分]"
+          "appearance_count": 21,
+          "time_info": "[00时16分 ~ 20时57分]"
         },
         {
           "title": "智元-蓝思机器人智能产线项目在惠州签约 计划首年机器人产能超1000台",
@@ -1505,58 +1700,6 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
-          "url": "https://wallstreetcn.com/articles/3776605",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 05时53分]"
-        },
-        {
-          "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
-          "url": "https://wallstreetcn.com/articles/3776665",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时47分 ~ 19时46分]"
-        },
-        {
-          "title": "智谱创始人唐杰发布内部信：将开启 Touch High（摸高）计划，“不登顶，就是失败”",
-          "url": "https://wallstreetcn.com/livenews/3132350",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
-          "title": "大模型算法是否会催生一大批不懂业务的算法工程师，热度过后他们将何去何从？",
-          "url": "https://www.zhihu.com/question/7707791899",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时50分 ~ 07时51分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "并购 重组 借壳 资产重组",
       "match_count": 3,
       "titles": [
@@ -1565,33 +1708,36 @@
           "url": "https://wallstreetcn.com/livenews/3132345",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 20时57分]"
         },
         {
           "title": "中国石化完成对中国航油重组，中国航油成为其二级全资子公司",
           "url": "https://flash.jin10.com/detail/20260711190040406800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 20时57分]"
         },
         {
           "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2423581",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 20时57分]"
         }
       ]
     },
@@ -1608,8 +1754,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时16分 ~ 19时46分]"
+          "appearance_count": 21,
+          "time_info": "[00时16分 ~ 20时57分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -1621,8 +1767,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时56分 ~ 19时46分]"
+          "appearance_count": 8,
+          "time_info": "[12时56分 ~ 20时57分]"
         }
       ]
     },
