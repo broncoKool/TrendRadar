@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T00:48:39.342584+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-13T01:53:49.713405+08:00",
+  "total_titles_processed": 347,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时53分]"
         },
         {
           "title": "多股应声涨停！A股中报行情纵深推进，16家上市公司净利最高同比预增超10倍",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时53分]"
         },
         {
           "title": "与美合作、加速入盟 乌克兰宣布全面调整国家政治战略",
@@ -37,8 +37,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时53分]"
         },
         {
           "title": "被VAR争议判罚送出局？瑞士在最接近突破的时候倒下",
@@ -48,8 +48,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时53分]"
         },
         {
           "title": "“先免妈、再上位” ：奥精医疗内斗上演连续剧 上市首任董事长“回董”被董事会拦下",
@@ -59,8 +59,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时53分]"
         },
         {
           "title": "战锤40K全球首发实机演示",
@@ -70,25 +70,49 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时53分]"
         }
       ]
     },
     {
       "keyword_group": "商业航天 火箭 卫星互联网 北斗",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "据伊朗媒体Fars News：伊朗革命卫队此前在科威特的无人机行动中瞄准了美国火箭弹发射系统。",
+          "url": "https://flash.jin10.com/detail/20260713012608595800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
         {
           "title": "巨力索具：澄清商业航天业务不实传闻 提醒投资风险",
           "url": "https://flash.jin10.com/detail/20260712225957823800",
           "source": "金十数据",
           "ranks": [
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时53分]"
+        },
+        {
+          "title": "深度解析中国第一枚回收火箭",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E6%9E%9A%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时53分]"
         },
         {
           "title": "星网宇达：公司与近期市场关注的长征十号乙运载火箭海上回收技术突破不存在业务关联",
@@ -98,19 +122,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "深度解析中国第一枚回收火箭",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E6%9E%9A%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时53分]"
         },
         {
           "title": "又赢?日本可回收火箭仅飞11米",
@@ -120,8 +133,47 @@
             25
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "无人机 通航",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美军称霍尔木兹海峡仍对通航船只开放",
+          "url": "https://wallstreetcn.com/livenews/3132426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时53分]"
+        },
+        {
+          "title": "阿曼称霍尔木兹海峡南侧部分地区遭无人机袭击",
+          "url": "https://wallstreetcn.com/livenews/3132393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时53分]"
+        },
+        {
+          "title": "科威特军队：科威特石油公司持有的一座钻井平台遭到无人机袭击，造成重大损失，一名工人受伤。",
+          "url": "https://flash.jin10.com/detail/20260713004156362800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时48分"
+          "time_info": "01时53分"
         }
       ]
     },
@@ -137,8 +189,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时53分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -148,36 +200,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "无人机 通航",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美军称霍尔木兹海峡仍对通航船只开放",
-          "url": "https://wallstreetcn.com/livenews/3132426",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "阿曼称霍尔木兹海峡南侧部分地区遭无人机袭击",
-          "url": "https://wallstreetcn.com/livenews/3132393",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时53分]"
         }
       ]
     },
@@ -193,8 +217,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时53分]"
         },
         {
           "title": "【早报】中国石化完成对中国航油重组",
@@ -204,8 +228,25 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Claude：将把Claude Fable 5在所有付费套餐中的开放使用期限延长至7月19日，同时继续将Claude Code 的每周使用额度提高50%，这一政策也将持续至7月19日。",
+          "url": "https://flash.jin10.com/detail/20260713010355573800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时48分"
+          "time_info": "01时53分"
         }
       ]
     },
@@ -221,8 +262,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时53分]"
         }
       ]
     },
@@ -238,8 +279,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时53分]"
         }
       ]
     },
@@ -255,8 +296,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时53分]"
         }
       ]
     },
@@ -272,8 +313,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时53分]"
         }
       ]
     },
@@ -286,11 +327,12 @@
           "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E7%9B%B4%E4%BB%A5%E4%B8%BA%E5%8F%96%E5%8D%A1%E9%92%88%E7%9A%84%E4%BD%9C%E7%94%A8%E5%8F%AA%E6%9C%89%E6%8D%A2%E7%94%B5%E8%AF%9D%E5%8D%A1&t=31&band_rank=25&Refer=top",
           "source": "微博",
           "ranks": [
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时53分]"
         }
       ]
     },
@@ -306,8 +348,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时53分]"
         }
       ]
     },
@@ -323,8 +365,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时53分]"
         }
       ]
     }
