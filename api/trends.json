@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T13:20:06.666351+08:00",
-  "total_titles_processed": 789,
+  "generated_at": "2026-07-12T16:02:37.230955+08:00",
+  "total_titles_processed": 913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "《功夫女足》票房突破 2 亿，你觉得最终票房能到多少？",
@@ -31,11 +31,12 @@
             8,
             7,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时44分 ~ 13时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时44分 ~ 16时02分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
@@ -57,8 +58,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时44分 ~ 13时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时44分 ~ 16时02分]"
         },
         {
           "title": "航天新突破,长十乙回收成功",
@@ -128,6 +129,18 @@
           "time_info": "[04时02分 ~ 07时45分]"
         },
         {
+          "title": "全球存储扩产+海外设备供应告急，国产半导体设备迎“超级时代”",
+          "url": "https://wallstreetcn.com/articles/3776714",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 16时02分]"
+        },
+        {
           "title": "头部游企6月全球收入增幅超17% 暑期档新品密集落地",
           "url": "https://www.cls.cn/detail/2423590",
           "source": "财联社热门",
@@ -139,15 +152,16 @@
           "time_info": "[06时39分 ~ 07时45分]"
         },
         {
-          "title": "全球存储扩产+海外设备供应告急，国产半导体设备迎“超级时代”",
-          "url": "https://wallstreetcn.com/articles/3776714",
-          "source": "华尔街见闻",
+          "title": "三星电子将龙仁首座芯片厂投产提前至2029年，比原计划早1-2年",
+          "url": "https://wallstreetcn.com/livenews/3132383",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            7,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
+          "time_info": "[13时20分 ~ 16时02分]"
         },
         {
           "title": "周星驰刘嘉玲时隔三十年再度合作",
@@ -173,14 +187,14 @@
         },
         {
           "title": "三星电子将龙仁首座芯片厂投产提前至2029年，比原计划早1-2年",
-          "url": "https://wallstreetcn.com/livenews/3132383",
-          "source": "华尔街见闻-快讯",
+          "url": "https://wallstreetcn.com/articles/3776715",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时20分"
+          "time_info": "16时02分"
         },
         {
           "title": "老乡鸡上市梦碎",
@@ -197,7 +211,7 @@
     },
     {
       "keyword_group": "商业航天 火箭 卫星互联网 北斗",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "我国商业航天燃料实现多元化突破",
@@ -243,11 +257,12 @@
           "ranks": [
             7,
             10,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时44分 ~ 13时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时44分 ~ 16时02分]"
         },
         {
           "title": "视频丨为什么要回收火箭？答案来了",
@@ -279,11 +294,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            30
+            30,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 13时20分]"
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 16时02分]"
         },
         {
           "title": "据AXIOS：美国官员表示，对伊朗打击的目标包括火箭和无人机发射场，以及空中监视雷达和导弹存储地点。",
@@ -295,6 +311,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "我国可复用火箭实现历史性突破，卫星组网“大航天时代”将至？",
+          "url": "https://www.cls.cn/detail/2423687",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "日本可回收火箭着陆成功 仅飞11米",
@@ -322,7 +349,7 @@
     },
     {
       "keyword_group": "无人机 通航",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "如何看待广西洪灾中无人机打破「不许吊人」规定进行人员转运？",
@@ -372,11 +399,12 @@
           "ranks": [
             20,
             23,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时44分 ~ 13时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时44分 ~ 16时02分]"
         },
         {
           "title": "阿曼与伊朗将继续谈判 以达成霍尔木兹海峡通航协议",
@@ -392,6 +420,17 @@
           "time_info": "[04时02分 ~ 07时45分]"
         },
         {
+          "title": "阿曼称霍尔木兹海峡南侧部分地区遭无人机袭击",
+          "url": "https://wallstreetcn.com/livenews/3132393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
           "title": "无人机吊起2人神图系AI合成",
           "url": "https://www.baidu.com/s?wd=%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%90%8A%E8%B5%B72%E4%BA%BA%E7%A5%9E%E5%9B%BE%E7%B3%BBAI%E5%90%88%E6%88%90",
           "source": "百度热搜",
@@ -399,8 +438,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 16时02分]"
+        },
+        {
+          "title": "阿曼称霍尔木兹海峡南侧部分地区遭无人机袭击",
+          "url": "https://flash.jin10.com/detail/20260712143258764800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "美国中央司令部：商业船只在霍尔木兹海峡这一重要国际海上走廊的通航仍在继续。",
@@ -409,7 +459,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -420,15 +470,26 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
+        },
+        {
+          "title": "据沙特国家新闻社：阿曼穆桑达姆地区的多个地点遭到无人机袭击。",
+          "url": "https://flash.jin10.com/detail/20260712141939358800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "智谱创始人唐杰发布内部信：将开启 Touch High（摸高）计划，“不登顶，就是失败”",
@@ -441,8 +502,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[04时01分 ~ 13时20分]"
+          "appearance_count": 12,
+          "time_info": "[04时01分 ~ 16时02分]"
         },
         {
           "title": "DeepSeek V4 正式版将于 7 月中旬上线，你有什么期待？",
@@ -498,6 +559,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时19分 ~ 13时20分]"
+        },
+        {
+          "title": "商业航天“DeepSeek时刻”到了吗",
+          "url": "https://www.baidu.com/s?wd=%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E2%80%9CDeepSeek%E6%97%B6%E5%88%BB%E2%80%9D%E5%88%B0%E4%BA%86%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         }
       ]
     },
@@ -596,8 +668,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时44分 ~ 13时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时44分 ~ 16时02分]"
         },
         {
           "title": "中国石化完成对中国航油重组",
@@ -619,11 +691,12 @@
           "ranks": [
             19,
             14,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时44分 ~ 13时20分]"
+          "appearance_count": 6,
+          "time_info": "[07时44分 ~ 16时02分]"
         },
         {
           "title": "【早报】中国石化完成对中国航油重组",
@@ -634,54 +707,14 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 13时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
-          "url": "https://www.cls.cn/detail/2422869",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时44分 ~ 13时20分]"
-        },
-        {
-          "title": "国常会：要系统推进数字中国建设，加快新一代通信网、算力网建设，全面赋能经济社会发展",
-          "url": "https://www.cls.cn/detail/2423220",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时44分 ~ 02时47分]"
-        },
-        {
-          "title": "算力芯片爆发",
-          "url": "https://s.weibo.com/weibo?q=%E7%AE%97%E5%8A%9B%E8%8A%AF%E7%89%87%E7%88%86%E5%8F%91&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
+          "time_info": "[09时50分 ~ 16时02分]"
         }
       ]
     },
     {
       "keyword_group": "HBM DDR5 存储芯片",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -692,8 +725,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时44分 ~ 13时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时44分 ~ 16时02分]"
         },
         {
           "title": "存储芯片股过去数周跌超20% 底层逻辑面临重估",
@@ -718,6 +751,58 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时44分 ~ 04时02分]"
+        },
+        {
+          "title": "机构：HBM4价格今年下半年或涨至4-5美元/千比特 AI需求与产能瓶颈致全球DRAM半数产能被大厂锁定",
+          "url": "https://flash.jin10.com/detail/20260712150627108800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
+          "url": "https://www.cls.cn/detail/2422869",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时44分 ~ 16时02分]"
+        },
+        {
+          "title": "国常会：要系统推进数字中国建设，加快新一代通信网、算力网建设，全面赋能经济社会发展",
+          "url": "https://www.cls.cn/detail/2423220",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时47分]"
+        },
+        {
+          "title": "算力芯片爆发",
+          "url": "https://s.weibo.com/weibo?q=%E7%AE%97%E5%8A%9B%E8%8A%AF%E7%89%87%E7%88%86%E5%8F%91&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 16时02分]"
         }
       ]
     },
@@ -760,11 +845,12 @@
           "url": "https://wallstreetcn.com/livenews/3132380",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 16时02分]"
         }
       ]
     },
@@ -781,8 +867,25 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 13时20分]"
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 16时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "问界 智界 享界 尊界 鸿蒙智行 ADS",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "曝余承东内部群发飙，要求立刻整改「问界 M8 致车主行踪暴露」一事，是真的吗？这种 bug 是什么环节的问题？",
+          "url": "https://www.zhihu.com/question/2059329797826635179",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         }
       ]
     },
@@ -796,11 +899,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 13时20分]"
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 16时02分]"
         }
       ]
     },
@@ -813,11 +917,12 @@
           "url": "https://www.zhihu.com/question/2058595980682040766",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 16时02分]"
         }
       ]
     },
@@ -865,11 +970,12 @@
           "url": "https://www.toutiao.com/trending/7660426802398593065/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 16时02分]"
         }
       ]
     }
