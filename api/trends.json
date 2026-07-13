@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T05:46:33.997001+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-07-14T06:46:21.319206+08:00",
+  "total_titles_processed": 568,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
@@ -25,9 +25,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
+        },
+        {
+          "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金重挫",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时46分"
         },
         {
           "title": "国际铜夜盘收涨0.27%，沪铜收涨0.40%，沪铝收涨0.33%，沪锌收跌0.60%，沪铅收跌0.66%，沪镍收涨0.46%，沪锡收跌1.27%。 氧化铝夜盘收涨0.15%，铝合金收跌0.22%。 不锈钢夜盘收涨1.85%。",
@@ -52,6 +63,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时51分 ~ 05时46分]"
+        },
+        {
+          "title": "现货黄金跌超2.9%，失守4000美元整数位心理关口",
+          "url": "https://wallstreetcn.com/livenews/3133090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时46分 ~ 06时46分]"
         },
         {
           "title": "LME期铜收涨56美元，报13541美元/吨。 LME期铝收涨30美元，报3170美元/吨。 LME期锌收跌50美元，报3566美元/吨。 LME期铅收跌28美元，报1868美元/吨。 LME期镍收涨25美元，报16766美元/吨。 LME期锡收跌527美元，报52598美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -87,17 +110,6 @@
           "time_info": "01时09分"
         },
         {
-          "title": "现货黄金跌超2.9%，失守4000美元整数位心理关口",
-          "url": "https://wallstreetcn.com/livenews/3133090",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时46分"
-        },
-        {
           "title": "特朗普预告周五黄金时段讲话，或表明战争再次加速",
           "url": "https://flash.jin10.com/detail/20260714035411665800",
           "source": "金十数据",
@@ -115,7 +127,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
         },
@@ -134,7 +146,7 @@
     },
     {
       "keyword_group": "无人机 通航",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "据CNN：美国官员表示，美军打击目标为伊朗军事设施，包括海岸监视系统、无人机和导弹能力。",
@@ -143,7 +155,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
         },
@@ -171,13 +183,25 @@
           "time_info": "[04时51分 ~ 05时46分]"
         },
         {
+          "title": "【伊朗媒体称伊击落一架美军无人机】据伊朗法尔斯通讯社13日报道，一架美军MQ-1无人机当天深夜在霍尔木兹海峡上空被伊朗伊斯兰革命卫队防空系统击落。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3133091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时46分 ~ 06时46分]"
+        },
+        {
           "title": "据伊朗国家电视台：伊朗军方消息称，伊军已出动无人机打击位于科威特的美军军事设施和装备。伊朗用巡航导弹瞄准了一艘“敌对”的美国舰艇。",
           "url": "https://flash.jin10.com/detail/20260714044516590800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
         },
@@ -193,15 +217,15 @@
           "time_info": "03时14分"
         },
         {
-          "title": "【伊朗媒体称伊击落一架美军无人机】据伊朗法尔斯通讯社13日报道，一架美军MQ-1无人机当天深夜在霍尔木兹海峡上空被伊朗伊斯兰革命卫队防空系统击落。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3133091",
+          "title": "美国总统特朗普宣称：如果古巴拥有伊朗无人机，我们将小心应付。 调查古巴是否存储了伊朗无人机。",
+          "url": "https://wallstreetcn.com/livenews/3133108",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时46分"
+          "time_info": "06时46分"
         },
         {
           "title": "伊朗伊斯兰革命卫队称击落两架美制卢卡斯无人机",
@@ -221,7 +245,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
         }
@@ -239,19 +263,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 05时46分]"
-        },
-        {
-          "title": "布伦特原油突破80美元/桶，日内涨5.35%。",
-          "url": "https://flash.jin10.com/detail/20260714004757109800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 06时46分]"
         },
         {
           "title": "中国首个禁售燃油车省份为何是海南",
@@ -264,8 +277,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 05时46分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 06时46分]"
         },
         {
           "title": "“中国首个禁售燃油车省份”，为何是海南？",
@@ -273,11 +286,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 05时46分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 06时46分]"
         },
         {
           "title": "中国首个禁售燃油车省份确认",
@@ -288,8 +302,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 05时46分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 06时46分]"
         },
         {
           "title": "美的：2万台移动空调订单发运法国",
@@ -299,11 +313,23 @@
             23,
             22,
             16,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 05时46分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 06时46分]"
+        },
+        {
+          "title": "布伦特原油突破80美元/桶，日内涨5.35%。",
+          "url": "https://flash.jin10.com/detail/20260714004757109800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时09分"
         },
         {
           "title": "SK海力士ADR美国上市第二天收跌9.3%。",
@@ -341,8 +367,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 05时46分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 06时46分]"
         },
         {
           "title": "国务院批复《扩大消费“十五五”规划》",
@@ -352,8 +378,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 05时46分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 06时46分]"
         },
         {
           "title": "国务院印发《国民健康“十五五”规划》",
@@ -361,11 +387,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 05时46分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 06时46分]"
         },
         {
           "title": "国务院：让居民消费底气更足",
@@ -375,11 +402,12 @@
             18,
             17,
             15,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 05时46分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 06时46分]"
         },
         {
           "title": "美国务院宣布发起行动“削弱国际刑事法院运作能力”",
@@ -410,27 +438,29 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "周一（7月13日），美股存储芯片与硬件供应链指数跌6.96%，报213.87点。 美股超大规模云服务商（Hyperscalers）跌1.01%，报93.03点。 信息科技指数跌4.60%，报405.46点。 人工智能（AI）赢家指数跌4.36%，报402.62点。 AI软件先驱指数涨1.04%，报111.48点。 北美科技软件股指数ETF涨0.31%，Global X网络安全ETF涨0.69%，纳斯达克网络安全ETF跌0.04%，ETFMG网络安全ETF涨0.28%。 美国科技股七巨头（Magnificent 7）指数跌0.94%，报215.76点，整体持续走低。 “超大”市值科技股指数跌1.81%，报438.29点。",
-          "url": "https://wallstreetcn.com/livenews/3133099",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时46分"
-        },
-        {
           "title": "创业板跌超3%，科技齐跌，存储芯片重挫、兆易创新跌停，恒科指跌1%，半导体集体调整",
           "url": "https://wallstreetcn.com/articles/3776758",
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 05时46分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 06时46分]"
+        },
+        {
+          "title": "周一（7月13日），美股存储芯片与硬件供应链指数跌6.96%，报213.87点。 美股超大规模云服务商（Hyperscalers）跌1.01%，报93.03点。 信息科技指数跌4.60%，报405.46点。 人工智能（AI）赢家指数跌4.36%，报402.62点。 AI软件先驱指数涨1.04%，报111.48点。 北美科技软件股指数ETF涨0.31%，Global X网络安全ETF涨0.69%，纳斯达克网络安全ETF跌0.04%，ETFMG网络安全ETF涨0.28%。 美国科技股七巨头（Magnificent 7）指数跌0.94%，报215.76点，整体持续走低。 “超大”市值科技股指数跌1.81%，报438.29点。",
+          "url": "https://wallstreetcn.com/livenews/3133099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时46分 ~ 06时46分]"
         },
         {
           "title": "费城半导体指数跌4.6%，存储芯片指数跌6.8%。 标普500指数初步收 跌0.7%，科技板块跌1.9%，电信板块跌1%，能源板块涨3.1%。 纳斯达克100指数初步收跌1.8%，成分股中，Applovin、闪迪初步收跌12.9%，Astera Labs跌12.4%，Arm控股跌7.6%，CoreWeave跌6.6%，英特尔跌5.9%，希捷科技跌5.6%，Diamondback Energy涨4.5%，汤森路透涨5.1%，财季Intuit涨5.4%。",
@@ -506,11 +536,12 @@
           "url": "https://www.zhihu.com/question/2058578162674397208",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时51分 ~ 05时46分]"
+          "appearance_count": 3,
+          "time_info": "[04时51分 ~ 06时46分]"
         }
       ]
     },
@@ -526,11 +557,12 @@
             18,
             15,
             16,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 05时46分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 06时46分]"
         },
         {
           "title": "深度解析中国第一枚回收火箭",
