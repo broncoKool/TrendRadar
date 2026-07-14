@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T21:12:21.412165+08:00",
-  "total_titles_processed": 1580,
+  "generated_at": "2026-07-14T23:19:09.867453+08:00",
+  "total_titles_processed": 1727,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时44分 ~ 21时12分]"
+          "appearance_count": 11,
+          "time_info": "[07时44分 ~ 23时19分]"
         },
         {
           "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
@@ -30,6 +31,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时09分 ~ 04时51分]"
+        },
+        {
+          "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
+          "url": "https://wallstreetcn.com/articles/3776831",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时06分 ~ 23时19分]"
         },
         {
           "title": "地缘风暴叠加鹰派双杀，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金暴跌",
@@ -71,7 +86,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         },
@@ -85,19 +100,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
-        },
-        {
-          "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
-          "url": "https://wallstreetcn.com/articles/3776831",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时06分 ~ 21时12分]"
         },
         {
           "title": "国际铜夜盘收涨0.27%，沪铜收涨0.40%，沪铝收涨0.33%，沪锌收跌0.60%，沪铅收跌0.66%，沪镍收涨0.46%，沪锡收跌1.27%。 氧化铝夜盘收涨0.15%，铝合金收跌0.22%。 不锈钢夜盘收涨1.85%。",
@@ -208,7 +210,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         },
@@ -359,7 +361,7 @@
     },
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "“中国首个禁售燃油车省份”，为何是海南？",
@@ -433,6 +435,19 @@
           "time_info": "[01时09分 ~ 07时44分]"
         },
         {
+          "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
+          "url": "https://wallstreetcn.com/articles/3776903",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时19分 ~ 23时19分]"
+        },
+        {
           "title": "荣耀与阿里将宣布重要合作",
           "url": "https://flash.jin10.com/detail/20260714123301587800",
           "source": "金十数据",
@@ -477,19 +492,6 @@
           "time_info": "09时29分"
         },
         {
-          "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
-          "url": "https://wallstreetcn.com/articles/3776903",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时19分 ~ 21时12分]"
-        },
-        {
           "title": "周星驰新片《功夫女足》上映3天票房破6亿，多家上市影企回应参投情况",
           "url": "https://m.thepaper.cn/newsDetail_forward_33577524",
           "source": "澎湃新闻",
@@ -524,6 +526,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时44分 ~ 09时29分]"
+        },
+        {
+          "title": "证券业首个判例，保代以“国家工作人员”身份加重获刑10年，多位律师解读",
+          "url": "https://www.cls.cn/detail/2426429",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时18分 ~ 23时19分]"
+        },
+        {
+          "title": "据港交所文件：济南建邦金属材料股份有限公司向港交所提交上市申请书。",
+          "url": "https://flash.jin10.com/detail/20260714224854686800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "上市公司分红回购增持三箭齐发协同加力",
@@ -601,6 +625,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
+        },
+        {
+          "title": "泽连斯基称与法国就防空系统及战机采购等达成合作协议",
+          "url": "https://wallstreetcn.com/livenews/3133715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "据港交所文件：深圳市威兆半导体股份有限公司向港交所提交上市申请书。",
+          "url": "https://flash.jin10.com/detail/20260714223836638800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "冉莹颖邹市明被曝签约MCN机构",
@@ -728,7 +774,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         },
@@ -877,7 +923,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         },
@@ -888,9 +934,108 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "HBM DDR5 存储芯片",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美国通胀降温，美股盘初涨跌互现，存储芯片股大涨，IBM跌26%，原油涨3%，黄金涨2%",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时18分 ~ 23时19分]"
+        },
+        {
+          "title": "创业板跌超3%，科技齐跌，存储芯片重挫、兆易创新跌停，恒科指跌1%，半导体集体调整",
+          "url": "https://wallstreetcn.com/articles/3776758",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 06时46分]"
+        },
+        {
+          "title": "静待沃什证词和CPI，美股盘前存储芯片股普涨，IBM跌17%，原油涨近5%，黄金小幅上扬",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
+          "title": "AI恐慌缓和，美股盘前存储芯片股普涨，韩股深V反弹，原油上涨，黄金小幅上扬",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 19时19分]"
+        },
+        {
+          "title": "7月14日投资避雷针：10天9板人气股澄清 拟收购标的无生产存储芯片能力",
+          "url": "https://www.cls.cn/detail/2425268",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 15时06分]"
+        },
+        {
+          "title": "周一（7月13日），美股存储芯片与硬件供应链指数跌6.96%，报213.87点。 美股超大规模云服务商（Hyperscalers）跌1.01%，报93.03点。 信息科技指数跌4.60%，报405.46点。 人工智能（AI）赢家指数跌4.36%，报402.62点。 AI软件先驱指数涨1.04%，报111.48点。 北美科技软件股指数ETF涨0.31%，Global X网络安全ETF涨0.69%，纳斯达克网络安全ETF跌0.04%，ETFMG网络安全ETF涨0.28%。 美国科技股七巨头（Magnificent 7）指数跌0.94%，报215.76点，整体持续走低。 “超大”市值科技股指数跌1.81%，报438.29点。",
+          "url": "https://wallstreetcn.com/livenews/3133099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时46分 ~ 06时46分]"
+        },
+        {
+          "title": "费城半导体指数跌4.6%，存储芯片指数跌6.8%。 标普500指数初步收 跌0.7%，科技板块跌1.9%，电信板块跌1%，能源板块涨3.1%。 纳斯达克100指数初步收跌1.8%，成分股中，Applovin、闪迪初步收跌12.9%，Astera Labs跌12.4%，Arm控股跌7.6%，CoreWeave跌6.6%，英特尔跌5.9%，希捷科技跌5.6%，Diamondback Energy涨4.5%，汤森路透涨5.1%，财季Intuit涨5.4%。",
+          "url": "https://wallstreetcn.com/livenews/3133067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "纳斯达克100指数指数跌幅扩大至2%，刷新日低，闪迪跌13.7%，Astera Labs跌13.2%，英特尔跌7.2%，CoreWeave跌6.2%。半导体指数跌5.2%，存储芯片指数维持7.8%的跌幅。标普500指数跌0.8%，纳指跌1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3133053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时51分"
         }
       ]
     },
@@ -997,94 +1142,6 @@
       ]
     },
     {
-      "keyword_group": "HBM DDR5 存储芯片",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "创业板跌超3%，科技齐跌，存储芯片重挫、兆易创新跌停，恒科指跌1%，半导体集体调整",
-          "url": "https://wallstreetcn.com/articles/3776758",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 06时46分]"
-        },
-        {
-          "title": "静待沃什证词和CPI，美股盘前存储芯片股普涨，IBM跌17%，原油涨近5%，黄金小幅上扬",
-          "url": "https://wallstreetcn.com/articles/3776859",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "AI恐慌缓和，美股盘前存储芯片股普涨，韩股深V反弹，原油上涨，黄金小幅上扬",
-          "url": "https://wallstreetcn.com/articles/3776859",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 19时19分]"
-        },
-        {
-          "title": "7月14日投资避雷针：10天9板人气股澄清 拟收购标的无生产存储芯片能力",
-          "url": "https://www.cls.cn/detail/2425268",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 15时06分]"
-        },
-        {
-          "title": "周一（7月13日），美股存储芯片与硬件供应链指数跌6.96%，报213.87点。 美股超大规模云服务商（Hyperscalers）跌1.01%，报93.03点。 信息科技指数跌4.60%，报405.46点。 人工智能（AI）赢家指数跌4.36%，报402.62点。 AI软件先驱指数涨1.04%，报111.48点。 北美科技软件股指数ETF涨0.31%，Global X网络安全ETF涨0.69%，纳斯达克网络安全ETF跌0.04%，ETFMG网络安全ETF涨0.28%。 美国科技股七巨头（Magnificent 7）指数跌0.94%，报215.76点，整体持续走低。 “超大”市值科技股指数跌1.81%，报438.29点。",
-          "url": "https://wallstreetcn.com/livenews/3133099",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时46分 ~ 06时46分]"
-        },
-        {
-          "title": "费城半导体指数跌4.6%，存储芯片指数跌6.8%。 标普500指数初步收 跌0.7%，科技板块跌1.9%，电信板块跌1%，能源板块涨3.1%。 纳斯达克100指数初步收跌1.8%，成分股中，Applovin、闪迪初步收跌12.9%，Astera Labs跌12.4%，Arm控股跌7.6%，CoreWeave跌6.6%，英特尔跌5.9%，希捷科技跌5.6%，Diamondback Energy涨4.5%，汤森路透涨5.1%，财季Intuit涨5.4%。",
-          "url": "https://wallstreetcn.com/livenews/3133067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "纳斯达克100指数指数跌幅扩大至2%，刷新日低，闪迪跌13.7%，Astera Labs跌13.2%，英特尔跌7.2%，CoreWeave跌6.2%。半导体指数跌5.2%，存储芯片指数维持7.8%的跌幅。标普500指数跌0.8%，纳指跌1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3133053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        }
-      ]
-    },
-    {
       "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
       "match_count": 5,
       "titles": [
@@ -1105,11 +1162,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时19分 ~ 21时12分]"
+          "appearance_count": 5,
+          "time_info": "[19时19分 ~ 23时19分]"
         },
         {
           "title": "美国光伏巨头进军“卖算力”赛道 CEO声称用户每月能挣数百美元",
@@ -1147,6 +1205,73 @@
       ]
     },
     {
+      "keyword_group": "苹果 Apple iPhone",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "苹果开始测试中国企业长鑫存储内存芯片，背后有哪些战略考量？此举将带来哪些产业影响？",
+          "url": "https://www.zhihu.com/question/2058578162674397208",
+          "source": "知乎",
+          "ranks": [
+            19,
+            16,
+            12,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时51分 ~ 12时43分]"
+        },
+        {
+          "title": "曝苹果20系列回归玻璃机身",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E8%8B%B9%E6%9E%9C20%E7%B3%BB%E5%88%97%E5%9B%9E%E5%BD%92%E7%8E%BB%E7%92%83%E6%9C%BA%E8%BA%AB",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时51分]"
+        },
+        {
+          "title": "怎么看待那些背着一千多的寇驰包，拿着 iPhone，但是全身上下衣服却不超几十块钱的人？",
+          "url": "https://www.zhihu.com/question/9783691829",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时18分 ~ 23时19分]"
+        },
+        {
+          "title": "苹果(AAPL.O)盘前下跌1.1%，KeyBanc将其评级从行业权重下调至减配评级。",
+          "url": "https://flash.jin10.com/detail/20260714210748766800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
+          "title": "Omdia：二季度全球智能手机市场下滑4% 苹果与三星逆势增长",
+          "url": "https://wallstreetcn.com/livenews/3133305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "商业航天 火箭 卫星互联网 北斗",
       "match_count": 5,
       "titles": [
@@ -1164,11 +1289,12 @@
             19,
             23,
             22,
-            12
+            12,
+            24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时09分 ~ 21时12分]"
+          "appearance_count": 15,
+          "time_info": "[01时09分 ~ 23时19分]"
         },
         {
           "title": "新型材料助力火箭回收",
@@ -1282,62 +1408,6 @@
       ]
     },
     {
-      "keyword_group": "苹果 Apple iPhone",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "苹果开始测试中国企业长鑫存储内存芯片，背后有哪些战略考量？此举将带来哪些产业影响？",
-          "url": "https://www.zhihu.com/question/2058578162674397208",
-          "source": "知乎",
-          "ranks": [
-            19,
-            16,
-            12,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时51分 ~ 12时43分]"
-        },
-        {
-          "title": "曝苹果20系列回归玻璃机身",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E8%8B%B9%E6%9E%9C20%E7%B3%BB%E5%88%97%E5%9B%9E%E5%BD%92%E7%8E%BB%E7%92%83%E6%9C%BA%E8%BA%AB",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时09分 ~ 04时51分]"
-        },
-        {
-          "title": "苹果(AAPL.O)盘前下跌1.1%，KeyBanc将其评级从行业权重下调至减配评级。",
-          "url": "https://flash.jin10.com/detail/20260714210748766800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "Omdia：二季度全球智能手机市场下滑4% 苹果与三星逆势增长",
-          "url": "https://wallstreetcn.com/livenews/3133305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时43分"
-        }
-      ]
-    },
-    {
       "keyword_group": "光模块 CPO 800G 1.6T AEC DAC 高速铜缆",
       "match_count": 3,
       "titles": [
@@ -1350,8 +1420,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时48分 ~ 21时12分]"
+          "appearance_count": 6,
+          "time_info": "[17时48分 ~ 23时19分]"
         },
         {
           "title": "【剑桥科技：预计2026年上半年净利润同比增长156.65%至197.18%】剑桥科技公告，预计2026年半年度实现归属于上市公司股东的净利润为3.1亿元至3.59亿元，与上年同期相比，将增加1.89亿元至2.38亿元，同比增加156.65%至197.18%。本期业绩增长主要系高速光模块业务显著增长，该业务的市场需求旺盛带动订单大幅增加，公司发货及时支撑发货金额同比大幅增长，同时产品结构切换推动销售毛利率显著提升。",
@@ -1399,7 +1469,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         },
@@ -1429,19 +1499,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时48分 ~ 21时12分]"
+          "appearance_count": 6,
+          "time_info": "[17时48分 ~ 23时19分]"
         },
         {
           "title": "24小时制能否成为酒店业服务新方向？我们找消费者和从业者聊了聊",
           "url": "https://m.thepaper.cn/newsDetail_forward_33581628",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时11分 ~ 21时12分]"
+          "appearance_count": 4,
+          "time_info": "[21时11分 ~ 23时19分]"
         },
         {
           "title": "高考生谎称旅游实则赴广西救灾",
@@ -1453,6 +1524,62 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时42分 ~ 12时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "光刻机 EDA 先进封装 CoWoS Chiplet 晶圆",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "韩国拟放宽法律 助力SK海力士引入外资建设晶圆厂",
+          "url": "https://flash.jin10.com/detail/20260714121142995800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
+          "title": "Tower Semiconductor一度涨超19%，此前公司宣布在日本政府支持下，将在日本同步推进两条战略扩产路径，扩大其300mm硅光子（SiPho）、硅锗（SiGe）及先进封装产能。",
+          "url": "https://wallstreetcn.com/livenews/3133704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "储能 新型储能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美联储主席沃什：30年期抵押贷款利率偏高，在一定程度上系美国通胀所致。 对于抵押贷款利率，美联储能做的就是实现价格稳定性。",
+          "url": "https://wallstreetcn.com/livenews/3133727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "【赣锋锂业：预计上半年净利润为36.5亿元–46亿元，同比扭亏为盈】赣锋锂业公告，预计2026年上半年净利润为36.5亿元–46亿元，上年同期亏损5.31亿元。报告期内，受益于全球新能源产业快速发展，下游客户对锂盐的需求增长，公司锂盐产品的销售价格较上年同期显著上涨；同时，随着锂资源项目的产能逐步释放，公司成本结构有效优化。叠加储能市场需求持续增长，锂电池板块产销量明显提升，共同推动公司经营业绩同比增长。",
+          "url": "https://wallstreetcn.com/livenews/3133476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时48分"
         }
       ]
     },
@@ -1515,19 +1642,30 @@
       ]
     },
     {
-      "keyword_group": "光刻机 EDA 先进封装 CoWoS Chiplet 晶圆",
-      "match_count": 1,
+      "keyword_group": "创新药 ADC CAR-T GLP-1",
+      "match_count": 2,
       "titles": [
         {
-          "title": "韩国拟放宽法律 助力SK海力士引入外资建设晶圆厂",
-          "url": "https://flash.jin10.com/detail/20260714121142995800",
-          "source": "金十数据",
+          "title": "国产创新药BD为何还能“疯狂”",
+          "url": "https://www.toutiao.com/trending/7662371740206501403/",
+          "source": "今日头条",
           "ranks": [
-            18
+            26
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时18分 ~ 23时19分]"
+        },
+        {
+          "title": "全球首款实体瘤CAR-T细胞治疗走向临床，上海多家医院开展患者治疗",
+          "url": "https://wallstreetcn.com/livenews/3133721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时43分"
+          "time_info": "23时19分"
         }
       ]
     },
@@ -1549,19 +1687,19 @@
       ]
     },
     {
-      "keyword_group": "储能 新型储能",
+      "keyword_group": "人形机器人 机器人 具身智能 灵巧手",
       "match_count": 1,
       "titles": [
         {
-          "title": "【赣锋锂业：预计上半年净利润为36.5亿元–46亿元，同比扭亏为盈】赣锋锂业公告，预计2026年上半年净利润为36.5亿元–46亿元，上年同期亏损5.31亿元。报告期内，受益于全球新能源产业快速发展，下游客户对锂盐的需求增长，公司锂盐产品的销售价格较上年同期显著上涨；同时，随着锂资源项目的产能逐步释放，公司成本结构有效优化。叠加储能市场需求持续增长，锂电池板块产销量明显提升，共同推动公司经营业绩同比增长。",
-          "url": "https://wallstreetcn.com/livenews/3133476",
-          "source": "华尔街见闻-快讯",
+          "title": "小米机器人打螺丝成功率98%",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%93%E8%9E%BA%E4%B8%9D%E6%88%90%E5%8A%9F%E7%8E%8798%25",
+          "source": "百度热搜",
           "ranks": [
-            28
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时48分"
+          "appearance_count": 2,
+          "time_info": "[23时18分 ~ 23时19分]"
         }
       ]
     },
