@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T06:49:20.924407+08:00",
-  "total_titles_processed": 642,
+  "generated_at": "2026-07-15T07:43:51.204385+08:00",
+  "total_titles_processed": 713,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
@@ -29,8 +29,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 05时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 07时43分]"
         },
         {
           "title": "LME期铜收涨102美元，报13643美元/吨。 LME期铝收涨8美元，报3177美元/吨。 LME期锌收涨32美元，报3598美元/吨。 LME期铅收跌2美元，报1866美元/吨。 LME期镍收跌1美元，报16765美元/吨。 LME期锡收涨1215美元，报53813美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -48,11 +48,12 @@
           "url": "https://wallstreetcn.com/livenews/3133912",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时49分 ~ 07时43分]"
         },
         {
           "title": "美股大类资产类ETF多数收涨，布油基金涨2.8%，与新兴市场ETF、黄金ETF领跑",
@@ -78,6 +79,17 @@
           "time_info": "[01时04分 ~ 01时05分]"
         },
         {
+          "title": "景气度攀升，覆铜板领涨产业链，PCB行业盈利能力大增",
+          "url": "https://wallstreetcn.com/livenews/3133918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 7月14日（周二）晚盘收盘上涨0.95%报885.59元/克；<br/>上海黄金交易所白银T+D 7月14日（周二）晚盘收盘上涨2.45%报14405.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260715023122397800",
           "source": "金十数据",
@@ -87,6 +99,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加1.998吨，当前持仓量为1004.447吨。",
+          "url": "https://flash.jin10.com/detail/20260715064507935800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "国际铜夜盘收涨0.63%，沪铜收涨0.56%，沪铝收跌0.19%，沪锌收涨0.49%，沪铅收跌1.45%，沪镍收跌0.21%，沪锡收跌1.45%。 氧化铝夜盘收涨1.08%，铝合金收跌0.11%。 不锈钢夜盘收涨0.10%。",
@@ -103,7 +126,7 @@
     },
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
@@ -112,11 +135,12 @@
           "ranks": [
             6,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 06时49分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 07时43分]"
         },
         {
           "title": "证券业首个判例，保代以“国家工作人员”身份加重获刑10年，多位律师解读",
@@ -124,11 +148,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 06时49分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 07时43分]"
         },
         {
           "title": "法国vs西班牙首发",
@@ -176,6 +201,28 @@
           "time_info": "[04时52分 ~ 04时53分]"
         },
         {
+          "title": "刚果（金）埃博拉确诊病例突破2000例，疫情蔓延至上韦莱省",
+          "url": "https://wallstreetcn.com/livenews/3133923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "主营产品量价齐升，上市矿企上半年业绩扎堆大增",
+          "url": "https://wallstreetcn.com/livenews/3133919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
           "title": "美国至7月10日当周API投产原油量 5.6万桶/日，前值3.4万桶/日。",
           "url": "https://flash.jin10.com/detail/20260715043826685800",
           "source": "金十数据",
@@ -201,7 +248,7 @@
     },
     {
       "keyword_group": "无人机 通航",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "伊朗革命卫队：在“承诺2号行动”第三轮打击中，向巴林谢赫·伊萨基地和科威特阿里·萨利姆基地发动导弹及无人机袭击，目标包括弹药设施、舰机零部件仓库及MQ-9无人机设施。",
@@ -213,6 +260,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "美国中央司令部司令库珀上将：伊朗部队还向周边海湾国家发射了数十枚导弹和无人机。",
+          "url": "https://flash.jin10.com/detail/20260715065922175800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "伊朗向科威特目标、巴林目标发射导弹和无人机。（伊朗媒体MEHR）",
@@ -232,7 +290,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时49分"
         },
@@ -243,7 +301,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时49分"
         },
@@ -286,8 +344,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 06时49分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 07时43分]"
         },
         {
           "title": "OpenAI开始涉足苹果“舒适区”，拟推首款AI硬件",
@@ -332,6 +390,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国务院 发改委 工信部 财政部 证监会",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美国财长贝森特：美国财政部外国资产控制办公室制裁了多个与伊朗央行关联的钱包，超过1.3亿美元资金被冻结。",
+          "url": "https://flash.jin10.com/detail/20260715064945051800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "美国国务院官员：美国预计，美国企业将在推进伊拉克—叙利亚原油管道重建工作中发挥重要作用。",
+          "url": "https://flash.jin10.com/detail/20260715043914073800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
+          "title": "美国财政部发布涉及伊朗的通用许可证，同时更新制裁名单，新增10名个人、20余家企业及多艘船舶，并更新伊朗央行制裁信息。",
+          "url": "https://flash.jin10.com/detail/20260715035554444800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "美国国务院官员：在罗马举行的以黎会谈富有成效，将于周三继续进行。",
+          "url": "https://flash.jin10.com/detail/20260715020031170800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "英国财政部：如果美国与伊朗的战争进一步加剧，油价可能会达到150美元/桶。 预计英国央行将在2026年加息至少一次。 预计四季度通胀为3.2%。",
+          "url": "https://wallstreetcn.com/livenews/3133776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
         }
       ]
     },
@@ -387,52 +506,80 @@
       ]
     },
     {
-      "keyword_group": "国务院 发改委 工信部 财政部 证监会",
-      "match_count": 4,
+      "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
+      "match_count": 3,
       "titles": [
         {
-          "title": "美国国务院官员：美国预计，美国企业将在推进伊拉克—叙利亚原油管道重建工作中发挥重要作用。",
-          "url": "https://flash.jin10.com/detail/20260715043914073800",
-          "source": "金十数据",
+          "title": "DeepSeek估值或达4814亿",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BC%B0%E5%80%BC%E6%88%96%E8%BE%BE4814%E4%BA%BF",
+          "source": "bilibili 热搜",
           "ranks": [
-            18
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时49分"
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 01时05分]"
         },
         {
-          "title": "美国财政部发布涉及伊朗的通用许可证，同时更新制裁名单，新增10名个人、20余家企业及多艘船舶，并更新伊朗央行制裁信息。",
-          "url": "https://flash.jin10.com/detail/20260715035554444800",
+          "title": "媒体：“悄然转向”，印度企业青睐中国AI大模型",
+          "url": "https://wallstreetcn.com/livenews/3133917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "印媒：“悄然转向”，印度企业青睐中国AI大模型",
+          "url": "https://flash.jin10.com/detail/20260715064114258800",
           "source": "金十数据",
           "ranks": [
-            19
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "网络安全 数据安全 密码",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "白宫启动网络安全“金鹰”AI倡议，优先应对网络安全漏洞",
+          "url": "https://wallstreetcn.com/livenews/3133922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "白宫启动网络安全“金鹰”AI倡议",
+          "url": "https://flash.jin10.com/detail/20260715065824346800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "美国白宫：美国将成立人工智能与网络安全协调工作组。",
+          "url": "https://flash.jin10.com/detail/20260715040451730800",
+          "source": "金十数据",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
-        },
-        {
-          "title": "美国国务院官员：在罗马举行的以黎会谈富有成效，将于周三继续进行。",
-          "url": "https://flash.jin10.com/detail/20260715020031170800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
-        },
-        {
-          "title": "英国财政部：如果美国与伊朗的战争进一步加剧，油价可能会达到150美元/桶。 预计英国央行将在2026年加息至少一次。 预计四季度通胀为3.2%。",
-          "url": "https://wallstreetcn.com/livenews/3133776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
         }
       ]
     },
@@ -446,11 +593,12 @@
           "source": "抖音",
           "ranks": [
             8,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 06时49分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 07时43分]"
         },
         {
           "title": "24小时制能否成为酒店业服务新方向？我们找消费者和从业者聊了聊",
@@ -461,25 +609,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 06时49分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek估值或达4814亿",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BC%B0%E5%80%BC%E6%88%96%E8%BE%BE4814%E4%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 07时43分]"
         }
       ]
     },
@@ -492,11 +623,12 @@
           "url": "https://wallstreetcn.com/articles/3776895",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时49分 ~ 07时43分]"
         }
       ]
     },
@@ -529,11 +661,29 @@
             15,
             17,
             26,
-            27
+            27,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 05时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 07时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Robotaxi 无人驾驶 自动驾驶 智能驾驶 NOA",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "高架现无人驾驶摩托车狂奔",
+          "url": "https://www.toutiao.com/trending/7662369289051635754/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         }
       ]
     },
@@ -569,25 +719,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时49分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "网络安全 数据安全 密码",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国白宫：美国将成立人工智能与网络安全协调工作组。",
-          "url": "https://flash.jin10.com/detail/20260715040451730800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 07时43分]"
         }
       ]
     },
@@ -600,11 +733,12 @@
           "url": "https://wallstreetcn.com/livenews/3133910",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时49分 ~ 07时43分]"
         }
       ]
     },
