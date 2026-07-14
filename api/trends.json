@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T07:44:55.150987+08:00",
-  "total_titles_processed": 640,
+  "generated_at": "2026-07-14T09:29:59.435693+08:00",
+  "total_titles_processed": 788,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时09分 ~ 04时51分]"
+        },
+        {
+          "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时44分 ~ 09时29分]"
         },
         {
           "title": "地缘风暴叠加鹰派双杀，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金暴跌",
@@ -39,17 +50,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
-        },
-        {
-          "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
-          "url": "https://wallstreetcn.com/articles/3776754",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时44分"
         },
         {
           "title": "国际铜夜盘收涨0.27%，沪铜收涨0.40%，沪铝收涨0.33%，沪锌收跌0.60%，沪铅收跌0.66%，沪镍收涨0.46%，沪锡收跌1.27%。 氧化铝夜盘收涨0.15%，铝合金收跌0.22%。 不锈钢夜盘收涨1.85%。",
@@ -110,6 +110,17 @@
           "time_info": "03时14分"
         },
         {
+          "title": "上海黄金交易所黄金T+D 7月14日（周二）早盘盘初下跌1.68%报873.3元/克；<br/>上海黄金交易所白银T+D 7月14日（周二）早盘盘初下跌1.7%报13974.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260714090103554800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
           "title": "现货黄金失守4000美元关口",
           "url": "https://flash.jin10.com/detail/20260714003431301800",
           "source": "金十数据",
@@ -127,7 +138,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -171,7 +182,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         }
@@ -179,18 +190,33 @@
     },
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "量化又背调整的锅？上市公司投关总监公开怼量化",
           "url": "https://www.cls.cn/detail/2424901",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 07时44分]"
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 09时29分]"
+        },
+        {
+          "title": "“中国首个禁售燃油车省份”，为何是海南？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33575406",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 09时29分]"
         },
         {
           "title": "中国首个禁售燃油车省份为何是海南",
@@ -200,24 +226,12 @@
             10,
             18,
             16,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 07时44分]"
-        },
-        {
-          "title": "“中国首个禁售燃油车省份”，为何是海南？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33575406",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 07时44分]"
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 09时29分]"
         },
         {
           "title": "中国首个禁售燃油车省份确认",
@@ -228,8 +242,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 07时44分]"
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 09时29分]"
         },
         {
           "title": "美的：2万台移动空调订单发运法国",
@@ -259,15 +273,27 @@
           "time_info": "01时09分"
         },
         {
+          "title": "伊朗伊斯兰革命卫队：两艘“违规超级油轮”在霍尔木兹海峡遭到袭击并失去动力。 油轮无视警告、关闭导航系统并试图强行通过“布雷航线”。 在霍尔木兹海峡与“侵略者敌人”合作将推迟该航道的重新开放，并引发全球能源危机。",
+          "url": "https://wallstreetcn.com/livenews/3133180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
           "title": "中国自研AI芯片取得架构突破",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%87%AA%E7%A0%94AI%E8%8A%AF%E7%89%87%E5%8F%96%E5%BE%97%E6%9E%B6%E6%9E%84%E7%AA%81%E7%A0%B4%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
-            10
+            10,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时44分 ~ 09时29分]"
         },
         {
           "title": "上市公司分红回购增持三箭齐发协同加力",
@@ -276,7 +302,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -301,6 +327,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "科技日报：NSF涉华实体禁令严重损害中美科技合作",
+          "url": "https://flash.jin10.com/detail/20260714085444598800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "冉莹颖邹市明被曝签约MCN机构",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%86%89%E8%8E%B9%E9%A2%96%E9%82%B9%E5%B8%82%E6%98%8E%E8%A2%AB%E6%9B%9D%E7%AD%BE%E7%BA%A6MCN%E6%9C%BA%E6%9E%84%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
         }
       ]
     },
@@ -417,17 +465,6 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "国务院：逐步提高城乡居民基础养老金",
-          "url": "https://www.toutiao.com/trending/7661381816020090943/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 07时44分]"
-        },
-        {
           "title": "国务院批复《扩大消费“十五五”规划》",
           "url": "https://www.cls.cn/detail/2424650",
           "source": "财联社热门",
@@ -437,6 +474,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时09分 ~ 06时46分]"
+        },
+        {
+          "title": "国务院：逐步提高城乡居民基础养老金",
+          "url": "https://www.toutiao.com/trending/7661381816020090943/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 09时29分]"
         },
         {
           "title": "国务院：让居民消费底气更足",
@@ -493,7 +542,7 @@
     },
     {
       "keyword_group": "HBM DDR5 存储芯片",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "创业板跌超3%，科技齐跌，存储芯片重挫、兆易创新跌停，恒科指跌1%，半导体集体调整",
@@ -521,6 +570,17 @@
           "time_info": "[05时46分 ~ 06时46分]"
         },
         {
+          "title": "7月14日投资避雷针：10天9板人气股澄清 拟收购标的无生产存储芯片能力",
+          "url": "https://www.cls.cn/detail/2425268",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
           "title": "费城半导体指数跌4.6%，存储芯片指数跌6.8%。 标普500指数初步收 跌0.7%，科技板块跌1.9%，电信板块跌1%，能源板块涨3.1%。 纳斯达克100指数初步收跌1.8%，成分股中，Applovin、闪迪初步收跌12.9%，Astera Labs跌12.4%，Arm控股跌7.6%，CoreWeave跌6.6%，英特尔跌5.9%，希捷科技跌5.6%，Diamondback Energy涨4.5%，汤森路透涨5.1%，财季Intuit涨5.4%。",
           "url": "https://wallstreetcn.com/livenews/3133067",
           "source": "华尔街见闻-快讯",
@@ -541,6 +601,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 火箭 卫星互联网 北斗",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "日本宣布可回收火箭试飞成功",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%AE%A3%E5%B8%83%E5%8F%AF%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD%E8%AF%95%E9%A3%9E%E6%88%90%E5%8A%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            15,
+            16,
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 06时46分]"
+        },
+        {
+          "title": "新型材料助力火箭回收",
+          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E5%9E%8B%E6%9D%90%E6%96%99%E5%8A%A9%E5%8A%9B%E7%81%AB%E7%AE%AD%E5%9B%9E%E6%94%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "深度解析中国第一枚回收火箭",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E6%9E%9A%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 04时51分]"
+        },
+        {
+          "title": "“刷不出火箭”，欧洲在太空竞赛中正落后主要竞争对手",
+          "url": "https://news.ifeng.com/c/8ujd5z8DwqS",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
         }
       ]
     },
@@ -583,11 +698,12 @@
           "ranks": [
             19,
             16,
-            12
+            12,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时51分 ~ 07时44分]"
+          "appearance_count": 5,
+          "time_info": "[04时51分 ~ 09时29分]"
         },
         {
           "title": "曝苹果20系列回归玻璃机身",
@@ -600,39 +716,6 @@
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时09分 ~ 04时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 火箭 卫星互联网 北斗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "日本宣布可回收火箭试飞成功",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%AE%A3%E5%B8%83%E5%8F%AF%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD%E8%AF%95%E9%A3%9E%E6%88%90%E5%8A%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            15,
-            16,
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 06时46分]"
-        },
-        {
-          "title": "深度解析中国第一枚回收火箭",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E6%9E%9A%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
           "time_info": "[01时09分 ~ 04时51分]"
         }
       ]
@@ -662,6 +745,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "碳化硅 氮化镓 IGBT MOSFET",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "露笑科技：公司重点推进8英寸和12英寸碳化硅衬底片业务",
+          "url": "https://flash.jin10.com/detail/20260714090852851800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
         }
       ]
     }
