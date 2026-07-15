@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T12:43:04.068769+08:00",
-  "total_titles_processed": 1053,
+  "generated_at": "2026-07-15T15:08:37.210174+08:00",
+  "total_titles_processed": 1205,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
@@ -50,7 +50,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
@@ -88,6 +88,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时04分 ~ 01时05分]"
+        },
+        {
+          "title": "商品期货收盘，LU燃油主力合约涨超6%，燃料油涨超5%，BR橡胶、集运欧线、乙二醇涨超4%，钯、原油、丙烯、苯乙烯涨超3%。多晶硅、碳酸锂跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3134155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         },
         {
           "title": "景气度攀升，覆铜板领涨产业链，PCB行业盈利能力大增",
@@ -129,7 +140,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
@@ -165,12 +176,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "原来入伏才是祛湿黄金期",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%85%A5%E4%BC%8F%E6%89%8D%E6%98%AF%E7%A5%9B%E6%B9%BF%E9%BB%84%E9%87%91%E6%9C%9F%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         }
       ]
     },
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
@@ -183,8 +205,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时04分 ~ 12时43分]"
+          "appearance_count": 13,
+          "time_info": "[01时04分 ~ 15时08分]"
         },
         {
           "title": "证券业首个判例，保代以“国家工作人员”身份加重获刑10年，多位律师解读",
@@ -279,6 +301,17 @@
           "time_info": "07时43分"
         },
         {
+          "title": "韩媒：三星秘密研究赴美上市可行性 公司此前否认相关计划",
+          "url": "https://flash.jin10.com/detail/20260715144128279800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
           "title": "美国至7月10日当周API投产原油量 5.6万桶/日，前值3.4万桶/日。",
           "url": "https://flash.jin10.com/detail/20260715043826685800",
           "source": "金十数据",
@@ -312,13 +345,24 @@
           "time_info": "09时26分"
         },
         {
+          "title": "远景动力百GWh宜昌基地投产，790Ah电芯超50%产能被锁定",
+          "url": "https://wallstreetcn.com/livenews/3134135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
           "title": "高盛谈原油：如果海湾地区出口复苏持续停滞并导致产量反弹延迟，布伦特原油价格在2026年第四季度可能会突破110美元/桶。 如果产量超出预期，且在高零售燃料价格的背景下需求复苏更加缓慢，到今年年底布伦特原油价格可能潜在下跌至60多美元。",
           "url": "https://wallstreetcn.com/livenews/3134056",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
@@ -441,80 +485,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "DeepSeek估值或达4814亿",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BC%B0%E5%80%BC%E6%88%96%E8%BE%BE4814%E4%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
-        },
-        {
-          "title": "曝DeepSeek计划明年上市",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9DDeepSeek%E8%AE%A1%E5%88%92%E6%98%8E%E5%B9%B4%E4%B8%8A%E5%B8%82",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 12时43分]"
-        },
-        {
-          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
-          "url": "https://www.zhihu.com/question/2060645375338180828",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 12时43分]"
-        },
-        {
-          "title": "媒体：“悄然转向”，印度企业青睐中国AI大模型",
-          "url": "https://wallstreetcn.com/livenews/3133917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时43分"
-        },
-        {
-          "title": "印媒：“悄然转向”，印度企业青睐中国AI大模型",
-          "url": "https://flash.jin10.com/detail/20260715064114258800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时43分"
-        },
-        {
-          "title": "恒生科技指数盘中一度涨2%，MINIMAX涨超12%，智谱涨近10%，美团涨超6%，腾讯涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3134066",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
-        }
-      ]
-    },
-    {
       "keyword_group": "国务院 发改委 工信部 财政部 证监会",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "中国财政部发行91天期债券，规模350亿元，发行利率0.8924%，预期0.8300%，投标倍数2.81倍，边际倍数1.25倍； 中国财政部发行30年期债券，规模800亿元，发行利率2.2529%，预期2.2500%，投标倍数6.66倍，边际倍数2.50倍。",
@@ -523,7 +495,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
@@ -572,6 +544,17 @@
           "time_info": "03时04分"
         },
         {
+          "title": "国家发改委、商务部有关负责人就《扩大消费“十五五”规划》答记者问",
+          "url": "https://flash.jin10.com/detail/20260715143217488800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
           "title": "英国财政部：如果美国与伊朗的战争进一步加剧，油价可能会达到150美元/桶。 预计英国央行将在2026年加息至少一次。 预计四季度通胀为3.2%。",
           "url": "https://wallstreetcn.com/livenews/3133776",
           "source": "华尔街见闻-快讯",
@@ -581,6 +564,80 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "DeepSeek估值或达4814亿",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BC%B0%E5%80%BC%E6%88%96%E8%BE%BE4814%E4%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 01时05分]"
+        },
+        {
+          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
+          "url": "https://www.zhihu.com/question/2060645375338180828",
+          "source": "知乎",
+          "ranks": [
+            16,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 15时08分]"
+        },
+        {
+          "title": "曝DeepSeek计划明年上市",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9DDeepSeek%E8%AE%A1%E5%88%92%E6%98%8E%E5%B9%B4%E4%B8%8A%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 15时08分]"
+        },
+        {
+          "title": "媒体：“悄然转向”，印度企业青睐中国AI大模型",
+          "url": "https://wallstreetcn.com/livenews/3133917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "印媒：“悄然转向”，印度企业青睐中国AI大模型",
+          "url": "https://flash.jin10.com/detail/20260715064114258800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "恒生科技指数盘中一度涨2%，MINIMAX涨超12%，智谱涨近10%，美团涨超6%，腾讯涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3134066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         }
       ]
     },
@@ -751,6 +808,46 @@
       ]
     },
     {
+      "keyword_group": "创新药 ADC CAR-T GLP-1",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "头部公募掀起南下“举牌潮”，港股创新药开启估值修复行情",
+          "url": "https://wallstreetcn.com/livenews/3133910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时49分 ~ 07时43分]"
+        },
+        {
+          "title": "资金早埋伏创新药！头部公募举牌，百亿资金借ETF入场",
+          "url": "https://www.cls.cn/detail/2426944",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
+          "title": "科伦药业：TROP2 ADC联合疗法肺癌3期临床达主要终点",
+          "url": "https://flash.jin10.com/detail/20260715120053749800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "免税 旅游 酒店 餐饮",
       "match_count": 3,
       "titles": [
@@ -777,8 +874,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时04分 ~ 12时43分]"
+          "appearance_count": 13,
+          "time_info": "[01时04分 ~ 15时08分]"
         },
         {
           "title": "暴雨袭击沈阳：部分城区积水严重“打车无人接单”，有客人曾滞留酒店",
@@ -788,37 +885,68 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 15时08分]"
         }
       ]
     },
     {
-      "keyword_group": "创新药 ADC CAR-T GLP-1",
+      "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
       "match_count": 2,
       "titles": [
         {
-          "title": "头部公募掀起南下“举牌潮”，港股创新药开启估值修复行情",
-          "url": "https://wallstreetcn.com/livenews/3133910",
-          "source": "华尔街见闻-快讯",
+          "title": "算力需求爆发驱动，长飞光纤预计上半年净利润同比增长711%-914% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3776895",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            20
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时49分 ~ 07时43分]"
+          "appearance_count": 5,
+          "time_info": "[06时49分 ~ 12时43分]"
         },
         {
-          "title": "科伦药业：TROP2 ADC联合疗法肺癌3期临床达主要终点",
-          "url": "https://flash.jin10.com/detail/20260715120053749800",
-          "source": "金十数据",
+          "title": "华为昇腾950超节点将首次真机亮相 国产算力板块高景气有望延续",
+          "url": "https://www.cls.cn/detail/2426602",
+          "source": "财联社热门",
           "ranks": [
-            14
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时43分"
+          "time_info": "15时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 火箭 卫星互联网 北斗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "日本宣布可回收火箭试飞成功",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%AE%A3%E5%B8%83%E5%8F%AF%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD%E8%AF%95%E9%A3%9E%E6%88%90%E5%8A%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            14,
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 07时43分]"
+        },
+        {
+          "title": "A股商业航天概念持续调整，中国卫星午后跌停，星图测控、中环海陆跌超10%，航天电子、星网宇达、电科蓝天、理工导航、中国卫通等跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3134140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         }
       ]
     },
@@ -844,27 +972,26 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         }
       ]
     },
     {
-      "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
+      "keyword_group": "DeepSeek ChatGPT Claude Gemini Agent 智能体",
       "match_count": 1,
       "titles": [
         {
-          "title": "算力需求爆发驱动，长飞光纤预计上半年净利润同比增长711%-914% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3776895",
-          "source": "华尔街见闻",
+          "title": "京东AI Agent与腾讯元宝正式打通小程序生态",
+          "url": "https://wallstreetcn.com/livenews/3134144",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9
+            20
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时49分 ~ 12时43分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         }
       ]
     },
@@ -959,26 +1086,6 @@
       ]
     },
     {
-      "keyword_group": "商业航天 火箭 卫星互联网 北斗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "日本宣布可回收火箭试飞成功",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%AE%A3%E5%B8%83%E5%8F%AF%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD%E8%AF%95%E9%A3%9E%E6%88%90%E5%8A%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            14,
-            16,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 07时43分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "稀土 锗 镓 锑 钨",
       "match_count": 1,
       "titles": [
@@ -990,8 +1097,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时26分 ~ 12时43分]"
+          "appearance_count": 4,
+          "time_info": "[09时26分 ~ 15时08分]"
         }
       ]
     },
