@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T01:05:08.939720+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-17T02:57:51.569114+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "成立世界人工智能合作组织协定签署仪式在上海举行",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 02时57分]"
         },
         {
           "title": "世界人工智能合作组织协定签署",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87%E5%8D%8F%E5%AE%9A%E7%AD%BE%E7%BD%B2",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 02时57分]"
         },
         {
           "title": "韩国叫停新单一股票杠杆ETF产品上市，提高现有ETF保证金门槛至3000万韩元",
@@ -37,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 02时57分]"
         },
         {
           "title": "超300款全球首发AI产品即将亮相",
@@ -48,19 +49,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 02时57分]"
         },
         {
           "title": "《八仙！》预售突破 6000 万，点映口碑上佳，你预测影片最终票房能到多少？",
           "url": "https://www.zhihu.com/question/2059956129291919389",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 02时57分]"
+        },
+        {
+          "title": "SpaceX 上市仅一个月跌破 135 美元发行价，市值缩水三分之一，星舰第 13 次试飞将至，能否挽救股价？",
+          "url": "https://www.zhihu.com/question/2061111911014470002",
+          "source": "知乎",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 02时57分]"
         },
         {
           "title": "长鑫科技超 6000 员工获股份，IPO 后批量诞生千万富翁，如何看待长鑫科技上市？",
@@ -70,41 +84,43 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
-        },
-        {
-          "title": "SpaceX 上市仅一个月跌破 135 美元发行价，市值缩水三分之一，星舰第 13 次试飞将至，能否挽救股价？",
-          "url": "https://www.zhihu.com/question/2061111911014470002",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 02时57分]"
         },
         {
           "title": "美国 NSF 新规，「几乎要全面禁止与中国科学家合作」，将可能带来哪些影响？",
           "url": "https://www.zhihu.com/question/2060040310399263380",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 02时57分]"
         },
         {
           "title": "百度申请香港、纳斯达克双重主要上市，有望赶上9月港股通调整窗口",
           "url": "https://m.thepaper.cn/newsDetail_forward_33598176",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 02时57分]"
+        },
+        {
+          "title": "据伊朗媒体Fars News：约旦外交部长表示，美国在约旦没有军事基地，但有美军人员驻扎，这是约旦与华盛顿军事合作的一部分。",
+          "url": "https://flash.jin10.com/detail/20260717015624270800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
         },
         {
           "title": "市场消息：英特尔(INTC.O)与谷歌云(GOOG.O)合作推动英特尔企业人工智能转型。",
@@ -113,7 +129,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
         }
@@ -121,18 +137,52 @@
     },
     {
       "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "如何评价月之暗面于 7 月 15 日开始灰度测试的 Kimi-K3？",
           "url": "https://www.zhihu.com/question/2060635206651065501",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 02时57分]"
+        },
+        {
+          "title": "报道：谷歌Gemini旗舰模型发布推迟，技术能力未达预期目标",
+          "url": "https://wallstreetcn.com/livenews/3135223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
+        },
+        {
+          "title": "谷歌(GOOG.O)日内跌近3%，有消息称谷歌Gemini 3.5 Pro推迟发布。",
+          "url": "https://flash.jin10.com/detail/20260717022948795800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
+        },
+        {
+          "title": "谷歌Gemini 3.5 Pro交付进度落后计划数月，因技术能力未达预期目标",
+          "url": "https://flash.jin10.com/detail/20260717021710042800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
         },
         {
           "title": "谷歌(GOOG.O)：Google Vids上线Gemini Omni和个人数字形象功能，面向Google AI Pro、AI Ultra订阅用户及Workspace企业客户开放。",
@@ -141,7 +191,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
         },
@@ -152,7 +202,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
         },
@@ -163,15 +213,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "中国企业发布全球最大规模的开源模型Kimi K3",
+          "url": "https://wallstreetcn.com/livenews/3135204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
         }
       ]
     },
     {
       "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
@@ -181,19 +242,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 02时57分]"
         },
         {
           "title": "美男网红注射黄金求超能力",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356240&amp;topic_name=%E7%BE%8E%E7%94%B7%E7%BD%91%E7%BA%A2%E6%B3%A8%E5%B0%84%E9%BB%84%E9%87%91%E6%B1%82%E8%B6%85%E8%83%BD%E5%8A%9B",
           "source": "贴吧",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 02时57分]"
         },
         {
           "title": "前纽约联储首席：今年大概率不会加息，美政策正推高主权黄金需求！",
@@ -203,8 +265,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 02时57分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 7月16日（周四）晚盘收盘下跌1.09%报870.1元/克；<br/>上海黄金交易所白银T+D 7月16日（周四）晚盘收盘下跌2.29%报13592.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260717023033144800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
         },
         {
           "title": "现货黄金日内跌幅达1.0%，报4005.81美元/盎司。",
@@ -213,9 +286,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "国际铜夜盘收涨0.01%，沪铜收跌0.08%，沪铝收涨0.39%，沪锌收涨0.39%，沪铅收涨1.57%，沪镍收涨0.61%，沪锡收涨0.53%。 氧化铝夜盘收跌0.59%，铝合金收涨0.52%。 不锈钢夜盘收涨1.16%。",
+          "url": "https://wallstreetcn.com/livenews/3135203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
+        },
+        {
+          "title": "LME期铜收涨17美元，报13598美元/吨。 LME期铝收涨35美元，报3185美元/吨。 LME期锌收涨48美元，报3594美元/吨。 LME期铅收涨20美元，报1872美元/吨。 LME期镍收涨349美元，报17152美元/吨。 LME期锡收涨376美元，报53156美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3135200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
         }
       ]
     },
@@ -231,8 +326,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 02时57分]"
         },
         {
           "title": "美股存储芯片指数跌幅扩大至7%，闪迪跌幅扩大至10%，西部数据跌近9%。SK海力士ADR跌8.6%。费城半导体指数目前跌3.5%，纳斯达克100指数维持超过0.9%的跌幅。",
@@ -241,7 +336,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
         }
@@ -256,22 +351,24 @@
           "url": "https://www.baidu.com/s?wd=%E6%A0%BC%E6%96%97%E8%B5%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%B4%E8%A2%AB%E6%89%93%E9%A3%9E+%E7%94%84%E5%AD%90%E4%B8%B9%E7%9C%8B%E5%91%86",
           "source": "百度热搜",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 02时57分]"
         },
         {
           "title": "甄子丹亮相人形机器人格斗揭幕赛",
           "url": "https://www.toutiao.com/trending/7663046277462114340/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 02时57分]"
         }
       ]
     },
@@ -287,8 +384,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 02时57分]"
         }
       ]
     },
@@ -304,8 +401,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 02时57分]"
         }
       ]
     },
@@ -320,7 +417,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
         }
@@ -335,11 +432,12 @@
           "url": "https://www.zhihu.com/question/2060758431435158135",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 02时57分]"
         }
       ]
     },
@@ -354,7 +452,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
         }
