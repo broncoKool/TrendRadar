@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T07:53:07.519081+08:00",
-  "total_titles_processed": 672,
+  "generated_at": "2026-07-17T09:50:24.863621+08:00",
+  "total_titles_processed": 809,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "成立世界人工智能合作组织协定签署仪式在上海举行",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 07时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 09时50分]"
         },
         {
           "title": "韩国叫停新单一股票杠杆ETF产品上市，提高现有ETF保证金门槛至3000万韩元",
           "url": "https://wallstreetcn.com/articles/3777104",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 07时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 09时50分]"
         },
         {
           "title": "世界人工智能合作组织协定签署",
@@ -54,19 +55,6 @@
           "time_info": "[01时04分 ~ 05时57分]"
         },
         {
-          "title": "长鑫科技超 6000 员工获股份，IPO 后批量诞生千万富翁，如何看待长鑫科技上市？",
-          "url": "https://www.zhihu.com/question/2059993412737283983",
-          "source": "知乎",
-          "ranks": [
-            11,
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 07时53分]"
-        },
-        {
           "title": "百度申请香港、纳斯达克双重主要上市，有望赶上9月港股通调整窗口",
           "url": "https://m.thepaper.cn/newsDetail_forward_33598176",
           "source": "澎湃新闻",
@@ -74,6 +62,19 @@
             20,
             19,
             16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 09时50分]"
+        },
+        {
+          "title": "长鑫科技超 6000 员工获股份，IPO 后批量诞生千万富翁，如何看待长鑫科技上市？",
+          "url": "https://www.zhihu.com/question/2059993412737283983",
+          "source": "知乎",
+          "ranks": [
+            11,
+            16,
+            12
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -136,11 +137,12 @@
           "url": "https://www.toutiao.com/trending/7662308337354735654/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 07时53分]"
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 09时50分]"
         },
         {
           "title": "小鹏集团董事长兼首席执行官何小鹏周三在慕尼黑举行的Mona L03 SUV发布活动上表示，公司已在德国以及其他国家考察选址。小鹏还希望扩大与大众汽车的合作；双方目前已在联合开发面向中国市场的电动汽车。 “我们正在与很多潜在合作方洽谈，”何小鹏表示，“我们当然希望进一步拓展与大众汽车的合作。” 随着小鹏在欧洲扩张，德国是一个尤为关注的重点。不过，他不愿透露小鹏是否会收购大众工厂。",
@@ -154,6 +156,17 @@
           "time_info": "05时57分"
         },
         {
+          "title": "比亚迪成巴黎圣日耳曼汽车合作伙伴",
+          "url": "https://www.toutiao.com/trending/7663102792382562340/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
           "title": "据伊朗媒体Fars News：约旦外交部长表示，美国在约旦没有军事基地，但有美军人员驻扎，这是约旦与华盛顿军事合作的一部分。",
           "url": "https://flash.jin10.com/detail/20260717015624270800",
           "source": "金十数据",
@@ -163,6 +176,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "中国央行：今日开展4505亿元7天逆回购操作，投标量4505亿元，中标量4505亿元，操作利率为1.40%，与此前持平。",
+          "url": "https://flash.jin10.com/detail/20260717092114490800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "市场消息：英特尔(INTC.O)与谷歌云(GOOG.O)合作推动英特尔企业人工智能转型。",
@@ -182,7 +206,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -193,7 +217,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -204,7 +228,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         }
@@ -212,7 +236,7 @@
     },
     {
       "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "如何评价月之暗面于 7 月 15 日开始灰度测试的 Kimi-K3？",
@@ -229,26 +253,28 @@
           "time_info": "[01时04分 ~ 05时57分]"
         },
         {
-          "title": "如何评价 7 月 16 日正式上线的 KIMI K3 模型？",
-          "url": "https://www.zhihu.com/question/2061204677446964906",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 07时53分]"
-        },
-        {
           "title": "全球最大规模开源模型Kimi K3发布",
           "url": "https://www.toutiao.com/trending/7663270788073524782/",
           "source": "今日头条",
           "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 09时50分]"
+        },
+        {
+          "title": "如何评价 7 月 16 日正式上线的 KIMI K3 模型？",
+          "url": "https://www.zhihu.com/question/2061204677446964906",
+          "source": "知乎",
+          "ranks": [
+            2,
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 07时53分]"
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 09时50分]"
         },
         {
           "title": "中国企业发布全球最大规模的开源模型Kimi K3",
@@ -257,7 +283,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -284,6 +310,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时59分 ~ 04时56分]"
+        },
+        {
+          "title": "谷歌Gemini模型发布延期传闻引发担忧 股价盘中跳水逾3%",
+          "url": "https://www.cls.cn/detail/2428944",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "谷歌盘中跌超4%，有报道称Gemini 3.5 Pro延迟发布",
@@ -328,6 +365,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "恒指高开0.06%，报25022.54点；恒生科技指数跌0.05%。智谱跌超12%，MINIMAX跌超3%；比亚迪电子涨3.8%，小米涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3135359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "谷歌(GOOG.O)：Google Vids上线Gemini Omni和个人数字形象功能，面向Google AI Pro、AI Ultra订阅用户及Workspace企业客户开放。",
@@ -377,7 +425,7 @@
     },
     {
       "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
@@ -396,11 +444,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 07时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 09时50分]"
         },
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -410,8 +459,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 07时53分]"
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 09时50分]"
         },
         {
           "title": "美股大类资产类ETF普遍下跌，新兴市场收跌2.1%，与黄金ETF、可转债ETF领跌",
@@ -449,6 +498,17 @@
           "time_info": "[02时57分 ~ 03时59分]"
         },
         {
+          "title": "UBP将年底黄金目标价下调至每盎司4,800美元，尽管长期看好黄金，但仍暂不增持仓位。",
+          "url": "https://wallstreetcn.com/livenews/3135371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
           "title": "现货黄金日内跌幅达1.0%，报4005.81美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3135187",
           "source": "华尔街见闻-快讯",
@@ -469,6 +529,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
+        },
+        {
+          "title": "国内商品期货早盘开盘，沪银、钯跌超3%，铂、纯碱跌逾2%，棉花、玻璃等跌超1%，玉米、淀粉等小幅下跌；碳酸锂涨超2%，沪铅、液化气等涨超1%，沪铝、沪锌等小幅上涨。",
+          "url": "https://wallstreetcn.com/livenews/3135351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "国际铜夜盘收涨0.01%，沪铜收跌0.08%，沪铝收涨0.39%，沪锌收涨0.39%，沪铅收涨1.57%，沪镍收涨0.61%，沪锡收涨0.53%。 氧化铝夜盘收跌0.59%，铝合金收涨0.52%。 不锈钢夜盘收涨1.16%。",
@@ -496,7 +567,7 @@
     },
     {
       "keyword_group": "HBM DDR5 存储芯片",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "沪指跌破3900点，科创50跌4%，存储芯片掀起跌停潮，医药逆势拉升，恒科指涨2%，科网股大反弹",
@@ -508,8 +579,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 07时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 09时50分]"
+        },
+        {
+          "title": "港股市场存储芯片概念股集体下跌，南方两倍做多海力士(07709)跌超13%，南方两倍做多三星电子(07747)、澜起科技(06809.HK)、兆易创新(03986.HK)跌超3%。",
+          "url": "https://flash.jin10.com/detail/20260717093800976800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "纳斯达克100指数跌幅扩大至2%，成分股Nebius集团跌14.2%，闪迪跌12.8%，Rocket Labs跌12.2%，希捷科技跌10.6%，西部数据跌10.2%，Astera Labs跌9.8%，迈威尔科技/美满电子、Lumentum、泰瑞达、英特尔至少跌6.9%，谷歌A跌4.7%。 半导体指数跌5%，存储芯片指数维持大约9%的跌幅。 北美科技软件股指数ETF跌幅重新扩大至0.4%，美股盘初一度跌1.9%。",
@@ -522,6 +604,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时59分 ~ 04时56分]"
+        },
+        {
+          "title": "A股存储芯片板块延续跌势，德明利连续第三日跌停，华天科技、江波龙、香农芯创、佰维存储跟跌。",
+          "url": "https://flash.jin10.com/detail/20260717093300121800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "美股存储芯片指数初步收跌8%，半导体指数跌4%。 标普500指数初步收跌0.6%，电信板块跌3.1%，科技板块跌1.9%，房地产、保健、日用消费品板块涨超2%。 纳斯达克100指数初步收跌1.7%，成分股中，Nebius、闪迪、RKLB、希捷科技、西部数据、Astera Labs初步收跌14.8%-8.8%，Adobe涨4.5%，德康医疗涨7.2%。",
@@ -546,6 +639,17 @@
           "time_info": "01时05分"
         },
         {
+          "title": "A股开盘，上证指数开跌0.44%，深证成指开跌0.97%，创业板指开跌1.36%；存储芯片、CRO概念跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260717092516834800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
           "title": "美股存储芯片指数收跌超8%",
           "url": "https://wallstreetcn.com/livenews/3135275",
           "source": "华尔街见闻-快讯",
@@ -559,8 +663,81 @@
       ]
     },
     {
+      "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "【焦点复盘】科创50连续2日大跌超4%，算力硬件板块持续低迷，850亿“中药茅”现久违涨停",
+          "url": "https://www.cls.cn/detail/2428544",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 07时53分]"
+        },
+        {
+          "title": "财联社、科创板日报记者探营WAIC 2026：从超节点算力到进厂机器人 AI与物理世界开启“无界融合”",
+          "url": "https://www.cls.cn/detail/2428882",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "创业板指、科创50均跌超4%，算力硬件、半导体芯片等方向跌幅居前，沪深京三市下跌个股近2700只。",
+          "url": "https://wallstreetcn.com/livenews/3135376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "创业板指、科创50均跌超3%，沪指跌0.55%，深成指跌2.10%，算力硬件、半导体芯片等方向跌幅居前，沪深京三市下跌个股近2500只。",
+          "url": "https://wallstreetcn.com/livenews/3135373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "创业板指、科创50均跌超2%，沪指跌0.38%，深成指跌1.36%，算力硬件、半导体芯片等方向跌幅居前，沪深京三市下跌个股近2300只。",
+          "url": "https://wallstreetcn.com/livenews/3135368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "国产算力是真火还是虚火",
+          "url": "https://www.toutiao.com/trending/7663141626339921414/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "无人机 通航",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗军方称对美在巴林军事设施发动无人机袭击",
@@ -569,7 +746,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -580,7 +757,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -603,7 +780,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -617,6 +794,85 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        },
+        {
+          "title": "俄防空系统为何无法阻止乌无人机",
+          "url": "https://www.toutiao.com/trending/7663142070659321395/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人形机器人 机器人 具身智能 灵巧手",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "格斗赛机器人头被打飞 甄子丹看呆",
+          "url": "https://www.baidu.com/s?wd=%E6%A0%BC%E6%96%97%E8%B5%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%B4%E8%A2%AB%E6%89%93%E9%A3%9E+%E7%94%84%E5%AD%90%E4%B8%B9%E7%9C%8B%E5%91%86",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            6,
+            14,
+            16,
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 09时50分]"
+        },
+        {
+          "title": "人形机器人格斗赛诞生躺赢名场面",
+          "url": "https://www.douyin.com/hot/2574104",
+          "source": "抖音",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 09时50分]"
+        },
+        {
+          "title": "甄子丹亮相人形机器人格斗揭幕赛",
+          "url": "https://www.toutiao.com/trending/7663046277462114340/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 02时57分]"
+        },
+        {
+          "title": "央视财经记者PK乒乓球机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E8%B4%A2%E7%BB%8F%E8%AE%B0%E8%80%85PK%E4%B9%92%E4%B9%93%E7%90%83%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：希望英伟达进一步与日本在具身智能领域展开合作。",
+          "url": "https://wallstreetcn.com/livenews/3135353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         }
       ]
     },
@@ -671,50 +927,6 @@
       ]
     },
     {
-      "keyword_group": "人形机器人 机器人 具身智能 灵巧手",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "格斗赛机器人头被打飞 甄子丹看呆",
-          "url": "https://www.baidu.com/s?wd=%E6%A0%BC%E6%96%97%E8%B5%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%B4%E8%A2%AB%E6%89%93%E9%A3%9E+%E7%94%84%E5%AD%90%E4%B8%B9%E7%9C%8B%E5%91%86",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            6,
-            14,
-            16,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 07时53分]"
-        },
-        {
-          "title": "甄子丹亮相人形机器人格斗揭幕赛",
-          "url": "https://www.toutiao.com/trending/7663046277462114340/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 02时57分]"
-        },
-        {
-          "title": "人形机器人格斗赛诞生躺赢名场面",
-          "url": "https://www.douyin.com/hot/2574104",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 07时53分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "商业航天 火箭 卫星互联网 北斗",
       "match_count": 3,
       "titles": [
@@ -725,7 +937,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -736,7 +948,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -747,27 +959,38 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         }
       ]
     },
     {
-      "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
-      "match_count": 1,
+      "keyword_group": "稀土 锗 镓 锑 钨",
+      "match_count": 2,
       "titles": [
         {
-          "title": "【焦点复盘】科创50连续2日大跌超4%，算力硬件板块持续低迷，850亿“中药茅”现久违涨停",
-          "url": "https://www.cls.cn/detail/2428544",
-          "source": "财联社热门",
+          "title": "调查显示日本企业稀土成本上涨逾两成 成本转嫁困难",
+          "url": "https://flash.jin10.com/detail/20260717093909385800",
+          "source": "金十数据",
           "ranks": [
-            5,
-            6
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "巴西贸易部长罗莎：在稀土问题上，美国要求巴西限制“不遵守市场规则”国家的投资，但巴西不会接受这一要求。",
+          "url": "https://flash.jin10.com/detail/20260717043247802800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 07时53分]"
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 05时57分]"
         }
       ]
     },
@@ -780,11 +1003,12 @@
           "url": "https://www.cls.cn/detail/2428607",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 07时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 09时50分]"
         }
       ]
     },
@@ -822,24 +1046,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时04分 ~ 07时53分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "稀土 锗 镓 锑 钨",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "巴西贸易部长罗莎：在稀土问题上，美国要求巴西限制“不遵守市场规则”国家的投资，但巴西不会接受这一要求。",
-          "url": "https://flash.jin10.com/detail/20260717043247802800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时56分 ~ 05时57分]"
         }
       ]
     },
