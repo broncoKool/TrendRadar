@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-07-18T20:54:45.020995+08:00",
-  "total_titles_processed": 1393,
+  "generated_at": "2026-07-18T22:18:18.658223+08:00",
+  "total_titles_processed": 1505,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 25,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "A股再现天价离婚：分手费59.5亿元，公司上市不足一年",
+          "url": "https://www.cls.cn/detail/2430101",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时41分 ~ 22时18分]"
+        },
         {
           "title": "国防部：望各方理性看待中俄军事合作",
           "url": "https://www.toutiao.com/trending/7663393816196087851/",
@@ -21,19 +35,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时02分 ~ 07时44分]"
-        },
-        {
-          "title": "A股再现天价离婚：分手费59.5亿元，公司上市不足一年",
-          "url": "https://www.cls.cn/detail/2430101",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时41分 ~ 20时54分]"
         },
         {
           "title": "多项AI在世界人工智能大会首发首秀",
@@ -82,6 +83,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
+        },
+        {
+          "title": "上海“星枢计划”首发星座在WAIC正式发布",
+          "url": "https://wallstreetcn.com/livenews/3136051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "2026年暑期档票房突破40亿元",
@@ -196,6 +208,17 @@
           "time_info": "[19时46分 ~ 20时54分]"
         },
         {
+          "title": "上游订单爆表、下游不计代价！“大空头”查诺斯：AI这笔账为什么算不过来",
+          "url": "https://wallstreetcn.com/articles/3777307",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 22时18分]"
+        },
+        {
           "title": "房岩谈和周星驰合作",
           "url": "https://www.douyin.com/hot/2573893",
           "source": "抖音",
@@ -224,7 +247,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -240,6 +263,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "海湾合作委员会秘书长：伊朗针对巴林、科威特和约旦基础设施的袭击行为构成战争罪。",
+          "url": "https://flash.jin10.com/detail/20260718212017645800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "上海“星枢计划”首发星座发布",
           "url": "https://flash.jin10.com/detail/20260718164638315800",
           "source": "金十数据",
@@ -251,6 +285,17 @@
           "time_info": "18时11分"
         },
         {
+          "title": "中国首创AI赋能核能技术路线全球首发",
+          "url": "https://wallstreetcn.com/livenews/3136038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "蔡磊牵线研发国产渐冻症药有望上市",
           "url": "https://www.toutiao.com/trending/7662677592900091946/",
           "source": "今日头条",
@@ -260,6 +305,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "中国首创人工智能赋能核能技术路线全球首发",
+          "url": "https://flash.jin10.com/detail/20260718210538813800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "世界人工智能合作组织协定签署",
@@ -309,7 +365,7 @@
     },
     {
       "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "Kimi冲击美科技股，纳指100一度跌2.7%、收盘跌幅收窄，芯片股进入熊市，油价大涨",
@@ -319,8 +375,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时44分 ~ 20时54分]"
+          "appearance_count": 12,
+          "time_info": "[07时44分 ~ 22时18分]"
         },
         {
           "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
@@ -335,6 +391,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[07时44分 ~ 20时54分]"
+        },
+        {
+          "title": "费城半导体指数入熊之际：“Kimi时刻”刷屏华尔街！",
+          "url": "https://www.cls.cn/detail/2430098",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时41分 ~ 22时18分]"
         },
         {
           "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
@@ -395,19 +465,6 @@
           "time_info": "[01时02分 ~ 09时31分]"
         },
         {
-          "title": "费城半导体指数入熊之际：“Kimi时刻”刷屏华尔街！",
-          "url": "https://www.cls.cn/detail/2430098",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时41分 ~ 20时54分]"
-        },
-        {
           "title": "如何评价月之暗面 kimi 最新发布的大模型 k3？对比全球其他大模型能力如何？",
           "url": "https://www.zhihu.com/question/2061412232924337204",
           "source": "知乎",
@@ -415,11 +472,12 @@
             4,
             2,
             8,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时43分 ~ 20时54分]"
+          "appearance_count": 7,
+          "time_info": "[16时43分 ~ 22时18分]"
         },
         {
           "title": "Kimi冲击美科技股，纳指再跌1%，芯片股跌入熊市，美伊冲突升级油价大涨",
@@ -433,6 +491,20 @@
           "time_info": "06时41分"
         },
         {
+          "title": "Kimi K3测评报告",
+          "url": "https://search.bilibili.com/all?keyword=Kimi%20K3%E6%B5%8B%E8%AF%84%E6%8A%A5%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            29,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时43分 ~ 22时18分]"
+        },
+        {
           "title": "Kimi有望最快6个月内港股上市",
           "url": "https://wallstreetcn.com/livenews/3135984",
           "source": "华尔街见闻-快讯",
@@ -442,6 +514,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
+        },
+        {
+          "title": "高盛点评Kimi K3：中国开源模型“智能”达到全球普及关键点，高端模型竞争激烈",
+          "url": "https://wallstreetcn.com/articles/3777291",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时46分 ~ 22时18分]"
         },
         {
           "title": "如何评价月之暗面 kimi 最新发布的大模型 k3 ?",
@@ -492,19 +577,6 @@
           "time_info": "[18时11分 ~ 19时46分]"
         },
         {
-          "title": "Kimi K3测评报告",
-          "url": "https://search.bilibili.com/all?keyword=Kimi%20K3%E6%B5%8B%E8%AF%84%E6%8A%A5%E5%91%8A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            29,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时43分 ~ 19时46分]"
-        },
-        {
           "title": "全球第三强，“Fable级体感”！2.8万亿参数Kimi K3刷新开源记录",
           "url": "https://wallstreetcn.com/articles/3777138",
           "source": "华尔街见闻",
@@ -516,16 +588,15 @@
           "time_info": "[01时02分 ~ 02时54分]"
         },
         {
-          "title": "高盛点评Kimi K3：中国开源模型“智能”达到全球普及关键点，高端模型竞争激烈",
-          "url": "https://wallstreetcn.com/articles/3777291",
-          "source": "华尔街见闻",
+          "title": "性能强悍,Kimi新模型引爆外网",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356296&amp;topic_name=%E6%80%A7%E8%83%BD%E5%BC%BA%E6%82%8D%2CKimi%E6%96%B0%E6%A8%A1%E5%9E%8B%E5%BC%95%E7%88%86%E5%A4%96%E7%BD%91",
+          "source": "贴吧",
           "ranks": [
-            10,
-            7
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时46分 ~ 20时54分]"
+          "time_info": "[22时17分 ~ 22时18分]"
         },
         {
           "title": "Kimi K3引发美股震荡 月之暗面有望最快6个月内赴港上市",
@@ -540,6 +611,17 @@
           "time_info": "[18时11分 ~ 19时46分]"
         },
         {
+          "title": "中国万亿级开源大模型震惊华尔街",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%87%E4%BA%BF%E7%BA%A7%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%9C%87%E6%83%8A%E5%8D%8E%E5%B0%94%E8%A1%97",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 22时18分]"
+        },
+        {
           "title": "大模型哪大了 深入解读kimi k3",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%93%AA%E5%A4%A7%E4%BA%86%20%E6%B7%B1%E5%85%A5%E8%A7%A3%E8%AF%BBkimi%20k3",
           "source": "bilibili 热搜",
@@ -549,6 +631,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时43分 ~ 16时44分]"
+        },
+        {
+          "title": "AI模型评测平台Arena显示，Kimi-K3已在Frontend Code Arena中以1679分位居第一，超越了Claude Fable 5。",
+          "url": "https://flash.jin10.com/detail/20260718213228936800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "魔法原子Magic-VLA K02亮相WAIC，叠盒封胶长程任务成功率超90%",
+          "url": "https://wallstreetcn.com/livenews/3136040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "KimiK3测评",
@@ -587,7 +691,7 @@
     },
     {
       "keyword_group": "无人机 通航",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "“洗衣机”发威一击“烧死”无人机",
@@ -655,6 +759,18 @@
           "time_info": "[12时41分 ~ 14时54分]"
         },
         {
+          "title": "博主：乌无人机打中俄罗斯七寸",
+          "url": "https://www.toutiao.com/trending/7663803973379296819/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时54分 ~ 22时18分]"
+        },
+        {
           "title": "科威特国防部发言人：自今日清晨起，武装部队在科威特领空内监测到敌方弹道导弹和无人机，并已对其进行拦截和处理。伊朗的袭击继续针对我国的多处军事和安全设施，以及若干关键基础设施和民用设施。袭击波及石油和电力行业的设施，导致火灾并造成严重损失。",
           "url": "https://flash.jin10.com/detail/20260718190448394800",
           "source": "金十数据",
@@ -679,6 +795,18 @@
           "time_info": "[19时46分 ~ 20时54分]"
         },
         {
+          "title": "俄罗斯莫斯科州遭无人机袭击 逾30人死伤",
+          "url": "https://flash.jin10.com/detail/20260718202823653800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 22时18分]"
+        },
+        {
           "title": "伊朗称击落一架美军MQ-9无人机",
           "url": "https://wallstreetcn.com/livenews/3135928",
           "source": "华尔街见闻-快讯",
@@ -689,6 +817,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时44分 ~ 09时31分]"
+        },
+        {
+          "title": "黑海无人机袭击后，里海管道联盟（CPC）石油码头基础设施运行正常",
+          "url": "https://wallstreetcn.com/livenews/3136026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 22时18分]"
         },
         {
           "title": "4架无人机在美驻伊拉克埃尔比勒领馆附近被击落",
@@ -703,48 +843,27 @@
           "time_info": "[07时44分 ~ 09时31分]"
         },
         {
-          "title": "俄罗斯莫斯科州遭无人机袭击 逾30人死伤",
-          "url": "https://flash.jin10.com/detail/20260718202823653800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
-          "title": "黑海无人机袭击后，里海管道联盟（CPC）石油码头基础设施运行正常",
-          "url": "https://wallstreetcn.com/livenews/3136026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
           "title": "俄罗斯莫斯科州遭无人机袭击，逾30人死伤",
           "url": "https://wallstreetcn.com/livenews/3136025",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 22时18分]"
         },
         {
-          "title": "博主：乌无人机打中俄罗斯七寸",
-          "url": "https://www.toutiao.com/trending/7663803973379296819/",
-          "source": "今日头条",
+          "title": "世界杯决赛即将打响，无人机秀在哈德逊河畔上演",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33612896",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 22时18分]"
         },
         {
           "title": "俄一物流中心遭无人机袭击7死24伤",
@@ -849,7 +968,7 @@
     },
     {
       "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -900,6 +1019,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时41分 ~ 14时54分]"
+        },
+        {
+          "title": "韩国全民借钱炒股的黄金梦为何破碎",
+          "url": "https://www.toutiao.com/trending/7663839907923627562/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 22时18分]"
+        },
+        {
+          "title": "一周展望：美伊局势延续“高烈度升级”，超卖黄金与科技股迎关键大考",
+          "url": "https://flash.jin10.com/detail/20260718215539992800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "上海黄金交易所黄金T+D 7月17日（周五）晚盘收盘上涨0.61%报876.0元/克；<br/>上海黄金交易所白银T+D 7月17日（周五）晚盘收盘上涨1.16%报13636.0元/千克。",
@@ -977,6 +1118,18 @@
           "time_info": "[01时02分 ~ 06时41分]"
         },
         {
+          "title": "锂电池开征消费税 新能源车要涨价吗",
+          "url": "https://www.toutiao.com/trending/7663809319988629018/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时54分 ~ 22时18分]"
+        },
+        {
           "title": "三部门分步调整部分电池消费税政策，对无汞原电池、锂原电池等按 2% 税率征税，将产生哪些影响？",
           "url": "https://www.zhihu.com/question/2061492056724174422",
           "source": "知乎",
@@ -1020,17 +1173,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
-        },
-        {
-          "title": "锂电池开征消费税 新能源车要涨价吗",
-          "url": "https://www.toutiao.com/trending/7663809319988629018/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
         },
         {
           "title": "现货黄金日内涨幅扩大至1.00%，现报4016.21美元/盎司。",
@@ -1079,193 +1221,8 @@
       ]
     },
     {
-      "keyword_group": "人形机器人 机器人 具身智能 灵巧手",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
-          "url": "https://www.cls.cn/detail/2429951",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时02分 ~ 20时54分]"
-        },
-        {
-          "title": "全球首款机器人手机亮相引老外围观",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%E4%BA%AE%E7%9B%B8%E5%BC%95%E8%80%81%E5%A4%96%E5%9B%B4%E8%A7%82",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            7,
-            6,
-            14,
-            17,
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 07时44分]"
-        },
-        {
-          "title": "直击2026WAIC：超300台真机扎堆，具身智能离GPT时刻还差海量物理数据",
-          "url": "https://www.cls.cn/detail/2430120",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时54分 ~ 20时54分]"
-        },
-        {
-          "title": "千觉机器人首个VTLA具身触觉模型亮相世界人工智能大会",
-          "url": "https://flash.jin10.com/detail/20260718203633453800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
-          "title": "中兴通讯星系列人形机器人及具身智能解决方案亮相WAIC 2026",
-          "url": "https://wallstreetcn.com/livenews/3135994",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时11分 ~ 19时46分]"
-        },
-        {
-          "title": "机器人在WAIC一脚踹出真本事",
-          "url": "https://www.douyin.com/hot/2574930",
-          "source": "抖音",
-          "ranks": [
-            20,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时30分 ~ 18时11分]"
-        },
-        {
-          "title": "国家地方共建人形机器人创新中心中试公共服务平台启用",
-          "url": "https://wallstreetcn.com/livenews/3135971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时54分 ~ 18时11分]"
-        },
-        {
-          "title": "机器人格斗赛头部脱落后仍能继续战斗，为什么头掉了还能打？这算不算人形机器人的成熟标志？",
-          "url": "https://www.zhihu.com/question/2061451804827545826",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 14时54分]"
-        },
-        {
-          "title": "中兴通讯发布星系列人形机器人及具身智能解决方案",
-          "url": "https://flash.jin10.com/detail/20260718165940914800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时11分"
-        },
-        {
-          "title": "千觉机器人首个VTLA具身触觉模型亮相世界人工智能大会",
-          "url": "https://wallstreetcn.com/livenews/3136023",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
-          "title": "傅利叶携多款机器人亮相WAIC",
-          "url": "https://www.toutiao.com/trending/7663513800234205247/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时54分"
-        },
-        {
-          "title": "蓝思科技子公司与上纬新材达成战略合作 达成首期规划万台级机器人的产线合作",
-          "url": "https://flash.jin10.com/detail/20260718182153451800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
-          "title": "擎天租联合智元部署60余台机器人全面承接WAIC公共服务",
-          "url": "https://wallstreetcn.com/livenews/3135823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "蔚来芯片子公司神玑亮相WAIC并发布具身智能开发平台",
-          "url": "https://wallstreetcn.com/livenews/3135819",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "均胜电子发布灵巧手等机器人核心部件，控制器等已向头部机器人公司量产供货",
-          "url": "https://wallstreetcn.com/livenews/3135818",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "Meta Platforms(META.O)跌幅收窄至3%，此前一度跌超5%，据称Meta正洽谈向Anthropic出租算力。",
@@ -1375,6 +1332,17 @@
           "time_info": "[03时59分 ~ 04时56分]"
         },
         {
+          "title": "Meta算力变现迎首位大客户，报道：拟向Anthropic出租算力，合同达100亿美元",
+          "url": "https://wallstreetcn.com/articles/3777257",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 22时18分]"
+        },
+        {
           "title": "上海太空算力星座工程发布，商业运营阶段将完成千星部署",
           "url": "https://wallstreetcn.com/livenews/3135989",
           "source": "华尔街见闻-快讯",
@@ -1387,6 +1355,29 @@
           "time_info": "[18时11分 ~ 19时46分]"
         },
         {
+          "title": "上海标志性太空算力星座工程发布 剑指千星部署 商业航天再迎催化",
+          "url": "https://www.cls.cn/detail/2430247",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 22时18分]"
+        },
+        {
+          "title": "院士谈中国算力网发展：第一阶段算力汇聚已完成70%",
+          "url": "https://wallstreetcn.com/livenews/3136022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 22时18分]"
+        },
+        {
           "title": "平头哥真武芯片与阿里云磐久超节点服务器荣膺2026 WAIC“镇馆之宝”",
           "url": "https://wallstreetcn.com/livenews/3135952",
           "source": "华尔街见闻-快讯",
@@ -1397,17 +1388,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时41分 ~ 14时54分]"
-        },
-        {
-          "title": "院士谈中国算力网发展：第一阶段算力汇聚已完成70%",
-          "url": "https://wallstreetcn.com/livenews/3136022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
         },
         {
           "title": "据悉SpaceX正洽谈为美国防部的AI项目提供数十亿美元算力",
@@ -1434,6 +1414,327 @@
       ]
     },
     {
+      "keyword_group": "人形机器人 机器人 具身智能 灵巧手",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
+          "url": "https://www.cls.cn/detail/2429951",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时02分 ~ 22时18分]"
+        },
+        {
+          "title": "全球首款机器人手机亮相引老外围观",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%E4%BA%AE%E7%9B%B8%E5%BC%95%E8%80%81%E5%A4%96%E5%9B%B4%E8%A7%82",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            7,
+            6,
+            14,
+            17,
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 07时44分]"
+        },
+        {
+          "title": "直击2026WAIC：超300台真机扎堆，具身智能离GPT时刻还差海量物理数据",
+          "url": "https://www.cls.cn/detail/2430120",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时54分 ~ 22时18分]"
+        },
+        {
+          "title": "机器人的指尖上新晋一家百亿公司：一目科技完成超10亿元E轮融资",
+          "url": "https://wallstreetcn.com/livenews/3136050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "千觉机器人首个VTLA具身触觉模型亮相世界人工智能大会",
+          "url": "https://flash.jin10.com/detail/20260718203633453800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 22时18分]"
+        },
+        {
+          "title": "中兴通讯星系列人形机器人及具身智能解决方案亮相WAIC 2026",
+          "url": "https://wallstreetcn.com/livenews/3135994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 19时46分]"
+        },
+        {
+          "title": "机器人在WAIC一脚踹出真本事",
+          "url": "https://www.douyin.com/hot/2574930",
+          "source": "抖音",
+          "ranks": [
+            20,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时30分 ~ 18时11分]"
+        },
+        {
+          "title": "国家地方共建人形机器人创新中心中试公共服务平台启用",
+          "url": "https://wallstreetcn.com/livenews/3135971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时54分 ~ 18时11分]"
+        },
+        {
+          "title": "千觉机器人首个VTLA具身触觉模型亮相世界人工智能大会",
+          "url": "https://wallstreetcn.com/livenews/3136023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 22时18分]"
+        },
+        {
+          "title": "机器人格斗赛头部脱落后仍能继续战斗，为什么头掉了还能打？这算不算人形机器人的成熟标志？",
+          "url": "https://www.zhihu.com/question/2061451804827545826",
+          "source": "知乎",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 14时54分]"
+        },
+        {
+          "title": "中兴通讯发布星系列人形机器人及具身智能解决方案",
+          "url": "https://flash.jin10.com/detail/20260718165940914800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时11分"
+        },
+        {
+          "title": "傅利叶携多款机器人亮相WAIC",
+          "url": "https://www.toutiao.com/trending/7663513800234205247/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
+          "title": "蓝思科技子公司与上纬新材达成战略合作 达成首期规划万台级机器人的产线合作",
+          "url": "https://flash.jin10.com/detail/20260718182153451800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时46分"
+        },
+        {
+          "title": "擎天租联合智元部署60余台机器人全面承接WAIC公共服务",
+          "url": "https://wallstreetcn.com/livenews/3135823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "蔚来芯片子公司神玑亮相WAIC并发布具身智能开发平台",
+          "url": "https://wallstreetcn.com/livenews/3135819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "均胜电子发布灵巧手等机器人核心部件，控制器等已向头部机器人公司量产供货",
+          "url": "https://wallstreetcn.com/livenews/3135818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek ChatGPT Claude Gemini Agent 智能体",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "智能体互信互联互操作全球合作倡议",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%99%BA%E8%83%BD%E4%BD%93%E4%BA%92%E4%BF%A1%E4%BA%92%E8%81%94%E4%BA%92%E6%93%8D%E4%BD%9C%E5%85%A8%E7%90%83%E5%90%88%E4%BD%9C%E5%80%A1%E8%AE%AE%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 09时31分]"
+        },
+        {
+          "title": "智能体引爆Token经济，我国日均Token调用量增长超千倍",
+          "url": "https://wallstreetcn.com/livenews/3135970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时54分 ~ 18时11分]"
+        },
+        {
+          "title": "网易智企：集中展示AI Agent编排、AI Coding、AI客服等企业AI能力",
+          "url": "https://wallstreetcn.com/livenews/3135960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时41分 ~ 16时44分]"
+        },
+        {
+          "title": "阿里云发布Agent Native Cloud 全栈产品体系让智能体成为企业原生能力",
+          "url": "https://flash.jin10.com/detail/20260718162807590800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时44分 ~ 18时11分]"
+        },
+        {
+          "title": "寻汇联合万事达卡发布B2B行业首份AI智能体全球支付白皮书",
+          "url": "https://wallstreetcn.com/livenews/3136047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "B2B行业首份AI智能体全球支付白皮书发布",
+          "url": "https://flash.jin10.com/detail/20260718202648250800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "全球首个基于光量子技术路线的智能体平台：图灵量子发布行业级量子-经典混合Agent平台QAgent",
+          "url": "https://wallstreetcn.com/livenews/3136037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "高通：与荣耀等生态伙伴深化协作，推动智能体体验和终端的加速落地",
+          "url": "https://wallstreetcn.com/livenews/3136010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "图灵量子发布行业级量子-经典混合Agent平台QAgent",
+          "url": "https://flash.jin10.com/detail/20260718210029888800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "申通快递发布快递行业首个智能体平台“SClaw”",
+          "url": "https://wallstreetcn.com/livenews/3135821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 Apple iPhone",
       "match_count": 8,
       "titles": [
@@ -1455,11 +1756,12 @@
           "url": "https://wallstreetcn.com/articles/3777263",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时54分 ~ 22时18分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)将日本iPhone售价上调10%。",
@@ -1530,98 +1832,22 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek ChatGPT Claude Gemini Agent 智能体",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "智能体互信互联互操作全球合作倡议",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%99%BA%E8%83%BD%E4%BD%93%E4%BA%92%E4%BF%A1%E4%BA%92%E8%81%94%E4%BA%92%E6%93%8D%E4%BD%9C%E5%85%A8%E7%90%83%E5%90%88%E4%BD%9C%E5%80%A1%E8%AE%AE%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时02分 ~ 09时31分]"
-        },
-        {
-          "title": "智能体引爆Token经济，我国日均Token调用量增长超千倍",
-          "url": "https://wallstreetcn.com/livenews/3135970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时54分 ~ 18时11分]"
-        },
-        {
-          "title": "网易智企：集中展示AI Agent编排、AI Coding、AI客服等企业AI能力",
-          "url": "https://wallstreetcn.com/livenews/3135960",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 16时44分]"
-        },
-        {
-          "title": "阿里云发布Agent Native Cloud 全栈产品体系让智能体成为企业原生能力",
-          "url": "https://flash.jin10.com/detail/20260718162807590800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时44分 ~ 18时11分]"
-        },
-        {
-          "title": "B2B行业首份AI智能体全球支付白皮书发布",
-          "url": "https://flash.jin10.com/detail/20260718202648250800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
-          "title": "高通：与荣耀等生态伙伴深化协作，推动智能体体验和终端的加速落地",
-          "url": "https://wallstreetcn.com/livenews/3136010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
-          "title": "申通快递发布快递行业首个智能体平台“SClaw”",
-          "url": "https://wallstreetcn.com/livenews/3135821",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "商业航天 火箭 卫星互联网 北斗",
       "match_count": 6,
       "titles": [
+        {
+          "title": "印度民营火箭 Vikram-1 首飞成功入轨，成全球第三个拥有民营轨道发射能力的国家，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2061833227313189605",
+          "source": "知乎",
+          "ranks": [
+            13,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时46分 ~ 22时18分]"
+        },
         {
           "title": "由Skyroot公司制造的印度首枚私营部门火箭升空。",
           "url": "https://wallstreetcn.com/livenews/3135979",
@@ -1647,18 +1873,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时41分 ~ 16时44分]"
-        },
-        {
-          "title": "印度民营火箭 Vikram-1 首飞成功入轨，成全球第三个拥有民营轨道发射能力的国家，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2061833227313189605",
-          "source": "知乎",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时46分 ~ 20时54分]"
         },
         {
           "title": "火箭军女兵考700.9分斩获第一名",
@@ -1742,7 +1956,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -1775,6 +1989,17 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "旅游那达慕开幕了",
+          "url": "https://www.douyin.com/hot/2575757",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时46分 ~ 22时18分]"
+        },
+        {
           "title": "半夜断电 女子一问得知酒店突然倒闭",
           "url": "https://www.toutiao.com/trending/7663150903926538282/",
           "source": "今日头条",
@@ -1787,17 +2012,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时54分 ~ 07时44分]"
-        },
-        {
-          "title": "旅游那达慕开幕了",
-          "url": "https://www.douyin.com/hot/2575757",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时46分 ~ 20时54分]"
         },
         {
           "title": "酒店不想再送免费早餐了",
@@ -1868,11 +2082,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时46分 ~ 20时54分]"
+          "appearance_count": 4,
+          "time_info": "[19时46分 ~ 22时18分]"
         },
         {
           "title": "美国参议院民主党成员Warren发函总统特朗普的司法部，要求众多反垄断监管部门审查福克斯与Roku的并购交易。",
@@ -1926,6 +2141,23 @@
       ]
     },
     {
+      "keyword_group": "网络安全 数据安全 密码",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "图灵奖得主、量子密码学之父：警惕量子计算机回溯解密风险",
+          "url": "https://wallstreetcn.com/livenews/3136048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "脑机接口",
       "match_count": 1,
       "titles": [
@@ -1936,9 +2168,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时54分 ~ 22时18分]"
         }
       ]
     },
