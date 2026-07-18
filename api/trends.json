@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T19:46:42.945655+08:00",
-  "total_titles_processed": 1295,
+  "generated_at": "2026-07-18T20:54:45.020995+08:00",
+  "total_titles_processed": 1393,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "国防部：望各方理性看待中俄军事合作",
@@ -32,8 +32,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时41分 ~ 19时46分]"
+          "appearance_count": 7,
+          "time_info": "[12时41分 ~ 20时54分]"
         },
         {
           "title": "多项AI在世界人工智能大会首发首秀",
@@ -84,17 +84,6 @@
           "time_info": "18时11分"
         },
         {
-          "title": "上海发布首个疑难病例AI诊疗评测基准",
-          "url": "https://wallstreetcn.com/livenews/3136002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
           "title": "2026年暑期档票房突破40亿元",
           "url": "https://wallstreetcn.com/livenews/3135985",
           "source": "华尔街见闻-快讯",
@@ -131,6 +120,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时54分 ~ 18时11分]"
+        },
+        {
+          "title": "上海发布首个疑难病例AI诊疗评测基准",
+          "url": "https://wallstreetcn.com/livenews/3136002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 20时54分]"
         },
         {
           "title": "尽管遭遇抛售，交易员们仍在继续将资金涌入贝莱德（BlackRock）规模达224亿美元的 iShares MSCI South Korea ETF。 根据彭博社汇编的数据，该基金本周已吸引超过28亿美元的资金流入，有望创下其有史以来最佳的单周资金流入纪录。该基金将其约四分之一的投资组合配置在韩国上市的SK海力士（SK Hynix）股票上。",
@@ -183,6 +184,18 @@
           "time_info": "[18时11分 ~ 19时46分]"
         },
         {
+          "title": "上海发布首个疑难病例AI诊疗评测基准",
+          "url": "https://flash.jin10.com/detail/20260718185833199800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 20时54分]"
+        },
+        {
           "title": "房岩谈和周星驰合作",
           "url": "https://www.douyin.com/hot/2573893",
           "source": "抖音",
@@ -205,15 +218,15 @@
           "time_info": "18时11分"
         },
         {
-          "title": "上海发布首个疑难病例AI诊疗评测基准",
-          "url": "https://flash.jin10.com/detail/20260718185833199800",
-          "source": "金十数据",
+          "title": "超300款AI新品迎来全球首发",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B6%85300%E6%AC%BEAI%E6%96%B0%E5%93%81%E8%BF%8E%E6%9D%A5%E5%85%A8%E7%90%83%E9%A6%96%E5%8F%91%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时46分"
+          "time_info": "20时54分"
         },
         {
           "title": "育碧娱乐：《刺客信条：黑旗 记忆重置》一周内销量突破300万份",
@@ -306,8 +319,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时44分 ~ 19时46分]"
+          "appearance_count": 10,
+          "time_info": "[07时44分 ~ 20时54分]"
+        },
+        {
+          "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
+          "url": "https://wallstreetcn.com/articles/3777230",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时44分 ~ 20时54分]"
         },
         {
           "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
@@ -325,17 +352,17 @@
           "time_info": "[01时02分 ~ 16时44分]"
         },
         {
-          "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
-          "url": "https://wallstreetcn.com/articles/3777230",
+          "title": "Kimi K3 横空出世，大摩：中国前沿大模型已实现全面追赶，规模、性能与定价同步突破",
+          "url": "https://wallstreetcn.com/articles/3777236",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
-            3
+            9,
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[07时44分 ~ 19时46分]"
+          "time_info": "[09时30分 ~ 20时54分]"
         },
         {
           "title": "如何看待 Kimi K3 模型价格较上一代翻 5 倍，达到输出 100 元，输入 20 元，缓存命中 1 元？",
@@ -368,18 +395,6 @@
           "time_info": "[01时02分 ~ 09时31分]"
         },
         {
-          "title": "Kimi K3 横空出世，大摩：中国前沿大模型已实现全面追赶，规模、性能与定价同步突破",
-          "url": "https://wallstreetcn.com/articles/3777236",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时30分 ~ 19时46分]"
-        },
-        {
           "title": "费城半导体指数入熊之际：“Kimi时刻”刷屏华尔街！",
           "url": "https://www.cls.cn/detail/2430098",
           "source": "财联社热门",
@@ -389,8 +404,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时41分 ~ 19时46分]"
+          "appearance_count": 7,
+          "time_info": "[12时41分 ~ 20时54分]"
         },
         {
           "title": "如何评价月之暗面 kimi 最新发布的大模型 k3？对比全球其他大模型能力如何？",
@@ -399,11 +414,12 @@
           "ranks": [
             4,
             2,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时43分 ~ 19时46分]"
+          "appearance_count": 5,
+          "time_info": "[16时43分 ~ 20时54分]"
         },
         {
           "title": "Kimi冲击美科技股，纳指再跌1%，芯片股跌入熊市，美伊冲突升级油价大涨",
@@ -500,6 +516,18 @@
           "time_info": "[01时02分 ~ 02时54分]"
         },
         {
+          "title": "高盛点评Kimi K3：中国开源模型“智能”达到全球普及关键点，高端模型竞争激烈",
+          "url": "https://wallstreetcn.com/articles/3777291",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 20时54分]"
+        },
+        {
           "title": "Kimi K3引发美股震荡 月之暗面有望最快6个月内赴港上市",
           "url": "https://wallstreetcn.com/livenews/3135984",
           "source": "华尔街见闻-快讯",
@@ -521,17 +549,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时43分 ~ 16时44分]"
-        },
-        {
-          "title": "高盛点评Kimi K3：中国开源模型“智能”达到全球普及关键点，高端模型竞争激烈",
-          "url": "https://wallstreetcn.com/articles/3777291",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时46分"
         },
         {
           "title": "KimiK3测评",
@@ -562,7 +579,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         }
@@ -570,7 +587,7 @@
     },
     {
       "keyword_group": "无人机 通航",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "“洗衣机”发威一击“烧死”无人机",
@@ -638,6 +655,30 @@
           "time_info": "[12时41分 ~ 14时54分]"
         },
         {
+          "title": "科威特国防部发言人：自今日清晨起，武装部队在科威特领空内监测到敌方弹道导弹和无人机，并已对其进行拦截和处理。伊朗的袭击继续针对我国的多处军事和安全设施，以及若干关键基础设施和民用设施。袭击波及石油和电力行业的设施，导致火灾并造成严重损失。",
+          "url": "https://flash.jin10.com/detail/20260718190448394800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 20时54分]"
+        },
+        {
+          "title": "乌克兰国防部：2026年上半年，乌克兰军方签署的无人机合同总额约为75亿美元，是去年总量的两倍。其中，FPV无人机所占份额最大。",
+          "url": "https://flash.jin10.com/detail/20260718190003064800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 20时54分]"
+        },
+        {
           "title": "伊朗称击落一架美军MQ-9无人机",
           "url": "https://wallstreetcn.com/livenews/3135928",
           "source": "华尔街见闻-快讯",
@@ -662,26 +703,48 @@
           "time_info": "[07时44分 ~ 09时31分]"
         },
         {
-          "title": "科威特国防部发言人：自今日清晨起，武装部队在科威特领空内监测到敌方弹道导弹和无人机，并已对其进行拦截和处理。伊朗的袭击继续针对我国的多处军事和安全设施，以及若干关键基础设施和民用设施。袭击波及石油和电力行业的设施，导致火灾并造成严重损失。",
-          "url": "https://flash.jin10.com/detail/20260718190448394800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
-          "title": "乌克兰国防部：2026年上半年，乌克兰军方签署的无人机合同总额约为75亿美元，是去年总量的两倍。其中，FPV无人机所占份额最大。",
-          "url": "https://flash.jin10.com/detail/20260718190003064800",
+          "title": "俄罗斯莫斯科州遭无人机袭击 逾30人死伤",
+          "url": "https://flash.jin10.com/detail/20260718202823653800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时46分"
+          "time_info": "20时54分"
+        },
+        {
+          "title": "黑海无人机袭击后，里海管道联盟（CPC）石油码头基础设施运行正常",
+          "url": "https://wallstreetcn.com/livenews/3136026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "俄罗斯莫斯科州遭无人机袭击，逾30人死伤",
+          "url": "https://wallstreetcn.com/livenews/3136025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "博主：乌无人机打中俄罗斯七寸",
+          "url": "https://www.toutiao.com/trending/7663803973379296819/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "俄一物流中心遭无人机袭击7死24伤",
@@ -723,7 +786,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -786,7 +849,7 @@
     },
     {
       "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -959,6 +1022,17 @@
           "time_info": "03时59分"
         },
         {
+          "title": "锂电池开征消费税 新能源车要涨价吗",
+          "url": "https://www.toutiao.com/trending/7663809319988629018/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "现货黄金日内涨幅扩大至1.00%，现报4016.21美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260717234705100800",
           "source": "金十数据",
@@ -1005,166 +1079,8 @@
       ]
     },
     {
-      "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "Meta Platforms(META.O)跌幅收窄至3%，此前一度跌超5%，据称Meta正洽谈向Anthropic出租算力。",
-          "url": "https://flash.jin10.com/detail/20260718002704141800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "中国电信：适度超前建设算力基础设施",
-          "url": "https://wallstreetcn.com/livenews/3136004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
-          "title": "据悉Meta洽谈向Anthropic出租算力，交易规模至高达100亿美元",
-          "url": "https://flash.jin10.com/detail/20260718002633591800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "据纽约时报：Meta Platforms(META.O)正与Anthropic洽谈算力租赁协议，合作协议规模或高达100亿美元，为期两年。",
-          "url": "https://flash.jin10.com/detail/20260718002109421800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "蔚来芯片子公司神玑首次独立参展世界人工智能大会，发布多款前沿AI算力产品",
-          "url": "https://wallstreetcn.com/livenews/3135966",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 16时44分]"
-        },
-        {
-          "title": "“商汤号”算力卫星将于2026年首发组网，2030年建成“商汤太空算力星座”",
-          "url": "https://wallstreetcn.com/livenews/3135982",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时44分 ~ 19时46分]"
-        },
-        {
-          "title": "蔚来芯片子公司神玑首次独立参展世界人工智能大会，发布多款前沿AI算力产品",
-          "url": "https://flash.jin10.com/detail/20260718115729560800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 14时54分]"
-        },
-        {
-          "title": "据纽约时报，扎克伯格旗下Meta Platforms Inc.洽谈向Anthropic出租算力。 未来两年的潜在交易金额可能高达100亿美元。 相关磋商还处于早期阶段。 Meta跌幅收窄至3%。",
-          "url": "https://wallstreetcn.com/livenews/3135842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时54分]"
-        },
-        {
-          "title": "马斯克旗下太空探索公司SpaceX洽谈向美国五角大楼提供算力。 协议规模将小于与Anthropic和谷歌公司签署的协议。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3135881",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时56分]"
-        },
-        {
-          "title": "上海太空算力星座工程发布，商业运营阶段将完成千星部署",
-          "url": "https://wallstreetcn.com/livenews/3135989",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时11分 ~ 19时46分]"
-        },
-        {
-          "title": "平头哥真武芯片与阿里云磐久超节点服务器荣膺2026 WAIC“镇馆之宝”",
-          "url": "https://wallstreetcn.com/livenews/3135952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 14时54分]"
-        },
-        {
-          "title": "据悉SpaceX正洽谈为美国防部的AI项目提供数十亿美元算力",
-          "url": "https://flash.jin10.com/detail/20260718030935465800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "“商汤号”算力卫星将于2026年首发组网 2030年建成“商汤太空算力星座”",
-          "url": "https://flash.jin10.com/detail/20260718155028749800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时44分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人形机器人 机器人 具身智能 灵巧手",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
@@ -1175,8 +1091,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 19时46分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 20时54分]"
         },
         {
           "title": "全球首款机器人手机亮相引老外围观",
@@ -1204,8 +1120,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时54分 ~ 19时46分]"
+          "appearance_count": 6,
+          "time_info": "[14时54分 ~ 20时54分]"
+        },
+        {
+          "title": "千觉机器人首个VTLA具身触觉模型亮相世界人工智能大会",
+          "url": "https://flash.jin10.com/detail/20260718203633453800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "中兴通讯星系列人形机器人及具身智能解决方案亮相WAIC 2026",
@@ -1269,6 +1196,17 @@
           "time_info": "18时11分"
         },
         {
+          "title": "千觉机器人首个VTLA具身触觉模型亮相世界人工智能大会",
+          "url": "https://wallstreetcn.com/livenews/3136023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "傅利叶携多款机器人亮相WAIC",
           "url": "https://www.toutiao.com/trending/7663513800234205247/",
           "source": "今日头条",
@@ -1286,7 +1224,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -1326,8 +1264,178 @@
       ]
     },
     {
+      "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "Meta Platforms(META.O)跌幅收窄至3%，此前一度跌超5%，据称Meta正洽谈向Anthropic出租算力。",
+          "url": "https://flash.jin10.com/detail/20260718002704141800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "据悉Meta洽谈向Anthropic出租算力，交易规模至高达100亿美元",
+          "url": "https://flash.jin10.com/detail/20260718002633591800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "据纽约时报：Meta Platforms(META.O)正与Anthropic洽谈算力租赁协议，合作协议规模或高达100亿美元，为期两年。",
+          "url": "https://flash.jin10.com/detail/20260718002109421800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "蔚来芯片子公司神玑首次独立参展世界人工智能大会，发布多款前沿AI算力产品",
+          "url": "https://wallstreetcn.com/livenews/3135966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时41分 ~ 16时44分]"
+        },
+        {
+          "title": "“商汤号”算力卫星将于2026年首发组网，2030年建成“商汤太空算力星座”",
+          "url": "https://wallstreetcn.com/livenews/3135982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时44分 ~ 19时46分]"
+        },
+        {
+          "title": "中国电信：适度超前建设算力基础设施",
+          "url": "https://wallstreetcn.com/livenews/3136004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 20时54分]"
+        },
+        {
+          "title": "蔚来芯片子公司神玑首次独立参展世界人工智能大会，发布多款前沿AI算力产品",
+          "url": "https://flash.jin10.com/detail/20260718115729560800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 14时54分]"
+        },
+        {
+          "title": "据纽约时报，扎克伯格旗下Meta Platforms Inc.洽谈向Anthropic出租算力。 未来两年的潜在交易金额可能高达100亿美元。 相关磋商还处于早期阶段。 Meta跌幅收窄至3%。",
+          "url": "https://wallstreetcn.com/livenews/3135842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时54分]"
+        },
+        {
+          "title": "马斯克旗下太空探索公司SpaceX洽谈向美国五角大楼提供算力。 协议规模将小于与Anthropic和谷歌公司签署的协议。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3135881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时59分 ~ 04时56分]"
+        },
+        {
+          "title": "上海太空算力星座工程发布，商业运营阶段将完成千星部署",
+          "url": "https://wallstreetcn.com/livenews/3135989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 19时46分]"
+        },
+        {
+          "title": "平头哥真武芯片与阿里云磐久超节点服务器荣膺2026 WAIC“镇馆之宝”",
+          "url": "https://wallstreetcn.com/livenews/3135952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 14时54分]"
+        },
+        {
+          "title": "院士谈中国算力网发展：第一阶段算力汇聚已完成70%",
+          "url": "https://wallstreetcn.com/livenews/3136022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "据悉SpaceX正洽谈为美国防部的AI项目提供数十亿美元算力",
+          "url": "https://flash.jin10.com/detail/20260718030935465800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "“商汤号”算力卫星将于2026年首发组网 2030年建成“商汤太空算力星座”",
+          "url": "https://flash.jin10.com/detail/20260718155028749800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 Apple iPhone",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "苹果上调日本部分iPhone售价",
@@ -1341,6 +1449,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时44分 ~ 19时46分]"
+        },
+        {
+          "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
+          "url": "https://wallstreetcn.com/articles/3777263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "市场消息：苹果(AAPL.O)将日本iPhone售价上调10%。",
@@ -1411,84 +1530,8 @@
       ]
     },
     {
-      "keyword_group": "商业航天 火箭 卫星互联网 北斗",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "由Skyroot公司制造的印度首枚私营部门火箭升空。",
-          "url": "https://wallstreetcn.com/livenews/3135979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时44分 ~ 19时46分]"
-        },
-        {
-          "title": "印度总理莫迪：Skyroot将于上午11:30进行Vikram-1运载火箭的轨道发射，这是印度首枚私营企业自主研发的火箭。",
-          "url": "https://wallstreetcn.com/livenews/3135955",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 16时44分]"
-        },
-        {
-          "title": "火箭军工程大学举行2026届毕业典礼",
-          "url": "https://www.toutiao.com/trending/7662692001532002310/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时30分 ~ 09时31分]"
-        },
-        {
-          "title": "火箭军女兵考700.9分斩获第一名",
-          "url": "https://www.baidu.com/s?wd=%E7%81%AB%E7%AE%AD%E5%86%9B%E5%A5%B3%E5%85%B5%E8%80%83700.9%E5%88%86%E6%96%A9%E8%8E%B7%E7%AC%AC%E4%B8%80%E5%90%8D",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
-          "title": "印度民营火箭 Vikram-1 首飞成功入轨，成全球第三个拥有民营轨道发射能力的国家，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2061833227313189605",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
-          "title": "印度首枚民营火箭发射成功",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E9%A6%96%E6%9E%9A%E6%B0%91%E8%90%A5%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek ChatGPT Claude Gemini Agent 智能体",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "智能体互信互联互操作全球合作倡议",
@@ -1541,6 +1584,28 @@
           "time_info": "[16时44分 ~ 18时11分]"
         },
         {
+          "title": "B2B行业首份AI智能体全球支付白皮书发布",
+          "url": "https://flash.jin10.com/detail/20260718202648250800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "高通：与荣耀等生态伙伴深化协作，推动智能体体验和终端的加速落地",
+          "url": "https://wallstreetcn.com/livenews/3136010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "申通快递发布快递行业首个智能体平台“SClaw”",
           "url": "https://wallstreetcn.com/livenews/3135821",
           "source": "华尔街见闻-快讯",
@@ -1554,8 +1619,86 @@
       ]
     },
     {
+      "keyword_group": "商业航天 火箭 卫星互联网 北斗",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "由Skyroot公司制造的印度首枚私营部门火箭升空。",
+          "url": "https://wallstreetcn.com/livenews/3135979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时44分 ~ 19时46分]"
+        },
+        {
+          "title": "印度总理莫迪：Skyroot将于上午11:30进行Vikram-1运载火箭的轨道发射，这是印度首枚私营企业自主研发的火箭。",
+          "url": "https://wallstreetcn.com/livenews/3135955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时41分 ~ 16时44分]"
+        },
+        {
+          "title": "印度民营火箭 Vikram-1 首飞成功入轨，成全球第三个拥有民营轨道发射能力的国家，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2061833227313189605",
+          "source": "知乎",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 20时54分]"
+        },
+        {
+          "title": "火箭军女兵考700.9分斩获第一名",
+          "url": "https://www.baidu.com/s?wd=%E7%81%AB%E7%AE%AD%E5%86%9B%E5%A5%B3%E5%85%B5%E8%80%83700.9%E5%88%86%E6%96%A9%E8%8E%B7%E7%AC%AC%E4%B8%80%E5%90%8D",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 20时54分]"
+        },
+        {
+          "title": "火箭军工程大学举行2026届毕业典礼",
+          "url": "https://www.toutiao.com/trending/7662692001532002310/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 09时31分]"
+        },
+        {
+          "title": "印度首枚民营火箭发射成功",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E9%A6%96%E6%9E%9A%E6%B0%91%E8%90%A5%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "国务院 发改委 工信部 财政部 证监会",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "4人操纵股票，被证监会罚没6.27亿",
@@ -1565,8 +1708,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时02分 ~ 19时46分]"
+          "appearance_count": 18,
+          "time_info": "[01时02分 ~ 20时54分]"
         },
         {
           "title": "财政部等三部门：调整部分电池消费税政策",
@@ -1591,6 +1734,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
+        },
+        {
+          "title": "国务院国资委：国资央企要持续攻关基础算法、物理AI、智算芯片、量子通信等原创性技术",
+          "url": "https://flash.jin10.com/detail/20260718201459495800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "据习近平总书记重要指示和李强总理要求，中共中央政治局委员、国务院副总理张国清代表党中央、国务院，17日晚率有关部门负责同志赶赴重庆彭水县指导山体崩塌灾害现场搜救和应急处置工作。张国清强调，要全力科学搜救、严防次生灾害、细致做好受灾群众安置和基本生活保障。",
@@ -1635,6 +1789,17 @@
           "time_info": "[02时54分 ~ 07时44分]"
         },
         {
+          "title": "旅游那达慕开幕了",
+          "url": "https://www.douyin.com/hot/2575757",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 20时54分]"
+        },
+        {
           "title": "酒店不想再送免费早餐了",
           "url": "https://www.baidu.com/s?wd=%E9%85%92%E5%BA%97%E4%B8%8D%E6%83%B3%E5%86%8D%E9%80%81%E5%85%8D%E8%B4%B9%E6%97%A9%E9%A4%90%E4%BA%86",
           "source": "百度热搜",
@@ -1647,17 +1812,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时41分 ~ 18时11分]"
-        },
-        {
-          "title": "旅游那达慕开幕了",
-          "url": "https://www.douyin.com/hot/2575757",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时46分"
         },
         {
           "title": "房间半夜断电女子才知晓酒店已倒闭",
@@ -1709,6 +1863,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "龙头9天7板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2430229",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 20时54分]"
+        },
+        {
           "title": "美国参议院民主党成员Warren发函总统特朗普的司法部，要求众多反垄断监管部门审查福克斯与Roku的并购交易。",
           "url": "https://wallstreetcn.com/livenews/3135838",
           "source": "华尔街见闻-快讯",
@@ -1718,17 +1884,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        },
-        {
-          "title": "龙头9天7板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2430229",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时46分"
         }
       ]
     },
@@ -1767,6 +1922,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "脑机接口",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全国首张脑机接口处方开出",
+          "url": "https://www.douyin.com/hot/2575994",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         }
       ]
     },
