@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T17:55:41.556818+08:00",
-  "total_titles_processed": 1159,
+  "generated_at": "2026-07-19T19:05:59.607829+08:00",
+  "total_titles_processed": 1275,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "A股再现天价离婚：分手费59.5亿元，公司上市不足一年",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时45分 ~ 17时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时45分 ~ 19时05分]"
         },
         {
           "title": "上游订单爆表、下游不计代价！“大空头”查诺斯：AI这笔账为什么算不过来",
@@ -84,6 +85,17 @@
           "time_info": "[04时52分 ~ 05时42分]"
         },
         {
+          "title": "曝BLG签约新上单",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DBLG%E7%AD%BE%E7%BA%A6%E6%96%B0%E4%B8%8A%E5%8D%95%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 19时05分]"
+        },
+        {
           "title": "金冠电气：合计中标7481.51万元国家电网采购项目",
           "url": "https://flash.jin10.com/detail/20260719155730766800",
           "source": "金十数据",
@@ -96,23 +108,12 @@
         },
         {
           "title": "陕西首条专业化星载激光通信终端智能产线在西安投产",
-          "url": "https://flash.jin10.com/detail/20260719174636087800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
-          "title": "陕西首条专业化星载激光通信终端智能产线在西安投产",
           "url": "https://wallstreetcn.com/livenews/3136216",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -141,6 +142,17 @@
           "time_info": "09时48分"
         },
         {
+          "title": "据港交所文件：奥动新能源股份有限公司向港交所提交上市申请书。",
+          "url": "https://flash.jin10.com/detail/20260719184225351800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
           "title": "捷佳伟创TGV单片清洗设备取得量产订单",
           "url": "https://wallstreetcn.com/livenews/3136171",
           "source": "华尔街见闻-快讯",
@@ -152,27 +164,42 @@
           "time_info": "16时02分"
         },
         {
-          "title": "曝BLG签约新上单",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DBLG%E7%AD%BE%E7%BA%A6%E6%96%B0%E4%B8%8A%E5%8D%95%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
           "title": "85岁浙商12.9亿卖掉自家上市公司",
           "url": "https://www.toutiao.com/trending/7663290181172166675/",
           "source": "今日头条",
           "ranks": [
             6,
-            4
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时02分 ~ 19时05分]"
+        },
+        {
+          "title": "陕西首条专业化星载激光通信终端智能产线在西安投产",
+          "url": "https://flash.jin10.com/detail/20260719174636087800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时02分 ~ 17时55分]"
+          "time_info": "[17时55分 ~ 19时05分]"
+        },
+        {
+          "title": "电影《八仙！》票房突破 2 亿，猫眼预测超 14 亿，你觉得最终票房能到多少？",
+          "url": "https://www.zhihu.com/question/2062129573198657251",
+          "source": "知乎",
+          "ranks": [
+            19,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时02分 ~ 19时05分]"
         },
         {
           "title": "印尼投资部部长：对中印尼投资合作未来充满信心",
@@ -187,18 +214,6 @@
           "time_info": "[01时48分 ~ 02时49分]"
         },
         {
-          "title": "电影《八仙！》票房突破 2 亿，猫眼预测超 14 亿，你觉得最终票房能到多少？",
-          "url": "https://www.zhihu.com/question/2062129573198657251",
-          "source": "知乎",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 17时55分]"
-        },
-        {
           "title": "我国首个煤制油化工国家级质量标准实验室成立",
           "url": "https://wallstreetcn.com/livenews/3136170",
           "source": "华尔街见闻-快讯",
@@ -208,6 +223,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "长城H10新车12小时订单22615台",
+          "url": "https://www.toutiao.com/trending/7663435082292199487/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "今年上半年西南油气田天然气产量突破250亿立方米",
@@ -227,7 +253,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -241,6 +267,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "【阿里Token Plan个人版发布，Qwen3.8-Max预览版同步上线】刚刚，阿里Token Plan个人版正式发布，用户可在其中抢先体验Qwen3.8-Max-Preview。 Qwen3.8-Max参数量达2.4T，在代码工程和专业办公等场景中表现出色，可能是除了Fable 5外最强大的模型，正式版将于近期发布并开源。 Token Plan限时优惠： 个人版：Lite 39元/月（6.5折），Standard 139元/月（7.7折），Pro 499元/月（8.3折）。 团队版：标准席位 150元/席位/月（7.6折），高级席位 550元/席位/月（7.9折），尊享席位 1398元/席位/月。 Qwen3.8-Max-Preview限时活动： 白天Credits消耗1折，个人版Token plan夜间在此基础上再享2折 除Token Plan外，Qoder和QoderWork也已首发支持Qwen3.8-Max-Preview，千问PC端可免费体验。",
+          "url": "https://wallstreetcn.com/livenews/3136239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "上海“星枢计划”首发星座发布",
@@ -271,7 +308,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -326,7 +363,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -345,7 +382,7 @@
     },
     {
       "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "高盛点评Kimi K3：中国开源模型“智能”达到全球普及关键点，高端模型竞争激烈",
@@ -371,8 +408,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时45分 ~ 17时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时45分 ~ 19时05分]"
         },
         {
           "title": "Kimi冲击美科技股，纳指100一度跌2.7%、收盘跌幅收窄，芯片股进入熊市，油价大涨",
@@ -412,11 +449,12 @@
             14,
             19,
             24,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时45分 ~ 17时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时45分 ~ 19时05分]"
         },
         {
           "title": "Kimi K3测评报告",
@@ -432,6 +470,19 @@
           "time_info": "[00时45分 ~ 07时44分]"
         },
         {
+          "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
+          "url": "https://wallstreetcn.com/articles/3777339",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时13分 ~ 19时05分]"
+        },
+        {
           "title": "聚焦极端天气与城市灾害预警，“华雨GeoAI”大模型在WAIC首发",
           "url": "https://wallstreetcn.com/livenews/3136055",
           "source": "华尔街见闻-快讯",
@@ -444,17 +495,15 @@
           "time_info": "[00时45分 ~ 07时44分]"
         },
         {
-          "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
-          "url": "https://wallstreetcn.com/articles/3777339",
-          "source": "华尔街见闻",
+          "title": "TCL华星星智X-Intelligence大模型在显示领域超越Gemini 3.1 Pro与GPT-5.5 high",
+          "url": "https://wallstreetcn.com/livenews/3136253",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            5,
-            3
+            2
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时13分 ~ 17时55分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "白宫前AI政策官员、 OpenAI战略未来主管迪恩·鲍尔：Kimi K3是一个非常优秀的模型！我不认为它的表现可以简单归因于蒸馏或类似技术。在智能体编程场景中，它的表现似乎基本可以与2026年第一季度最优秀的公开模型相媲美。",
@@ -477,8 +526,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 17时55分]"
+          "appearance_count": 3,
+          "time_info": "[16时02分 ~ 19时05分]"
         },
         {
           "title": "Kimi K3把美股半导体干崩了",
@@ -489,8 +538,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时13分 ~ 17时55分]"
+          "appearance_count": 4,
+          "time_info": "[13时13分 ~ 19时05分]"
         },
         {
           "title": "月之暗面 Kimi 最新发布的大模型 K3 有哪些局限性？",
@@ -498,11 +547,24 @@
           "source": "知乎",
           "ranks": [
             12,
-            9
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时02分 ~ 19时05分]"
+        },
+        {
+          "title": "马斯克宣称要赶超Kimi",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%A3%E7%A7%B0%E8%A6%81%E8%B5%B6%E8%B6%85Kimi%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时02分 ~ 17时55分]"
+          "time_info": "[17时55分 ~ 19时05分]"
         },
         {
           "title": "日媒：印企越来越依赖中国AI大模型",
@@ -517,15 +579,15 @@
           "time_info": "[01时48分 ~ 04时52分]"
         },
         {
-          "title": "马斯克宣称要赶超Kimi",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%A3%E7%A7%B0%E8%A6%81%E8%B5%B6%E8%B6%85Kimi%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
+          "title": "Kimi K3重创美股半导体",
+          "url": "https://search.bilibili.com/all?keyword=Kimi%20K3%E9%87%8D%E5%88%9B%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93",
+          "source": "bilibili 热搜",
           "ranks": [
-            17
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时55分"
+          "time_info": "19时05分"
         },
         {
           "title": "阶跃星辰与上海期智研究院共建智能体前沿研究院",
@@ -608,7 +670,7 @@
     },
     {
       "keyword_group": "人形机器人 机器人 具身智能 灵巧手",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "直击2026WAIC：超300台真机扎堆，具身智能离GPT时刻还差海量物理数据",
@@ -620,8 +682,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时45分 ~ 17时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时45分 ~ 19时05分]"
         },
         {
           "title": "地瓜机器人携手芯视界，推出行业首个专为具身机器人打造的1:1面阵固态激光雷达方案",
@@ -658,6 +720,17 @@
           "time_info": "16时02分"
         },
         {
+          "title": "万拿机器人发布两款灵巧手产品",
+          "url": "https://wallstreetcn.com/livenews/3136249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
           "title": "机器人在WAIC一脚踹出真本事",
           "url": "https://www.douyin.com/hot/2574930",
           "source": "抖音",
@@ -679,6 +752,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时48分 ~ 04时01分]"
+        },
+        {
+          "title": "监管部门急开闭门会，探讨情感机器人万亿市场与合规困局",
+          "url": "https://wallstreetcn.com/livenews/3136247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "优必选携手韩国伙伴，推动人形机器人落地汽车零部件制造场景",
+          "url": "https://wallstreetcn.com/livenews/3136245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "凤凰实拍俄军机器人车辆训练：由于西方封锁，自主作战仍存短板",
@@ -712,6 +807,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "大晓机器人WAIC发布开悟世界模型3.1，具身物理智能统一评测基准平台同步亮相",
+          "url": "https://wallstreetcn.com/livenews/3136237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "心言集团首款家庭主动智能陪伴机器人巴布亮相世界人工智能大会",
@@ -786,9 +892,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
+        },
+        {
+          "title": "启明创投：头部机器人公司的有效数据将在2027年达到“百万小时级”",
+          "url": "https://wallstreetcn.com/livenews/3136225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "机器人手机从概念到现实意味着什么",
@@ -805,7 +922,7 @@
     },
     {
       "keyword_group": "无人机 通航",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "世界杯决赛即将打响，无人机秀在哈德逊河畔上演",
@@ -881,6 +998,29 @@
           "time_info": "[13时14分 ~ 16时02分]"
         },
         {
+          "title": "俄罗斯为何“拦不住无人机”",
+          "url": "https://www.toutiao.com/trending/7663194568405811254/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 19时05分]"
+        },
+        {
+          "title": "俄罗斯为何拦不住无人机？",
+          "url": "https://news.ifeng.com/c/8ut6e6rBTnP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
           "title": "伊朗媒体称伊朗击落一架美军无人机",
           "url": "https://wallstreetcn.com/livenews/3136169",
           "source": "华尔街见闻-快讯",
@@ -901,6 +1041,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "巴林称拦截伊朗导弹和无人机",
+          "url": "https://flash.jin10.com/detail/20260719183054706800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "以色列军方：发现该无人机后，以色列空军在该地区发现一个真主党武装小组。以军对这些武装人员实施打击，以消除其对附近执行任务的以军士兵构成的威胁。",
@@ -969,13 +1120,137 @@
           "time_info": "16时02分"
         },
         {
-          "title": "俄罗斯为何“拦不住无人机”",
-          "url": "https://www.toutiao.com/trending/7663194568405811254/",
-          "source": "今日头条",
+          "title": "巴林称拦截伊朗导弹和无人机",
+          "url": "https://wallstreetcn.com/livenews/3136231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "上海标志性太空算力星座工程发布 剑指千星部署 商业航天再迎催化",
+          "url": "https://www.cls.cn/detail/2430247",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时45分 ~ 19时05分]"
+        },
+        {
+          "title": "华为、阿里等集体亮剑 超节点多成果亮相WAIC 国产算力向互联和系统集成延伸",
+          "url": "https://www.cls.cn/detail/2430308",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[04时01分 ~ 19时05分]"
+        },
+        {
+          "title": "曦智科技全栈光电算力技术亮相WAIC 2026",
+          "url": "https://wallstreetcn.com/livenews/3136059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 07时44分]"
+        },
+        {
+          "title": "天数智芯WAIC发布新一代通用GPU旗舰产品天垓300",
+          "url": "https://flash.jin10.com/detail/20260719184851120800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "国产AI算力迈入万卡集群时代：超节点市场刚起步，供应链依旧紧张",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33609877",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时48分 ~ 05时42分]"
+        },
+        {
+          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777355",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 19时05分]"
+        },
+        {
+          "title": "Meta算力变现迎首位大客户，报道：拟向Anthropic出租算力，合同达100亿美元",
+          "url": "https://wallstreetcn.com/articles/3777257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "天数智芯WAIC发布新一代通用GPU旗舰产品天垓300",
+          "url": "https://wallstreetcn.com/livenews/3136235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "后摩智能WAIC展出M50芯片落地的多款AI终端，10W功耗下算力达160 TOPS",
+          "url": "https://wallstreetcn.com/livenews/3136130",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
+          "title": "【新易盛：预计2026年上半年净利润同比增长77.56%～102.93%】新易盛公告，预计2026年1月1日—2026年6月30日归属于上市公司股东的净利润为70亿元～80亿元，同比增长77.56%～102.93%；扣除非经常性损益后的净利润为69.81亿元～79.81亿元，同比增长77.46%～102.88%。报告期内公司受益于人工智能相关算力投资持续增长，产品结构优化，公司预计销售收入和净利润较上年同期大幅增加。",
+          "url": "https://wallstreetcn.com/livenews/3136190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         }
@@ -1020,11 +1295,12 @@
           "ranks": [
             2,
             16,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时44分 ~ 17时55分]"
+          "appearance_count": 7,
+          "time_info": "[07时44分 ~ 19时05分]"
         },
         {
           "title": "黄金短期难破僵局，期权数据与主力动向暗示底部夯实",
@@ -1068,7 +1344,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -1079,7 +1355,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -1090,106 +1366,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "上海标志性太空算力星座工程发布 剑指千星部署 商业航天再迎催化",
-          "url": "https://www.cls.cn/detail/2430247",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时45分 ~ 17时55分]"
-        },
-        {
-          "title": "华为、阿里等集体亮剑 超节点多成果亮相WAIC 国产算力向互联和系统集成延伸",
-          "url": "https://www.cls.cn/detail/2430308",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时01分 ~ 17时55分]"
-        },
-        {
-          "title": "曦智科技全栈光电算力技术亮相WAIC 2026",
-          "url": "https://wallstreetcn.com/livenews/3136059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 07时44分]"
-        },
-        {
-          "title": "国产AI算力迈入万卡集群时代：超节点市场刚起步，供应链依旧紧张",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33609877",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时48分 ~ 05时42分]"
-        },
-        {
-          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777355",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
-          "title": "Meta算力变现迎首位大客户，报道：拟向Anthropic出租算力，合同达100亿美元",
-          "url": "https://wallstreetcn.com/articles/3777257",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
-          "title": "后摩智能WAIC展出M50芯片落地的多款AI终端，10W功耗下算力达160 TOPS",
-          "url": "https://wallstreetcn.com/livenews/3136130",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时14分"
-        },
-        {
-          "title": "【新易盛：预计2026年上半年净利润同比增长77.56%～102.93%】新易盛公告，预计2026年1月1日—2026年6月30日归属于上市公司股东的净利润为70亿元～80亿元，同比增长77.56%～102.93%；扣除非经常性损益后的净利润为69.81亿元～79.81亿元，同比增长77.46%～102.88%。报告期内公司受益于人工智能相关算力投资持续增长，产品结构优化，公司预计销售收入和净利润较上年同期大幅增加。",
-          "url": "https://wallstreetcn.com/livenews/3136190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "17时55分"
         }
@@ -1205,11 +1382,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 17时55分]"
+          "appearance_count": 3,
+          "time_info": "[16时02分 ~ 19时05分]"
         },
         {
           "title": "中国工程院院士郑纬民：智能体时代，产出稳定且低成本Token（词元）的能力非常稀缺",
@@ -1243,6 +1421,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "免税 旅游 酒店 餐饮",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "旅游那达慕开幕了",
+          "url": "https://www.douyin.com/hot/2575757",
+          "source": "抖音",
+          "ranks": [
+            1,
+            2,
+            5,
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 16时02分]"
+        },
+        {
+          "title": "情侣裸睡遭陌生人闯入酒店拒道歉",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E8%A3%B8%E7%9D%A1%E9%81%AD%E9%99%8C%E7%94%9F%E4%BA%BA%E9%97%AF%E5%85%A5%E9%85%92%E5%BA%97%E6%8B%92%E9%81%93%E6%AD%89%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "旅游那达慕开幕 乌兰图雅现身现场",
+          "url": "https://www.baidu.com/s?wd=%E6%97%85%E6%B8%B8%E9%82%A3%E8%BE%BE%E6%85%95%E5%BC%80%E5%B9%95+%E4%B9%8C%E5%85%B0%E5%9B%BE%E9%9B%85%E7%8E%B0%E8%BA%AB%E7%8E%B0%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时42分 ~ 06时40分]"
+        },
+        {
+          "title": "长沙男子6天敲诈6家餐饮店被刑拘",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E7%94%B7%E5%AD%906%E5%A4%A9%E6%95%B2%E8%AF%886%E5%AE%B6%E9%A4%90%E9%A5%AE%E5%BA%97%E8%A2%AB%E5%88%91%E6%8B%98",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
         }
       ]
     },
@@ -1283,50 +1516,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "免税 旅游 酒店 餐饮",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "旅游那达慕开幕了",
-          "url": "https://www.douyin.com/hot/2575757",
-          "source": "抖音",
-          "ranks": [
-            1,
-            2,
-            5,
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 16时02分]"
-        },
-        {
-          "title": "旅游那达慕开幕 乌兰图雅现身现场",
-          "url": "https://www.baidu.com/s?wd=%E6%97%85%E6%B8%B8%E9%82%A3%E8%BE%BE%E6%85%95%E5%BC%80%E5%B9%95+%E4%B9%8C%E5%85%B0%E5%9B%BE%E9%9B%85%E7%8E%B0%E8%BA%AB%E7%8E%B0%E5%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时40分]"
-        },
-        {
-          "title": "长沙男子6天敲诈6家餐饮店被刑拘",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E7%94%B7%E5%AD%906%E5%A4%A9%E6%95%B2%E8%AF%886%E5%AE%B6%E9%A4%90%E9%A5%AE%E5%BA%97%E8%A2%AB%E5%88%91%E6%8B%98",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时14分]"
         }
       ]
     },
@@ -1482,11 +1671,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时45分 ~ 17时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时45分 ~ 19时05分]"
         }
       ]
     }
