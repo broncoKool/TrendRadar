@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T22:22:19.769199+08:00",
-  "total_titles_processed": 1518,
+  "generated_at": "2026-07-19T23:49:14.867122+08:00",
+  "total_titles_processed": 1613,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 38,
+      "match_count": 43,
       "titles": [
         {
           "title": "A股再现天价离婚：分手费59.5亿元，公司上市不足一年",
@@ -69,11 +69,25 @@
             4,
             16,
             20,
-            22
+            22,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时02分 ~ 22时22分]"
+          "appearance_count": 9,
+          "time_info": "[16时02分 ~ 23时49分]"
+        },
+        {
+          "title": "电影《八仙！》票房突破 2 亿，猫眼预测超 14 亿，你觉得最终票房能到多少？",
+          "url": "https://www.zhihu.com/question/2062129573198657251",
+          "source": "知乎",
+          "ranks": [
+            19,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时02分 ~ 23时49分]"
         },
         {
           "title": "王毅：赞赏印尼方重申欢迎中资企业赴印尼投资合作",
@@ -101,19 +115,6 @@
           "time_info": "[17时55分 ~ 22时22分]"
         },
         {
-          "title": "电影《八仙！》票房突破 2 亿，猫眼预测超 14 亿，你觉得最终票房能到多少？",
-          "url": "https://www.zhihu.com/question/2062129573198657251",
-          "source": "知乎",
-          "ranks": [
-            19,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时02分 ~ 22时22分]"
-        },
-        {
           "title": "法国vs英格兰首发出炉",
           "url": "https://search.bilibili.com/all?keyword=%E6%B3%95%E5%9B%BDvs%E8%8B%B1%E6%A0%BC%E5%85%B0%E9%A6%96%E5%8F%91%E5%87%BA%E7%82%89",
           "source": "bilibili 热搜",
@@ -124,6 +125,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时52分 ~ 05时42分]"
+        },
+        {
+          "title": "波音在范堡罗航展上聚焦产能提升，而非新订单",
+          "url": "https://wallstreetcn.com/livenews/3136312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "金冠电气：合计中标7481.51万元国家电网采购项目",
@@ -194,6 +206,19 @@
           "time_info": "16时02分"
         },
         {
+          "title": "国家管网集团天津LNG接收站迎来投产第500船",
+          "url": "https://wallstreetcn.com/livenews/3136279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时57分 ~ 23时49分]"
+        },
+        {
           "title": "陕西首条专业化星载激光通信终端智能产线在西安投产",
           "url": "https://flash.jin10.com/detail/20260719174636087800",
           "source": "金十数据",
@@ -206,18 +231,6 @@
           "time_info": "[17时55分 ~ 19时05分]"
         },
         {
-          "title": "国家管网集团天津LNG接收站迎来投产第500船",
-          "url": "https://wallstreetcn.com/livenews/3136279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时57分 ~ 22时22分]"
-        },
-        {
           "title": "长城H10新车12小时订单22615台",
           "url": "https://www.toutiao.com/trending/7663435082292199487/",
           "source": "今日头条",
@@ -228,6 +241,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时05分 ~ 20时57分]"
+        },
+        {
+          "title": "失眠药扎堆上市",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%B1%E7%9C%A0%E8%8D%AF%E6%89%8E%E5%A0%86%E4%B8%8A%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时48分 ~ 23时49分]"
         },
         {
           "title": "印尼投资部部长：对中印尼投资合作未来充满信心",
@@ -252,6 +276,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时57分 ~ 22时22分]"
+        },
+        {
+          "title": "成立世界人工智能合作组织，中国参与全球治理核心战略的历史性转型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33614666",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时48分 ~ 23时49分]"
+        },
+        {
+          "title": "功夫女足上映9天票房突破13亿",
+          "url": "https://www.douyin.com/hot/2577564",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时48分 ~ 23时49分]"
+        },
+        {
+          "title": "全新坦克300上市：空间更大越野更强",
+          "url": "https://www.toutiao.com/trending/7664067720526397450/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时48分 ~ 23时49分]"
         },
         {
           "title": "我国首个煤制油化工国家级质量标准实验室成立",
@@ -392,7 +449,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -455,7 +512,7 @@
     },
     {
       "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "高盛点评Kimi K3：中国开源模型“智能”达到全球普及关键点，高端模型竞争激烈",
@@ -505,8 +562,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时13分 ~ 22时22分]"
+          "appearance_count": 11,
+          "time_info": "[13时13分 ~ 23时49分]"
         },
         {
           "title": "SemiAnalysis：Kimi K3的KDA机制提高注意力效率，但将需要更多的GPU、HBM、DRAM和网络，而非更少！",
@@ -515,11 +572,12 @@
           "ranks": [
             8,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时02分 ~ 22时22分]"
+          "appearance_count": 9,
+          "time_info": "[16时02分 ~ 23时49分]"
         },
         {
           "title": "DeepSeek V4 正式版即将发布，有哪些值得关注的亮点？",
@@ -571,6 +629,17 @@
           "time_info": "[00时45分 ~ 07时44分]"
         },
         {
+          "title": "中国大模型首次登顶全球代码榜",
+          "url": "https://www.douyin.com/hot/2577641",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时21分 ~ 23时49分]"
+        },
+        {
           "title": "聚焦极端天气与城市灾害预警，“华雨GeoAI”大模型在WAIC首发",
           "url": "https://wallstreetcn.com/livenews/3136055",
           "source": "华尔街见闻-快讯",
@@ -583,15 +652,44 @@
           "time_info": "[00时45分 ~ 07时44分]"
         },
         {
-          "title": "中国大模型首次登顶全球代码榜",
-          "url": "https://www.douyin.com/hot/2577641",
-          "source": "抖音",
+          "title": "Kimi K3让全球AI圈炸锅了",
+          "url": "https://www.toutiao.com/trending/7664192249667784198/",
+          "source": "今日头条",
           "ranks": [
-            3
+            7,
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时22分]"
+          "appearance_count": 6,
+          "time_info": "[20时56分 ~ 23时49分]"
+        },
+        {
+          "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
+          "url": "https://www.zhihu.com/question/2061156114658485568",
+          "source": "知乎",
+          "ranks": [
+            13,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时56分 ~ 23时49分]"
+        },
+        {
+          "title": "马斯克宣称要赶超Kimi",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%A3%E7%A7%B0%E8%A6%81%E8%B5%B6%E8%B6%85Kimi%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            15,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时55分 ~ 23时49分]"
         },
         {
           "title": "白宫前AI政策官员、 OpenAI战略未来主管迪恩·鲍尔：Kimi K3是一个非常优秀的模型！我不认为它的表现可以简单归因于蒸馏或类似技术。在智能体编程场景中，它的表现似乎基本可以与2026年第一季度最优秀的公开模型相媲美。",
@@ -616,43 +714,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时05分 ~ 20时57分]"
-        },
-        {
-          "title": "Kimi K3让全球AI圈炸锅了",
-          "url": "https://www.toutiao.com/trending/7664192249667784198/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时56分 ~ 22时22分]"
-        },
-        {
-          "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
-          "url": "https://www.zhihu.com/question/2061156114658485568",
-          "source": "知乎",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时56分 ~ 22时22分]"
-        },
-        {
-          "title": "马斯克宣称要赶超Kimi",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%A3%E7%A7%B0%E8%A6%81%E8%B5%B6%E8%B6%85Kimi%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时55分 ~ 20时57分]"
         },
         {
           "title": "Kimi K3把美股半导体干崩了",
@@ -680,6 +741,17 @@
           "time_info": "[16时02分 ~ 19时05分]"
         },
         {
+          "title": "如何看待部分社区认为 DeepSeek-V4 的灰度测试是路由 Claude Fable 、 Opus 等模型？",
+          "url": "https://www.zhihu.com/question/2062188301013071138",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时48分 ~ 23时49分]"
+        },
+        {
           "title": "Kimi K3让美国AI巨头慌了",
           "url": "https://www.baidu.com/s?wd=Kimi+K3%E8%AE%A9%E7%BE%8E%E5%9B%BDAI%E5%B7%A8%E5%A4%B4%E6%85%8C%E4%BA%86",
           "source": "百度热搜",
@@ -701,6 +773,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时48分 ~ 04时52分]"
+        },
+        {
+          "title": "月之暗面Kimi：算力紧缺 暂停C端新用户订阅",
+          "url": "https://flash.jin10.com/detail/20260719230516518800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "Kimi K3重创美股半导体",
@@ -869,6 +952,19 @@
           "time_info": "[19时05分 ~ 20时57分]"
         },
         {
+          "title": "创通联达具身智能产品TurboX IRB10全球首发落地",
+          "url": "https://wallstreetcn.com/livenews/3136277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时57分 ~ 23时49分]"
+        },
+        {
           "title": "“真干活机器人”在WAIC走红",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%9C%9F%E5%B9%B2%E6%B4%BB%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9D%E5%9C%A8WAIC%E8%B5%B0%E7%BA%A2",
           "source": "百度热搜",
@@ -902,18 +998,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时05分 ~ 20时57分]"
-        },
-        {
-          "title": "创通联达具身智能产品TurboX IRB10全球首发落地",
-          "url": "https://wallstreetcn.com/livenews/3136277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时57分 ~ 22时22分]"
         },
         {
           "title": "优必选携手韩国伙伴，推动人形机器人落地汽车零部件制造场景",
@@ -1074,7 +1158,7 @@
     },
     {
       "keyword_group": "无人机 通航",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "世界杯决赛即将打响，无人机秀在哈德逊河畔上演",
@@ -1089,6 +1173,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时45分 ~ 13时14分]"
+        },
+        {
+          "title": "俄罗斯为何拦不住无人机？",
+          "url": "https://news.ifeng.com/c/8ut6e6rBTnP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时05分 ~ 23时49分]"
         },
         {
           "title": "俄称日乌无人机合作是敌对行为",
@@ -1127,17 +1222,6 @@
           "time_info": "16时02分"
         },
         {
-          "title": "俄罗斯为何拦不住无人机？",
-          "url": "https://news.ifeng.com/c/8ut6e6rBTnP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时05分 ~ 22时22分]"
-        },
-        {
           "title": "乌称基辅遭大规模无人机和导弹联合打击",
           "url": "https://wallstreetcn.com/livenews/3136173",
           "source": "华尔街见闻-快讯",
@@ -1172,6 +1256,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时55分 ~ 20时57分]"
+        },
+        {
+          "title": "伊朗称击落一架美国LUCAS无人机",
+          "url": "https://flash.jin10.com/detail/20260719230939240800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "伊朗媒体称伊朗击落一架美军无人机",
@@ -1235,7 +1330,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -1293,6 +1388,145 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "上海标志性太空算力星座工程发布 剑指千星部署 商业航天再迎催化",
+          "url": "https://www.cls.cn/detail/2430247",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            7,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时45分 ~ 23时49分]"
+        },
+        {
+          "title": "华为、阿里等集体亮剑 超节点多成果亮相WAIC 国产算力向互联和系统集成延伸",
+          "url": "https://www.cls.cn/detail/2430308",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[04时01分 ~ 23时49分]"
+        },
+        {
+          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777355",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时55分 ~ 23时49分]"
+        },
+        {
+          "title": "曦智科技全栈光电算力技术亮相WAIC 2026",
+          "url": "https://wallstreetcn.com/livenews/3136059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 07时44分]"
+        },
+        {
+          "title": "天数智芯WAIC发布新一代通用GPU旗舰产品天垓300",
+          "url": "https://flash.jin10.com/detail/20260719184851120800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "光电融合芯片有望让Token成本降50% 国产算力集群或成降本关键",
+          "url": "https://flash.jin10.com/detail/20260719231626041800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "国产AI算力迈入万卡集群时代：超节点市场刚起步，供应链依旧紧张",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33609877",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时48分 ~ 05时42分]"
+        },
+        {
+          "title": "Meta算力变现迎首位大客户，报道：拟向Anthropic出租算力，合同达100亿美元",
+          "url": "https://wallstreetcn.com/articles/3777257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "天数智芯WAIC发布新一代通用GPU旗舰产品天垓300",
+          "url": "https://wallstreetcn.com/livenews/3136235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "后摩智能WAIC展出M50芯片落地的多款AI终端，10W功耗下算力达160 TOPS",
+          "url": "https://wallstreetcn.com/livenews/3136130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
+          "title": "【新易盛：预计2026年上半年净利润同比增长77.56%～102.93%】新易盛公告，预计2026年1月1日—2026年6月30日归属于上市公司股东的净利润为70亿元～80亿元，同比增长77.56%～102.93%；扣除非经常性损益后的净利润为69.81亿元～79.81亿元，同比增长77.46%～102.88%。报告期内公司受益于人工智能相关算力投资持续增长，产品结构优化，公司预计销售收入和净利润较上年同期大幅增加。",
+          "url": "https://wallstreetcn.com/livenews/3136190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         }
       ]
     },
@@ -1436,134 +1670,6 @@
       ]
     },
     {
-      "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "上海标志性太空算力星座工程发布 剑指千星部署 商业航天再迎催化",
-          "url": "https://www.cls.cn/detail/2430247",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            7,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时45分 ~ 22时22分]"
-        },
-        {
-          "title": "华为、阿里等集体亮剑 超节点多成果亮相WAIC 国产算力向互联和系统集成延伸",
-          "url": "https://www.cls.cn/detail/2430308",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[04时01分 ~ 22时22分]"
-        },
-        {
-          "title": "曦智科技全栈光电算力技术亮相WAIC 2026",
-          "url": "https://wallstreetcn.com/livenews/3136059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 07时44分]"
-        },
-        {
-          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777355",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时55分 ~ 22时22分]"
-        },
-        {
-          "title": "天数智芯WAIC发布新一代通用GPU旗舰产品天垓300",
-          "url": "https://flash.jin10.com/detail/20260719184851120800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时05分"
-        },
-        {
-          "title": "国产AI算力迈入万卡集群时代：超节点市场刚起步，供应链依旧紧张",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33609877",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时48分 ~ 05时42分]"
-        },
-        {
-          "title": "Meta算力变现迎首位大客户，报道：拟向Anthropic出租算力，合同达100亿美元",
-          "url": "https://wallstreetcn.com/articles/3777257",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
-          "title": "天数智芯WAIC发布新一代通用GPU旗舰产品天垓300",
-          "url": "https://wallstreetcn.com/livenews/3136235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时05分"
-        },
-        {
-          "title": "后摩智能WAIC展出M50芯片落地的多款AI终端，10W功耗下算力达160 TOPS",
-          "url": "https://wallstreetcn.com/livenews/3136130",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时14分"
-        },
-        {
-          "title": "【新易盛：预计2026年上半年净利润同比增长77.56%～102.93%】新易盛公告，预计2026年1月1日—2026年6月30日归属于上市公司股东的净利润为70亿元～80亿元，同比增长77.56%～102.93%；扣除非经常性损益后的净利润为69.81亿元～79.81亿元，同比增长77.46%～102.88%。报告期内公司受益于人工智能相关算力投资持续增长，产品结构优化，公司预计销售收入和净利润较上年同期大幅增加。",
-          "url": "https://wallstreetcn.com/livenews/3136190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek ChatGPT Claude Gemini Agent 智能体",
       "match_count": 5,
       "titles": [
@@ -1575,11 +1681,12 @@
             12,
             10,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时02分 ~ 22时22分]"
+          "appearance_count": 9,
+          "time_info": "[16时02分 ~ 23时49分]"
         },
         {
           "title": "中国工程院院士郑纬民：智能体时代，产出稳定且低成本Token（词元）的能力非常稀缺",
@@ -1624,6 +1731,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国务院 发改委 工信部 财政部 证监会",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美国国务院：美国国务卿鲁比奥与黎巴嫩总统奥恩讨论了三方框架的实施。",
+          "url": "https://flash.jin10.com/detail/20260719232035860800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "美国国务院：美国国务卿鲁比奥于周日会见了黎巴嫩总统奥恩。",
+          "url": "https://flash.jin10.com/detail/20260719232005240800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "美国务院建议全球范围美公民提高警惕",
+          "url": "https://wallstreetcn.com/livenews/3136144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 16时02分]"
+        },
+        {
+          "title": "韩国财政部：将允许外国投资者交易更多以韩元计价的债券，并可从国内外汇银行借入韩元。",
+          "url": "https://flash.jin10.com/detail/20260719110115291800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
+          "title": "美国务院建议全球范围美公民提高警惕",
+          "url": "https://flash.jin10.com/detail/20260719104327535800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         }
       ]
     },
@@ -1707,7 +1876,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -1721,46 +1890,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国务院 发改委 工信部 财政部 证监会",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美国务院建议全球范围美公民提高警惕",
-          "url": "https://wallstreetcn.com/livenews/3136144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 16时02分]"
-        },
-        {
-          "title": "韩国财政部：将允许外国投资者交易更多以韩元计价的债券，并可从国内外汇银行借入韩元。",
-          "url": "https://flash.jin10.com/detail/20260719110115291800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时14分"
-        },
-        {
-          "title": "美国务院建议全球范围美公民提高警惕",
-          "url": "https://flash.jin10.com/detail/20260719104327535800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时14分"
         }
       ]
     },
@@ -1890,8 +2019,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时45分 ~ 22时22分]"
+          "appearance_count": 21,
+          "time_info": "[00时45分 ~ 23时49分]"
         }
       ]
     }
