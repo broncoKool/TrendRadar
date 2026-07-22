@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T09:47:31.625466+08:00",
-  "total_titles_processed": 812,
+  "generated_at": "2026-07-22T13:02:18.607895+08:00",
+  "total_titles_processed": 998,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "绝地大反转！科创50狂涨超10%，芯片半导体集体爆发、存储“一哥”涨停，恒科指涨超1%，智谱飙涨超35%",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 09时47分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 13时02分]"
         },
         {
           "title": "我在豆包养宠物",
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 09时47分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 13时02分]"
         },
         {
           "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
@@ -67,11 +67,24 @@
           "source": "贴吧",
           "ranks": [
             22,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 09时47分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 13时02分]"
+        },
+        {
+          "title": "AI“斯普特尼克时刻”！Kimi K3震动硅谷，Stability AI联合创始人：推理成本还有10至50倍下降空间",
+          "url": "https://wallstreetcn.com/articles/3777546",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[05时56分 ~ 13时02分]"
         },
         {
           "title": "Kimi 新模型 K3 跑分力压 ClaudeFable5 登顶，这将对大模型市场格局产生哪些影响？",
@@ -88,16 +101,15 @@
           "time_info": "[05时56分 ~ 09时47分]"
         },
         {
-          "title": "AI“斯普特尼克时刻”！Kimi K3震动硅谷，Stability AI联合创始人：推理成本还有10至50倍下降空间",
-          "url": "https://wallstreetcn.com/articles/3777546",
-          "source": "华尔街见闻",
+          "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
+          "url": "https://www.zhihu.com/question/2062943431668789795",
+          "source": "知乎",
           "ranks": [
-            8,
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时56分 ~ 09时47分]"
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
@@ -111,6 +123,18 @@
           "time_info": "[00时18分 ~ 04时15分]"
         },
         {
+          "title": "美股存储概念全线爆发！华尔街喊话坚守AI硬件股：Kimi K3将催生新需求",
+          "url": "https://www.cls.cn/detail/2433303",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 13时02分]"
+        },
+        {
           "title": "怎么看谷歌发布了 Gemini 3.6 flash 和 3.5 lite，但是 pro 又缺席？",
           "url": "https://www.zhihu.com/question/2063033606767895735",
           "source": "知乎",
@@ -122,13 +146,24 @@
           "time_info": "[05时56分 ~ 06时47分]"
         },
         {
+          "title": "Kimi 创始人杨植麟回国创业引热议，怎样看待他的选择？",
+          "url": "https://www.zhihu.com/question/2062858490343953648",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 13时02分]"
+        },
+        {
           "title": "港股大模型股持续走低，智谱(02513.HK)回调跌超10%，MINIMAX-W(00100.HK)跌超5%。",
           "url": "https://flash.jin10.com/detail/20260722093959452800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -150,7 +185,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -161,7 +196,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -177,17 +212,6 @@
           "time_info": "04时15分"
         },
         {
-          "title": "美股存储概念全线爆发！华尔街喊话坚守AI硬件股：Kimi K3将催生新需求",
-          "url": "https://www.cls.cn/detail/2433303",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
           "title": "Alphabet旗下谷歌公司推出Gemini 3.6 Flash，3.5 Flash-LITE、以及3.5 Flash Cyber。 目前，Gemini 3.5 Pro处于与合作伙伴的测试过程中。",
           "url": "https://wallstreetcn.com/livenews/3137668",
           "source": "华尔街见闻-快讯",
@@ -199,17 +223,6 @@
           "time_info": "00时19分"
         },
         {
-          "title": "Kimi 创始人杨植麟回国创业引热议，怎样看待他的选择？",
-          "url": "https://www.zhihu.com/question/2062858490343953648",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
           "title": "OpenAI：宣布推出面向小型企业的ChatGPT服务计划。ChatGPT Work和GPT-5.6今日起面向小型企业开放。",
           "url": "https://flash.jin10.com/detail/20260722010658774800",
           "source": "金十数据",
@@ -219,6 +232,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时12分"
+        },
+        {
+          "title": "指责国产大模型“蒸馏”，Anthropic却为盗版数据赔了15亿美元",
+          "url": "https://flash.jin10.com/detail/20260722120342612800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "谷歌发布一系列更低成本的Gemini模型",
@@ -238,7 +262,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         }
@@ -246,7 +270,7 @@
     },
     {
       "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "专家：黄金已严重超卖",
@@ -305,7 +329,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -316,7 +340,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -344,6 +368,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时47分 ~ 07时50分]"
+        },
+        {
+          "title": "黄金见底了吗",
+          "url": "https://www.toutiao.com/trending/7665150808870096390/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "新兴市场ETF收涨2.8%，与布油基金、黄金ETF等领跑美股大类资产类ETF",
@@ -397,9 +432,42 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "国际现货黄金两日暴拉，4100上方谁在接力？",
+          "url": "https://flash.jin10.com/detail/20260722120448769800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "港股午评：恒指收跌0.83%，黄金股逆市走强",
+          "url": "https://flash.jin10.com/detail/20260722120322633800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "7月22日午间收评：科创50指数半日涨1.54%，黄金、半导体板块走强",
+          "url": "https://wallstreetcn.com/livenews/3137940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加2.283吨，当前持仓量为1005.873吨。",
@@ -411,12 +479,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "金十图示：2026年07月22日（周三）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260722115110060800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     },
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "广州：加快推动生物医药企业挂牌上市",
@@ -425,7 +504,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -436,7 +515,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -451,6 +530,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时47分 ~ 07时50分]"
+        },
+        {
+          "title": "小红书回应“上市因前员工举报受阻”",
+          "url": "https://www.toutiao.com/trending/7665189791004102163/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "美国至7月17日当周API投产原油量 -9万桶/日，前值5.6万桶/日。",
@@ -482,7 +572,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -504,7 +594,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -526,7 +616,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -537,7 +627,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -548,126 +638,15 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "HBM DDR5 存储芯片",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "如何看待 26 年 7 月 DDR5 内存价格再次暴涨，出现「一天两变、提货被拒、商家劝退用户」的怪象？",
-          "url": "https://www.zhihu.com/question/2061301718021886552",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3,
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 07时50分]"
-        },
-        {
-          "title": "全球科技股反弹！纳指涨2%，美股存储芯片指数涨超10%，布油重回90美元上方",
-          "url": "https://wallstreetcn.com/articles/3777518",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时11分 ~ 04时15分]"
-        },
-        {
-          "title": "全球科技股反弹！美股盘初走高，存储芯片股普涨，闪迪涨9%，布油重回90美元上方，现货白银涨4%",
-          "url": "https://wallstreetcn.com/articles/3777518",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
-        },
-        {
-          "title": "美股存储芯片指数初步收涨11.2%，半导体指数涨5.2%。 标普500指数初步收涨0.9%，科技板块涨2.4%，能源板块涨1.1%，电信板块跌0.7%，日用消费品板块跌0.9%。 纳斯达克100指数初步收涨1.9%，成分股中，Nebius集团初步收涨19%，闪迪涨14%，西部数据涨12.5%，希捷科技涨11.2%，英特尔涨8.8%，Adobe跌3.1%，CrowdStrike跌3.7%，Workday跌3.9%，汤森路透跌5%。",
-          "url": "https://wallstreetcn.com/livenews/3137738",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "【早报】美股存储芯片强势反攻，多股大涨超10%；油价、黄金同步走强；A股又一批增持回购潮来了",
-          "url": "https://www.cls.cn/detail/2433245",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时49分 ~ 09时47分]"
-        },
-        {
-          "title": "A股存储芯片板块低开高走，托伦斯、大为股份2连板，臻宝科技涨超10%，深科达、通富微电、富满微、北方华创涨超7%。",
-          "url": "https://wallstreetcn.com/livenews/3137859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "周二（7月21日），美股存储芯片与硬件供应链指数涨11.12%，报213.46点。 成分股闪迪收涨14.27%，西部数据、美光科技、泰瑞达、希捷科技涨12.51%-11.14%紧随其后，应用材料、拉姆研究、Rambus也至少涨4.90%。 美国科技股七巨头（Magnificent 7）指数涨0.12%，报217.46点。 “超大”市值科技股指数涨1.24%，报436.57点。 美股超大规模云服务商（Hyperscalers）跌0.45%，报92.19点。 信息科技指数涨5.98%，报400.79点。 人工智能（AI）赢家指数涨5.99%，报401.39点。 AI软件先驱指数跌1.08%，报108.27点。 北美科技软件股指数ETF跌1.25%，报91.82美元；Global X网络安全ETF跌2.82%，纳斯达克网络安全ETF跌1.32%，ETFMG网络安全ETF跌1.98%",
-          "url": "https://wallstreetcn.com/livenews/3137752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 06时47分]"
-        },
-        {
-          "title": "美股存储芯片指数涨超10%，美光科技上涨10.17%，SK海力士上涨11.18%，闪迪上涨11.86%，西部数据上涨12.67%，希捷科技上涨10.42%，铠侠ADR上涨13.78%。",
-          "url": "https://wallstreetcn.com/livenews/3137664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "传SK海力士正洽购英特尔俄亥俄州园区，拟在美生产存储芯片",
-          "url": "https://flash.jin10.com/detail/20260722062701635800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
         }
       ]
     },
     {
       "keyword_group": "国务院 发改委 工信部 财政部 证监会",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "证监会召开上市公司、行业机构、专家学者系列座谈会听取意见建议",
@@ -708,6 +687,19 @@
           "time_info": "[00时18分 ~ 07时50分]"
         },
         {
+          "title": "证监会召开上市公司、行业机构、专家学者系列座谈会听取意见建议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33629815",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[04时15分 ~ 13时02分]"
+        },
+        {
           "title": "事关A股市场 证监会最新发声",
           "url": "https://www.baidu.com/s?wd=%E4%BA%8B%E5%85%B3A%E8%82%A1%E5%B8%82%E5%9C%BA+%E8%AF%81%E7%9B%91%E4%BC%9A%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0",
           "source": "百度热搜",
@@ -720,19 +712,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时18分 ~ 06时47分]"
-        },
-        {
-          "title": "证监会召开上市公司、行业机构、专家学者系列座谈会听取意见建议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33629815",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时15分 ~ 09时47分]"
         },
         {
           "title": "证监会这场座谈会 透露了啥信息",
@@ -778,12 +757,156 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "中国财政部发行91天期债券，规模350亿元，发行利率0.9341%，边际利率1.0536%，预期0.8900%，投标倍数2.65倍，边际倍数2.07倍。",
+          "url": "https://wallstreetcn.com/livenews/3137947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "中国财政部发行182天期债券，规模600亿元，发行利率1.0425%，边际利率1.1598%，预期0.9200%，投标倍数2.02倍，边际倍数1.33倍； 中国财政部发行10年期债券，规模900亿元，发行利率1.7147%，边际利率1.7335%，预期1.7300%，投标倍数7.41倍，边际倍数32.07倍。",
+          "url": "https://wallstreetcn.com/livenews/3137946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "HBM DDR5 存储芯片",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "如何看待 26 年 7 月 DDR5 内存价格再次暴涨，出现「一天两变、提货被拒、商家劝退用户」的怪象？",
+          "url": "https://www.zhihu.com/question/2061301718021886552",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3,
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时50分]"
+        },
+        {
+          "title": "全球科技股反弹！纳指涨2%，美股存储芯片指数涨超10%，布油重回90美元上方",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时11分 ~ 04时15分]"
+        },
+        {
+          "title": "【早报】美股存储芯片强势反攻，多股大涨超10%；油价、黄金同步走强；A股又一批增持回购潮来了",
+          "url": "https://www.cls.cn/detail/2433245",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时49分 ~ 13时02分]"
+        },
+        {
+          "title": "全球科技股反弹！美股盘初走高，存储芯片股普涨，闪迪涨9%，布油重回90美元上方，现货白银涨4%",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 00时19分]"
+        },
+        {
+          "title": "美股存储芯片指数初步收涨11.2%，半导体指数涨5.2%。 标普500指数初步收涨0.9%，科技板块涨2.4%，能源板块涨1.1%，电信板块跌0.7%，日用消费品板块跌0.9%。 纳斯达克100指数初步收涨1.9%，成分股中，Nebius集团初步收涨19%，闪迪涨14%，西部数据涨12.5%，希捷科技涨11.2%，英特尔涨8.8%，Adobe跌3.1%，CrowdStrike跌3.7%，Workday跌3.9%，汤森路透跌5%。",
+          "url": "https://wallstreetcn.com/livenews/3137738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "A股存储芯片板块低开高走，托伦斯、大为股份2连板，臻宝科技涨超10%，深科达、通富微电、富满微、北方华创涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3137859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "周二（7月21日），美股存储芯片与硬件供应链指数涨11.12%，报213.46点。 成分股闪迪收涨14.27%，西部数据、美光科技、泰瑞达、希捷科技涨12.51%-11.14%紧随其后，应用材料、拉姆研究、Rambus也至少涨4.90%。 美国科技股七巨头（Magnificent 7）指数涨0.12%，报217.46点。 “超大”市值科技股指数涨1.24%，报436.57点。 美股超大规模云服务商（Hyperscalers）跌0.45%，报92.19点。 信息科技指数涨5.98%，报400.79点。 人工智能（AI）赢家指数涨5.99%，报401.39点。 AI软件先驱指数跌1.08%，报108.27点。 北美科技软件股指数ETF跌1.25%，报91.82美元；Global X网络安全ETF跌2.82%，纳斯达克网络安全ETF跌1.32%，ETFMG网络安全ETF跌1.98%",
+          "url": "https://wallstreetcn.com/livenews/3137752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时47分]"
+        },
+        {
+          "title": "利润翻倍 全球存储芯片股为何崩了",
+          "url": "https://www.toutiao.com/trending/7665126474197765638/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "美股存储芯片指数涨超10%，美光科技上涨10.17%，SK海力士上涨11.18%，闪迪上涨11.86%，西部数据上涨12.67%，希捷科技上涨10.42%，铠侠ADR上涨13.78%。",
+          "url": "https://wallstreetcn.com/livenews/3137664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
+        {
+          "title": "传SK海力士正洽购英特尔俄亥俄州园区，拟在美生产存储芯片",
+          "url": "https://flash.jin10.com/detail/20260722062701635800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时50分"
         }
       ]
     },
     {
       "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美财长贝森特宣称：美国很快将控制全球80%的算力",
@@ -794,8 +917,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 09时47分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 13时02分]"
         },
         {
           "title": "【每日收评】创业板指探底回升涨超7%，半导体芯片、算力硬件等科技赛道卷土重来",
@@ -816,7 +939,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -831,6 +954,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时47分 ~ 07时50分]"
+        },
+        {
+          "title": "英伟达发布Vera CPU新细节 AI服务器市场再开新战场",
+          "url": "https://www.cls.cn/detail/2433181",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "据日经新闻：英伟达与纬创（Wistron）将在美国得克萨斯州生产Blackwell AI服务器。",
@@ -900,6 +1034,45 @@
       ]
     },
     {
+      "keyword_group": "苹果 Apple iPhone",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "苹果折叠屏爆料汇总",
+          "url": "https://www.douyin.com/hot/2580541",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "曝iPhone18Pro涨价成定局",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone18Pro%E6%B6%A8%E4%BB%B7%E6%88%90%E5%AE%9A%E5%B1%80%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "苹果将推出“升级”设备租赁计划以提振销量",
+          "url": "https://wallstreetcn.com/livenews/3137665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "稀土 锗 镓 锑 钨",
       "match_count": 3,
       "titles": [
@@ -935,6 +1108,62 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 火箭 卫星互联网 北斗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "SpaceX：猎鹰9号火箭从加利福尼亚州发射升空，成功将24颗星链卫星送入轨道。",
+          "url": "https://flash.jin10.com/detail/20260722031931822800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "一箭九星！引力一号遥四运载火箭发射成功",
+          "url": "https://wallstreetcn.com/livenews/3137932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "免税 旅游 酒店 餐饮",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中国入境旅游市场持续升温",
+          "url": "https://www.douyin.com/hot/2580671",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "台警员赴福建旅游遭隔离讯问？国台办回应",
+          "url": "https://news.ifeng.com/c/8uxopt4SouG",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         }
       ]
     },
@@ -1009,40 +1238,6 @@
       ]
     },
     {
-      "keyword_group": "苹果 Apple iPhone",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "苹果将推出“升级”设备租赁计划以提振销量",
-          "url": "https://wallstreetcn.com/livenews/3137665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 火箭 卫星互联网 北斗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "SpaceX：猎鹰9号火箭从加利福尼亚州发射升空，成功将24颗星链卫星送入轨道。",
-          "url": "https://flash.jin10.com/detail/20260722031931822800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "网络安全 数据安全 密码",
       "match_count": 1,
       "titles": [
@@ -1053,7 +1248,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         }
@@ -1070,7 +1265,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         }
