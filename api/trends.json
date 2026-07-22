@@ -1,23 +1,46 @@
 {
-  "generated_at": "2026-07-23T02:04:51.157351+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-07-23T04:08:34.734112+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "美国总统特朗普：美国不需要霍尔木兹海峡。委内瑞拉正与美国合作生产石油。",
+          "url": "https://flash.jin10.com/detail/20260723034521965800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时08分"
+        },
+        {
+          "title": "美国参议员桑德斯：美国民众认为不应再向内塔尼亚胡政府提供军事支持。因此，国会必须投票反对国防开支法案，因为该法案将进一步加强美国军方与以色列军方之间的合作关系。",
+          "url": "https://flash.jin10.com/detail/20260723034242148800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时08分"
+        },
         {
           "title": "长鑫科技网上弃购超 658 万股，券商被迫包销 5731 万元，为何大量中签散户放弃缴款？对上市股价有何影响？",
           "url": "https://www.zhihu.com/question/2062983976835344170",
           "source": "知乎",
           "ranks": [
             12,
-            3
+            3,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时08分]"
         },
         {
           "title": "小红书回应 IPO 传闻均不属实，结合这件事来看，种草平台是否适合上市？若要上市需要具备哪些条件？",
@@ -27,8 +50,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时08分]"
         },
         {
           "title": "今年国家级气象站出现首个50℃",
@@ -36,11 +59,12 @@
           "source": "百度热搜",
           "ranks": [
             14,
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时08分]"
         },
         {
           "title": "海外燃机发电机组需求增加 杰瑞股份子公司再揽近百亿元大订单|速读公告",
@@ -51,8 +75,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时08分]"
         },
         {
           "title": "BLG首发上单",
@@ -63,19 +87,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时04分]"
-        },
-        {
-          "title": "王毅谈中国东盟互利合作成果",
-          "url": "https://wallstreetcn.com/livenews/3138333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时04分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时08分]"
         },
         {
           "title": "Crisp回归首个MVP",
@@ -84,7 +97,18 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时04分 ~ 04时08分]"
+        },
+        {
+          "title": "王毅谈中国东盟互利合作成果",
+          "url": "https://wallstreetcn.com/livenews/3138333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -147,7 +171,7 @@
     },
     {
       "keyword_group": "国务院 发改委 工信部 财政部 证监会",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "国务院批复 超7万亿元大产业来了",
@@ -157,8 +181,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时08分]"
+        },
+        {
+          "title": "财政部：上半年房产税收入2782亿元",
+          "url": "https://www.toutiao.com/trending/7664915216819322930/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时04分]"
+          "time_info": "[02时04分 ~ 04时08分]"
         },
         {
           "title": "美国财政部拍卖130亿美元20年期国债，得标利率5.163%（6月16日为4.927%），投标倍数2.64（前次为2.75）。",
@@ -167,7 +202,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -205,22 +240,33 @@
           "time_info": "00时18分"
         },
         {
-          "title": "财政部：上半年房产税收入2782亿元",
-          "url": "https://www.toutiao.com/trending/7664915216819322930/",
-          "source": "今日头条",
+          "title": "美国财政部数据显示，在最新双周报告期内，投资基金买入291.03亿美元将于2036年5月15日到期的10年期国债（前一个月为289.62亿美元）。外国投资者买入57.88亿美元将于2036年5月15日到期的10年期国债（前一个月为52.00亿美元）。",
+          "url": "https://flash.jin10.com/detail/20260723030148790800",
+          "source": "金十数据",
           "ranks": [
-            28
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时04分"
+          "time_info": "04时08分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "谷歌母公司Alphabet：Gemini APP月活用户数（Maus）达到9.5亿。",
+          "url": "https://wallstreetcn.com/livenews/3138394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时08分"
+        },
         {
           "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
           "url": "https://wallstreetcn.com/articles/3777627",
@@ -229,8 +275,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时08分]"
         },
         {
           "title": "吧友做梗图催更DeepSeekV4",
@@ -240,19 +286,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时08分]"
         },
         {
           "title": "如何看待 7 月 22 日 DeepSeek 客户端联网搜索近 4 小时不可用？",
           "url": "https://www.zhihu.com/question/2063241470010822764",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时04分 ~ 04时08分]"
         },
         {
           "title": "业内：Kimi“熔断”杨植麟也“摸高”",
@@ -269,7 +316,7 @@
     },
     {
       "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "铜业巨头墨西哥集团高管：银钟铜矿扩建项目和雷伊铜矿选矿厂扩建项目将不会受到关税影响。",
@@ -278,7 +325,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -289,7 +336,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -300,9 +347,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "国际黄金、石油、铜、美股、美元再现同步上涨，日元兑美元跌破 163，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2063182962879993810",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时08分"
         },
         {
           "title": "铜业巨头墨西哥集团高管：由于美国经济保持韧性，以及脱碳技术推动需求增长，预计2026年全球铜市场将出现小幅供应短缺。",
@@ -311,9 +369,61 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "免税 旅游 酒店 餐饮",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "谁发明的酒店半透明玻璃浴室",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%81%E5%8F%91%E6%98%8E%E7%9A%84%E9%85%92%E5%BA%97%E5%8D%8A%E9%80%8F%E6%98%8E%E7%8E%BB%E7%92%83%E6%B5%B4%E5%AE%A4&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时04分 ~ 04时08分]"
+        },
+        {
+          "title": "这世界大得让你很难不旅游",
+          "url": "https://www.douyin.com/hot/2581388",
+          "source": "抖音",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时08分]"
+        },
+        {
+          "title": "高温干旱致多瑙河水位走低，匈牙利航运和旅游业遭遇挑战",
+          "url": "https://wallstreetcn.com/livenews/3138376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时08分"
+        },
+        {
+          "title": "美国贸易代表格里尔：将支持立法在美墨加协定中设立旅游和旅行工作组。",
+          "url": "https://flash.jin10.com/detail/20260722231318171800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
         }
       ]
     },
@@ -330,8 +440,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时08分]"
         },
         {
           "title": "AMD首次押注Anthropic：最高投资50亿美元 并锁定数百亿美元AI服务器订单",
@@ -342,8 +452,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时08分]"
         },
         {
           "title": "Meta定制版AMD MI450芯片算力减半、内存大缩水，SemiAnalysis：这是Meta公司文化的悲哀",
@@ -353,48 +463,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "免税 旅游 酒店 餐饮",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "这世界大得让你很难不旅游",
-          "url": "https://www.douyin.com/hot/2581388",
-          "source": "抖音",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时04分]"
-        },
-        {
-          "title": "谁发明的酒店半透明玻璃浴室",
-          "url": "https://s.weibo.com/weibo?q=%E8%B0%81%E5%8F%91%E6%98%8E%E7%9A%84%E9%85%92%E5%BA%97%E5%8D%8A%E9%80%8F%E6%98%8E%E7%8E%BB%E7%92%83%E6%B5%B4%E5%AE%A4&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时04分"
-        },
-        {
-          "title": "美国贸易代表格里尔：将支持立法在美墨加协定中设立旅游和旅行工作组。",
-          "url": "https://flash.jin10.com/detail/20260722231318171800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时08分]"
         }
       ]
     },
@@ -408,11 +478,12 @@
           "source": "微博",
           "ranks": [
             30,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时08分]"
         },
         {
           "title": "东山精密回应光模块被盗窃",
@@ -420,11 +491,12 @@
           "source": "抖音",
           "ranks": [
             10,
-            17
+            17,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时08分]"
         }
       ]
     },
@@ -440,8 +512,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时08分]"
         }
       ]
     },
@@ -457,8 +529,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 04时08分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Robotaxi 无人驾驶 自动驾驶 智能驾驶 NOA",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特斯拉二季度营收282.4亿美元，分析师预期263.2亿美元。 二季度服务与其他营收45.8亿美元，分析师预期32.7亿美元。 二季度活跃的FSD（全自动驾驶）订阅用户数148万，分析师预期140万。 二季度发电与储能营收31.4亿美元，分析师预期37.7亿美元。 二季度调整后每股收益（EPS）为0.33美元，分析师预期0.51美元。",
+          "url": "https://wallstreetcn.com/livenews/3138393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时08分"
         }
       ]
     },
@@ -480,6 +569,23 @@
       ]
     },
     {
+      "keyword_group": "商业航天 火箭 卫星互联网 北斗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "一箭9星 全球最大固体运载火箭首秀",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E7%AE%AD9%E6%98%9F+%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E5%9B%BA%E4%BD%93%E8%BF%90%E8%BD%BD%E7%81%AB%E7%AE%AD%E9%A6%96%E7%A7%80",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "无人机 通航",
       "match_count": 1,
       "titles": [
@@ -494,6 +600,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 02时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "专项债 特别国债 降准 降息 以旧换新 设备更新",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周三（7月22日）美股尾盘，美股降息赢家指数大致持平，报95.17点，早盘冲高回落、随后出现一波V形反转行情。 “特朗普关税输家”指数跌0.13%，“特朗普金融指数”跌0.17%。",
+          "url": "https://wallstreetcn.com/livenews/3138380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时08分"
         }
       ]
     }
