@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-23T00:18:29.513766+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-23T02:04:51.157351+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "长鑫科技网上弃购超 658 万股，券商被迫包销 5731 万元，为何大量中签散户放弃缴款？对上市股价有何影响？",
+          "url": "https://www.zhihu.com/question/2062983976835344170",
+          "source": "知乎",
+          "ranks": [
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 02时04分]"
+        },
         {
           "title": "小红书回应 IPO 传闻均不属实，结合这件事来看，种草平台是否适合上市？若要上市需要具备哪些条件？",
           "url": "https://www.zhihu.com/question/2063228417642967287",
@@ -15,41 +27,66 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "海外燃机发电机组需求增加 杰瑞股份子公司再揽近百亿元大订单|速读公告",
-          "url": "https://www.cls.cn/detail/2434175",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "长鑫科技网上弃购超 658 万股，券商被迫包销 5731 万元，为何大量中签散户放弃缴款？对上市股价有何影响？",
-          "url": "https://www.zhihu.com/question/2062983976835344170",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 02时04分]"
         },
         {
           "title": "今年国家级气象站出现首个50℃",
           "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%9B%BD%E5%AE%B6%E7%BA%A7%E6%B0%94%E8%B1%A1%E7%AB%99%E5%87%BA%E7%8E%B0%E9%A6%96%E4%B8%AA50%E2%84%83",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 02时04分]"
+        },
+        {
+          "title": "海外燃机发电机组需求增加 杰瑞股份子公司再揽近百亿元大订单|速读公告",
+          "url": "https://www.cls.cn/detail/2434175",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 02时04分]"
+        },
+        {
+          "title": "BLG首发上单",
+          "url": "https://s.weibo.com/weibo?q=%23BLG%E9%A6%96%E5%8F%91%E4%B8%8A%E5%8D%95%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 02时04分]"
+        },
+        {
+          "title": "王毅谈中国东盟互利合作成果",
+          "url": "https://wallstreetcn.com/livenews/3138333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时18分"
+          "time_info": "02时04分"
+        },
+        {
+          "title": "Crisp回归首个MVP",
+          "url": "https://search.bilibili.com/all?keyword=Crisp%E5%9B%9E%E5%BD%92%E9%A6%96%E4%B8%AAMVP",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时04分"
         },
         {
           "title": "美国贸易代表格里尔：美方正与印尼围绕关键矿产承诺进行合作。",
@@ -96,17 +133,6 @@
           "time_info": "00时18分"
         },
         {
-          "title": "BLG首发上单",
-          "url": "https://s.weibo.com/weibo?q=%23BLG%E9%A6%96%E5%8F%91%E4%B8%8A%E5%8D%95%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
           "title": "超微电脑涨幅扩大至25%，创2024年以来最佳盘中表现，初步业绩显示，该公司积压订单超过600亿美元——创新高。",
           "url": "https://wallstreetcn.com/livenews/3138291",
           "source": "华尔街见闻-快讯",
@@ -121,7 +147,7 @@
     },
     {
       "keyword_group": "国务院 发改委 工信部 财政部 证监会",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "国务院批复 超7万亿元大产业来了",
@@ -131,8 +157,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 02时04分]"
+        },
+        {
+          "title": "美国财政部拍卖130亿美元20年期国债，得标利率5.163%（6月16日为4.927%），投标倍数2.64（前次为2.75）。",
+          "url": "https://wallstreetcn.com/livenews/3138339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时18分"
+          "time_info": "02时04分"
         },
         {
           "title": "美国财政部拍卖四个月期国债，得标利率3.845%，投标倍数2.76。",
@@ -166,12 +203,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "财政部：上半年房产税收入2782亿元",
+          "url": "https://www.toutiao.com/trending/7664915216819322930/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时04分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
@@ -181,8 +229,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 02时04分]"
         },
         {
           "title": "吧友做梗图催更DeepSeekV4",
@@ -192,8 +240,19 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 02时04分]"
+        },
+        {
+          "title": "如何看待 7 月 22 日 DeepSeek 客户端联网搜索近 4 小时不可用？",
+          "url": "https://www.zhihu.com/question/2063241470010822764",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时18分"
+          "time_info": "02时04分"
         },
         {
           "title": "业内：Kimi“熔断”杨植麟也“摸高”",
@@ -209,6 +268,56 @@
       ]
     },
     {
+      "keyword_group": "黄金 铜 锂 镍",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "铜业巨头墨西哥集团高管：银钟铜矿扩建项目和雷伊铜矿选矿厂扩建项目将不会受到关税影响。",
+          "url": "https://flash.jin10.com/detail/20260723014113684800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        },
+        {
+          "title": "国际铜夜盘收跌0.06%，沪铜收跌0.16%，沪铝收涨0.35%，沪锌收涨0.98%，沪铅收涨0.54%，沪镍收涨0.62%，沪锡收跌0.23%。 氧化铝夜盘收跌1.72%，铝合金收涨0.28%。 不锈钢夜盘收涨0.20%。",
+          "url": "https://wallstreetcn.com/livenews/3138338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        },
+        {
+          "title": "LME期铜收跌77美元，报13808美元/吨。 LME期铝收涨34美元，报3192美元/吨。 LME期锌收涨40美元，报3592美元/吨。 LME期铅收涨28美元，报1896美元/吨。 LME期镍收涨149美元，报17234美元/吨。 LME期锡收涨37美元，报53922美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3138335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        },
+        {
+          "title": "铜业巨头墨西哥集团高管：由于美国经济保持韧性，以及脱碳技术推动需求增长，预计2026年全球铜市场将出现小幅供应短缺。",
+          "url": "https://flash.jin10.com/detail/20260723011920387800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
       "match_count": 3,
       "titles": [
@@ -217,11 +326,24 @@
           "url": "https://www.cls.cn/detail/2434359",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 02时04分]"
+        },
+        {
+          "title": "AMD首次押注Anthropic：最高投资50亿美元 并锁定数百亿美元AI服务器订单",
+          "url": "https://www.cls.cn/detail/2434311",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 02时04分]"
         },
         {
           "title": "Meta定制版AMD MI450芯片算力减半、内存大缩水，SemiAnalysis：这是Meta公司文化的悲哀",
@@ -231,64 +353,37 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "AMD首次押注Anthropic：最高投资50亿美元 并锁定数百亿美元AI服务器订单",
-          "url": "https://www.cls.cn/detail/2434311",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "光模块 CPO 800G 1.6T AEC DAC 高速铜缆",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "东山精密回应光模块被盗窃",
-          "url": "https://www.douyin.com/hot/2581443",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "东山精密光模块被盗",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%B1%B1%E7%B2%BE%E5%AF%86%E5%85%89%E6%A8%A1%E5%9D%97%E8%A2%AB%E7%9B%97%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 02时04分]"
         }
       ]
     },
     {
       "keyword_group": "免税 旅游 酒店 餐饮",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "这世界大得让你很难不旅游",
           "url": "https://www.douyin.com/hot/2581388",
           "source": "抖音",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 02时04分]"
+        },
+        {
+          "title": "谁发明的酒店半透明玻璃浴室",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%81%E5%8F%91%E6%98%8E%E7%9A%84%E9%85%92%E5%BA%97%E5%8D%8A%E9%80%8F%E6%98%8E%E7%8E%BB%E7%92%83%E6%B5%B4%E5%AE%A4&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时18分"
+          "time_info": "02时04分"
         },
         {
           "title": "美国贸易代表格里尔：将支持立法在美墨加协定中设立旅游和旅行工作组。",
@@ -304,6 +399,36 @@
       ]
     },
     {
+      "keyword_group": "光模块 CPO 800G 1.6T AEC DAC 高速铜缆",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "东山精密光模块被盗",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%B1%B1%E7%B2%BE%E5%AF%86%E5%85%89%E6%A8%A1%E5%9D%97%E8%A2%AB%E7%9B%97%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 02时04分]"
+        },
+        {
+          "title": "东山精密回应光模块被盗窃",
+          "url": "https://www.douyin.com/hot/2581443",
+          "source": "抖音",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 02时04分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "HBM DDR5 存储芯片",
       "match_count": 1,
       "titles": [
@@ -315,8 +440,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 02时04分]"
         }
       ]
     },
@@ -332,8 +457,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 02时04分]"
         }
       ]
     },
@@ -363,11 +488,12 @@
           "url": "https://wallstreetcn.com/livenews/3138313",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 02时04分]"
         }
       ]
     }
