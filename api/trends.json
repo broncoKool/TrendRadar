@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-07-23T07:01:47.839323+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2026-07-23T08:04:27.483945+08:00",
+  "total_titles_processed": 685,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "今年国家级气象站出现首个50℃",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%9B%BD%E5%AE%B6%E7%BA%A7%E6%B0%94%E8%B1%A1%E7%AB%99%E5%87%BA%E7%8E%B0%E9%A6%96%E4%B8%AA50%E2%84%83",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            7,
+            19,
+            18,
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 08时04分]"
+        },
         {
           "title": "小红书回应 IPO 传闻均不属实，结合这件事来看，种草平台是否适合上市？若要上市需要具备哪些条件？",
           "url": "https://www.zhihu.com/question/2063228417642967287",
@@ -28,32 +44,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
-        },
-        {
-          "title": "境外发行人态度积极，熊猫债累计发行量突破1.3万亿元",
-          "url": "https://wallstreetcn.com/livenews/3138456",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "今年国家级气象站出现首个50℃",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%9B%BD%E5%AE%B6%E7%BA%A7%E6%B0%94%E8%B1%A1%E7%AB%99%E5%87%BA%E7%8E%B0%E9%A6%96%E4%B8%AA50%E2%84%83",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            7,
-            19,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 07时01分]"
         },
         {
           "title": "海外燃机发电机组需求增加 杰瑞股份子公司再揽近百亿元大订单|速读公告",
@@ -117,6 +107,18 @@
           "time_info": "[00时18分 ~ 04时08分]"
         },
         {
+          "title": "境外发行人态度积极，熊猫债累计发行量突破1.3万亿元",
+          "url": "https://wallstreetcn.com/livenews/3138456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 08时04分]"
+        },
+        {
           "title": "Crisp回归首个MVP",
           "url": "https://search.bilibili.com/all?keyword=Crisp%E5%9B%9E%E5%BD%92%E9%A6%96%E4%B8%AAMVP",
           "source": "bilibili 热搜",
@@ -157,7 +159,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -171,6 +173,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "韩美最早将于8月下旬公布首个投资项目",
+          "url": "https://flash.jin10.com/detail/20260723065720463800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "美国贸易代表格里尔：美方正与印尼围绕关键矿产承诺进行合作。",
@@ -212,7 +225,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -245,7 +258,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -267,7 +280,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -281,6 +294,125 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
+          "url": "https://wallstreetcn.com/articles/3777627",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 08时04分]"
+        },
+        {
+          "title": "吧友做梗图催更DeepSeekV4",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356411&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%81%9A%E6%A2%97%E5%9B%BE%E5%82%AC%E6%9B%B4DeepSeekV4",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 08时04分]"
+        },
+        {
+          "title": "OpenAI现安全事故中国大模型救场",
+          "url": "https://www.toutiao.com/trending/7664873281528512575/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "OpenAI模型失控闯祸 中国大模型救场",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E6%A8%A1%E5%9E%8B%E5%A4%B1%E6%8E%A7%E9%97%AF%E7%A5%B8+%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%95%91%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "谷歌母公司Alphabet：Gemini APP月活用户数（Maus）达到9.5亿。",
+          "url": "https://wallstreetcn.com/livenews/3138394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时08分"
+        },
+        {
+          "title": "如何看待 7 月 22 日 DeepSeek 客户端联网搜索近 4 小时不可用？",
+          "url": "https://www.zhihu.com/question/2063241470010822764",
+          "source": "知乎",
+          "ranks": [
+            14,
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时04分 ~ 07时01分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet的CEO：公司在Gemini 4侧重于AI计算。 公司将加快发布AI模型的速度。 TPU作为独立系统的需求强劲。",
+          "url": "https://wallstreetcn.com/livenews/3138423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "业内：Kimi“熔断”杨植麟也“摸高”",
+          "url": "https://www.toutiao.com/trending/7665348024679271990/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "我在豆包养宠物",
+          "url": "https://www.douyin.com/hot/2579333",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "谷歌Pichai：2026年世界杯期间，搜索创历史新高。 Gemini驱动谷歌云增长。 公司看到人工智能（AI）基础设施带来强劲需求。",
+          "url": "https://wallstreetcn.com/livenews/3138405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时59分"
         }
       ]
     },
@@ -306,22 +438,24 @@
           "ranks": [
             15,
             13,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时08分 ~ 07时01分]"
+          "appearance_count": 5,
+          "time_info": "[04时08分 ~ 08时04分]"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加1.998吨，当前持仓量为1007.871吨。",
           "url": "https://flash.jin10.com/detail/20260723062004150800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 08时04分]"
         },
         {
           "title": "国际铜夜盘收跌0.06%，沪铜收跌0.16%，沪铝收涨0.35%，沪锌收涨0.98%，沪铅收涨0.54%，沪镍收涨0.62%，沪锡收跌0.23%。 氧化铝夜盘收跌1.72%，铝合金收涨0.28%。 不锈钢夜盘收涨0.20%。",
@@ -374,7 +508,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -393,7 +527,7 @@
     },
     {
       "keyword_group": "国务院 发改委 工信部 财政部 证监会",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "国务院批复 超7万亿元大产业来了",
@@ -407,15 +541,27 @@
           "time_info": "[00时18分 ~ 07时01分]"
         },
         {
+          "title": "中国财政部长蓝佛安：以更大力度落实财政金融协同促内需一揽子政策",
+          "url": "https://wallstreetcn.com/livenews/3138474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
           "title": "财政部部长蓝佛安：以更大力度落实财政金融协同促内需一揽子政策",
           "url": "https://flash.jin10.com/detail/20260723063350023800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 08时04分]"
         },
         {
           "title": "财政部：上半年房产税收入2782亿元",
@@ -486,156 +632,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
-          "url": "https://wallstreetcn.com/articles/3777627",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 07时01分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet：Gemini APP月活用户数（Maus）达到9.5亿。",
-          "url": "https://wallstreetcn.com/livenews/3138394",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时08分"
-        },
-        {
-          "title": "吧友做梗图催更DeepSeekV4",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356411&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%81%9A%E6%A2%97%E5%9B%BE%E5%82%AC%E6%9B%B4DeepSeekV4",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 07时01分]"
-        },
-        {
-          "title": "如何看待 7 月 22 日 DeepSeek 客户端联网搜索近 4 小时不可用？",
-          "url": "https://www.zhihu.com/question/2063241470010822764",
-          "source": "知乎",
-          "ranks": [
-            14,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时04分 ~ 07时01分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet的CEO：公司在Gemini 4侧重于AI计算。 公司将加快发布AI模型的速度。 TPU作为独立系统的需求强劲。",
-          "url": "https://wallstreetcn.com/livenews/3138423",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "业内：Kimi“熔断”杨植麟也“摸高”",
-          "url": "https://www.toutiao.com/trending/7665348024679271990/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "谷歌Pichai：2026年世界杯期间，搜索创历史新高。 Gemini驱动谷歌云增长。 公司看到人工智能（AI）基础设施带来强劲需求。",
-          "url": "https://wallstreetcn.com/livenews/3138405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Robotaxi 无人驾驶 自动驾驶 智能驾驶 NOA",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "特斯拉二季度营收282.4亿美元，分析师预期263.2亿美元。 二季度服务与其他营收45.8亿美元，分析师预期32.7亿美元。 二季度活跃的FSD（全自动驾驶）订阅用户数148万，分析师预期140万。 二季度发电与储能营收31.4亿美元，分析师预期37.7亿美元。 二季度调整后每股收益（EPS）为0.33美元，分析师预期0.51美元。",
-          "url": "https://wallstreetcn.com/livenews/3138393",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时08分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)CEO马斯克：预计Semi卡车将在今年年底或明年年初配备自动驾驶技术。",
-          "url": "https://flash.jin10.com/detail/20260723062308970800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "马斯克：FSD是车辆销售的一个“重大需求推手”。 特斯拉需要谨慎对待那些无人驾驶出租车（Robotaxi）事故。",
-          "url": "https://wallstreetcn.com/livenews/3138427",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时59分 ~ 07时01分]"
-        },
-        {
-          "title": "特斯拉(TSLA.O)CEO马斯克：预计无人驾驶出租车不会面临任何需求挑战。",
-          "url": "https://flash.jin10.com/detail/20260723061025148800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)AI业务副总裁：预计未来在更多城市推出Robotaxi所需的时间将继续缩短。",
-          "url": "https://flash.jin10.com/detail/20260723060349803800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
@@ -643,11 +641,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 07时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 08时04分]"
         },
         {
           "title": "Meta定制版AMD MI450芯片算力减半、内存大缩水，SemiAnalysis：这是Meta公司文化的悲哀",
@@ -659,8 +658,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 07时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 08时04分]"
+        },
+        {
+          "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
+          "url": "https://www.cls.cn/detail/2434518",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "AMD首次押注Anthropic：最高投资50亿美元 并锁定数百亿美元AI服务器订单",
@@ -686,6 +696,119 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Robotaxi 无人驾驶 自动驾驶 智能驾驶 NOA",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "特斯拉二季度营收282.4亿美元，分析师预期263.2亿美元。 二季度服务与其他营收45.8亿美元，分析师预期32.7亿美元。 二季度活跃的FSD（全自动驾驶）订阅用户数148万，分析师预期140万。 二季度发电与储能营收31.4亿美元，分析师预期37.7亿美元。 二季度调整后每股收益（EPS）为0.33美元，分析师预期0.51美元。",
+          "url": "https://wallstreetcn.com/livenews/3138393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时08分"
+        },
+        {
+          "title": "马斯克：FSD是车辆销售的一个“重大需求推手”。 特斯拉需要谨慎对待那些无人驾驶出租车（Robotaxi）事故。",
+          "url": "https://wallstreetcn.com/livenews/3138427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 07时01分]"
+        },
+        {
+          "title": "特斯拉(TSLA.O)CEO马斯克：预计Semi卡车将在今年年底或明年年初配备自动驾驶技术。",
+          "url": "https://flash.jin10.com/detail/20260723062308970800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 08时04分]"
+        },
+        {
+          "title": "特斯拉(TSLA.O)CEO马斯克：预计无人驾驶出租车不会面临任何需求挑战。",
+          "url": "https://flash.jin10.com/detail/20260723061025148800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)AI业务副总裁：预计未来在更多城市推出Robotaxi所需的时间将继续缩短。",
+          "url": "https://flash.jin10.com/detail/20260723060349803800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "HBM DDR5 存储芯片",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 05时59分]"
+        },
+        {
+          "title": "马斯克：美光向特斯拉提供了“大量”存储芯片",
+          "url": "https://flash.jin10.com/detail/20260723071555633800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)CEO马斯克：美光以合理条件提供了数量可观的存储芯片配额。",
+          "url": "https://flash.jin10.com/detail/20260723060842031800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "马斯克：美光科技已经给予特斯拉存储芯片（供应）配额。",
+          "url": "https://wallstreetcn.com/livenews/3138442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         }
       ]
     },
@@ -722,7 +845,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -736,6 +859,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "无人机 通航",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "伊朗前外长：伊朗有夺取美基地能力，警告乌克兰勿要提供无人机",
+          "url": "https://wallstreetcn.com/livenews/3138313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 02时04分]"
+        },
+        {
+          "title": "红海战线重启！胡塞导弹无人机袭击沙特油轮，油市再添不确定性",
+          "url": "https://flash.jin10.com/detail/20260723070553803800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "也门胡塞武装：使用弹道导弹、巡航导弹和无人机袭击了两艘沙特油轮——ENCELA号和LAYLIA号。",
+          "url": "https://flash.jin10.com/detail/20260723053621822800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "科威特军方表示，空中防御系统目前正在拦截“敌对”的伊朗无人机威胁。",
+          "url": "https://flash.jin10.com/detail/20260723055754347800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         }
       ]
     },
@@ -754,8 +928,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时04分 ~ 07时01分]"
+          "appearance_count": 6,
+          "time_info": "[02时04分 ~ 08时04分]"
         },
         {
           "title": "这世界大得让你很难不旅游",
@@ -764,11 +938,12 @@
           "ranks": [
             14,
             13,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 07时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 08时04分]"
         },
         {
           "title": "高温干旱致多瑙河水位走低，匈牙利航运和旅游业遭遇挑战",
@@ -795,87 +970,8 @@
       ]
     },
     {
-      "keyword_group": "HBM DDR5 存储芯片",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
-          "url": "https://wallstreetcn.com/articles/3777614",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 05时59分]"
-        },
-        {
-          "title": "特斯拉(TSLA.O)CEO马斯克：美光以合理条件提供了数量可观的存储芯片配额。",
-          "url": "https://flash.jin10.com/detail/20260723060842031800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "马斯克：美光科技已经给予特斯拉存储芯片（供应）配额。",
-          "url": "https://wallstreetcn.com/livenews/3138442",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "无人机 通航",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "伊朗前外长：伊朗有夺取美基地能力，警告乌克兰勿要提供无人机",
-          "url": "https://wallstreetcn.com/livenews/3138313",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时04分]"
-        },
-        {
-          "title": "也门胡塞武装：使用弹道导弹、巡航导弹和无人机袭击了两艘沙特油轮——ENCELA号和LAYLIA号。",
-          "url": "https://flash.jin10.com/detail/20260723053621822800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "科威特军方表示，空中防御系统目前正在拦截“敌对”的伊朗无人机威胁。",
-          "url": "https://flash.jin10.com/detail/20260723055754347800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "光模块 CPO 800G 1.6T AEC DAC 高速铜缆",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "东山精密回应光模块被盗窃",
@@ -885,11 +981,12 @@
             10,
             17,
             11,
-            5
+            5,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 07时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 08时04分]"
         },
         {
           "title": "东山精密光模块被盗",
@@ -899,11 +996,51 @@
             30,
             10,
             18,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 07时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 08时04分]"
+        },
+        {
+          "title": "东山精密光模块被盗",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%9C%E5%B1%B1%E7%B2%BE%E5%AF%86%E5%85%89%E6%A8%A1%E5%9D%97%E8%A2%AB%E7%9B%97",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "专项债 特别国债 降准 降息 以旧换新 设备更新",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "今年新增专项债发行进度过半，三季度进入供给高峰期",
+          "url": "https://wallstreetcn.com/livenews/3138468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "周三（7月22日）美股尾盘，美股降息赢家指数大致持平，报95.17点，早盘冲高回落、随后出现一波V形反转行情。 “特朗普关税输家”指数跌0.13%，“特朗普金融指数”跌0.17%。",
+          "url": "https://wallstreetcn.com/livenews/3138380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时08分"
         }
       ]
     },
@@ -936,8 +1073,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 07时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 08时04分]"
         }
       ]
     },
@@ -978,19 +1115,19 @@
       ]
     },
     {
-      "keyword_group": "专项债 特别国债 降准 降息 以旧换新 设备更新",
+      "keyword_group": "国企改革 央企改革 市值管理 资产注入",
       "match_count": 1,
       "titles": [
         {
-          "title": "周三（7月22日）美股尾盘，美股降息赢家指数大致持平，报95.17点，早盘冲高回落、随后出现一波V形反转行情。 “特朗普关税输家”指数跌0.13%，“特朗普金融指数”跌0.17%。",
-          "url": "https://wallstreetcn.com/livenews/3138380",
+          "title": "多家上市银行成立市值管理小组",
+          "url": "https://wallstreetcn.com/livenews/3138466",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时08分"
+          "time_info": "08时04分"
         }
       ]
     }
