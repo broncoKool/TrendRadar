@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T12:11:27.583241+08:00",
-  "total_titles_processed": 893,
+  "generated_at": "2026-07-23T15:28:36.303872+08:00",
+  "total_titles_processed": 1065,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "今年国家级气象站出现首个50℃",
@@ -22,6 +22,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时18分 ~ 08时04分]"
+        },
+        {
+          "title": "云积压订单超5000亿美元也难救股价？Alphabet财报会实录：巨额AI投入引分歧",
+          "url": "https://www.cls.cn/detail/2434534",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 15时28分]"
         },
         {
           "title": "小红书回应 IPO 传闻均不属实，结合这件事来看，种草平台是否适合上市？若要上市需要具备哪些条件？",
@@ -89,18 +101,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时11分"
-        },
-        {
-          "title": "云积压订单超5000亿美元也难救股价？Alphabet财报会实录：巨额AI投入引分歧",
-          "url": "https://www.cls.cn/detail/2434534",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -122,7 +123,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -168,11 +169,35 @@
           "url": "https://search.bilibili.com/all?keyword=Breathe%E9%A1%B6%E6%9B%BFFlandre%E9%A6%96%E5%8F%91",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 15时28分]"
+        },
+        {
+          "title": "百度：香港联交所已确认收到其自愿转换为香港主要上市的申请",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33638014",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 15时28分]"
+        },
+        {
+          "title": "上海：推动科创板持续深化改革 持续扩大科创板第五套上市标准的适用范围",
+          "url": "https://www.cls.cn/detail/2434784",
+          "source": "财联社热门",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时11分"
+          "time_info": "15时28分"
         },
         {
           "title": "特斯拉CEO马斯克：预计随着“FSD”功能在不同国家获批，需求将进一步增长。",
@@ -230,6 +255,17 @@
           "time_info": "08时04分"
         },
         {
+          "title": "意法半导体在米兰上市的股票开始交易，跌幅14%。",
+          "url": "https://flash.jin10.com/detail/20260723150617379800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
           "title": "美国贸易代表格里尔：美方正与印尼围绕关键矿产承诺进行合作。",
           "url": "https://wallstreetcn.com/livenews/3138306",
           "source": "华尔街见闻-快讯",
@@ -239,17 +275,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
-        },
-        {
-          "title": "百度：香港联交所已确认收到其自愿转换为香港主要上市的申请",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33638014",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时11分"
         },
         {
           "title": "印度与巴拿马围绕海事合作伙伴关系举行双边会谈。",
@@ -285,13 +310,24 @@
           "time_info": "07时01分"
         },
         {
+          "title": "沪深两市成交额突破2万亿，较上日此时缩量超4500亿。",
+          "url": "https://wallstreetcn.com/livenews/3138669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
           "title": "上海：推动科创板持续深化改革 持续扩大科创板第五套上市标准的适用范围",
           "url": "https://flash.jin10.com/detail/20260723113959977800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -302,7 +338,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -376,7 +412,7 @@
     },
     {
       "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "吧友做梗图催更DeepSeekV4",
@@ -384,11 +420,12 @@
           "source": "贴吧",
           "ranks": [
             15,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 12时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 15时28分]"
         },
         {
           "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
@@ -401,6 +438,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时18分 ~ 08时04分]"
+        },
+        {
+          "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
+          "url": "https://wallstreetcn.com/articles/3777723",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 15时28分]"
         },
         {
           "title": "OpenAI现安全事故中国大模型救场",
@@ -423,17 +471,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
-        },
-        {
-          "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
-          "url": "https://wallstreetcn.com/articles/3777723",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时11分"
         },
         {
           "title": "如何看待 7 月 22 日 DeepSeek 客户端联网搜索近 4 小时不可用？",
@@ -467,7 +504,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -483,13 +520,46 @@
           "time_info": "05时59分"
         },
         {
+          "title": "月之暗面 Kimi K3 发布后，Anthropic 为何成外网主要吐槽对象？",
+          "url": "https://www.zhihu.com/question/2062640157015249755",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "从震动硅谷到喊话马斯克“欢迎掰手腕”，Kimi做对了哪些",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33637839",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "DeepSeek首轮融资500亿，梁文锋4小时回应一切：越不贪婪，越容易成功",
+          "url": "https://www.cls.cn/detail/2434965",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
           "title": "月之暗面 KimiK3 发布后，Anthropic 为何成外网主要吐槽对象？",
           "url": "https://www.zhihu.com/question/2062640157015249755",
           "source": "知乎",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -530,8 +600,19 @@
     },
     {
       "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "黄金连续四日上涨后动能转弱，但期权显示多头仍在布局",
+          "url": "https://flash.jin10.com/detail/20260723151414788800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
         {
           "title": "铜业巨头墨西哥集团高管：银钟铜矿扩建项目和雷伊铜矿选矿厂扩建项目将不会受到关税影响。",
           "url": "https://flash.jin10.com/detail/20260723014113684800",
@@ -576,7 +657,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -603,6 +684,17 @@
           "time_info": "02时04分"
         },
         {
+          "title": "挂单报告：国际现货黄金关注多单押注 欧美上方空单密布",
+          "url": "https://flash.jin10.com/detail/20260723150828390800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
           "title": "金价涨超1%，重返4100美元上方，纽约铜跌1%",
           "url": "https://wallstreetcn.com/livenews/3138415",
           "source": "华尔街见闻-快讯",
@@ -612,6 +704,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        },
+        {
+          "title": "商品期货收盘，原油主力合约涨超4%，燃料油涨超3%，苯乙烯、棕榈油、LU燃油、碳酸锂、塑料涨超2%。钯、锰硅、铂跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3138677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "铜业巨头墨西哥集团高管：由于美国经济保持韧性，以及脱碳技术推动需求增长，预计2026年全球铜市场将出现小幅供应短缺。",
@@ -653,7 +756,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -664,7 +767,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         }
@@ -781,7 +884,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         }
@@ -789,7 +892,7 @@
     },
     {
       "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
@@ -805,6 +908,17 @@
           "time_info": "[00时18分 ~ 12时11分]"
         },
         {
+          "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
+          "url": "https://www.cls.cn/detail/2434518",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 15时28分]"
+        },
+        {
           "title": "Meta定制版AMD MI450芯片算力减半、内存大缩水，SemiAnalysis：这是Meta公司文化的悲哀",
           "url": "https://wallstreetcn.com/articles/3777659",
           "source": "华尔街见闻",
@@ -816,17 +930,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时18分 ~ 08时04分]"
-        },
-        {
-          "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
-          "url": "https://www.cls.cn/detail/2434518",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 12时11分]"
         },
         {
           "title": "AMD首次押注Anthropic：最高投资50亿美元 并锁定数百亿美元AI服务器订单",
@@ -849,7 +952,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -860,9 +963,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
+        },
+        {
+          "title": "谷歌再次上调2026年资本支出预期 算力产业链核心或将继续受益",
+          "url": "https://www.cls.cn/detail/2434535",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "“十五五”数字浙江建设规划：着力推动图形处理器（GPU）技术攻关",
+          "url": "https://wallstreetcn.com/livenews/3138670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "特斯拉：在上半年将美国得州工厂的本地算力规模翻了一倍多。 电池包产能仍然是限制性因素。 公司正设法提高电池包的产能。",
@@ -878,69 +1003,8 @@
       ]
     },
     {
-      "keyword_group": "HBM DDR5 存储芯片",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
-          "url": "https://wallstreetcn.com/articles/3777614",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 05时59分]"
-        },
-        {
-          "title": "马斯克：美光向特斯拉提供了“大量”存储芯片",
-          "url": "https://flash.jin10.com/detail/20260723071555633800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
-          "url": "https://wallstreetcn.com/articles/3777724",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时11分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)CEO马斯克：美光以合理条件提供了数量可观的存储芯片配额。",
-          "url": "https://flash.jin10.com/detail/20260723060842031800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "马斯克：美光科技已经给予特斯拉存储芯片（供应）配额。",
-          "url": "https://wallstreetcn.com/livenews/3138442",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人形机器人 机器人 具身智能 灵巧手",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "特斯拉(TSLA.O)美股盘后跌幅扩大至5%，马斯克称扩大Optimus机器人产能将面临困难。",
@@ -976,13 +1040,24 @@
           "time_info": "07时01分"
         },
         {
+          "title": "A股机器人概念股震荡拉升，北自科技午后涨停，百达精工、浙江鼎力、弘亚数控、天桥起重、中原内配、日发精机涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3138665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
           "title": "广东：上半年工业机器人产品产量同比增长34.2%",
           "url": "https://wallstreetcn.com/livenews/3138563",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -1001,7 +1076,7 @@
     },
     {
       "keyword_group": "Robotaxi 无人驾驶 自动驾驶 智能驾驶 NOA",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "特斯拉二季度营收282.4亿美元，分析师预期263.2亿美元。 二季度服务与其他营收45.8亿美元，分析师预期32.7亿美元。 二季度活跃的FSD（全自动驾驶）订阅用户数148万，分析师预期140万。 二季度发电与储能营收31.4亿美元，分析师预期37.7亿美元。 二季度调整后每股收益（EPS）为0.33美元，分析师预期0.51美元。",
@@ -1013,6 +1088,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        },
+        {
+          "title": "全球首个右舵全无人驾驶落地香港",
+          "url": "https://wallstreetcn.com/livenews/3138693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "马斯克：FSD是车辆销售的一个“重大需求推手”。 特斯拉需要谨慎对待那些无人驾驶出租车（Robotaxi）事故。",
@@ -1064,7 +1150,7 @@
     },
     {
       "keyword_group": "光模块 CPO 800G 1.6T AEC DAC 高速铜缆",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "东山精密回应光模块被盗窃",
@@ -1097,6 +1183,18 @@
           "time_info": "[00时18分 ~ 08时04分]"
         },
         {
+          "title": "7月23日投资避雷针：4000亿光模块龙头回应 海外仓库光模块被盗但对利润影响不大",
+          "url": "https://www.cls.cn/detail/2434557",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 15时28分]"
+        },
+        {
           "title": "东山精密光模块被盗",
           "url": "https://www.baidu.com/s?wd=%E4%B8%9C%E5%B1%B1%E7%B2%BE%E5%AF%86%E5%85%89%E6%A8%A1%E5%9D%97%E8%A2%AB%E7%9B%97",
           "source": "百度热搜",
@@ -1109,15 +1207,76 @@
           "time_info": "[08时04分 ~ 12时11分]"
         },
         {
-          "title": "7月23日投资避雷针：4000亿光模块龙头回应 海外仓库光模块被盗但对利润影响不大",
-          "url": "https://www.cls.cn/detail/2434557",
+          "title": "东山精密回应子公司光模块产品失窃：已就相关产品足额投保货物运输险",
+          "url": "https://www.cls.cn/detail/2434669",
           "source": "财联社热门",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时11分"
+          "time_info": "15时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "HBM DDR5 存储芯片",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 05时59分]"
+        },
+        {
+          "title": "马斯克：美光向特斯拉提供了“大量”存储芯片",
+          "url": "https://flash.jin10.com/detail/20260723071555633800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
+          "url": "https://wallstreetcn.com/articles/3777724",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 15时28分]"
+        },
+        {
+          "title": "特斯拉(TSLA.O)CEO马斯克：美光以合理条件提供了数量可观的存储芯片配额。",
+          "url": "https://flash.jin10.com/detail/20260723060842031800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "马斯克：美光科技已经给予特斯拉存储芯片（供应）配额。",
+          "url": "https://wallstreetcn.com/livenews/3138442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         }
       ]
     },
@@ -1177,6 +1336,21 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "这世界大得让你很难不旅游",
+          "url": "https://www.douyin.com/hot/2581388",
+          "source": "抖音",
+          "ranks": [
+            14,
+            13,
+            16,
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 15时28分]"
+        },
+        {
           "title": "谁发明的酒店半透明玻璃浴室",
           "url": "https://s.weibo.com/weibo?q=%E8%B0%81%E5%8F%91%E6%98%8E%E7%9A%84%E9%85%92%E5%BA%97%E5%8D%8A%E9%80%8F%E6%98%8E%E7%8E%BB%E7%92%83%E6%B5%B4%E5%AE%A4&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -1189,21 +1363,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时04分 ~ 08时04分]"
-        },
-        {
-          "title": "这世界大得让你很难不旅游",
-          "url": "https://www.douyin.com/hot/2581388",
-          "source": "抖音",
-          "ranks": [
-            14,
-            13,
-            16,
-            17,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 12时11分]"
         },
         {
           "title": "高温干旱致多瑙河水位走低，匈牙利航运和旅游业遭遇挑战",
@@ -1226,6 +1385,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple iPhone",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "iPhone18系列已量产",
+          "url": "https://www.douyin.com/hot/2580964",
+          "source": "抖音",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 12时11分]"
+        },
+        {
+          "title": "苹果拟推出设备租赁计划，iPhone 可租用 24 个月，月付租机的模式可行吗？你会考虑租苹果设备吗？",
+          "url": "https://www.zhihu.com/question/2063258715155686223",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "英特尔财报在即 市场关注AI芯片需求、裁员及与苹果的潜在合作",
+          "url": "https://flash.jin10.com/detail/20260723150653718800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         }
       ]
     },
@@ -1262,7 +1461,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         }
@@ -1279,7 +1478,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -1290,9 +1489,26 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek ChatGPT Claude Gemini Agent 智能体",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "给“AI”发身份证 国内首个智能体互联标准体系发布",
+          "url": "https://wallstreetcn.com/livenews/3138661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         }
       ]
     },
@@ -1310,24 +1526,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple iPhone",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "iPhone18系列已量产",
-          "url": "https://www.douyin.com/hot/2580964",
-          "source": "抖音",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 12时11分]"
         }
       ]
     },
@@ -1378,7 +1576,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         }
@@ -1395,7 +1593,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         }
