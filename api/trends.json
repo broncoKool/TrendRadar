@@ -1,23 +1,217 @@
 {
-  "generated_at": "2026-07-24T09:50:38.427027+08:00",
-  "total_titles_processed": 781,
+  "generated_at": "2026-07-24T13:13:46.046292+08:00",
+  "total_titles_processed": 972,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 15,
+      "keyword_group": "黄金 铜 锂 镍",
+      "match_count": 17,
       "titles": [
         {
-          "title": "突破!中国数学家首获菲尔兹奖",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356453&amp;topic_name=%E7%AA%81%E7%A0%B4%21%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%A6%E5%AE%B6%E9%A6%96%E8%8E%B7%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96",
-          "source": "贴吧",
+          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
+          "url": "https://wallstreetcn.com/articles/3777754",
+          "source": "华尔街见闻",
           "ranks": [
+            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
+          "appearance_count": 5,
+          "time_info": "[06时54分 ~ 13时13分]"
+        },
+        {
+          "title": "A股三大股指震荡收涨，锂矿、电网爆发，科创50跌近4%，半导体产业链齐跌，恒指涨超1%，科网股普涨",
+          "url": "https://wallstreetcn.com/articles/3777740",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
           "time_info": "[01时26分 ~ 09时50分]"
         },
+        {
+          "title": "三伏天是养阳减重的黄金时段",
+          "url": "https://www.toutiao.com/trending/7665668489465577482/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            22,
+            25,
+            15,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时26分 ~ 07时54分]"
+        },
+        {
+          "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
+          "url": "https://www.cls.cn/detail/2435717",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时53分 ~ 13时13分]"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加1.427吨，当前持仓量为1009.298吨。",
+          "url": "https://flash.jin10.com/detail/20260724061915850800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        },
+        {
+          "title": "国际铜夜盘收跌1.79%，沪铜收跌1.40%，沪铝收跌0.02%，沪锌收跌0.22%，沪铅收跌0.57%，沪镍收涨0.07%，沪锡收跌1.24%。 氧化铝夜盘收跌0.33%，铝合金收跌0.17%。 不锈钢夜盘收跌0.47%。",
+          "url": "https://wallstreetcn.com/livenews/3139008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 03时02分]"
+        },
+        {
+          "title": "LME期铜收跌214美元，报13594美元/吨。 LME期铝收跌4美元，报3188美元/吨。 LME期锌收跌6美元，报3586美元/吨。 LME期铅收跌3美元，报1894美元/吨。 LME期镍收跌1美元，报53326美元/吨。 LME期锡收跌596美元，报53326美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3139006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 03时02分]"
+        },
+        {
+          "title": "Kalshi在推进贵金属业务后，计划推出铜永续期货",
+          "url": "https://wallstreetcn.com/livenews/3139002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 03时02分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 7月23日（周四）晚盘收盘下跌2.05%报882.1元/克；<br/>上海黄金交易所白银T+D 7月23日（周四）晚盘收盘下跌3.82%报14058.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260724023226644800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "A股贵金属板块大幅低开，湖南白银低开超7%，山金国际、赤峰黄金、晓程科技、西部黄金等个股跟跌。",
+          "url": "https://flash.jin10.com/detail/20260724092910278800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "港股黄金股低开，赤峰黄金(06693.HK)、灵宝黄金(03330.HK)双双跌超6%，紫金黄金国际(02259.HK)跌超5%，招金矿业(01818.HK)跌超4%，山东黄金(01787.HK)、紫金矿业(02899.HK)、潼关黄金(00340.HK)等个股跟跌。此前，现货黄金短线走低10美元，报4041.5美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260724092312657800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "港股开盘，恒生指数开跌1.10%，恒生科技指数开跌1.86%；黄金、PCB、明星科网等板块跌幅居前；紫金黄金国际(02259.HK)开跌5.44%。",
+          "url": "https://flash.jin10.com/detail/20260724092113289800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "金价连涨四天，现货黄金重回 4100 美元，深圳水贝挤满购金人，如何看待黄金当下行情？",
+          "url": "https://www.zhihu.com/question/2063412432022901058",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "港股午评：恒指收跌1.27%，黄金股大跌",
+          "url": "https://flash.jin10.com/detail/20260724120234688800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "中信建投：淡季不淡旺季可期，锂价有望低位反升",
+          "url": "https://wallstreetcn.com/livenews/3139130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报145150元/吨，较上日16:30价格下跌250元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3139185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "金十图示：2026年07月24日（周五）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260724115125649800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
+      "match_count": 17,
+      "titles": [
         {
           "title": "王虹、邓煜获菲尔兹奖，中国数学实现历史性突破",
           "url": "https://m.thepaper.cn/newsDetail_forward_33647071",
@@ -28,8 +222,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时26分 ~ 09时50分]"
+          "appearance_count": 11,
+          "time_info": "[01时26分 ~ 13时13分]"
         },
         {
           "title": "长鑫科技下周一上市，发行价为8.66元/股",
@@ -45,19 +239,16 @@
           "time_info": "[01时26分 ~ 09时50分]"
         },
         {
-          "title": "Knight拿出LPL首个洛克",
-          "url": "https://search.bilibili.com/all?keyword=Knight%E6%8B%BF%E5%87%BALPL%E9%A6%96%E4%B8%AA%E6%B4%9B%E5%85%8B",
-          "source": "bilibili 热搜",
+          "title": "突破!中国数学家首获菲尔兹奖",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356453&amp;topic_name=%E7%AA%81%E7%A0%B4%21%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%A6%E5%AE%B6%E9%A6%96%E8%8E%B7%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96",
+          "source": "贴吧",
           "ranks": [
-            5,
-            10,
-            7,
             1,
-            4
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时02分 ~ 09时50分]"
+          "appearance_count": 11,
+          "time_info": "[01时26分 ~ 13时13分]"
         },
         {
           "title": "长鑫科技7月27日科创板上市",
@@ -68,11 +259,28 @@
             15,
             26,
             5,
-            4
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时26分 ~ 13时13分]"
+        },
+        {
+          "title": "Knight拿出LPL首个洛克",
+          "url": "https://search.bilibili.com/all?keyword=Knight%E6%8B%BF%E5%87%BALPL%E9%A6%96%E4%B8%AA%E6%B4%9B%E5%85%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            10,
+            7,
+            1,
+            4,
+            14
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[01时26分 ~ 09时50分]"
+          "time_info": "[03时02分 ~ 13时13分]"
         },
         {
           "title": "长鑫科技：将于7月27日在科创板上市",
@@ -144,6 +352,17 @@
           "time_info": "[01时26分 ~ 01时27分]"
         },
         {
+          "title": "全国首个海陆一体柔直工程海上换流站完成安装",
+          "url": "https://wallstreetcn.com/livenews/3139218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
           "title": "OpenAI基础设施负责人：OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品。",
           "url": "https://flash.jin10.com/detail/20260724011145043800",
           "source": "金十数据",
@@ -166,13 +385,24 @@
           "time_info": "04时17分"
         },
         {
+          "title": "中国数学如何实现的重大突破",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%A6%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%9A%84%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
           "title": "中国央行：今日开展890亿元7天逆回购操作，投标量890亿元，中标量890亿元，操作利率为1.40%，与此前持平。",
           "url": "https://flash.jin10.com/detail/20260724092034097800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -190,313 +420,8 @@
       ]
     },
     {
-      "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "A股三大股指震荡收涨，锂矿、电网爆发，科创50跌近4%，半导体产业链齐跌，恒指涨超1%，科网股普涨",
-          "url": "https://wallstreetcn.com/articles/3777740",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时26分 ~ 09时50分]"
-        },
-        {
-          "title": "三伏天是养阳减重的黄金时段",
-          "url": "https://www.toutiao.com/trending/7665668489465577482/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            22,
-            25,
-            15,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时26分 ~ 07时54分]"
-        },
-        {
-          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
-          "url": "https://wallstreetcn.com/articles/3777754",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时54分 ~ 09时50分]"
-        },
-        {
-          "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
-          "url": "https://www.cls.cn/detail/2435717",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时53分 ~ 09时50分]"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加1.427吨，当前持仓量为1009.298吨。",
-          "url": "https://flash.jin10.com/detail/20260724061915850800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
-          "title": "国际铜夜盘收跌1.79%，沪铜收跌1.40%，沪铝收跌0.02%，沪锌收跌0.22%，沪铅收跌0.57%，沪镍收涨0.07%，沪锡收跌1.24%。 氧化铝夜盘收跌0.33%，铝合金收跌0.17%。 不锈钢夜盘收跌0.47%。",
-          "url": "https://wallstreetcn.com/livenews/3139008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 03时02分]"
-        },
-        {
-          "title": "LME期铜收跌214美元，报13594美元/吨。 LME期铝收跌4美元，报3188美元/吨。 LME期锌收跌6美元，报3586美元/吨。 LME期铅收跌3美元，报1894美元/吨。 LME期镍收跌1美元，报53326美元/吨。 LME期锡收跌596美元，报53326美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3139006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 03时02分]"
-        },
-        {
-          "title": "Kalshi在推进贵金属业务后，计划推出铜永续期货",
-          "url": "https://wallstreetcn.com/livenews/3139002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 03时02分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 7月23日（周四）晚盘收盘下跌2.05%报882.1元/克；<br/>上海黄金交易所白银T+D 7月23日（周四）晚盘收盘下跌3.82%报14058.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260724023226644800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "A股贵金属板块大幅低开，湖南白银低开超7%，山金国际、赤峰黄金、晓程科技、西部黄金等个股跟跌。",
-          "url": "https://flash.jin10.com/detail/20260724092910278800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "港股黄金股低开，赤峰黄金(06693.HK)、灵宝黄金(03330.HK)双双跌超6%，紫金黄金国际(02259.HK)跌超5%，招金矿业(01818.HK)跌超4%，山东黄金(01787.HK)、紫金矿业(02899.HK)、潼关黄金(00340.HK)等个股跟跌。此前，现货黄金短线走低10美元，报4041.5美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260724092312657800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "港股开盘，恒生指数开跌1.10%，恒生科技指数开跌1.86%；黄金、PCB、明星科网等板块跌幅居前；紫金黄金国际(02259.HK)开跌5.44%。",
-          "url": "https://flash.jin10.com/detail/20260724092113289800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "中信建投：淡季不淡旺季可期，锂价有望低位反升",
-          "url": "https://wallstreetcn.com/livenews/3139130",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
-          "url": "https://wallstreetcn.com/articles/3777723",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时26分 ~ 07时54分]"
-        },
-        {
-          "title": "从震动硅谷到喊话马斯克“欢迎掰手腕”，Kimi做对了哪些",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33637839",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时26分 ~ 07时54分]"
-        },
-        {
-          "title": "训练Gemini 4太烧钱！巴克莱测算：谷歌将连续两年自由现金流为负",
-          "url": "https://wallstreetcn.com/articles/3777753",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时53分 ~ 09时50分]"
-        },
-        {
-          "title": "Minimax 这家公司股价持续暴跌的原因是什么？",
-          "url": "https://www.zhihu.com/question/2060119058045986152",
-          "source": "知乎",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时53分 ~ 09时50分]"
-        },
-        {
-          "title": "OpenAI：在ChatGPT向美国用户推出健康功能。 用户可以安全地连接自己的健康信息。 用户可以获取苹果设备商的健康信息。 健康功能还支持医疗记录（病历）。",
-          "url": "https://wallstreetcn.com/livenews/3139010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 03时02分]"
-        },
-        {
-          "title": "曝梁文锋称 DeepSeek「没有组织」，每个人有一半时间完全自由、没有 KPI，怎样看待这种企业文化？",
-          "url": "https://www.zhihu.com/question/2063657419020792636",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "OpenAI：今日开始向美国地区已登录的18岁及以上ChatGPT用户逐步推出“健康”功能，覆盖网页版和iOS端的Free、Go、Plus和Pro订阅用户。",
-          "url": "https://flash.jin10.com/detail/20260724010724640800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "OpenAI：ChatGPT语音功能现在已在桌面应用中上线。",
-          "url": "https://flash.jin10.com/detail/20260724034515352800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "梁文锋称商业化是 DeepSeek 副产品，先做 AGI 突破，商业化水到渠成，如何理解？眼下该模式跑得通吗？",
-          "url": "https://www.zhihu.com/question/2063622655547110211",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "OpenAI：将在ChatGPT中推出健康功能。",
-          "url": "https://flash.jin10.com/detail/20260724010535689800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "17岁少年贡献Kimi K3核心架构技术",
-          "url": "https://www.toutiao.com/trending/7665767109372153380/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "黄仁勋力挺中国AI模型：DeepSeek、Kimi这样优秀的大模型得到广泛应用",
-          "url": "https://wallstreetcn.com/livenews/3138991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "北京：鼓励发展Token（词元）经济，加大算力券等支持力度",
@@ -531,6 +456,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时59分 ~ 06时54分]"
+        },
+        {
+          "title": "算力上天，组网提速：力箭一号遥十五“一箭5星”发射成功",
+          "url": "https://www.cls.cn/detail/2435764",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 13时13分]"
         },
         {
           "title": "公募AI投资图谱：算力端“吃饱”，应用层“等风”",
@@ -568,17 +505,6 @@
           "time_info": "01时27分"
         },
         {
-          "title": "算力上天，组网提速：力箭一号遥十五“一箭5星”发射成功",
-          "url": "https://www.cls.cn/detail/2435764",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
           "title": "AMD正式发布Helios机架级AI服务器。",
           "url": "https://wallstreetcn.com/livenews/3139003",
           "source": "华尔街见闻-快讯",
@@ -601,6 +527,17 @@
           "time_info": "05时59分"
         },
         {
+          "title": "算力租赁概念震荡调整，证通电子逼近跌停，利通电子、美利云、亿田智能、行云科技、群兴玩具均跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3139188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
           "title": "AMD(AMD.O)发布Helios人工智能服务器整机架。",
           "url": "https://flash.jin10.com/detail/20260724004744566800",
           "source": "金十数据",
@@ -621,12 +558,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
+        },
+        {
+          "title": "未来五年计划投入1000亿元 “东莞算力产业岛”亮相",
+          "url": "https://flash.jin10.com/detail/20260724120116795800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "A股三大指数均跌超1%，贵金属、电力、算力租赁、医药等方向跌幅居前，沪深京三市下跌个股近4900只。",
+          "url": "https://wallstreetcn.com/livenews/3139184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         }
       ]
     },
     {
       "keyword_group": "国务院 发改委 工信部 财政部 证监会",
-      "match_count": 7,
+      "match_count": 14,
       "titles": [
         {
           "title": "证监会：综合施策全力维护市场平稳运行，提升资本市场韧性",
@@ -641,6 +600,17 @@
           "time_info": "[01时26分 ~ 09时50分]"
         },
         {
+          "title": "泰国财政部：预计2026年泰国总体通胀率为2.0%（4月预计为3.0%）。",
+          "url": "https://flash.jin10.com/detail/20260724123957419800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
           "title": "美国财政部：尽管美日利差缩小，日元疲软仍持续，日元的过度波动不受欢迎。",
           "url": "https://flash.jin10.com/detail/20260724051718996800",
           "source": "金十数据",
@@ -651,6 +621,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时59分 ~ 06时54分]"
+        },
+        {
+          "title": "泰国财政部：预计2026年泰国出口增长12.5%（4月预计为6.2%）。",
+          "url": "https://flash.jin10.com/detail/20260724123911867800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "泰国财政部：预计2026年泰国GDP增长为2.5%（4月预测为1.6%）。",
+          "url": "https://flash.jin10.com/detail/20260724123704669800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         },
         {
           "title": "韩国将与美国财政部围绕外汇问题继续沟通。",
@@ -675,6 +667,28 @@
           "time_info": "01时27分"
         },
         {
+          "title": "国务院成立广西南宁横州市六蓝水库“7·6”溃坝灾害调查评估组",
+          "url": "https://wallstreetcn.com/livenews/3139216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "中国财政部发行5年期债券，规模1300亿元，发行利率1.4000%，边际利率1.4300%，预期1.4300%，投标倍数3.80倍，边际倍数59.74倍。",
+          "url": "https://wallstreetcn.com/livenews/3139213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
           "title": "美国财政部：对古巴实施新制裁。",
           "url": "https://flash.jin10.com/detail/20260724020656946800",
           "source": "金十数据",
@@ -684,6 +698,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "国务院成立六蓝水库溃坝调查评估组",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%E6%88%90%E7%AB%8B%E5%85%AD%E8%93%9D%E6%B0%B4%E5%BA%93%E6%BA%83%E5%9D%9D%E8%B0%83%E6%9F%A5%E8%AF%84%E4%BC%B0%E7%BB%84",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         },
         {
           "title": "美国财政部拍卖210亿美元10年期通胀保值国债（TIPS），得标利率2.438%——创2008年以来新高（5月21日为2.169%），投标倍数2.30（前次2.52）。",
@@ -703,9 +728,165 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "国务院成立广西六蓝水库溃坝调查组",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%8A%A1%E9%99%A2%E6%88%90%E7%AB%8B%E5%B9%BF%E8%A5%BF%E5%85%AD%E8%93%9D%E6%B0%B4%E5%BA%93%E6%BA%83%E5%9D%9D%E8%B0%83%E6%9F%A5%E7%BB%84%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
+          "url": "https://wallstreetcn.com/articles/3777723",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时26分 ~ 07时54分]"
+        },
+        {
+          "title": "从震动硅谷到喊话马斯克“欢迎掰手腕”，Kimi做对了哪些",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33637839",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时26分 ~ 07时54分]"
+        },
+        {
+          "title": "Minimax 这家公司股价持续暴跌的原因是什么？",
+          "url": "https://www.zhihu.com/question/2060119058045986152",
+          "source": "知乎",
+          "ranks": [
+            11,
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时53分 ~ 13时13分]"
+        },
+        {
+          "title": "训练Gemini 4太烧钱！巴克莱测算：谷歌将连续两年自由现金流为负",
+          "url": "https://wallstreetcn.com/articles/3777753",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时53分 ~ 09时50分]"
+        },
+        {
+          "title": "OpenAI：在ChatGPT向美国用户推出健康功能。 用户可以安全地连接自己的健康信息。 用户可以获取苹果设备商的健康信息。 健康功能还支持医疗记录（病历）。",
+          "url": "https://wallstreetcn.com/livenews/3139010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 03时02分]"
+        },
+        {
+          "title": "曝梁文锋称 DeepSeek「没有组织」，每个人有一半时间完全自由、没有 KPI，怎样看待这种企业文化？",
+          "url": "https://www.zhihu.com/question/2063657419020792636",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "OpenAI：今日开始向美国地区已登录的18岁及以上ChatGPT用户逐步推出“健康”功能，覆盖网页版和iOS端的Free、Go、Plus和Pro订阅用户。",
+          "url": "https://flash.jin10.com/detail/20260724010724640800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时27分"
+        },
+        {
+          "title": "OpenAI：ChatGPT语音功能现在已在桌面应用中上线。",
+          "url": "https://flash.jin10.com/detail/20260724034515352800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        },
+        {
+          "title": "梁文锋称商业化是 DeepSeek 副产品，先做 AGI 突破，商业化水到渠成，如何理解？眼下该模式跑得通吗？",
+          "url": "https://www.zhihu.com/question/2063622655547110211",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "OpenAI：将在ChatGPT中推出健康功能。",
+          "url": "https://flash.jin10.com/detail/20260724010535689800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时27分"
+        },
+        {
+          "title": "17岁少年贡献Kimi K3核心架构技术",
+          "url": "https://www.toutiao.com/trending/7665767109372153380/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "黄仁勋力挺中国AI模型：DeepSeek、Kimi这样优秀的大模型得到广泛应用",
+          "url": "https://wallstreetcn.com/livenews/3138991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时27分"
         }
       ]
     },
@@ -790,6 +971,73 @@
       ]
     },
     {
+      "keyword_group": "免税 旅游 酒店 餐饮",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "这世界大得让你很难不旅游",
+          "url": "https://www.douyin.com/hot/2581388",
+          "source": "抖音",
+          "ranks": [
+            20,
+            19,
+            22,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时26分 ~ 07时54分]"
+        },
+        {
+          "title": "2男子频繁入住电竞酒店只为偷内存条",
+          "url": "https://www.baidu.com/s?wd=2%E7%94%B7%E5%AD%90%E9%A2%91%E7%B9%81%E5%85%A5%E4%BD%8F%E7%94%B5%E7%AB%9E%E9%85%92%E5%BA%97%E5%8F%AA%E4%B8%BA%E5%81%B7%E5%86%85%E5%AD%98%E6%9D%A1",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 06时54分]"
+        },
+        {
+          "title": "赛里木湖景区通报工作人员殴打旅游车司机：7人被警方控制，予以辞退",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33649439",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "旅游偶遇失联台湾亲人男子最新发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%85%E6%B8%B8%E5%81%B6%E9%81%87%E5%A4%B1%E8%81%94%E5%8F%B0%E6%B9%BE%E4%BA%B2%E4%BA%BA%E7%94%B7%E5%AD%90%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "博主曝光酒店偷拍被多家酒店拒住",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E6%9B%9D%E5%85%89%E9%85%92%E5%BA%97%E5%81%B7%E6%8B%8D%E8%A2%AB%E5%A4%9A%E5%AE%B6%E9%85%92%E5%BA%97%E6%8B%92%E4%BD%8F%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "华为 鸿蒙 HarmonyOS 鸿蒙NEXT",
       "match_count": 4,
       "titles": [
@@ -831,7 +1079,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -842,9 +1090,60 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人形机器人 机器人 具身智能 灵巧手",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "A股人形机器人板块低开，绿的谐波跌近6%，拓普集团跌超4%，三花智控、昊志机电、国机精工、步科股份等个股跟跌。",
+          "url": "https://flash.jin10.com/detail/20260724093028199800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "机器人初创公司Genesis洽谈按30亿美元估值融资大约5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3139092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时54分]"
+        },
+        {
+          "title": "中国机器人霸榜,日本破防",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356460&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9C%B8%E6%A6%9C%2C%E6%97%A5%E6%9C%AC%E7%A0%B4%E9%98%B2",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "Black Forest Labs推出机器人模型，进军物理AI领域",
+          "url": "https://wallstreetcn.com/livenews/3138996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时27分"
         }
       ]
     },
@@ -881,7 +1180,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -895,102 +1194,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "免税 旅游 酒店 餐饮",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "这世界大得让你很难不旅游",
-          "url": "https://www.douyin.com/hot/2581388",
-          "source": "抖音",
-          "ranks": [
-            20,
-            19,
-            22,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时26分 ~ 07时54分]"
-        },
-        {
-          "title": "2男子频繁入住电竞酒店只为偷内存条",
-          "url": "https://www.baidu.com/s?wd=2%E7%94%B7%E5%AD%90%E9%A2%91%E7%B9%81%E5%85%A5%E4%BD%8F%E7%94%B5%E7%AB%9E%E9%85%92%E5%BA%97%E5%8F%AA%E4%B8%BA%E5%81%B7%E5%86%85%E5%AD%98%E6%9D%A1",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时26分 ~ 06时54分]"
-        },
-        {
-          "title": "赛里木湖景区通报工作人员殴打旅游车司机：7人被警方控制，予以辞退",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33649439",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "旅游偶遇失联台湾亲人男子最新发声",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%85%E6%B8%B8%E5%81%B6%E9%81%87%E5%A4%B1%E8%81%94%E5%8F%B0%E6%B9%BE%E4%BA%B2%E4%BA%BA%E7%94%B7%E5%AD%90%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人形机器人 机器人 具身智能 灵巧手",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "A股人形机器人板块低开，绿的谐波跌近6%，拓普集团跌超4%，三花智控、昊志机电、国机精工、步科股份等个股跟跌。",
-          "url": "https://flash.jin10.com/detail/20260724093028199800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "机器人初创公司Genesis洽谈按30亿美元估值融资大约5亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3139092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时54分 ~ 07时54分]"
-        },
-        {
-          "title": "Black Forest Labs推出机器人模型，进军物理AI领域",
-          "url": "https://wallstreetcn.com/livenews/3138996",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
         }
       ]
     },
@@ -1016,9 +1219,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 13时13分]"
         }
       ]
     },
@@ -1050,7 +1253,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         }
@@ -1071,6 +1274,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时26分 ~ 07时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "创新药 ADC CAR-T GLP-1",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国家首版商保创新药目录再添落地城市青岛",
+          "url": "https://flash.jin10.com/detail/20260724122151041800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         }
       ]
     }
