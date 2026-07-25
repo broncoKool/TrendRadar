@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-07-25T10:35:24.422580+08:00",
-  "total_titles_processed": 693,
+  "generated_at": "2026-07-25T13:36:25.072093+08:00",
+  "total_titles_processed": 848,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 15,
+      "match_count": 26,
       "titles": [
-        {
-          "title": "从数学研究角度，为什么王虹可以在本科小透明后取得巨大突破？",
-          "url": "https://www.zhihu.com/question/2063910329785045183",
-          "source": "知乎",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时12分 ~ 10时35分]"
-        },
         {
           "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
           "url": "https://www.cls.cn/detail/2436740",
@@ -30,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时12分 ~ 10时35分]"
+          "appearance_count": 9,
+          "time_info": "[02时12分 ~ 13时36分]"
         },
         {
           "title": "长鑫科技股价管控“小作文”先于上市登场，谣言为何密集出现？七大拆解",
@@ -41,6 +29,18 @@
             4,
             3,
             5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时12分 ~ 13时36分]"
+        },
+        {
+          "title": "从数学研究角度，为什么王虹可以在本科小透明后取得巨大突破？",
+          "url": "https://www.zhihu.com/question/2063910329785045183",
+          "source": "知乎",
+          "ranks": [
+            1,
+            3
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -55,11 +55,12 @@
             17,
             6,
             5,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时12分 ~ 10时35分]"
+          "appearance_count": 9,
+          "time_info": "[02时12分 ~ 13时36分]"
         },
         {
           "title": "突破!中国数学家首获菲尔兹奖",
@@ -114,24 +115,46 @@
           "time_info": "[06时58分 ~ 10时35分]"
         },
         {
+          "title": "SK海力士：与英伟达达成长期AI内存合作协议。",
+          "url": "https://wallstreetcn.com/livenews/3139724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
+          "title": "SK海力士：与英伟达建立长期AI存储器合作伙伴关系。",
+          "url": "https://flash.jin10.com/detail/20260725131703808800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
+          "title": "韩国科学部：SK集团将与Anthropic在韩国推进千兆瓦级AI数据中心项目投资合作。",
+          "url": "https://wallstreetcn.com/livenews/3139722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
           "title": "据美联社：美军周五表示，向另一艘试图突破其对伊朗港口封锁的商船开火。美军在阿曼湾使M/T Lavine号油轮丧失了航行能力。",
           "url": "https://flash.jin10.com/detail/20260725101954738800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "北汽集团：坚定看好中国资本市场发展前景，全力支持控股上市公司高质量发展",
-          "url": "https://wallstreetcn.com/livenews/3139698",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -149,6 +172,18 @@
           "time_info": "[02时12分 ~ 05时58分]"
         },
         {
+          "title": "北汽集团：坚定看好中国资本市场发展前景，全力支持控股上市公司高质量发展",
+          "url": "https://wallstreetcn.com/livenews/3139698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 13时36分]"
+        },
+        {
           "title": "IG对战WBG首发名单",
           "url": "https://search.bilibili.com/all?keyword=IG%E5%AF%B9%E6%88%98WBG%E9%A6%96%E5%8F%91%E5%90%8D%E5%8D%95",
           "source": "bilibili 热搜",
@@ -163,6 +198,84 @@
           "time_info": "[04时12分 ~ 10时35分]"
         },
         {
+          "title": "直击第十二批集采解读会现场：联采办“考前辅导”，有药企对中标势在必得",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33653335",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 13时36分]"
+        },
+        {
+          "title": "SK集团与英伟达深化战略合作伙伴关系，涵盖AI工厂与下一代存储技术。",
+          "url": "https://flash.jin10.com/detail/20260725131053313800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
+          "title": "韩国科学部：SK集团将与Anthropic就韩国境内的吉瓦（GW）级AI数据中心项目开展投资合作。",
+          "url": "https://flash.jin10.com/detail/20260725131035027800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
+          "title": "据韩国媒体Newsis，三星电子、SK海力士将与美国科技巨头推进1,375万亿韩元芯片合作项目。 三星电子与博通签署先进内存芯片代工合作备忘录，5年总值200亿美元。 SK集团将向包括英伟达在内的美国科技公司供应价值7500亿美元的芯片。",
+          "url": "https://wallstreetcn.com/livenews/3139717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
+          "title": "上海港保税LNG“船对船”加注总量突破200万立方米",
+          "url": "https://wallstreetcn.com/livenews/3139713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
+          "title": "横琴口岸今年累计通关人次突破2000万",
+          "url": "https://wallstreetcn.com/livenews/3139712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
+          "title": "韩国与全球科技巨头达成9500亿美元的合作项目",
+          "url": "https://flash.jin10.com/detail/20260725123504500800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
           "title": "英特尔与蓝思科技将合作开发基于玻璃的半导体封装技术",
           "url": "https://wallstreetcn.com/livenews/3139577",
           "source": "华尔街见闻-快讯",
@@ -174,32 +287,43 @@
           "time_info": "02时13分"
         },
         {
-          "title": "直击第十二批集采解读会现场：联采办“考前辅导”，有药企对中标势在必得",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33653335",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
           "title": "英伟达与SK集团推出超5000亿美元AI数据中心及内存合作计划",
           "url": "https://wallstreetcn.com/livenews/3139690",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "据韩国媒体Newsis援引韩国总统顾问的消息报道，三星电子和SK海力士将与美国大型科技公司推进规模达1375万亿韩元（约9500亿美元）的芯片合作项目。",
+          "url": "https://flash.jin10.com/detail/20260725121246416800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
+          "title": "全球首个本迪布焦型埃博拉疫苗临床试验启动人体接种",
+          "url": "https://flash.jin10.com/detail/20260725115906423800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "Anthropic发布更具成本效率的Claude Opus 5模型",
@@ -243,11 +367,23 @@
           "url": "https://wallstreetcn.com/articles/3777901",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 13时36分]"
+        },
+        {
+          "title": "杨植麟团队 KimiK3 拥有 2.8 万亿参数且团队最小成员仅 17 岁，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2063822441583993476",
+          "source": "知乎",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时35分"
+          "time_info": "13时36分"
         },
         {
           "title": "Claude：Opus5在网络安全任务上比Opus 4.8更强。但在开发漏洞方面，仍然远远落后于Mythos 5。它的安全措施旨在帮助开发者识别和修复软件漏洞，同时阻止高风险使用。",
@@ -259,6 +395,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "Claude Opus 5发布",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Opus%205%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
         },
         {
           "title": "Claude：根据我们的自动化行为审计结果，Opus 5 是迄今为止我们安全对齐程度最高的模型。与我们的其他模型相比，它表现出最低的鲁莽或欺骗性行为发生率，并且在遵循 Claude 宪章（Claude’s Constitution）方面表现最为出色。",
@@ -300,7 +447,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -344,6 +491,19 @@
           "time_info": "[02时12分 ~ 05时58分]"
         },
         {
+          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
+          "url": "https://www.cls.cn/detail/2436884",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时59分 ~ 13时36分]"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：7月21日当周，投机者所持COMEX黄金净多头头寸增加4,439手合约，至123,586手合约，创六个月新高。 所持COMEX白银净多头头寸创六周新低。 所持COMEX铜净多头头寸创七周新高。 所持NYMEX铂金净多头头寸创20周新低，所持NYMEX钯金净空头头寸创13个月新高。",
           "url": "https://wallstreetcn.com/livenews/3139625",
           "source": "华尔街见闻-快讯",
@@ -377,18 +537,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时12分 ~ 05时58分]"
-        },
-        {
-          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
-          "url": "https://www.cls.cn/detail/2436884",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 10时35分]"
         },
         {
           "title": "现货黄金本周涨约0.9%，纽约铜涨约1.2%",
@@ -435,6 +583,179 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "HBM DDR5 存储芯片",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "AI烧钱担忧叠加中东局势，纳斯达克100指数跌幅扩大至1.2%，存储芯片板块重挫逾6%，SK海力士跌7%，油价跌超2%",
+          "url": "https://wallstreetcn.com/articles/3777833",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时12分 ~ 05时58分]"
+        },
+        {
+          "title": "TACO交易油价回落，科技股打压美股，芯片指数暴跌4%，存储芯片板块重挫",
+          "url": "https://wallstreetcn.com/articles/3777833",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "三星电子：与博通签署谅解备忘录，计划至2030年在内存芯片、代工服务及先进封装等领域合作，规模最高可达2000亿美元。 将与博通合作，基于三星HBM技术开发博通下一代AI加速器。 将提供2纳米以下代工工艺及先进封装解决方案。",
+          "url": "https://wallstreetcn.com/livenews/3139723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
+          "title": "三星电子与博通签署谅解备忘录，涵盖至2030年在存储芯片、代工服务和先进封装领域的合作，金额可达2000亿美元。三星电子将与博通合作开发基于三星HBM技术的博通下一代人工智能加速器。三星电子将提供亚2纳米代工工艺和先进封装解决方案。",
+          "url": "https://flash.jin10.com/detail/20260725131150393800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
+          "title": "周五（7月24日），美股存储芯片与硬件供应链指数跌7.29%，报200.25点，本周累计上涨5.74%，整体处于上涨状态，7月23-24日持续回撤。",
+          "url": "https://wallstreetcn.com/livenews/3139661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
+          "title": "美股存储芯片指数收跌约7.3%，使得本周累计涨幅收窄至不足6%",
+          "url": "https://wallstreetcn.com/livenews/3139661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 07时59分]"
+        },
+        {
+          "title": "市场消息:三星电子与博通签署谅解备忘录，达成一项为期五年、价值2000亿美元的先进存储芯片代工协议。（外媒更正：非200亿）",
+          "url": "https://flash.jin10.com/detail/20260725121039889800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国务院 发改委 工信部 财政部 证监会",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "中国证监会原党委委员、副主席方星海接受审查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33653301",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时12分 ~ 13时36分]"
+        },
+        {
+          "title": "证监会原副主席方星海被查",
+          "url": "https://wallstreetcn.com/articles/3777885",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时12分 ~ 13时36分]"
+        },
+        {
+          "title": "证监会原副主席方星海被查",
+          "url": "https://www.douyin.com/hot/2583989",
+          "source": "抖音",
+          "ranks": [
+            5,
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时12分 ~ 10时35分]"
+        },
+        {
+          "title": "证监会原副主席方星海被查",
+          "url": "https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%8E%9F%E5%89%AF%E4%B8%BB%E5%B8%AD%E6%96%B9%E6%98%9F%E6%B5%B7%E8%A2%AB%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时12分 ~ 06时58分]"
+        },
+        {
+          "title": "打虎！证监会原副主席方星海被查",
+          "url": "https://www.toutiao.com/trending/7666063296457965587/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时12分 ~ 07时59分]"
+        },
+        {
+          "title": "证监会：进一步加大对证券期货违法犯罪的惩治力度",
+          "url": "https://wallstreetcn.com/livenews/3139716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
+          "title": "证监会：进一步加大对证券期货违法犯罪的惩治力度",
+          "url": "https://flash.jin10.com/detail/20260725115927619800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
         }
       ]
     },
@@ -486,7 +807,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -497,7 +818,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -539,11 +860,12 @@
           "source": "贴吧",
           "ranks": [
             21,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时12分 ~ 10时35分]"
+          "appearance_count": 9,
+          "time_info": "[02时12分 ~ 13时36分]"
         },
         {
           "title": "长征三号乙火箭发射与闪电同框",
@@ -584,126 +906,8 @@
       ]
     },
     {
-      "keyword_group": "国务院 发改委 工信部 财政部 证监会",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "中国证监会原党委委员、副主席方星海接受审查调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33653301",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时12分 ~ 10时35分]"
-        },
-        {
-          "title": "证监会原副主席方星海被查",
-          "url": "https://wallstreetcn.com/articles/3777885",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时12分 ~ 10时35分]"
-        },
-        {
-          "title": "证监会原副主席方星海被查",
-          "url": "https://www.douyin.com/hot/2583989",
-          "source": "抖音",
-          "ranks": [
-            5,
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时12分 ~ 10时35分]"
-        },
-        {
-          "title": "证监会原副主席方星海被查",
-          "url": "https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%8E%9F%E5%89%AF%E4%B8%BB%E5%B8%AD%E6%96%B9%E6%98%9F%E6%B5%B7%E8%A2%AB%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时12分 ~ 06时58分]"
-        },
-        {
-          "title": "打虎！证监会原副主席方星海被查",
-          "url": "https://www.toutiao.com/trending/7666063296457965587/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时12分 ~ 07时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "HBM DDR5 存储芯片",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "AI烧钱担忧叠加中东局势，纳斯达克100指数跌幅扩大至1.2%，存储芯片板块重挫逾6%，SK海力士跌7%，油价跌超2%",
-          "url": "https://wallstreetcn.com/articles/3777833",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时12分 ~ 05时58分]"
-        },
-        {
-          "title": "TACO交易油价回落，科技股打压美股，芯片指数暴跌4%，存储芯片板块重挫",
-          "url": "https://wallstreetcn.com/articles/3777833",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时58分"
-        },
-        {
-          "title": "周五（7月24日），美股存储芯片与硬件供应链指数跌7.29%，报200.25点，本周累计上涨5.74%，整体处于上涨状态，7月23-24日持续回撤。",
-          "url": "https://wallstreetcn.com/livenews/3139661",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "美股存储芯片指数收跌约7.3%，使得本周累计涨幅收窄至不足6%",
-          "url": "https://wallstreetcn.com/livenews/3139661",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时58分 ~ 07时59分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "3天3箭15星！多颗“算力卫星”入轨，商业航天迈入规模化商用新周期",
@@ -718,15 +922,54 @@
           "time_info": "[02时12分 ~ 06时58分]"
         },
         {
+          "title": "据韩国媒体Newsis援引韩国总统顾问：韩国正推进SK电讯、英伟达等合作建设配备200万块GPU的AI数据中心。",
+          "url": "https://flash.jin10.com/detail/20260725123126272800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
           "title": "SK集团会长崔泰源：下次与英伟达黄仁勋见面时，他可能会要求提供更多内存芯片。 我们宣布的超大型项目现实且可实现。 Anthropic已决定自行打造“算力”。",
           "url": "https://wallstreetcn.com/livenews/3139676",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple iPhone",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国总统特朗普声称，欧盟将付出非常大的代价。 批评欧盟针对苹果、Meta的罚款，他们“在掠夺”美国企业。 美国开始对“欧盟针对美国科技企业采取的行动”展开301调查。 “我们预计将会对欧盟‘大幅’加征关税”。 欧元转跌，在美上市ETF欧元做多回吐日内稍早涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3139589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时13分"
+        },
+        {
+          "title": "永远会被小苹果阿姨的真诚感动",
+          "url": "https://www.douyin.com/hot/2584228",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
         }
       ]
     },
@@ -752,28 +995,41 @@
           "url": "https://www.cls.cn/detail/2436840",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 13时36分]"
         }
       ]
     },
     {
-      "keyword_group": "苹果 Apple iPhone",
-      "match_count": 1,
+      "keyword_group": "免税 旅游 酒店 餐饮",
+      "match_count": 2,
       "titles": [
         {
-          "title": "美国总统特朗普声称，欧盟将付出非常大的代价。 批评欧盟针对苹果、Meta的罚款，他们“在掠夺”美国企业。 美国开始对“欧盟针对美国科技企业采取的行动”展开301调查。 “我们预计将会对欧盟‘大幅’加征关税”。 欧元转跌，在美上市ETF欧元做多回吐日内稍早涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3139589",
-          "source": "华尔街见闻-快讯",
+          "title": "责令携程退还强制扣除酒店的1.22亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B4%A3%E4%BB%A4%E6%90%BA%E7%A8%8B%E9%80%80%E8%BF%98%E5%BC%BA%E5%88%B6%E6%89%A3%E9%99%A4%E9%85%92%E5%BA%97%E7%9A%841.22%E4%BA%BF%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
-            9
+            9,
+            18
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 13时36分]"
+        },
+        {
+          "title": "携程被责令退还强制扣除酒店的1.22亿",
+          "url": "https://www.baidu.com/s?wd=%E6%90%BA%E7%A8%8B%E8%A2%AB%E8%B4%A3%E4%BB%A4%E9%80%80%E8%BF%98%E5%BC%BA%E5%88%B6%E6%89%A3%E9%99%A4%E9%85%92%E5%BA%97%E7%9A%841.22%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时13分"
+          "time_info": "13时36分"
         }
       ]
     },
@@ -806,7 +1062,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         }
@@ -824,11 +1080,12 @@
             8,
             7,
             9,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时12分 ~ 10时35分]"
+          "appearance_count": 9,
+          "time_info": "[02时12分 ~ 13时36分]"
         }
       ]
     },
@@ -843,24 +1100,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "免税 旅游 酒店 餐饮",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "责令携程退还强制扣除酒店的1.22亿",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B4%A3%E4%BB%A4%E6%90%BA%E7%A8%8B%E9%80%80%E8%BF%98%E5%BC%BA%E5%88%B6%E6%89%A3%E9%99%A4%E9%85%92%E5%BA%97%E7%9A%841.22%E4%BA%BF%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         }
