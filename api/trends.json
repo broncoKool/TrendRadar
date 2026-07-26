@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T09:54:09.907110+08:00",
-  "total_titles_processed": 630,
+  "generated_at": "2026-07-26T13:24:45.903350+08:00",
+  "total_titles_processed": 796,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "“订单暴涨3000%”！两大赛道，全球爆单",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 09时54分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 13时24分]"
         },
         {
           "title": "如何评价天蚕土豆新书《神通者》签约番茄？",
@@ -54,22 +54,40 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 09时54分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 13时24分]"
+        },
+        {
+          "title": "“红霞”已加强为强台风，中央气象台发布今年首个台风红色预警",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33659697",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18,
+            17,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时54分 ~ 13时24分]"
         },
         {
           "title": "杂交水稻新突破:不必年年制种",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356499&amp;topic_name=%E6%9D%82%E4%BA%A4%E6%B0%B4%E7%A8%BB%E6%96%B0%E7%AA%81%E7%A0%B4%3A%E4%B8%8D%E5%BF%85%E5%B9%B4%E5%B9%B4%E5%88%B6%E7%A7%8D",
           "source": "贴吧",
           "ranks": [
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 09时54分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 13时24分]"
         },
         {
           "title": "中央气象台发布今年首个台风红警",
@@ -84,21 +102,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时53分 ~ 07时54分]"
-        },
-        {
-          "title": "“红霞”已加强为强台风，中央气象台发布今年首个台风红色预警",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33659697",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时54分 ~ 09时54分]"
         },
         {
           "title": "印尼官员：印尼对华发展长期合作伙伴关系承诺坚定",
@@ -159,9 +162,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "APEC人工智能未来合作开启新路径",
+          "url": "https://s.weibo.com/weibo?q=%23APEC%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%9C%AA%E6%9D%A5%E5%90%88%E4%BD%9C%E5%BC%80%E5%90%AF%E6%96%B0%E8%B7%AF%E5%BE%84%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "三星李在镕与OpenAI据悉磋商AI与半导体领域合作方案",
+          "url": "https://flash.jin10.com/detail/20260726125707233800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "今年首个台风红色预警发布",
@@ -200,6 +225,17 @@
           "time_info": "[06时44分 ~ 07时54分]"
         },
         {
+          "title": "英伟达与 SK 集团推出超 5000 亿美元双向交易 AI 合作计划，英伟达买内存，SK 买超算，如何解读？",
+          "url": "https://www.zhihu.com/question/2064306906437571115",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时53分 ~ 13时24分]"
+        },
+        {
           "title": "美国中央司令部：美国对伊朗的海上封锁仍在全面执行中。截至7月25日，已迫使12艘试图突破封锁的商船改变航向，对2艘不服从的船只瘫痪其航线能力，并对2艘船只进行登临检查，以确保完全遵守规定。",
           "url": "https://flash.jin10.com/detail/20260726053308715800",
           "source": "金十数据",
@@ -209,17 +245,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时44分 ~ 07时54分]"
-        },
-        {
-          "title": "英伟达与 SK 集团推出超 5000 亿美元双向交易 AI 合作计划，英伟达买内存，SK 买超算，如何解读？",
-          "url": "https://www.zhihu.com/question/2064306906437571115",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 09时54分]"
         },
         {
           "title": "印尼对华发展长期合作关系承诺坚定",
@@ -239,15 +264,136 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "“订单暴涨3000%”！中国这两大赛道，全球爆单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33658603",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "无人机 通航",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "英国人工智能大臣：芯片和无人机将成为“再工业化”战略的核心",
+          "url": "https://flash.jin10.com/detail/20260726130954988800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "我国蜂群无人机首次实现台风过境全程立体观测",
+          "url": "https://wallstreetcn.com/livenews/3139805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "以色列国家安全部长办公室：在部长本-格维尔住宅附近坠毁的无人机已由以色列国防军回收，无人员伤亡。部长及其家人状况良好。",
+          "url": "https://flash.jin10.com/detail/20260726034612336800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时07分 ~ 07时54分]"
+        },
+        {
+          "title": "据以色列方面报道，一架无人机在以色列国家安全部长本-格维尔位于希伯伦的住宅附近坠毁。细节正在调查中。",
+          "url": "https://flash.jin10.com/detail/20260726034033729800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时07分 ~ 07时54分]"
+        },
+        {
+          "title": "凤凰记者实地探访俄军核心运输线：天上无人机比鸟还多",
+          "url": "https://news.ifeng.com/c/8v4N6HOHWH4",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "据以色列广播局：在以色列国家安全部长本·格维尔住宅附近坠毁的无人机仅携带了摄像头。",
+          "url": "https://flash.jin10.com/detail/20260726041034041800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时45分 ~ 07时54分]"
+        },
+        {
+          "title": "我国蜂群无人机首次实现台风过境全程立体观测",
+          "url": "https://flash.jin10.com/detail/20260726122357483800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "安全消息人士：伊拉克防空系统在埃尔比勒美国领事馆附近击落了一架无人机。",
+          "url": "https://flash.jin10.com/detail/20260725211428595800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
+        },
+        {
+          "title": "乌克兰无人机袭击引发俄罗斯秋明炼油厂火灾",
+          "url": "https://flash.jin10.com/detail/20260726101828465800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "如何看待月之暗面发布 kimi K3-256K 大模型，能力和 K3 一样，不能看视频，上下文只有 256K？",
@@ -305,11 +451,34 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33660556",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 09时54分]"
+          "appearance_count": 3,
+          "time_info": "[09时53分 ~ 13时24分]"
+        },
+        {
+          "title": "交流会纪要外泄影响DeepSeek融资？内部人士：不可信",
+          "url": "https://wallstreetcn.com/livenews/3139801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "OpenAI产品负责人Tibo：ChatGPT Work的活跃用户数量正式超越Codex。",
+          "url": "https://flash.jin10.com/detail/20260726120623343800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "全国首个低空智慧物流大模型落地郑州",
@@ -318,7 +487,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         }
@@ -326,7 +495,7 @@
     },
     {
       "keyword_group": "人形机器人 机器人 具身智能 灵巧手",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "日方拆解宇树机器人后坦言：我们短期内赶不上中国",
@@ -336,11 +505,12 @@
             4,
             6,
             7,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 09时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 13时24分]"
         },
         {
           "title": "CEO被自家机器人踹飞",
@@ -377,67 +547,56 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时53分 ~ 07时54分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "无人机 通航",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "以色列国家安全部长办公室：在部长本-格维尔住宅附近坠毁的无人机已由以色列国防军回收，无人员伤亡。部长及其家人状况良好。",
-          "url": "https://flash.jin10.com/detail/20260726034612336800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时07分 ~ 07时54分]"
         },
         {
-          "title": "据以色列方面报道，一架无人机在以色列国家安全部长本-格维尔位于希伯伦的住宅附近坠毁。细节正在调查中。",
-          "url": "https://flash.jin10.com/detail/20260726034033729800",
-          "source": "金十数据",
+          "title": "日方拆解宇树机器人",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%96%B9%E6%8B%86%E8%A7%A3%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
-            3,
-            14,
-            20
+            7
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时07分 ~ 07时54分]"
-        },
-        {
-          "title": "据以色列广播局：在以色列国家安全部长本·格维尔住宅附近坠毁的无人机仅携带了摄像头。",
-          "url": "https://flash.jin10.com/detail/20260726041034041800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时45分 ~ 07时54分]"
-        },
-        {
-          "title": "安全消息人士：伊拉克防空系统在埃尔比勒美国领事馆附近击落了一架无人机。",
-          "url": "https://flash.jin10.com/detail/20260725211428595800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时53分"
+          "time_info": "13时24分"
+        },
+        {
+          "title": "日本如何评价宇树机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "特斯拉三代 Optimus 初步定型，Optimus 量产对全球人形机器人产业有何影响？",
+          "url": "https://www.zhihu.com/question/2058635266215227709",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "日媒发布宇树机器人拆机视频后认输",
+          "url": "https://www.toutiao.com/trending/7666652778256862771/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         }
       ]
     },
     {
       "keyword_group": "稀土 锗 镓 锑 钨",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "印尼海关办公室的一位发言人表示，政府正引入独立检验机构以查明矿产出口的构成，包括检测是否含有稀土金属。 政府并非随意暂停或禁止氧化铝和镍等矿产商品的出口，并正确保符合要求的商品出口顺畅。（彭博）",
@@ -447,11 +606,12 @@
             13,
             15,
             16,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 09时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 13时24分]"
         },
         {
           "title": "报道：印尼金属出口因稀土核查面临延误",
@@ -461,11 +621,12 @@
             14,
             16,
             17,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 09时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 13时24分]"
         },
         {
           "title": "日本确认南鸟岛海泥含中重稀土",
@@ -482,6 +643,17 @@
           "time_info": "[02时54分 ~ 07时54分]"
         },
         {
+          "title": "日本欲前往格陵兰岛挖稀土",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%AC%B2%E5%89%8D%E5%BE%80%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E6%8C%96%E7%A8%80%E5%9C%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "日本确认南鸟岛海泥含中重稀土",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%A1%AE%E8%AE%A4%E5%8D%97%E9%B8%9F%E5%B2%9B%E6%B5%B7%E6%B3%A5%E5%90%AB%E4%B8%AD%E9%87%8D%E7%A8%80%E5%9C%9F%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -491,6 +663,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "免税 旅游 酒店 餐饮",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "内存条刺客古法偷遍电竞酒店",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356511&amp;topic_name=%E5%86%85%E5%AD%98%E6%9D%A1%E5%88%BA%E5%AE%A2%E5%8F%A4%E6%B3%95%E5%81%B7%E9%81%8D%E7%94%B5%E7%AB%9E%E9%85%92%E5%BA%97",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "携程罚单的真正影响不是酒店变便宜",
+          "url": "https://www.baidu.com/s?wd=%E6%90%BA%E7%A8%8B%E7%BD%9A%E5%8D%95%E7%9A%84%E7%9C%9F%E6%AD%A3%E5%BD%B1%E5%93%8D%E4%B8%8D%E6%98%AF%E9%85%92%E5%BA%97%E5%8F%98%E4%BE%BF%E5%AE%9C",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "携程被罚酒店的日子会好起来吗",
+          "url": "https://www.toutiao.com/trending/7666655428972908073/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         }
       ]
     },
@@ -532,11 +743,12 @@
           "url": "https://wallstreetcn.com/livenews/3139794",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 13时24分]"
         },
         {
           "title": "韩企成立“K-钠联盟”，加速钠离子电池产业化布局",
@@ -545,7 +757,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         }
@@ -563,11 +775,12 @@
             15,
             17,
             18,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 09时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 13时24分]"
         },
         {
           "title": "刘烈宏赴上海市调研数据要素市场化配置改革工作",
@@ -580,6 +793,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 01时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金 铜 锂 镍",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
+          "url": "https://www.cls.cn/detail/2436884",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 13时24分]"
+        },
+        {
+          "title": "黄金投资者周报上新！",
+          "url": "https://flash.jin10.com/detail/20260726113154615800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         }
       ]
     },
@@ -637,7 +879,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         }
@@ -663,6 +905,23 @@
       ]
     },
     {
+      "keyword_group": "网络安全 数据安全 密码",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "BY2被陌生人按家门密码",
+          "url": "https://s.weibo.com/weibo?q=%23BY2%E8%A2%AB%E9%99%8C%E7%94%9F%E4%BA%BA%E6%8C%89%E5%AE%B6%E9%97%A8%E5%AF%86%E7%A0%81%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "脑机接口",
       "match_count": 1,
       "titles": [
@@ -672,29 +931,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 09时54分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
-          "url": "https://www.cls.cn/detail/2436884",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 09时54分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 13时24分]"
         }
       ]
     },
@@ -712,8 +954,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 09时54分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 13时24分]"
         }
       ]
     },
@@ -728,7 +970,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         }
