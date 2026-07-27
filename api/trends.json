@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T05:05:14.990265+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-07-28T06:54:13.706974+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "长鑫上市前，高盛紧急召开电话会：中国DRAM产能有望翻倍",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 05时05分]"
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 06时54分]"
         },
         {
           "title": "芯片巨舰长鑫科技上市：一个人，一座城，与一个国家的存储产业十年",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 05时05分]"
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 06时54分]"
         },
         {
           "title": "长鑫上市首日雷军浮盈7个多亿",
@@ -35,11 +35,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 05时05分]"
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 06时54分]"
         },
         {
           "title": "长鑫科技上市首日高开 471%，市值突破 3 万亿，成 A 股新「一哥」，如何看待其表现？",
@@ -47,11 +48,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 05时05分]"
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 06时54分]"
         },
         {
           "title": "长鑫科技上市 哪些城市是赢家",
@@ -59,11 +61,23 @@
           "source": "今日头条",
           "ranks": [
             5,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 05时05分]"
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 06时54分]"
+        },
+        {
+          "title": "突破4000美元“拉锯区”，金价筑底信号显现",
+          "url": "https://wallstreetcn.com/livenews/3140540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
         },
         {
           "title": "【焦点复盘】科创50深V回升收复1800点，全市场超180股涨逾10%，长鑫科技上市首日登顶总市值“一哥”",
@@ -73,8 +87,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 05时05分]"
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 06时54分]"
+        },
+        {
+          "title": "A股上市券商开启中期分红预热",
+          "url": "https://wallstreetcn.com/livenews/3140538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
         },
         {
           "title": "十年陪跑获万亿回报！一文起底长鑫上市的最大赢家——合肥",
@@ -84,8 +109,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 05时05分]"
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 06时54分]"
+        },
+        {
+          "title": "多家上市银行年中工作会议定调：持续加强资产负债管理，向数智化转型要成效",
+          "url": "https://wallstreetcn.com/livenews/3140537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
         },
         {
           "title": "耐克终止线上合作后，滔搏被曝暴力打折甩卖库存，如何解读此现象？",
@@ -93,11 +129,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 05时05分]"
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 06时54分]"
         },
         {
           "title": "SK海力士美股股价创上市以来新低",
@@ -136,18 +173,18 @@
     },
     {
       "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
-          "title": "美银8月市场预测：股市历来不妙，美元和黄金将“迎东风”！",
-          "url": "https://www.cls.cn/detail/2437764",
-          "source": "财联社热门",
+          "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1009.298吨，较前一个交易日维持不变。",
+          "url": "https://flash.jin10.com/detail/20260728062013339800",
+          "source": "金十数据",
           "ranks": [
-            9
+            2
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 05时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
         },
         {
           "title": "黄金，在等待什么？",
@@ -155,6 +192,17 @@
           "source": "华尔街见闻",
           "ranks": [
             10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 06时54分]"
+        },
+        {
+          "title": "美银8月市场预测：股市历来不妙，美元和黄金将“迎东风”！",
+          "url": "https://www.cls.cn/detail/2437764",
+          "source": "财联社热门",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -173,6 +221,17 @@
           "time_info": "[03时14分 ~ 05时05分]"
         },
         {
+          "title": "黄金跌不下去了吗",
+          "url": "https://www.toutiao.com/trending/7667152885049724462/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 06时54分]"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 7月27日（周一）晚盘收盘下跌0.45%报888.05元/克；<br/>上海黄金交易所白银T+D 7月27日（周一）晚盘收盘下跌1.27%报14283.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260728023123374800",
           "source": "金十数据",
@@ -184,6 +243,28 @@
           "time_info": "03时14分"
         },
         {
+          "title": "美国芝加哥商业交易所集团（CME Group Inc.）董事总经理兼全球贵金属业务负责人Jin Hennig：“尽管波动率较低，但我们在首个周末迎来了非常强劲的成交量。” 芝商所的参与者构成与其现有的1盎司黄金客户群相似，需求继续主要来自散户投资者。交易活动在地域上分布广泛，芝商所的金属交易通常约有半数来自美国时区以外。 Hennig交易所目前没有计划将全天候交易扩展到其他贵金属合约或规模更大的黄金期货，尽管如果客户需求出现，他们会考虑这样做。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3140528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        },
+        {
+          "title": "美国CME全天候黄金期货上线首周末需求强劲，成交将近1.5万份合约，散户为主",
+          "url": "https://wallstreetcn.com/livenews/3140526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        },
+        {
           "title": "交易商在芝加哥商品交易所集团推出全天候（24/7）黄金期货的首个周末带动了强劲需求。",
           "url": "https://flash.jin10.com/detail/20260728022011736800",
           "source": "金十数据",
@@ -193,6 +274,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "现货黄金涨0.6%，白银涨0.4%，纽约铜涨约1%",
+          "url": "https://wallstreetcn.com/livenews/3140516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
         },
         {
           "title": "国际铜夜盘收涨0.23%，沪铜收涨0.31%，沪铝收涨0.43%，沪锌收涨0.04%，沪铅收涨0.51%，沪镍收跌0.44%，沪锡收涨0.24%。 氧化铝夜盘收跌0.70%，铝合金收涨0.37%。 不锈钢夜盘收跌0.82%。",
@@ -230,8 +322,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 05时05分]"
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 06时54分]"
         },
         {
           "title": "外媒丑化Kimi创始人惹众怒",
@@ -241,19 +333,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 05时05分]"
-        },
-        {
-          "title": "Claude Opus 5 系统提示词泄漏，膨胀到 20 万字符的系统提示词，你怎么看？",
-          "url": "https://www.zhihu.com/question/2064349598202779354",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 05时05分]"
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 06时54分]"
         },
         {
           "title": "小米大模型调用量全球第一",
@@ -261,7 +342,19 @@
           "source": "百度热搜",
           "ranks": [
             23,
-            26
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 06时54分]"
+        },
+        {
+          "title": "Claude Opus 5 系统提示词泄漏，膨胀到 20 万字符的系统提示词，你怎么看？",
+          "url": "https://www.zhihu.com/question/2064349598202779354",
+          "source": "知乎",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -277,6 +370,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple iPhone",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "苹果总市值超越英伟达重返全球第一",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%80%BB%E5%B8%82%E5%80%BC%E8%B6%85%E8%B6%8A%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%87%8D%E8%BF%94%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 06时54分]"
+        },
+        {
+          "title": "美股收盘：阿斯麦、英伟达领衔“芯片风暴” 苹果重返全球市值第一",
+          "url": "https://www.cls.cn/detail/2438385",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 06时54分]"
+        },
+        {
+          "title": "苹果市值超越英伟达重回全球第一",
+          "url": "https://flash.jin10.com/detail/20260728053417052800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        },
+        {
+          "title": "美股收盘：海力士跌超7%，苹果市值直逼5万亿美元",
+          "url": "https://flash.jin10.com/detail/20260728040127842800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时05分"
         }
       ]
     },
@@ -313,7 +456,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
         },
@@ -342,8 +485,19 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 06时54分]"
+        },
+        {
+          "title": "发现朋友圈没人晒旅游照了",
+          "url": "https://s.weibo.com/weibo?q=%E5%8F%91%E7%8E%B0%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%B2%A1%E4%BA%BA%E6%99%92%E6%97%85%E6%B8%B8%E7%85%A7%E4%BA%86&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时14分 ~ 05时05分]"
+          "time_info": "[03时14分 ~ 06时54分]"
         },
         {
           "title": "酒店夜晚关空调 消费者被热醒",
@@ -366,17 +520,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时04分 ~ 05时05分]"
-        },
-        {
-          "title": "发现朋友圈没人晒旅游照了",
-          "url": "https://s.weibo.com/weibo?q=%E5%8F%91%E7%8E%B0%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%B2%A1%E4%BA%BA%E6%99%92%E6%97%85%E6%B8%B8%E7%85%A7%E4%BA%86&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
         }
       ]
     },
@@ -389,11 +532,12 @@
           "url": "https://www.zhihu.com/question/2064030510549054193",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 05时05分]"
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 06时54分]"
         },
         {
           "title": "美国财政部拍卖三个月期国债，得标利率3.815%，投标倍数3.06。",
@@ -431,8 +575,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 05时05分]"
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 06时54分]"
         },
         {
           "title": "OpenAI失控入侵,遭索赔1亿算力",
@@ -442,36 +586,25 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 05时05分]"
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 06时54分]"
         }
       ]
     },
     {
-      "keyword_group": "苹果 Apple iPhone",
-      "match_count": 2,
+      "keyword_group": "碳化硅 氮化镓 IGBT MOSFET",
+      "match_count": 1,
       "titles": [
         {
-          "title": "苹果总市值超越英伟达重返全球第一",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%80%BB%E5%B8%82%E5%80%BC%E8%B6%85%E8%B6%8A%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%87%8D%E8%BF%94%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
-          "source": "百度热搜",
+          "title": "基本半导体港交所公告：本公司与承包商就建造碳化硅模块封装产线基地项目订立工程总承包合约。 据此，承包商同意承接本公司碳化硅模块封装产线基地的工程，合约价格总价为人民币1.933亿元。",
+          "url": "https://wallstreetcn.com/livenews/3140536",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 05时05分]"
-        },
-        {
-          "title": "美股收盘：海力士跌超7%，苹果市值直逼5万亿美元",
-          "url": "https://flash.jin10.com/detail/20260728040127842800",
-          "source": "金十数据",
-          "ranks": [
-            22
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时05分"
+          "time_info": "06时54分"
         }
       ]
     },
@@ -484,11 +617,12 @@
           "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%98%AB%E5%80%92+%E8%A2%AB%E7%9B%96%E4%B8%8A%E9%BB%91%E5%B8%83%E6%8A%AC%E8%B5%B0",
           "source": "百度热搜",
           "ranks": [
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 05时05分]"
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 06时54分]"
         }
       ]
     },
