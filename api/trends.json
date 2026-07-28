@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T01:20:58.163140+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-07-29T03:10:01.284933+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
@@ -15,41 +15,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时10分]"
         },
         {
           "title": "对话Kimi领投人叶奇意",
           "url": "https://search.bilibili.com/all?keyword=%E5%AF%B9%E8%AF%9DKimi%E9%A2%86%E6%8A%95%E4%BA%BA%E5%8F%B6%E5%A5%87%E6%84%8F",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "谷歌公司：在文本文档中推出Gemini支持的评论工作流（Comment Workflows）。",
-          "url": "https://wallstreetcn.com/livenews/3141128",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时10分]"
         },
         {
           "title": "高难度真实项目实测Kimi K3",
           "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E9%9A%BE%E5%BA%A6%E7%9C%9F%E5%AE%9E%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%B5%8BKimi%20K3",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时10分]"
         },
         {
           "title": "刚刚Kimi K3开源！2.8万亿参数全面开放，海外开发者称其为“本地版Fable 5”",
@@ -59,8 +50,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时10分]"
         },
         {
           "title": "时隔八年 QQ 宠物正式回归，保留喂食等玩法，取消死亡机制，接入大模型，有哪些亮点？能重新打动用户吗？",
@@ -70,8 +61,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时10分]"
         },
         {
           "title": "真逗,DeepSeek说要去吃饭",
@@ -81,8 +72,82 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时10分]"
+        },
+        {
+          "title": "谷歌公司：在文本文档中推出Gemini支持的评论工作流（Comment Workflows）。",
+          "url": "https://wallstreetcn.com/livenews/3141128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金 铜 锂 镍",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "“黄金界爱马仕”市值1年蒸发超千亿",
+          "url": "https://www.toutiao.com/trending/7667527853902757931/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时10分]"
+        },
+        {
+          "title": "刘亦菲被偶遇在北京SKP买黄金",
+          "url": "https://www.toutiao.com/trending/7667459000623202358/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 03时10分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 7月28日（周二）晚盘收盘下跌0.4%报878.96元/克；<br/>上海黄金交易所白银T+D 7月28日（周二）晚盘收盘下跌0.34%报13962.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260729023026069800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "03时10分"
+        },
+        {
+          "title": "国际铜夜盘收跌0.17%，沪铜收跌0.10%，沪铝收涨0.99%，沪锌收跌0.26%，沪铅收涨0.26%，沪镍收跌1.15%，沪锡收跌0.36%。 氧化铝夜盘收涨0.07%，铝合金收涨0.85%。 不锈钢夜盘收跌0.55%。",
+          "url": "https://wallstreetcn.com/livenews/3141138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        },
+        {
+          "title": "LME期铜收跌48美元，报13685美元/吨。 LME期铝收跌20美元，报3148美元/吨。 LME期锌收跌34美元，报3577美元/吨。 LME期铅收涨4美元，报1894美元/吨。 LME期镍收跌243美元，报16970美元/吨。 LME期锡收跌758美元，报53583美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3141136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
         }
       ]
     },
@@ -91,26 +156,40 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "布伦特原油日内跌幅达6.0%，报80.69美元/桶。 据以色列媒体报道，参与斡旋的调解方相信，美国与伊朗距离达成突破性进展已经不远，双方可能重启今年6月签署的谅解备忘录、即初步停火协议。",
-          "url": "https://wallstreetcn.com/livenews/3141131",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
           "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2065354296774989670",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时10分]"
+        },
+        {
+          "title": "布伦特原油日内跌幅达6.0%，报80.69美元/桶。 据以色列媒体报道，参与斡旋的调解方相信，美国与伊朗距离达成突破性进展已经不远，双方可能重启今年6月签署的谅解备忘录、即初步停火协议。",
+          "url": "https://wallstreetcn.com/livenews/3141131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时10分]"
+        },
+        {
+          "title": "全网首个和平精英大飞机已出",
+          "url": "https://www.douyin.com/hot/2587991",
+          "source": "抖音",
+          "ranks": [
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时10分]"
         },
         {
           "title": "WTI原油期货跌幅扩大至4%，跌穿79.30美元。美国国债价格涨幅扩大，收益率普遍跌4-6个基点。标普涨超0.3%，道指涨超1.1%，纳指跌0.1%，纳斯达克100指数仍然跌约0.8%，半导体指数目前跌超4.3%。 据媒体报道，在内塔尼亚胡与特朗普会晤之前，调解方认为已接近达成突破性协议，有望重启美国与伊朗上个月签署的谅解备忘录。",
@@ -118,17 +197,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "全网首个和平精英大飞机已出",
-          "url": "https://www.douyin.com/hot/2587991",
-          "source": "抖音",
-          "ranks": [
-            26
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -156,11 +224,12 @@
           "url": "https://www.douyin.com/hot/2588137",
           "source": "抖音",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时10分]"
         },
         {
           "title": "中东旅游业几近熄火：迪拜向国际游客提供价值逾800美元的奖励套餐",
@@ -170,8 +239,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时10分]"
         },
         {
           "title": "泰国国家旅游局回应「GMM 保安殴打中国粉丝」被指避重就轻未停用涉事员工，如何看待这一回应？",
@@ -195,11 +264,12 @@
           "url": "https://www.cls.cn/detail/2439030",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时10分]"
         },
         {
           "title": "【数据看盘】超20亿元资金涌入算力硬件龙头，北一环路席位1.79亿元买入岩山科技",
@@ -209,8 +279,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时10分]"
         }
       ]
     },
@@ -226,8 +296,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时10分]"
         },
         {
           "title": "一图看懂 | 苹果重夺全球市值“王座”，股价年内大涨超24%",
@@ -237,8 +307,64 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 火箭 卫星互联网 北斗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国联邦航空管理局提议简化商业航天许可规则，以便更容易进行发射。",
+          "url": "https://flash.jin10.com/detail/20260729020213476800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "03时10分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基会见洛克希德马丁公司团队，讨论ATACMS导弹、海马斯火箭弹、F-16战机和爱国者导弹系统的联合生产和技术交流。",
+          "url": "https://flash.jin10.com/detail/20260729015858892800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "无人机 通航",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "凤凰记者实探“乌无人机满天飞”的高速公路：俄军饱和式设防",
+          "url": "https://news.ifeng.com/c/8v7e46XLsNW",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时10分]"
+        },
+        {
+          "title": "科威特内阁：我们谴责伊朗及其代理人上周四对科威特阿卜杜利边境口岸的多次无人机攻击。",
+          "url": "https://flash.jin10.com/detail/20260729021750413800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
         }
       ]
     },
@@ -251,11 +377,12 @@
           "url": "https://wallstreetcn.com/livenews/3141135",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时10分]"
         },
         {
           "title": "市场消息：知情人士称，美国网络安全公司AlgoSec考虑在英国IPO。",
@@ -263,6 +390,34 @@
           "source": "金十数据",
           "ranks": [
             23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国务院 发改委 工信部 财政部 证监会",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国财政部拍卖440亿美元七年期国债，得标利率4.473%——创2024年12月以来新高（6月25日为4.260%），投标倍数2.49（前次为2.50）。",
+          "url": "https://wallstreetcn.com/livenews/3141139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        },
+        {
+          "title": "美国财政部拍卖六周期国债，得标利率3.7%，投标倍数2.93。",
+          "url": "https://wallstreetcn.com/livenews/3141112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -282,25 +437,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "无人机 通航",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "凤凰记者实探“乌无人机满天飞”的高速公路：俄军饱和式设防",
-          "url": "https://news.ifeng.com/c/8v7e46XLsNW",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时10分]"
         }
       ]
     },
@@ -316,42 +454,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“黄金界爱马仕”市值1年蒸发超千亿",
-          "url": "https://www.toutiao.com/trending/7667527853902757931/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国务院 发改委 工信部 财政部 证监会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国财政部拍卖六周期国债，得标利率3.7%，投标倍数2.93。",
-          "url": "https://wallstreetcn.com/livenews/3141112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时10分]"
         }
       ]
     }
