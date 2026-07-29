@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-07-30T04:13:24.604335+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2026-07-30T05:52:13.656639+08:00",
+  "total_titles_processed": 552,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple iPhone",
       "match_count": 5,
       "titles": [
-        {
-          "title": "高通(QCOM.O)：预计2027财年非手机业务收入的同比增长额将超过2026财年苹果产品总收入。",
-          "url": "https://flash.jin10.com/detail/20260730040750177800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
         {
           "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
           "url": "https://wallstreetcn.com/articles/3778080",
@@ -26,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 05时52分]"
         },
         {
           "title": "“小苹果阿姨”故事感动全网",
@@ -36,11 +25,23 @@
           "ranks": [
             29,
             15,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 05时52分]"
+        },
+        {
+          "title": "高通(QCOM.O)：预计2027财年非手机业务收入的同比增长额将超过2026财年苹果产品总收入。",
+          "url": "https://flash.jin10.com/detail/20260730040750177800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         },
         {
           "title": "小苹果阿姨劝大家别送东西了",
@@ -61,9 +62,70 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国务院 发改委 工信部 财政部 证监会",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美国国务院：将立即全额发放国会为2025财年和2026财年拨付的6亿美元全球疫苗免疫联盟资金。",
+          "url": "https://flash.jin10.com/detail/20260730051716480800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
+        },
+        {
+          "title": "美国国务院：重申美国不会通过全球疫苗免疫联盟向世界卫生组织提供政府资金。美国预计将恢复其在该联盟董事会的席位。",
+          "url": "https://flash.jin10.com/detail/20260730051602368800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
+        },
+        {
+          "title": "美国财政部拍卖两年期浮息国债（FRNs），贴现利率0.050%。",
+          "url": "https://wallstreetcn.com/livenews/3141792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时06分"
+        },
+        {
+          "title": "美国财政部拍卖四个月期国债，得标利率3.875%，投标倍数3.04。",
+          "url": "https://wallstreetcn.com/livenews/3141791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时06分"
+        },
+        {
+          "title": "美国财政部：今日伊朗制裁针对借助霍尔木兹海峡牟利的行为。 制裁目标指向伊朗的霍尔木兹海峡“勒索网络”。",
+          "url": "https://wallstreetcn.com/livenews/3141774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时06分"
         }
       ]
     },
@@ -76,11 +138,12 @@
           "url": "https://www.cls.cn/detail/2440070",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 05时52分]"
         },
         {
           "title": "斯洛伐克总统怀疑中国机器人藏真人",
@@ -89,11 +152,12 @@
           "ranks": [
             14,
             4,
-            10
+            10,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 05时52分]"
         },
         {
           "title": "斯洛伐克总统怀疑中国机器人藏真人",
@@ -102,11 +166,12 @@
           "ranks": [
             9,
             26,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 05时52分]"
         },
         {
           "title": "日本技术人员拆解宇树机器人后称「赶不上中国」，从螺丝到整机，中国机器人供应链优势体现在哪些环节？",
@@ -114,11 +179,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            13
+            13,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[02时59分 ~ 05时52分]"
         }
       ]
     },
@@ -134,19 +200,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 04时13分]"
-        },
-        {
-          "title": "微软：Azure收入突破1000亿美元，对Anthropic的投资带来超30亿美元季度收入",
-          "url": "https://wallstreetcn.com/livenews/3141894",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 05时52分]"
         },
         {
           "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
@@ -155,11 +210,23 @@
           "ranks": [
             16,
             13,
-            12
+            12,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 05时52分]"
+        },
+        {
+          "title": "微软：Azure收入突破1000亿美元，对Anthropic的投资带来超30亿美元季度收入",
+          "url": "https://wallstreetcn.com/livenews/3141894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         },
         {
           "title": "波兰总理图斯克：与泽连斯基讨论了反弹道合作。",
@@ -175,6 +242,45 @@
       ]
     },
     {
+      "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Meta Platforms(META.O)首席执行官：将全部算力出售以换取短期利润是愚蠢的行为。",
+          "url": "https://flash.jin10.com/detail/20260730052100833800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
+        },
+        {
+          "title": "Meta：根本就不接近获得足够算力来满足需求。 通过出售全部算力来换取短期利润是愚蠢的行为。",
+          "url": "https://wallstreetcn.com/livenews/3141922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
+        },
+        {
+          "title": "Meta Platforms(META.O)CFO：可预见的未来内，行业整体算力仍将保持紧张。",
+          "url": "https://flash.jin10.com/detail/20260730050847977800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "HBM DDR5 存储芯片",
       "match_count": 3,
       "titles": [
@@ -186,8 +292,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 05时52分]"
         },
         {
           "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
@@ -197,8 +303,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 05时52分]"
         },
         {
           "title": "道指成分股中，卡特彼勒初步收跌7.1%，高盛跌5.2%，波音、摩根大通跌超3%，英伟达跌2.9%，雪佛龙则涨2.3%，Salesforce涨3.9%。 标普500指数初步收跌1.5%，工业板块跌3.2%，科技、金融、公用事业、原材料、可选消费板块至多跌约2%。能源板块涨2%。 纳斯达克100指数初步收跌2%，成分股中，Nebius初步收跌13.7%，CoreWeave跌9.8%，科磊跌9.7%，美光科技跌9.2%，亿滋国际涨3.9%，Diamondback Energy涨4.4%，Adobe涨5.8%，财捷Intuit涨6.5%，GEHC涨11.7%。 存储芯片指数跌4%，半导体指数跌4.7%。",
@@ -207,7 +313,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         }
@@ -234,11 +340,12 @@
           "source": "今日头条",
           "ranks": [
             17,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[02时59分 ~ 05时52分]"
         },
         {
           "title": "海上安全公司安布雷：一艘由美国运营、悬挂马绍尔群岛旗帜的LNG浮式储存船，在埃及达米埃塔港停靠期间遭到至少一架无人机攻击。",
@@ -293,45 +400,6 @@
       ]
     },
     {
-      "keyword_group": "国务院 发改委 工信部 财政部 证监会",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美国财政部拍卖两年期浮息国债（FRNs），贴现利率0.050%。",
-          "url": "https://wallstreetcn.com/livenews/3141792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "美国财政部拍卖四个月期国债，得标利率3.875%，投标倍数3.04。",
-          "url": "https://wallstreetcn.com/livenews/3141791",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "美国财政部：今日伊朗制裁针对借助霍尔木兹海峡牟利的行为。 制裁目标指向伊朗的霍尔木兹海峡“勒索网络”。",
-          "url": "https://wallstreetcn.com/livenews/3141774",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
       "match_count": 2,
       "titles": [
@@ -364,6 +432,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "公寓酒店月租万元走红",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%AF%93%E9%85%92%E5%BA%97%E6%9C%88%E7%A7%9F%E4%B8%87%E5%85%83%E8%B5%B0%E7%BA%A2",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时59分 ~ 05时52分]"
+        },
+        {
           "title": "河北 860 元一晚酒店半夜关空调导致客人被热醒，酒店空调间断关停合法吗？消费者该怎样维权？",
           "url": "https://www.zhihu.com/question/2065344071745233365",
           "source": "知乎",
@@ -374,18 +455,40 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时05分 ~ 02时59分]"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek ChatGPT Claude Gemini Agent 智能体",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "公寓酒店月租万元走红",
-          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%AF%93%E9%85%92%E5%BA%97%E6%9C%88%E7%A7%9F%E4%B8%87%E5%85%83%E8%B5%B0%E7%BA%A2",
-          "source": "百度热搜",
+          "title": "Meta Platforms(META.O)首席执行官：向企业销售API和智能体存在巨大机会。",
+          "url": "https://flash.jin10.com/detail/20260730044138969800",
+          "source": "金十数据",
           "ranks": [
-            14,
-            8
+            25
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 04时13分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "光刻机 EDA 先进封装 CoWoS Chiplet 晶圆",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "高通(QCOM.O)首席执行官：定制芯片已进入晶圆生产阶段。",
+          "url": "https://flash.jin10.com/detail/20260730045411855800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
         }
       ]
     },
