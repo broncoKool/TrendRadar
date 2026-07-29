@@ -1,8 +1,84 @@
 {
-  "generated_at": "2026-07-30T05:52:13.656639+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2026-07-30T06:53:55.217366+08:00",
+  "total_titles_processed": 612,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "制胜预告片震撼首发",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%B6%E8%83%9C%E9%A2%84%E5%91%8A%E7%89%87%E9%9C%87%E6%92%BC%E9%A6%96%E5%8F%91%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时53分]"
+        },
+        {
+          "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2065710393360479149",
+          "source": "知乎",
+          "ranks": [
+            16,
+            13,
+            12,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时53分]"
+        },
+        {
+          "title": "微软：Azure收入突破1000亿美元，对Anthropic的投资带来超30亿美元季度收入",
+          "url": "https://wallstreetcn.com/livenews/3141894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "行权覆盖范围再扩容，投服中心首次向上市券商提名独董",
+          "url": "https://wallstreetcn.com/livenews/3141941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
+        },
+        {
+          "title": "波兰总理图斯克：与泽连斯基讨论了反弹道合作。",
+          "url": "https://flash.jin10.com/detail/20260730001426077800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时06分"
+        },
+        {
+          "title": "30年期美债收益率涨11个基点突破5.2%，两年期TIPS收益率跌超10个基点，沃什谈及实际收益率",
+          "url": "https://wallstreetcn.com/livenews/3141934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
+        }
+      ]
+    },
     {
       "keyword_group": "苹果 Apple iPhone",
       "match_count": 5,
@@ -15,8 +91,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时53分]"
         },
         {
           "title": "“小苹果阿姨”故事感动全网",
@@ -49,11 +125,12 @@
           "source": "抖音",
           "ranks": [
             22,
-            23
+            23,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 06时53分]"
         },
         {
           "title": "高通(QCOM.O)：预计苹果相关产品营收下滑速度将从第四季度起加快。",
@@ -79,7 +156,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -90,7 +167,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -130,6 +207,57 @@
       ]
     },
     {
+      "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "Meta Platforms(META.O)首席执行官：将全部算力出售以换取短期利润是愚蠢的行为。",
+          "url": "https://flash.jin10.com/detail/20260730052100833800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时52分"
+        },
+        {
+          "title": "Meta：根本就不接近获得足够算力来满足需求。 通过出售全部算力来换取短期利润是愚蠢的行为。",
+          "url": "https://wallstreetcn.com/livenews/3141922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时53分]"
+        },
+        {
+          "title": "Meta Platforms(META.O)CFO：可预见的未来内，行业整体算力仍将保持紧张。",
+          "url": "https://flash.jin10.com/detail/20260730050847977800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时52分"
+        },
+        {
+          "title": "微软(MSFT.O)首席财务官：云业务收入增长得益于新算力的提前交付；新增算力容量已迅速实现货币化。",
+          "url": "https://flash.jin10.com/detail/20260730060055866800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人形机器人 机器人 具身智能 灵巧手",
       "match_count": 4,
       "titles": [
@@ -156,8 +284,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时53分]"
+        },
+        {
+          "title": "日本技术人员拆解宇树机器人后称「赶不上中国」，从螺丝到整机，中国机器人供应链优势体现在哪些环节？",
+          "url": "https://www.zhihu.com/question/2064993421949755491",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时59分 ~ 06时53分]"
         },
         {
           "title": "斯洛伐克总统怀疑中国机器人藏真人",
@@ -167,116 +309,62 @@
             9,
             26,
             17,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 05时52分]"
-        },
-        {
-          "title": "日本技术人员拆解宇树机器人后称「赶不上中国」，从螺丝到整机，中国机器人供应链优势体现在哪些环节？",
-          "url": "https://www.zhihu.com/question/2064993421949755491",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时59分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时53分]"
         }
       ]
     },
     {
-      "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
+      "keyword_group": "黄金 铜 锂 镍",
       "match_count": 4,
       "titles": [
         {
-          "title": "制胜预告片震撼首发",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%88%B6%E8%83%9C%E9%A2%84%E5%91%8A%E7%89%87%E9%9C%87%E6%92%BC%E9%A6%96%E5%8F%91%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 05时52分]"
-        },
-        {
-          "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2065710393360479149",
+          "title": "为什么黄金几乎在所有文明里都是贵重金属，并且作为了货币？",
+          "url": "https://www.zhihu.com/question/23846763",
           "source": "知乎",
-          "ranks": [
-            16,
-            13,
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 05时52分]"
-        },
-        {
-          "title": "微软：Azure收入突破1000亿美元，对Anthropic的投资带来超30亿美元季度收入",
-          "url": "https://wallstreetcn.com/livenews/3141894",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 01时06分]"
         },
         {
-          "title": "波兰总理图斯克：与泽连斯基讨论了反弹道合作。",
-          "url": "https://flash.jin10.com/detail/20260730001426077800",
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加0.571吨，当前持仓量为1009.298吨。",
+          "url": "https://flash.jin10.com/detail/20260730061700643800",
           "source": "金十数据",
           "ranks": [
-            17
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
+        },
+        {
+          "title": "市场反应：美国10年期国债收益率短线从4.635%附近跳水至4.61%下方，整体转跌；两年期美债收益率从4.32%附近跳水至接近4.24%，整体转跌。 现货黄金从4040美元附近拉升至4081美元上方，涨幅超过1.2%。 标普跌0.2%，道指跌1.1%，纳指转涨。 新兴市场外汇指数刷新日高，拉美股市、巴西股指跌幅收窄。",
+          "url": "https://wallstreetcn.com/livenews/3141824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "Meta Platforms(META.O)首席执行官：将全部算力出售以换取短期利润是愚蠢的行为。",
-          "url": "https://flash.jin10.com/detail/20260730052100833800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "time_info": "02时59分"
         },
         {
-          "title": "Meta：根本就不接近获得足够算力来满足需求。 通过出售全部算力来换取短期利润是愚蠢的行为。",
-          "url": "https://wallstreetcn.com/livenews/3141922",
+          "title": "美联储宣布利率决议声明之前，美元指数跌0.08%，美元兑日元跌0.02%、美元兑瑞郎涨0.09%，欧元兑美元涨0.11%、英镑兑美元涨0.15%，商品货币澳元兑美元跌0.57%、纽元兑美元跌0.17%、美元兑加元跌0.11%。 标普500指数跌0.61%，道指跌775点、跌幅1.47%，纳指跌0.58%，半导体指数跌3.3%，银行指数跌1.6%，小盘股指跌1.2%。 现货黄金涨幅扩大至0.42%，暂报4045.51美元，白银涨1.40%，暂报57.88美元。 美国10年期国债收益率涨2.8个基点，两年期美债收益率涨2.88个基点、暂报4.3159%。",
+          "url": "https://wallstreetcn.com/livenews/3141819",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时52分"
-        },
-        {
-          "title": "Meta Platforms(META.O)CFO：可预见的未来内，行业整体算力仍将保持紧张。",
-          "url": "https://flash.jin10.com/detail/20260730050847977800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "time_info": "02时59分"
         }
       ]
     },
@@ -292,8 +380,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时53分]"
         },
         {
           "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
@@ -303,8 +391,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时53分]"
         },
         {
           "title": "道指成分股中，卡特彼勒初步收跌7.1%，高盛跌5.2%，波音、摩根大通跌超3%，英伟达跌2.9%，雪佛龙则涨2.3%，Salesforce涨3.9%。 标普500指数初步收跌1.5%，工业板块跌3.2%，科技、金融、公用事业、原材料、可选消费板块至多跌约2%。能源板块涨2%。 纳斯达克100指数初步收跌2%，成分股中，Nebius初步收跌13.7%，CoreWeave跌9.8%，科磊跌9.7%，美光科技跌9.2%，亿滋国际涨3.9%，Diamondback Energy涨4.4%，Adobe涨5.8%，财捷Intuit涨6.5%，GEHC涨11.7%。 存储芯片指数跌4%，半导体指数跌4.7%。",
@@ -344,8 +432,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时59分 ~ 05时52分]"
+          "appearance_count": 5,
+          "time_info": "[02时59分 ~ 06时53分]"
         },
         {
           "title": "海上安全公司安布雷：一艘由美国运营、悬挂马绍尔群岛旗帜的LNG浮式储存船，在埃及达米埃塔港停靠期间遭到至少一架无人机攻击。",
@@ -357,45 +445,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "为什么黄金几乎在所有文明里都是贵重金属，并且作为了货币？",
-          "url": "https://www.zhihu.com/question/23846763",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
-        },
-        {
-          "title": "市场反应：美国10年期国债收益率短线从4.635%附近跳水至4.61%下方，整体转跌；两年期美债收益率从4.32%附近跳水至接近4.24%，整体转跌。 现货黄金从4040美元附近拉升至4081美元上方，涨幅超过1.2%。 标普跌0.2%，道指跌1.1%，纳指转涨。 新兴市场外汇指数刷新日高，拉美股市、巴西股指跌幅收窄。",
-          "url": "https://wallstreetcn.com/livenews/3141824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "美联储宣布利率决议声明之前，美元指数跌0.08%，美元兑日元跌0.02%、美元兑瑞郎涨0.09%，欧元兑美元涨0.11%、英镑兑美元涨0.15%，商品货币澳元兑美元跌0.57%、纽元兑美元跌0.17%、美元兑加元跌0.11%。 标普500指数跌0.61%，道指跌775点、跌幅1.47%，纳指跌0.58%，半导体指数跌3.3%，银行指数跌1.6%，小盘股指跌1.2%。 现货黄金涨幅扩大至0.42%，暂报4045.51美元，白银涨1.40%，暂报57.88美元。 美国10年期国债收益率涨2.8个基点，两年期美债收益率涨2.88个基点、暂报4.3159%。",
-          "url": "https://wallstreetcn.com/livenews/3141819",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
         }
       ]
     },
@@ -438,11 +487,12 @@
           "ranks": [
             14,
             8,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时59分 ~ 05时52分]"
+          "appearance_count": 5,
+          "time_info": "[02时59分 ~ 06时53分]"
         },
         {
           "title": "河北 860 元一晚酒店半夜关空调导致客人被热醒，酒店空调间断关停合法吗？消费者该怎样维权？",
@@ -450,11 +500,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 06时53分]"
         }
       ]
     },
@@ -469,7 +520,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         }
@@ -486,7 +537,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         }
@@ -506,6 +557,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "专项债 特别国债 降准 降息 以旧换新 设备更新",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美联储维持利率不变后，花旗仍维持降息预测",
+          "url": "https://wallstreetcn.com/livenews/3141933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
         }
       ]
     }
