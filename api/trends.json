@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T09:28:42.916286+08:00",
-  "total_titles_processed": 834,
+  "generated_at": "2026-07-30T12:53:08.892700+08:00",
+  "total_titles_processed": 1024,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "制胜预告片震撼首发",
@@ -35,13 +35,35 @@
           "time_info": "[01时05分 ~ 07时55分]"
         },
         {
+          "title": "宁缺突破书院桎梏",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%81%E7%BC%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 12时53分]"
+        },
+        {
+          "title": "2026年度总票房突破220亿元",
+          "url": "https://www.douyin.com/hot/2589853",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 12时53分]"
+        },
+        {
           "title": "中国央行：今日开展2705亿元7天逆回购操作，投标量2705亿元，中标量2705亿元，操作利率为1.40%。同时，开展了6000亿元隔夜逆回购操作。",
           "url": "https://flash.jin10.com/detail/20260730092212472800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -52,7 +74,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -74,7 +96,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -89,6 +111,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时53分 ~ 07时55分]"
+        },
+        {
+          "title": "上市首日破发！港股中际旭创跌超8%",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E7%A0%B4%E5%8F%91%EF%BC%81%E6%B8%AF%E8%82%A1%E4%B8%AD%E9%99%85%E6%97%AD%E5%88%9B%E8%B7%8C%E8%B6%858%25",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 12时53分]"
         },
         {
           "title": "据韩国媒体报道：比尔·盖茨将前往韩国，讨论小型模块化反应堆（SMR）的合作事宜。",
@@ -130,7 +163,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         }
@@ -138,7 +171,7 @@
     },
     {
       "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "为什么黄金几乎在所有文明里都是贵重金属，并且作为了货币？",
@@ -160,8 +193,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时55分 ~ 09时28分]"
+          "appearance_count": 4,
+          "time_info": "[07时55分 ~ 12时53分]"
+        },
+        {
+          "title": "现货黄金回落至4050美元/盎司下方，日内跌0.40%。",
+          "url": "https://flash.jin10.com/detail/20260730123847737800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加0.571吨，当前持仓量为1009.298吨。",
@@ -174,6 +218,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时53分 ~ 07时55分]"
+        },
+        {
+          "title": "“烤斯克”师傅欢迎大家走进铜川",
+          "url": "https://www.douyin.com/hot/2589720",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 12时53分]"
         },
         {
           "title": "现货黄金再度站上4100美元/盎司，日内涨0.83%。",
@@ -198,6 +253,17 @@
           "time_info": "02时59分"
         },
         {
+          "title": "金十图示：2026年07月30日（周四）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260730115721642800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
           "title": "美联储宣布利率决议声明之前，美元指数跌0.08%，美元兑日元跌0.02%、美元兑瑞郎涨0.09%，欧元兑美元涨0.11%、英镑兑美元涨0.15%，商品货币澳元兑美元跌0.57%、纽元兑美元跌0.17%、美元兑加元跌0.11%。 标普500指数跌0.61%，道指跌775点、跌幅1.47%，纳指跌0.58%，半导体指数跌3.3%，银行指数跌1.6%，小盘股指跌1.2%。 现货黄金涨幅扩大至0.42%，暂报4045.51美元，白银涨1.40%，暂报57.88美元。 美国10年期国债收益率涨2.8个基点，两年期美债收益率涨2.88个基点、暂报4.3159%。",
           "url": "https://wallstreetcn.com/livenews/3141819",
           "source": "华尔街见闻-快讯",
@@ -215,9 +281,168 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "Meta Platforms(META.O)首席执行官：将全部算力出售以换取短期利润是愚蠢的行为。",
+          "url": "https://flash.jin10.com/detail/20260730052100833800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时52分"
+        },
+        {
+          "title": "Meta：根本就不接近获得足够算力来满足需求。 通过出售全部算力来换取短期利润是愚蠢的行为。",
+          "url": "https://wallstreetcn.com/livenews/3141922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时53分]"
+        },
+        {
+          "title": "三星电子：存储业务预计今年服务器需求将加速增长。",
+          "url": "https://flash.jin10.com/detail/20260730091930019800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "Meta Platforms(META.O)CFO：可预见的未来内，行业整体算力仍将保持紧张。",
+          "url": "https://flash.jin10.com/detail/20260730050847977800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时52分"
+        },
+        {
+          "title": "微软(MSFT.O)首席财务官：云业务收入增长得益于新算力的提前交付；新增算力容量已迅速实现货币化。",
+          "url": "https://flash.jin10.com/detail/20260730060055866800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时53分"
+        },
+        {
+          "title": "创业板指、科创50均跌超5%，沪指跌0.85%，深成指跌3.11%，半导体芯片、算力硬件等方向跌幅居前，沪深京三市下跌个股超2600只。",
+          "url": "https://wallstreetcn.com/livenews/3142105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人形机器人 机器人 具身智能 灵巧手",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "日本技术人员拆解宇树机器人后称「赶不上中国」，从螺丝到整机，中国机器人供应链优势体现在哪些环节？",
+          "url": "https://www.zhihu.com/question/2064993421949755491",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            5,
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时59分 ~ 12时53分]"
+        },
+        {
+          "title": "美方限制进口“先进机器人设备”，外交部回应",
+          "url": "https://www.cls.cn/detail/2440070",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 05时52分]"
+        },
+        {
+          "title": "斯洛伐克总统怀疑中国机器人藏真人",
+          "url": "https://www.toutiao.com/trending/7667207733225029638/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            4,
+            10,
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 07时55分]"
+        },
+        {
+          "title": "斯洛伐克总统怀疑中国机器人藏真人",
+          "url": "https://www.baidu.com/s?wd=%E6%96%AF%E6%B4%9B%E4%BC%90%E5%85%8B%E6%80%BB%E7%BB%9F%E6%80%80%E7%96%91%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%97%8F%E7%9C%9F%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            26,
+            17,
+            15,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 07时55分]"
+        },
+        {
+          "title": "雷军晒小米机器人工作视频",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E6%99%92%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B7%A5%E4%BD%9C%E8%A7%86%E9%A2%91%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "美方限制进口“先进机器人设备”，外交部：保护主义提升不了美国竞争力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33681759",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 12时53分]"
         }
       ]
     },
@@ -276,7 +501,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -294,71 +519,25 @@
       ]
     },
     {
-      "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "Meta Platforms(META.O)首席执行官：将全部算力出售以换取短期利润是愚蠢的行为。",
-          "url": "https://flash.jin10.com/detail/20260730052100833800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时52分"
-        },
-        {
-          "title": "Meta：根本就不接近获得足够算力来满足需求。 通过出售全部算力来换取短期利润是愚蠢的行为。",
-          "url": "https://wallstreetcn.com/livenews/3141922",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时52分 ~ 06时53分]"
-        },
-        {
-          "title": "三星电子：存储业务预计今年服务器需求将加速增长。",
-          "url": "https://flash.jin10.com/detail/20260730091930019800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "Meta Platforms(META.O)CFO：可预见的未来内，行业整体算力仍将保持紧张。",
-          "url": "https://flash.jin10.com/detail/20260730050847977800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时52分"
-        },
-        {
-          "title": "微软(MSFT.O)首席财务官：云业务收入增长得益于新算力的提前交付；新增算力容量已迅速实现货币化。",
-          "url": "https://flash.jin10.com/detail/20260730060055866800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果 Apple iPhone",
       "match_count": 5,
       "titles": [
+        {
+          "title": "小苹果阿姨劝大家别送东西了",
+          "url": "https://www.douyin.com/hot/2589904",
+          "source": "抖音",
+          "ranks": [
+            22,
+            23,
+            17,
+            25,
+            27,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 12时53分]"
+        },
         {
           "title": "“小苹果阿姨”故事感动全网",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%8F%E8%8B%B9%E6%9E%9C%E9%98%BF%E5%A7%A8%E2%80%9D%E6%95%85%E4%BA%8B%E6%84%9F%E5%8A%A8%E5%85%A8%E7%BD%91",
@@ -386,21 +565,6 @@
           "time_info": "[01时05分 ~ 06时53分]"
         },
         {
-          "title": "小苹果阿姨劝大家别送东西了",
-          "url": "https://www.douyin.com/hot/2589904",
-          "source": "抖音",
-          "ranks": [
-            22,
-            23,
-            17,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 09时28分]"
-        },
-        {
           "title": "高通(QCOM.O)：预计2027财年非手机业务收入的同比增长额将超过2026财年苹果产品总收入。",
           "url": "https://flash.jin10.com/detail/20260730040750177800",
           "source": "金十数据",
@@ -425,84 +589,21 @@
       ]
     },
     {
-      "keyword_group": "人形机器人 机器人 具身智能 灵巧手",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美方限制进口“先进机器人设备”，外交部回应",
-          "url": "https://www.cls.cn/detail/2440070",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 05时52分]"
-        },
-        {
-          "title": "斯洛伐克总统怀疑中国机器人藏真人",
-          "url": "https://www.toutiao.com/trending/7667207733225029638/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            4,
-            10,
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时05分 ~ 07时55分]"
-        },
-        {
-          "title": "日本技术人员拆解宇树机器人后称「赶不上中国」，从螺丝到整机，中国机器人供应链优势体现在哪些环节？",
-          "url": "https://www.zhihu.com/question/2064993421949755491",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            5,
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时59分 ~ 09时28分]"
-        },
-        {
-          "title": "斯洛伐克总统怀疑中国机器人藏真人",
-          "url": "https://www.baidu.com/s?wd=%E6%96%AF%E6%B4%9B%E4%BC%90%E5%85%8B%E6%80%BB%E7%BB%9F%E6%80%80%E7%96%91%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%97%8F%E7%9C%9F%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            26,
-            17,
-            15,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时05分 ~ 07时55分]"
-        },
-        {
-          "title": "雷军晒小米机器人工作视频",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E6%99%92%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B7%A5%E4%BD%9C%E8%A7%86%E9%A2%91%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
       "match_count": 4,
       "titles": [
+        {
+          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
+          "url": "https://www.zhihu.com/question/2065583157664018461",
+          "source": "知乎",
+          "ranks": [
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 12时53分]"
+        },
         {
           "title": "Kimi K3为何全量开源",
           "url": "https://www.douyin.com/hot/2589996",
@@ -525,17 +626,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
-        },
-        {
-          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
-          "url": "https://www.zhihu.com/question/2065583157664018461",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时28分"
         },
         {
           "title": "谷歌为macOS版Gemini应用新增Fn键唤醒语音控制功能。",
@@ -645,8 +735,19 @@
     },
     {
       "keyword_group": "免税 旅游 酒店 餐饮",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "退休后旅游根本没有意义",
+          "url": "https://s.weibo.com/weibo?q=%E9%80%80%E4%BC%91%E5%90%8E%E6%97%85%E6%B8%B8%E6%A0%B9%E6%9C%AC%E6%B2%A1%E6%9C%89%E6%84%8F%E4%B9%89&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 12时53分]"
+        },
         {
           "title": "公寓酒店月租万元走红",
           "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%AF%93%E9%85%92%E5%BA%97%E6%9C%88%E7%A7%9F%E4%B8%87%E5%85%83%E8%B5%B0%E7%BA%A2",
@@ -674,6 +775,34 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时05分 ~ 06时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "稀土 锗 镓 锑 钨",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据英国金融时报：对冲基金正加大对美国关键矿产企业的做空押注。根据标普全球市场财智的股票借贷数据，今年以来，包括美国锑业、美国资源和MP Materials在内的多家企业，其空头头寸均有所增加。",
+          "url": "https://flash.jin10.com/detail/20260730122540323800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
+          "title": "中金：中国钨业龙头有望迎来量价齐升",
+          "url": "https://wallstreetcn.com/livenews/3141990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         }
       ]
     },
@@ -712,6 +841,23 @@
       ]
     },
     {
+      "keyword_group": "固态电池 半固态电池",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "比亚迪自研硫化物固态电池有何亮点",
+          "url": "https://www.toutiao.com/trending/7667590357747957803/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 12时53分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "创新药 ADC CAR-T GLP-1",
       "match_count": 1,
       "titles": [
@@ -725,23 +871,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "稀土 锗 镓 锑 钨",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中金：中国钨业龙头有望迎来量价齐升",
-          "url": "https://wallstreetcn.com/livenews/3141990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时28分"
         }
       ]
     },
