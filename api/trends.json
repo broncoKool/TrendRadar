@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T18:14:35.465936+08:00",
-  "total_titles_processed": 1373,
+  "generated_at": "2026-07-30T23:04:25.206551+08:00",
+  "total_titles_processed": 1586,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "制胜预告片震撼首发",
@@ -126,6 +126,17 @@
           "time_info": "[12时52分 ~ 12时53分]"
         },
         {
+          "title": "市场消息：两名地区官员表示，胡塞武装此前在与伊拉克民兵合作的情况下，从伊拉克领土对沙特发起了攻击。",
+          "url": "https://flash.jin10.com/detail/20260730224547316800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "据韩国媒体报道：比尔·盖茨将前往韩国，讨论小型模块化反应堆（SMR）的合作事宜。",
           "url": "https://wallstreetcn.com/livenews/3141958",
           "source": "华尔街见闻-快讯",
@@ -165,7 +176,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -195,7 +206,7 @@
     },
     {
       "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "【早报】美联储按兵不动，罕见三票主张加息；美存储股继续大跌；油价飙升，黄金微涨；两大MLCC龙头宣布涨价",
@@ -244,6 +255,19 @@
           "time_info": "12时53分"
         },
         {
+          "title": "近844克黄金被扣押36年：男子申请返还被驳回，烟台中院组织质证",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33684311",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时29分 ~ 23时04分]"
+        },
+        {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加0.571吨，当前持仓量为1009.298吨。",
           "url": "https://flash.jin10.com/detail/20260730061700643800",
           "source": "金十数据",
@@ -254,18 +278,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时53分 ~ 07时55分]"
-        },
-        {
-          "title": "近844克黄金被扣押36年：男子申请返还被驳回，烟台中院组织质证",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33684311",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 18时14分]"
         },
         {
           "title": "“烤斯克”师傅欢迎大家走进铜川",
@@ -296,9 +308,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
+        },
+        {
+          "title": "现货黄金日内涨幅达1%，报4108.33美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3142522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "商品期货收盘，原油主力合约涨超6%，乙二醇涨超4%，燃料油、对二甲苯、瓶片、LU燃油涨超3%。碳酸锂、铁矿石跌超3%，纯碱、菜籽粕跌超2%。",
@@ -359,8 +382,30 @@
     },
     {
       "keyword_group": "国务院 发改委 工信部 财政部 证监会",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
+          "url": "https://flash.jin10.com/detail/20260730225307084800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "澳门特区政府与国家工信部签署《关于发展新质生产力推进新型工业化的合作协议》",
+          "url": "https://wallstreetcn.com/livenews/3142538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
         {
           "title": "美国国务院：将立即全额发放国会为2025财年和2026财年拨付的6亿美元全球疫苗免疫联盟资金。",
           "url": "https://flash.jin10.com/detail/20260730051716480800",
@@ -445,7 +490,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -456,7 +501,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         }
@@ -464,7 +509,7 @@
     },
     {
       "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "Meta Platforms(META.O)首席执行官：将全部算力出售以换取短期利润是愚蠢的行为。",
@@ -490,6 +535,18 @@
           "time_info": "[05时52分 ~ 06时53分]"
         },
         {
+          "title": "【每日收评】创业板指放量跌近4%，算力硬件权重集体重挫，大消费方向持续活跃",
+          "url": "https://www.cls.cn/detail/2441445",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 23时04分]"
+        },
+        {
           "title": "三星电子：存储业务预计今年服务器需求将加速增长。",
           "url": "https://flash.jin10.com/detail/20260730091930019800",
           "source": "金十数据",
@@ -501,17 +558,6 @@
           "time_info": "09时28分"
         },
         {
-          "title": "【每日收评】创业板指放量跌近4%，算力硬件权重集体重挫，大消费方向持续活跃",
-          "url": "https://www.cls.cn/detail/2441445",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
           "title": "Meta Platforms(META.O)CFO：可预见的未来内，行业整体算力仍将保持紧张。",
           "url": "https://flash.jin10.com/detail/20260730050847977800",
           "source": "金十数据",
@@ -521,6 +567,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
+        },
+        {
+          "title": "扎克伯格：卖算力换短期利润是愚蠢的",
+          "url": "https://www.cls.cn/detail/2441683",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "微软(MSFT.O)首席财务官：云业务收入增长得益于新算力的提前交付；新增算力容量已迅速实现货币化。",
@@ -554,6 +611,92 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
+          "url": "https://www.zhihu.com/question/2065583157664018461",
+          "source": "知乎",
+          "ranks": [
+            12,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时28分 ~ 18时14分]"
+        },
+        {
+          "title": "豆包究竟见过多少人的糗事",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E7%A9%B6%E7%AB%9F%E8%A7%81%E8%BF%87%E5%A4%9A%E5%B0%91%E4%BA%BA%E7%9A%84%E7%B3%97%E4%BA%8B&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "Kimi K3为何全量开源",
+          "url": "https://www.douyin.com/hot/2589996",
+          "source": "抖音",
+          "ranks": [
+            22,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时55分 ~ 09时28分]"
+        },
+        {
+          "title": "字节跳动重构ToB版图：飞书与豆包将整合 大厂激战“AI工作入口”",
+          "url": "https://www.cls.cn/detail/2441092",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "美国自动驾驶技术公司Waymo：谷歌的Gemini车载助手现已进入测试阶段，供乘客使用。",
+          "url": "https://flash.jin10.com/detail/20260730003639698800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时06分"
+        },
+        {
+          "title": "谷歌为macOS版Gemini应用新增Fn键唤醒语音控制功能。",
+          "url": "https://wallstreetcn.com/livenews/3141787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时06分"
+        },
+        {
+          "title": "百亿级量化私募设立AGI公司",
+          "url": "https://wallstreetcn.com/livenews/3142527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         }
       ]
     },
@@ -649,7 +792,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         }
@@ -719,11 +862,12 @@
           "source": "抖音",
           "ranks": [
             27,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 18时14分]"
+          "appearance_count": 3,
+          "time_info": "[15时29分 ~ 23时04分]"
         },
         {
           "title": "高通(QCOM.O)：预计苹果相关产品营收下滑速度将从第四季度起加快。",
@@ -795,7 +939,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -813,72 +957,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
-          "url": "https://www.zhihu.com/question/2065583157664018461",
-          "source": "知乎",
-          "ranks": [
-            12,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时28分 ~ 18时14分]"
-        },
-        {
-          "title": "Kimi K3为何全量开源",
-          "url": "https://www.douyin.com/hot/2589996",
-          "source": "抖音",
-          "ranks": [
-            22,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时55分 ~ 09时28分]"
-        },
-        {
-          "title": "字节跳动重构ToB版图：飞书与豆包将整合 大厂激战“AI工作入口”",
-          "url": "https://www.cls.cn/detail/2441092",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "美国自动驾驶技术公司Waymo：谷歌的Gemini车载助手现已进入测试阶段，供乘客使用。",
-          "url": "https://flash.jin10.com/detail/20260730003639698800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "谷歌为macOS版Gemini应用新增Fn键唤醒语音控制功能。",
-          "url": "https://wallstreetcn.com/livenews/3141787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        }
-      ]
-    },
-    {
       "keyword_group": "免税 旅游 酒店 餐饮",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "退休后旅游根本没有意义",
@@ -913,11 +993,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 18时14分]"
+          "appearance_count": 3,
+          "time_info": "[15时29分 ~ 23时04分]"
         },
         {
           "title": "河北 860 元一晚酒店半夜关空调导致客人被热醒，酒店空调间断关停合法吗？消费者该怎样维权？",
@@ -943,12 +1024,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时29分 ~ 18时14分]"
+        },
+        {
+          "title": "退休后旅游还有意义吗",
+          "url": "https://www.baidu.com/s?wd=%E9%80%80%E4%BC%91%E5%90%8E%E6%97%85%E6%B8%B8%E8%BF%98%E6%9C%89%E6%84%8F%E4%B9%89%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         }
       ]
     },
     {
       "keyword_group": "HBM DDR5 存储芯片",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "SK海力士Q2利润暴增六倍仍“未达标”，与10家客户敲定长协，HBM4下半年将加速放量｜财报见闻",
@@ -984,6 +1076,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "美股存储芯片指数涨超17%，SK海力士ADR涨15.85%，美光科技股价上涨15%，闪迪上涨21.15%，西部数据上涨16.87%，希捷科技上涨15.84%。",
+          "url": "https://wallstreetcn.com/livenews/3142532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "专项债 特别国债 降准 降息 以旧换新 设备更新",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "降息希望落空！特朗普再次力挺沃什 矛头直指美联储理事会",
+          "url": "https://www.cls.cn/detail/2440817",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
+          "title": "债市再度走强！降准降息窗口仍存，做多资金押注超长债结构性行情",
+          "url": "https://www.cls.cn/detail/2441584",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "美联储维持利率不变后，花旗仍维持降息预测",
+          "url": "https://wallstreetcn.com/livenews/3141933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时53分"
         }
       ]
     },
@@ -996,11 +1138,12 @@
           "url": "https://www.cls.cn/detail/2441507",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 23时04分]"
         },
         {
           "title": "新易盛：1.6T光模块出货量显著增长，预计下半年放量节奏将进一步加快",
@@ -1026,7 +1169,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -1068,34 +1211,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "专项债 特别国债 降准 降息 以旧换新 设备更新",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "降息希望落空！特朗普再次力挺沃什 矛头直指美联储理事会",
-          "url": "https://www.cls.cn/detail/2440817",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        },
-        {
-          "title": "美联储维持利率不变后，花旗仍维持降息预测",
-          "url": "https://wallstreetcn.com/livenews/3141933",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时53分"
         }
       ]
     },
