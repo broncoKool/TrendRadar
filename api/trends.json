@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T07:55:23.472622+08:00",
-  "total_titles_processed": 691,
+  "generated_at": "2026-07-30T09:28:42.916286+08:00",
+  "total_titles_processed": 834,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "制胜预告片震撼首发",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时05分 ~ 07时55分]"
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 09时28分]"
         },
         {
           "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
@@ -35,6 +35,28 @@
           "time_info": "[01时05分 ~ 07时55分]"
         },
         {
+          "title": "中国央行：今日开展2705亿元7天逆回购操作，投标量2705亿元，中标量2705亿元，操作利率为1.40%。同时，开展了6000亿元隔夜逆回购操作。",
+          "url": "https://flash.jin10.com/detail/20260730092212472800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "港股开盘，恒指开涨0.26%，科指开涨0.43%；新东方(09901.HK)涨超14.5%，京东物流(02618.HK)涨2.5%，中际旭创(03308.HK)上市首日开盘跌0.92%。",
+          "url": "https://flash.jin10.com/detail/20260730092127279800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "微软：Azure收入突破1000亿美元，对Anthropic的投资带来超30亿美元季度收入",
           "url": "https://wallstreetcn.com/livenews/3141894",
           "source": "华尔街见闻-快讯",
@@ -44,6 +66,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "中际旭创港股上市首日，开盘报971港元，IPO价980港元。",
+          "url": "https://wallstreetcn.com/livenews/3142013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "行权覆盖范围再扩容，投服中心首次向上市券商提名独董",
@@ -64,7 +97,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -89,12 +122,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
+        },
+        {
+          "title": "银河证券：奶价增速转正或将带动相关上市公司盈利能力修复",
+          "url": "https://flash.jin10.com/detail/20260730090850144800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         }
       ]
     },
     {
       "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "为什么黄金几乎在所有文明里都是贵重金属，并且作为了货币？",
@@ -106,6 +150,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时05分 ~ 01时06分]"
+        },
+        {
+          "title": "【早报】美联储按兵不动，罕见三票主张加息；美存储股继续大跌；油价飙升，黄金微涨；两大MLCC龙头宣布涨价",
+          "url": "https://www.cls.cn/detail/2440772",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时55分 ~ 09时28分]"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加0.571吨，当前持仓量为1009.298吨。",
@@ -120,24 +176,13 @@
           "time_info": "[06时53分 ~ 07时55分]"
         },
         {
-          "title": "【早报】美联储按兵不动，罕见三票主张加息；美存储股继续大跌；油价飙升，黄金微涨；两大MLCC龙头宣布涨价",
-          "url": "https://www.cls.cn/detail/2440772",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
           "title": "现货黄金再度站上4100美元/盎司，日内涨0.83%。",
           "url": "https://flash.jin10.com/detail/20260730070934426800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -162,80 +207,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple iPhone",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "“小苹果阿姨”故事感动全网",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%8F%E8%8B%B9%E6%9E%9C%E9%98%BF%E5%A7%A8%E2%80%9D%E6%95%85%E4%BA%8B%E6%84%9F%E5%8A%A8%E5%85%A8%E7%BD%91",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            15,
-            20,
-            30,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 07时55分]"
         },
         {
-          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
+          "title": "华泰证券：8月电池排产环比增长 看好本轮锂电涨价周期",
+          "url": "https://wallstreetcn.com/livenews/3141988",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            27
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 06时53分]"
-        },
-        {
-          "title": "高通(QCOM.O)：预计2027财年非手机业务收入的同比增长额将超过2026财年苹果产品总收入。",
-          "url": "https://flash.jin10.com/detail/20260730040750177800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "小苹果阿姨劝大家别送东西了",
-          "url": "https://www.douyin.com/hot/2589904",
-          "source": "抖音",
-          "ranks": [
-            22,
-            23,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 07时55分]"
-        },
-        {
-          "title": "高通(QCOM.O)：预计苹果相关产品营收下滑速度将从第四季度起加快。",
-          "url": "https://flash.jin10.com/detail/20260730040620779800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "09时28分"
         }
       ]
     },
     {
       "keyword_group": "国务院 发改委 工信部 财政部 证监会",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美国国务院：将立即全额发放国会为2025财年和2026财年拨付的6亿美元全球疫苗免疫联盟资金。",
@@ -282,6 +270,17 @@
           "time_info": "01时06分"
         },
         {
+          "title": "国务院成立广西六蓝水库溃坝灾害调查评估组，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2063965616872974014",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "美国财政部：今日伊朗制裁针对借助霍尔木兹海峡牟利的行为。 制裁目标指向伊朗的霍尔木兹海峡“勒索网络”。",
           "url": "https://wallstreetcn.com/livenews/3141774",
           "source": "华尔街见闻-快讯",
@@ -296,7 +295,7 @@
     },
     {
       "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "Meta Platforms(META.O)首席执行官：将全部算力出售以换取短期利润是愚蠢的行为。",
@@ -320,6 +319,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时52分 ~ 06时53分]"
+        },
+        {
+          "title": "三星电子：存储业务预计今年服务器需求将加速增长。",
+          "url": "https://flash.jin10.com/detail/20260730091930019800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "Meta Platforms(META.O)CFO：可预见的未来内，行业整体算力仍将保持紧张。",
@@ -346,8 +356,77 @@
       ]
     },
     {
+      "keyword_group": "苹果 Apple iPhone",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "“小苹果阿姨”故事感动全网",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B0%8F%E8%8B%B9%E6%9E%9C%E9%98%BF%E5%A7%A8%E2%80%9D%E6%95%85%E4%BA%8B%E6%84%9F%E5%8A%A8%E5%85%A8%E7%BD%91",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            15,
+            20,
+            30,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 07时55分]"
+        },
+        {
+          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时53分]"
+        },
+        {
+          "title": "小苹果阿姨劝大家别送东西了",
+          "url": "https://www.douyin.com/hot/2589904",
+          "source": "抖音",
+          "ranks": [
+            22,
+            23,
+            17,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 09时28分]"
+        },
+        {
+          "title": "高通(QCOM.O)：预计2027财年非手机业务收入的同比增长额将超过2026财年苹果产品总收入。",
+          "url": "https://flash.jin10.com/detail/20260730040750177800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "高通(QCOM.O)：预计苹果相关产品营收下滑速度将从第四季度起加快。",
+          "url": "https://flash.jin10.com/detail/20260730040620779800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人形机器人 机器人 具身智能 灵巧手",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美方限制进口“先进机器人设备”，外交部回应",
@@ -384,11 +463,12 @@
             14,
             13,
             5,
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时59分 ~ 07时55分]"
+          "appearance_count": 7,
+          "time_info": "[02时59分 ~ 09时28分]"
         },
         {
           "title": "斯洛伐克总统怀疑中国机器人藏真人",
@@ -405,6 +485,68 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时05分 ~ 07时55分]"
+        },
+        {
+          "title": "雷军晒小米机器人工作视频",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E6%99%92%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B7%A5%E4%BD%9C%E8%A7%86%E9%A2%91%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "Kimi K3为何全量开源",
+          "url": "https://www.douyin.com/hot/2589996",
+          "source": "抖音",
+          "ranks": [
+            22,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时55分 ~ 09时28分]"
+        },
+        {
+          "title": "美国自动驾驶技术公司Waymo：谷歌的Gemini车载助手现已进入测试阶段，供乘客使用。",
+          "url": "https://flash.jin10.com/detail/20260730003639698800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时06分"
+        },
+        {
+          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
+          "url": "https://www.zhihu.com/question/2065583157664018461",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "谷歌为macOS版Gemini应用新增Fn键唤醒语音控制功能。",
+          "url": "https://wallstreetcn.com/livenews/3141787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时06分"
         }
       ]
     },
@@ -443,7 +585,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -457,45 +599,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美国自动驾驶技术公司Waymo：谷歌的Gemini车载助手现已进入测试阶段，供乘客使用。",
-          "url": "https://flash.jin10.com/detail/20260730003639698800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "谷歌为macOS版Gemini应用新增Fn键唤醒语音控制功能。",
-          "url": "https://wallstreetcn.com/livenews/3141787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "Kimi K3为何全量开源",
-          "url": "https://www.douyin.com/hot/2589996",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时55分"
         }
       ]
     },
@@ -520,11 +623,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时05分 ~ 07时55分]"
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 09时28分]"
         },
         {
           "title": "道指成分股中，卡特彼勒初步收跌7.1%，高盛跌5.2%，波音、摩根大通跌超3%，英伟达跌2.9%，雪佛龙则涨2.3%，Salesforce涨3.9%。 标普500指数初步收跌1.5%，工业板块跌3.2%，科技、金融、公用事业、原材料、可选消费板块至多跌约2%。能源板块涨2%。 纳斯达克100指数初步收跌2%，成分股中，Nebius初步收跌13.7%，CoreWeave跌9.8%，科磊跌9.7%，美光科技跌9.2%，亿滋国际涨3.9%，Diamondback Energy涨4.4%，Adobe涨5.8%，财捷Intuit涨6.5%，GEHC涨11.7%。 存储芯片指数跌4%，半导体指数跌4.7%。",
@@ -621,6 +725,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "稀土 锗 镓 锑 钨",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中金：中国钨业龙头有望迎来量价齐升",
+          "url": "https://wallstreetcn.com/livenews/3141990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         }
       ]
     },
