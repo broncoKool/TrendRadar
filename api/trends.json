@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-31T07:55:40.272583+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-07-31T09:55:37.870382+08:00",
+  "total_titles_processed": 732,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果 Apple iPhone",
       "match_count": 12,
       "titles": [
+        {
+          "title": "【早报】美科技股全线暴涨；苹果、亚马逊业绩公布；油价下行、黄金走强；宇树科技，8月10日申购",
+          "url": "https://www.cls.cn/detail/2442025",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时55分 ~ 09时55分]"
+        },
         {
           "title": "苹果总营收略超预期，大中华区营收逊色盘后跌4%",
           "url": "https://flash.jin10.com/detail/20260731044802288800",
@@ -31,17 +43,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时16分 ~ 07时55分]"
-        },
-        {
-          "title": "【早报】美科技股全线暴涨；苹果、亚马逊业绩公布；油价下行、黄金走强；宇树科技，8月10日申购",
-          "url": "https://www.cls.cn/detail/2442025",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时55分"
         },
         {
           "title": "苹果(AAPL.O)2026财年Q3服务营收为307.4亿美元，低于市场预期的312.2亿美元。",
@@ -127,7 +128,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -138,9 +139,115 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "沙特国防部：沙特阿拉伯召开国际会议，讨论海洋防御联盟的相关安排。 沙特方面表示，联盟将加强在曼德海峡、红海及亚丁湾的防务合作。",
+          "url": "https://wallstreetcn.com/livenews/3142579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 03时13分]"
+        },
+        {
+          "title": "A股上市券商百亿分红陆续兑现，回购计划增强投资者信心",
+          "url": "https://wallstreetcn.com/livenews/3142709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "长鑫科技拉升涨超13%，总市值突破4万亿。",
+          "url": "https://wallstreetcn.com/livenews/3142802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "长鑫科技市值突破4万亿",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%B8%82%E5%80%BC%E7%AA%81%E7%A0%B44%E4%B8%87%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "亚马逊电话会：在手订单近5000亿美元，CEO豪言“AWS将成万亿美元业务”，内存成本推高资本支出",
+          "url": "https://wallstreetcn.com/articles/3778371",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "沙特国防部：联军将加强在曼德海峡、红海及亚丁湾的防务合作。",
+          "url": "https://flash.jin10.com/detail/20260731002239067800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
+          "title": "A股C长鑫盘中市值突破4万亿元，现涨14.3%，报60.49元，股价再创新高，成交额达88亿元。",
+          "url": "https://flash.jin10.com/detail/20260731093328034800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "韩国外汇当局称，在与美国和日本密切合作。",
+          "url": "https://wallstreetcn.com/livenews/3142760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "上市公司炒股 赔了2800万元",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E7%82%92%E8%82%A1+%E8%B5%94%E4%BA%862800%E4%B8%87%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         }
       ]
     },
@@ -153,11 +260,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33684311",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 07时55分]"
+          "appearance_count": 7,
+          "time_info": "[01时16分 ~ 09时55分]"
         },
         {
           "title": "智利国家铜业公司（Codelco）董事会主席：我们不会考虑IPO。",
@@ -171,6 +279,18 @@
           "time_info": "01时16分"
         },
         {
+          "title": "中国“黄金大外环”要来了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E2%80%9C%E9%BB%84%E9%87%91%E5%A4%A7%E5%A4%96%E7%8E%AF%E2%80%9D%E8%A6%81%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时55分 ~ 09时55分]"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 7月30日（周四）晚盘收盘上涨0.96%报891.03元/克；<br/>上海黄金交易所白银T+D 7月30日（周四）晚盘收盘上涨1.6%报14330.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260731023105114800",
           "source": "金十数据",
@@ -180,17 +300,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
-        },
-        {
-          "title": "中国“黄金大外环”要来了",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E2%80%9C%E9%BB%84%E9%87%91%E5%A4%A7%E5%A4%96%E7%8E%AF%E2%80%9D%E8%A6%81%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时55分"
         },
         {
           "title": "国际铜夜盘收涨0.87%，沪铜收涨0.75%，沪铝收涨0.57%，沪锌收涨0.67%，沪铅收跌0.67%，沪镍收涨0.76%，沪锡收涨2.15%。 氧化铝夜盘收跌0.34%，铝合金收涨0.39%。 不锈钢夜盘收涨0.51%。",
@@ -228,8 +337,84 @@
       ]
     },
     {
+      "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "扎克伯格：卖算力换短期利润是愚蠢的",
+          "url": "https://www.cls.cn/detail/2441683",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 07时55分]"
+        },
+        {
+          "title": "创业板指涨超6%，沪指涨超1%，深成指涨近4%，科创50涨近8%，半导体芯片、算力硬件等方向领涨，沪深京三市上涨个股超4500只。",
+          "url": "https://wallstreetcn.com/livenews/3142816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "【每日收评】创业板指放量跌近4%，算力硬件权重集体重挫，大消费方向持续活跃",
+          "url": "https://www.cls.cn/detail/2441445",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 04时58分]"
+        },
+        {
+          "title": "Meta电话会：扎克伯格强调“卖掉算力换短期利润是愚蠢的”，烧钱买算力不是赌博是必须",
+          "url": "https://wallstreetcn.com/articles/3778265",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时55分 ~ 09时55分]"
+        },
+        {
+          "title": "A股算力租赁概念板块表现活跃，利通电子一字涨停，宏景科技、协创数据涨超14%，铜牛信息、网宿科技、东阳光、优刻得跟涨。",
+          "url": "https://flash.jin10.com/detail/20260731093441233800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "【Meta报告称未来支出承诺接近7000亿美元】Meta表示，已通过长期和短期协议，承诺了近7000亿美元的未来支出，涉及人工智能数据中心、云计算等领域。 Meta在周四的一份监管申报文件中表示，公司拥有3493亿美元的不可撤销合同承诺，主要涉及第三方云服务协议、服务器和网络基础设施。该公司还有3470亿美元尚未开始的租赁承诺，尚未反映在资产负债表中。其中仅7月份就新增了680亿美元，付款将从2027年和2028年开始。这些成本是在现有活跃租赁之外的，涵盖数据中心、托管设施及“部分网络基础设施”。",
+          "url": "https://wallstreetcn.com/livenews/3142615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "无人机 通航",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "【伊朗军队称打击美军在巴林空军基地，已对其装备和中心造成了重大破坏】当地时间7月30日晚，伊朗军队发布公告称，军队使用无人机袭击了美军位于巴林的谢赫伊萨空军基地的发电机、导航系统以及行政和后勤保障建筑。公告表示，尽管美军基地拥有众多防御系统和装备，但近日针对该地区美军基地的袭击，已对其装备和中心造成了重大破坏。（央视）",
@@ -241,6 +426,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "当地政府：俄罗斯伏尔加格勒地区能源设施在无人机袭击后起火。",
+          "url": "https://flash.jin10.com/detail/20260731093533019800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         },
         {
           "title": "【美军称没有美国飞机在伊朗最近的袭击中被摧毁】美军中央司令部30日在社交媒体上发文称，在伊朗最近的袭击中，没有美国飞机被摧毁或损坏。“所有导弹和无人机均被拦截或未能到达目标区域。” 伊朗伊斯兰革命卫队此前发表声明称，为回应美国的袭击，革命卫队袭击了约旦阿兹拉克美军基地，摧毁3架F-35战斗机，并严重损坏另外3架战机。（新华社）",
@@ -289,55 +485,65 @@
       ]
     },
     {
-      "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
-      "match_count": 4,
+      "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
+      "match_count": 5,
       "titles": [
         {
-          "title": "扎克伯格：卖算力换短期利润是愚蠢的",
-          "url": "https://www.cls.cn/detail/2441683",
-          "source": "财联社热门",
+          "title": "豆包究竟见过多少人的糗事",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E7%A9%B6%E7%AB%9F%E8%A7%81%E8%BF%87%E5%A4%9A%E5%B0%91%E4%BA%BA%E7%9A%84%E7%B3%97%E4%BA%8B&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
-            10,
-            9,
-            11
+            1,
+            4,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 07时55分]"
+          "appearance_count": 7,
+          "time_info": "[01时16分 ~ 09时55分]"
         },
         {
-          "title": "【每日收评】创业板指放量跌近4%，算力硬件权重集体重挫，大消费方向持续活跃",
-          "url": "https://www.cls.cn/detail/2441445",
-          "source": "财联社热门",
+          "title": "如何看待 OpenAI 将 GPT-5.6Luna 和 Terra 价格大幅度下调？大模型会进入价格战时代吗？",
+          "url": "https://www.zhihu.com/question/2066333638568972760",
+          "source": "知乎",
           "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 04时58分]"
-        },
-        {
-          "title": "Meta电话会：扎克伯格强调“卖掉算力换短期利润是愚蠢的”，烧钱买算力不是赌博是必须",
-          "url": "https://wallstreetcn.com/articles/3778265",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时55分"
+          "time_info": "09时55分"
         },
         {
-          "title": "【Meta报告称未来支出承诺接近7000亿美元】Meta表示，已通过长期和短期协议，承诺了近7000亿美元的未来支出，涉及人工智能数据中心、云计算等领域。 Meta在周四的一份监管申报文件中表示，公司拥有3493亿美元的不可撤销合同承诺，主要涉及第三方云服务协议、服务器和网络基础设施。该公司还有3470亿美元尚未开始的租赁承诺，尚未反映在资产负债表中。其中仅7月份就新增了680亿美元，付款将从2027年和2028年开始。这些成本是在现有活跃租赁之外的，涵盖数据中心、托管设施及“部分网络基础设施”。",
-          "url": "https://wallstreetcn.com/livenews/3142615",
-          "source": "华尔街见闻-快讯",
+          "title": "豆包飞书团队合并",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E9%A3%9E%E4%B9%A6%E5%9B%A2%E9%98%9F%E5%90%88%E5%B9%B6%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            28
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时58分"
+          "time_info": "01时16分"
+        },
+        {
+          "title": "恒指低开0.08%，报25837.72点；恒生科技指数涨0.30%。华虹宏力、智谱、MINIMAX涨近15%，联想、中芯国际涨超8%。小米跌5.6%，京东跌3.2%。",
+          "url": "https://wallstreetcn.com/livenews/3142764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "【谷歌发布Gemini机器人AI模型，旨在解决机器人“灵巧性”难题】Alphabet旗下的谷歌DeepMind发布了一款名为Gemini Robotics 2的新型机器人人工智能模型，该模型使类人机器能够协调全身运动。这一新系统使机器人能够在推理任务的同时进行行走、蹲下和操纵物体，并能自上而下地指挥整个类人机器人。谷歌DeepMind还发布了另外两款机器人AI模型——Gemini Robotics ER 2和On-Device 2。它们可以协同工作或独立运行，以规划多步骤任务并协调多个机器人。",
+          "url": "https://wallstreetcn.com/livenews/3142550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时16分"
         }
       ]
     },
@@ -350,11 +556,12 @@
           "url": "https://news.ifeng.com/c/8vCOAeHmmup",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时55分 ~ 09时55分]"
         },
         {
           "title": "巴西财政部官员：政府考虑对支出上限进行潜在调整，以帮助平衡公共账户并实现已宣布的目标。",
@@ -392,89 +599,20 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
+      "keyword_group": "HBM DDR5 存储芯片",
       "match_count": 3,
       "titles": [
         {
-          "title": "豆包究竟见过多少人的糗事",
-          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E7%A9%B6%E7%AB%9F%E8%A7%81%E8%BF%87%E5%A4%9A%E5%B0%91%E4%BA%BA%E7%9A%84%E7%B3%97%E4%BA%8B&t=31&band_rank=1&Refer=top",
-          "source": "微博",
+          "title": "韩国投资证券：三星长期存储芯片合同料将改善盈利前景",
+          "url": "https://flash.jin10.com/detail/20260731094033727800",
+          "source": "金十数据",
           "ranks": [
-            1,
             4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 07时55分]"
-        },
-        {
-          "title": "豆包飞书团队合并",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E9%A3%9E%E4%B9%A6%E5%9B%A2%E9%98%9F%E5%90%88%E5%B9%B6%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "【谷歌发布Gemini机器人AI模型，旨在解决机器人“灵巧性”难题】Alphabet旗下的谷歌DeepMind发布了一款名为Gemini Robotics 2的新型机器人人工智能模型，该模型使类人机器能够协调全身运动。这一新系统使机器人能够在推理任务的同时进行行走、蹲下和操纵物体，并能自上而下地指挥整个类人机器人。谷歌DeepMind还发布了另外两款机器人AI模型——Gemini Robotics ER 2和On-Device 2。它们可以协同工作或独立运行，以规划多步骤任务并协调多个机器人。",
-          "url": "https://wallstreetcn.com/livenews/3142550",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "沙特国防部：沙特阿拉伯召开国际会议，讨论海洋防御联盟的相关安排。 沙特方面表示，联盟将加强在曼德海峡、红海及亚丁湾的防务合作。",
-          "url": "https://wallstreetcn.com/livenews/3142579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 03时13分]"
-        },
-        {
-          "title": "A股上市券商百亿分红陆续兑现，回购计划增强投资者信心",
-          "url": "https://wallstreetcn.com/livenews/3142709",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时55分"
+          "time_info": "09时55分"
         },
-        {
-          "title": "沙特国防部：联军将加强在曼德海峡、红海及亚丁湾的防务合作。",
-          "url": "https://flash.jin10.com/detail/20260731002239067800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "HBM DDR5 存储芯片",
-      "match_count": 2,
-      "titles": [
         {
           "title": "三星电话会：存储供不应求“明年比今年更紧张”，60-70%产能分给长期协议，HBM4收入将占六成",
           "url": "https://wallstreetcn.com/articles/3778300",
@@ -482,7 +620,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -493,7 +631,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         }
@@ -501,8 +639,19 @@
     },
     {
       "keyword_group": "人形机器人 机器人 具身智能 灵巧手",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "7月31日投资避雷针：4连板人气股提示风险 不涉及人形机器人整机制造",
+          "url": "https://www.cls.cn/detail/2442061",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
         {
           "title": "联邦快递：扩大与Dexterity的合作，在马里兰州黑格斯敦转运中心部署人工智能机器人。",
           "url": "https://flash.jin10.com/detail/20260731020919950800",
@@ -521,9 +670,38 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "光模块 CPO 800G 1.6T AEC DAC 高速铜缆",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【焦点复盘】科创50跌超5%失守半年线，存储芯片股午后局部反攻，万亿光模块龙头现天量巨震",
+          "url": "https://www.cls.cn/detail/2441507",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 07时55分]"
+        },
+        {
+          "title": "CPO概念股大幅高开，联讯仪器、联特科技、新易盛、天孚通信、中际旭创、光库科技等近20股涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3142782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         }
       ]
     },
@@ -568,8 +746,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 07时55分]"
+          "appearance_count": 7,
+          "time_info": "[01时16分 ~ 09时55分]"
         },
         {
           "title": "退休后旅游还有意义吗",
@@ -595,27 +773,26 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         }
       ]
     },
     {
-      "keyword_group": "光模块 CPO 800G 1.6T AEC DAC 高速铜缆",
+      "keyword_group": "光刻机 EDA 先进封装 CoWoS Chiplet 晶圆",
       "match_count": 1,
       "titles": [
         {
-          "title": "【焦点复盘】科创50跌超5%失守半年线，存储芯片股午后局部反攻，万亿光模块龙头现天量巨震",
-          "url": "https://www.cls.cn/detail/2441507",
-          "source": "财联社热门",
+          "title": "A股光刻机板块盘初拉升，芯碁微装涨超16%，炬光科技涨超14%，江丰电子、中润光学涨超10.5%，泰晶科技封板涨停，同飞股份等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260731093255320800",
+          "source": "金十数据",
           "ranks": [
-            4,
-            3
+            18
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 07时55分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         }
       ]
     },
@@ -628,11 +805,29 @@
           "url": "https://www.cls.cn/detail/2441832",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 04时58分]"
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 09时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 火箭 卫星互联网 北斗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "机器狼扛着单兵火箭筒冲上滩头",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E7%8B%BC%E6%89%9B%E7%9D%80%E5%8D%95%E5%85%B5%E7%81%AB%E7%AE%AD%E7%AD%92%E5%86%B2%E4%B8%8A%E6%BB%A9%E5%A4%B4",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         }
       ]
     },
