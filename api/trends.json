@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T13:47:40.501898+08:00",
-  "total_titles_processed": 922,
+  "generated_at": "2026-08-01T16:05:37.485046+08:00",
+  "total_titles_processed": 1048,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "DeepSeek V4 Flash正式版强在哪",
@@ -82,9 +82,46 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
+        },
+        {
+          "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2066223484309434997",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
+          "title": "实测DeepSeek V4 Flash",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeek%20V4%20Flash",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            18,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时06分 ~ 16时05分]"
+        },
+        {
+          "title": "如何看待 Anthropic 公布 Claude 也发生了沙箱逃逸，真实入侵了三家机构？",
+          "url": "https://www.zhihu.com/question/2066465758503252393",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时06分 ~ 16时05分]"
         },
         {
           "title": "OpenAI：GPT-5.4和GPT-5.4mini将从8月31日起不再向登录ChatGPT的用户提供。这些模型仍将在OpenAI API以及使用API密钥进行身份验证的Codex会话中继续提供。",
@@ -97,41 +134,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时58分 ~ 08时04分]"
-        },
-        {
-          "title": "如何看待 Anthropic 公布 Claude 也发生了沙箱逃逸，真实入侵了三家机构？",
-          "url": "https://www.zhihu.com/question/2066465758503252393",
-          "source": "知乎",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 13时47分]"
-        },
-        {
-          "title": "实测DeepSeek V4 Flash",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeek%20V4%20Flash",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 13时47分]"
-        },
-        {
-          "title": "DeepSeek V4 flash 上线，相较 Kimi K3 各有哪些优劣？现版本大模型中你的选择是啥？",
-          "url": "https://www.zhihu.com/question/2066599476764964006",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
         },
         {
           "title": "OpenAI：GPT-5.4和GPT-5.4mini将从8月31日起不再向登录ChatGPT的用户提供。 这些模型仍将在OpenAI API以及使用API密钥进行身份验证的Codex会话中继续提供。",
@@ -157,6 +159,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 03时10分]"
+        },
+        {
+          "title": "DeepSeek V4 flash 上线，相较 Kimi K3 各有哪些优劣？现版本大模型中你的选择是啥？",
+          "url": "https://www.zhihu.com/question/2066599476764964006",
+          "source": "知乎",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 16时05分]"
         },
         {
           "title": "Kimi K3为何引发市场热议",
@@ -192,6 +206,17 @@
           "time_info": "01时21分"
         },
         {
+          "title": "超聚变AI Lab平台上线DeepSeek-V4-Flash正式版",
+          "url": "https://flash.jin10.com/detail/20260801151758117800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
           "title": "怎么看 Anthropic 公布的 Claude 也发生了沙箱逃逸，真实入侵了三家组织的事？",
           "url": "https://www.zhihu.com/question/2066465758503252393",
           "source": "知乎",
@@ -203,13 +228,35 @@
           "time_info": "08时04分"
         },
         {
+          "title": "头部AI再失控 Claude黑进三家公司",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%B4%E9%83%A8AI%E5%86%8D%E5%A4%B1%E6%8E%A7+Claude%E9%BB%91%E8%BF%9B%E4%B8%89%E5%AE%B6%E5%85%AC%E5%8F%B8",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
+          "title": "DeepSeek V4 Flash模型权重发布",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Flash",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
           "title": "DeepSeekV4Flash正式版跑分出炉",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeekV4Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E8%B7%91%E5%88%86%E5%87%BA%E7%82%89%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         }
@@ -217,7 +264,7 @@
     },
     {
       "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "崔东树：上半年锂电池全口径总需求同比增长53% 行业增长转向多元支撑",
@@ -257,6 +304,17 @@
           "time_info": "[01时21分 ~ 03时10分]"
         },
         {
+          "title": "青铜器普遍认同是金色的，现在都绿了一帮人说「美啊，美啊！」，原因是什么？",
+          "url": "https://www.zhihu.com/question/2049427129285321969",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 16时05分]"
+        },
+        {
           "title": "现货黄金周五跌约1.3%，7月纽约铜涨超5.7%",
           "url": "https://wallstreetcn.com/livenews/3143475",
           "source": "华尔街见闻-快讯",
@@ -280,15 +338,15 @@
           "time_info": "03时10分"
         },
         {
-          "title": "青铜器普遍认同是金色的，现在都绿了一帮人说「美啊，美啊！」，原因是什么？",
-          "url": "https://www.zhihu.com/question/2049427129285321969",
-          "source": "知乎",
+          "title": "用一万斤青铜复刻曾侯乙编钟",
+          "url": "https://www.douyin.com/hot/2593260",
+          "source": "抖音",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时47分"
+          "time_info": "16时05分"
         },
         {
           "title": "加拿大政府批准了加拿大镍业公司（Canada Nickel）位于安大略省北部的克劳福德镍矿项目。",
@@ -322,6 +380,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "黄金逼近关键区域，多空正围绕4XXX美元展开争夺——增强版同步发布！",
+          "url": "https://flash.jin10.com/detail/20260801145649115800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：7月28日当周，投机者所持COMEX黄金净多头头寸减少3,258手合约，至120,328手合约。 所持COMEX白银净多头头寸降低至8,387手合约，创21周新低。 所持NYMEX钯金净空头头寸降低至6,173手合约，创四周新低。",
@@ -370,6 +439,204 @@
       ]
     },
     {
+      "keyword_group": "无人机 通航",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "据伊朗法尔斯通讯社：伊朗军方发言人称，我们近期已投入使用新型无人机，相关细节将在未来几天内公布。我们的无人机航程足以覆盖以色列领土。",
+          "url": "https://flash.jin10.com/detail/20260801153027574800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
+          "title": "【胡塞武装宣布继续封锁沙特船只，已使8艘油轮改道】7月31日，也门胡塞武装发言人叶海亚在社交媒体发文称，在巩固“以封锁回应封锁”方针、并落实对沙特实施海上禁运措施的框架下，8艘沙特油轮被迫改变航线，折返驶向其出发港口。 他表示，对沙特实施海上封锁行动仍在持续。只要条件允许，胡塞武装将继续拦截沙特船只。 胡塞武装7月20日宣布对沙特实施海上禁运，23日宣布使用导弹和无人机在红海袭击两艘违反其禁运令的沙特油轮。沙特主导的多国联军25日对也门荷台达省胡塞武装军事目标实施打击，以回应胡塞武装针对其商船的袭击。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3143480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时58分 ~ 08时04分]"
+        },
+        {
+          "title": "俄称击毁274架乌无人机 乌称基辅市多人伤亡",
+          "url": "https://wallstreetcn.com/livenews/3143568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
+          "title": "乌克兰总参谋部：我们对克里米亚半岛的俄罗斯海上无人机仓库进行了打击。",
+          "url": "https://flash.jin10.com/detail/20260801151835168800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
+          "title": "白宫官员戈尔卡：在国际足联世界杯赛事期间未查获任何武装无人机。",
+          "url": "https://flash.jin10.com/detail/20260801015458388800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        },
+        {
+          "title": "据俄新社：俄防空部队7月在俄领土上空击落逾2.1万架乌军无人机。",
+          "url": "https://flash.jin10.com/detail/20260801080948762800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：俄罗斯发射了35枚导弹和185架无人机攻击乌克兰。",
+          "url": "https://flash.jin10.com/detail/20260801145440468800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
+          "title": "科威特军队总参谋部：科威特防空部队目前正在应对敌方无人机攻击，以回击伊朗的侵略行径。若听到爆炸声，那是我方防空系统拦截敌方攻击所致。我们呼吁所有人遵守主管部门发布的安全与防护指令。",
+          "url": "https://flash.jin10.com/detail/20260801142851230800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "亚马逊电话会：在手订单近5000亿美元，CEO豪言“AWS将成万亿美元业务”，内存成本推高资本支出",
+          "url": "https://wallstreetcn.com/articles/3778371",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时21分 ~ 08时04分]"
+        },
+        {
+          "title": "视频丨日本“国家情报局”正式设立，专家：突破战后和平体制束缚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688333",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时21分 ~ 08时04分]"
+        },
+        {
+          "title": "长鑫上市，对合肥普通市民能有影响吗？",
+          "url": "https://www.zhihu.com/question/2065114398650283660",
+          "source": "知乎",
+          "ranks": [
+            18,
+            13,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时21分 ~ 06时58分]"
+        },
+        {
+          "title": "首个月销破10万辆的新势力出现了",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E4%B8%AA%E6%9C%88%E9%94%80%E7%A0%B410%E4%B8%87%E8%BE%86%E7%9A%84%E6%96%B0%E5%8A%BF%E5%8A%9B%E5%87%BA%E7%8E%B0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
+          "title": "小米澎程 N90 、 N70 两款 SUV 上市后是否会有车企跟进设计？",
+          "url": "https://www.zhihu.com/question/2065496535039742086",
+          "source": "知乎",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 03时10分]"
+        },
+        {
+          "title": "据灯塔专业版实时数据，截至8月1日0时0分，影片《功夫女足》票房突破21亿元。",
+          "url": "https://wallstreetcn.com/livenews/3143555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 16时05分]"
+        },
+        {
+          "title": "零跑汽车7月交付突破10万台，创造车新势力单月交付新高",
+          "url": "https://wallstreetcn.com/livenews/3143549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 16时05分]"
+        },
+        {
+          "title": "阿根廷与韩国签署关键矿物合作协议。",
+          "url": "https://wallstreetcn.com/livenews/3143384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 Apple iPhone",
       "match_count": 7,
       "titles": [
@@ -381,8 +648,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时57分 ~ 13时47分]"
+          "appearance_count": 7,
+          "time_info": "[06时57分 ~ 16时05分]"
         },
         {
           "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
@@ -392,11 +659,12 @@
             9,
             8,
             11,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时21分 ~ 13时47分]"
+          "appearance_count": 12,
+          "time_info": "[01时21分 ~ 16时05分]"
         },
         {
           "title": "美股三大指数集体高开 苹果跌超8%",
@@ -458,95 +726,6 @@
       ]
     },
     {
-      "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "亚马逊电话会：在手订单近5000亿美元，CEO豪言“AWS将成万亿美元业务”，内存成本推高资本支出",
-          "url": "https://wallstreetcn.com/articles/3778371",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时21分 ~ 08时04分]"
-        },
-        {
-          "title": "视频丨日本“国家情报局”正式设立，专家：突破战后和平体制束缚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33688333",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时21分 ~ 08时04分]"
-        },
-        {
-          "title": "长鑫上市，对合肥普通市民能有影响吗？",
-          "url": "https://www.zhihu.com/question/2065114398650283660",
-          "source": "知乎",
-          "ranks": [
-            18,
-            13,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 06时58分]"
-        },
-        {
-          "title": "小米澎程 N90 、 N70 两款 SUV 上市后是否会有车企跟进设计？",
-          "url": "https://www.zhihu.com/question/2065496535039742086",
-          "source": "知乎",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时10分]"
-        },
-        {
-          "title": "据灯塔专业版实时数据，截至8月1日0时0分，影片《功夫女足》票房突破21亿元。",
-          "url": "https://wallstreetcn.com/livenews/3143555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        },
-        {
-          "title": "零跑汽车7月交付突破10万台，创造车新势力单月交付新高",
-          "url": "https://wallstreetcn.com/livenews/3143549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        },
-        {
-          "title": "阿根廷与韩国签署关键矿物合作协议。",
-          "url": "https://wallstreetcn.com/livenews/3143384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "国务院 发改委 工信部 财政部 证监会",
       "match_count": 6,
       "titles": [
@@ -584,8 +763,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 13时47分]"
+          "appearance_count": 4,
+          "time_info": "[10时06分 ~ 16时05分]"
         },
         {
           "title": "Pemex正与财政部分析债务再融资事宜",
@@ -603,11 +782,12 @@
           "url": "https://www.cls.cn/detail/2443165",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 13时47分]"
+          "appearance_count": 4,
+          "time_info": "[10时06分 ~ 16时05分]"
         },
         {
           "title": "国盛证券被证监会立案",
@@ -624,7 +804,7 @@
     },
     {
       "keyword_group": "免税 旅游 酒店 餐饮",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "陈天桥2.2亿“抄底”上海酒店",
@@ -693,6 +873,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时57分 ~ 06时58分]"
+        },
+        {
+          "title": "女子住酒店退房时顺走毛巾浴巾",
+          "url": "https://www.toutiao.com/trending/7668898385999429695/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
         }
       ]
     },
@@ -710,8 +901,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时21分 ~ 13时47分]"
+          "appearance_count": 12,
+          "time_info": "[01时21分 ~ 16时05分]"
         },
         {
           "title": "4万亿元将投向算力网建设",
@@ -731,11 +922,12 @@
           "ranks": [
             5,
             4,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时21分 ~ 13时47分]"
+          "appearance_count": 12,
+          "time_info": "[01时21分 ~ 16时05分]"
         },
         {
           "title": "发改委连续3场发布会回应算力发展",
@@ -860,11 +1052,12 @@
           "url": "https://wallstreetcn.com/livenews/3143550",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 16时05分]"
         },
         {
           "title": "鸿蒙智行：7月交付45,046台，1-7月累计交付28.6万台，同比增长13.7%。",
@@ -873,7 +1066,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         }
@@ -921,43 +1114,19 @@
       ]
     },
     {
-      "keyword_group": "无人机 通航",
-      "match_count": 3,
+      "keyword_group": "人形机器人 机器人 具身智能 灵巧手",
+      "match_count": 1,
       "titles": [
         {
-          "title": "【胡塞武装宣布继续封锁沙特船只，已使8艘油轮改道】7月31日，也门胡塞武装发言人叶海亚在社交媒体发文称，在巩固“以封锁回应封锁”方针、并落实对沙特实施海上禁运措施的框架下，8艘沙特油轮被迫改变航线，折返驶向其出发港口。 他表示，对沙特实施海上封锁行动仍在持续。只要条件允许，胡塞武装将继续拦截沙特船只。 胡塞武装7月20日宣布对沙特实施海上禁运，23日宣布使用导弹和无人机在红海袭击两艘违反其禁运令的沙特油轮。沙特主导的多国联军25日对也门荷台达省胡塞武装军事目标实施打击，以回应胡塞武装针对其商船的袭击。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3143480",
-          "source": "华尔街见闻-快讯",
+          "title": "略惊悚!美企开发半人马机器人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356702&amp;topic_name=%E7%95%A5%E6%83%8A%E6%82%9A%21%E7%BE%8E%E4%BC%81%E5%BC%80%E5%8F%91%E5%8D%8A%E4%BA%BA%E9%A9%AC%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "贴吧",
           "ranks": [
-            10,
-            23,
-            27
+            6
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时58分 ~ 08时04分]"
-        },
-        {
-          "title": "白宫官员戈尔卡：在国际足联世界杯赛事期间未查获任何武装无人机。",
-          "url": "https://flash.jin10.com/detail/20260801015458388800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
-          "title": "据俄新社：俄防空部队7月在俄领土上空击落逾2.1万架乌军无人机。",
-          "url": "https://flash.jin10.com/detail/20260801080948762800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "16时05分"
         }
       ]
     },
@@ -996,6 +1165,23 @@
       ]
     },
     {
+      "keyword_group": "稀土 锗 镓 锑 钨",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国稀土集团与中国有研科技集团举行工作会谈",
+          "url": "https://flash.jin10.com/detail/20260801150315240800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        }
+      ]
+    },
+    {
       "keyword_group": "并购 重组 借壳 资产重组",
       "match_count": 1,
       "titles": [
@@ -1005,11 +1191,12 @@
           "source": "贴吧",
           "ranks": [
             23,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时21分 ~ 13时47分]"
+          "appearance_count": 12,
+          "time_info": "[01时21分 ~ 16时05分]"
         }
       ]
     }
