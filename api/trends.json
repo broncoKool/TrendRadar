@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T02:57:03.290492+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-08-03T04:07:50.729226+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "老乡鸡五年五次冲击上市失败，其上市之路为何如此艰难？",
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            4
+            4,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 04时07分]"
         },
         {
           "title": "库里签约李宁，轮不到美国政客来反对",
@@ -27,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 04时07分]"
         },
         {
           "title": "全球被动元器件大厂村田业绩爆发，新签订MLCC电容订单同比大增85.5%",
@@ -65,12 +66,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "米哈游已经终止云南昊曦合作",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%B1%B3%E5%93%88%E6%B8%B8%E5%B7%B2%E7%BB%8F%E7%BB%88%E6%AD%A2%E4%BA%91%E5%8D%97%E6%98%8A%E6%9B%A6%E5%90%88%E4%BD%9C%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时07分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "国产大模型调用量全球领先",
@@ -80,8 +92,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 04时07分]"
         },
         {
           "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
@@ -90,11 +102,12 @@
           "ranks": [
             7,
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 04时07分]"
         },
         {
           "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
@@ -104,8 +117,58 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 04时07分]"
+        },
+        {
+          "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
+          "url": "https://www.zhihu.com/question/2065010626171293829",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国务院 发改委 工信部 财政部 证监会",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "被“忽略”的市场大事：美日韩联合干预，美国财政部“罕见”下场！贝森特悄悄“救市”？",
+          "url": "https://wallstreetcn.com/articles/3778503",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 04时07分]"
+        },
+        {
+          "title": "法国总理办公室针对外国投资制度发布声明：法国收紧关于非欧洲实体持股法国公司的制度。 非欧洲投资者若取得法国企业10%及以上股权，必须获得法国财政部批准。",
+          "url": "https://wallstreetcn.com/livenews/3143731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时07分"
+        },
+        {
+          "title": "证监会对多家券商开出罚单 投行业务继续严监管",
+          "url": "https://flash.jin10.com/detail/20260802230015785800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
         }
       ]
     },
@@ -121,8 +184,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 04时07分]"
         },
         {
           "title": "中信建投：8月有望开启修复行情，重点关注AI算力等行业",
@@ -147,11 +210,12 @@
           "url": "https://wallstreetcn.com/livenews/3143721",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 04时07分]"
         },
         {
           "title": "俄罗斯国防部：对乌克兰尼古拉耶夫港的基础设施进行了打击，并袭击了两艘向乌克兰武装部队运送补给的货船，以及一艘用于部署水下无人机的海上拖船。",
@@ -178,8 +242,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 04时07分]"
         },
         {
           "title": "用一万斤青铜复刻曾侯乙编钟",
@@ -189,36 +253,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时56分 ~ 02时57分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国务院 发改委 工信部 财政部 证监会",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "被“忽略”的市场大事：美日韩联合干预，美国财政部“罕见”下场！贝森特悄悄“救市”？",
-          "url": "https://wallstreetcn.com/articles/3778503",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时57分]"
-        },
-        {
-          "title": "证监会对多家券商开出罚单 投行业务继续严监管",
-          "url": "https://flash.jin10.com/detail/20260802230015785800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "appearance_count": 3,
+          "time_info": "[02时56分 ~ 04时07分]"
         }
       ]
     },
@@ -232,11 +268,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 04时07分]"
         }
       ]
     },
@@ -253,8 +290,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 04时07分]"
         }
       ]
     },
@@ -270,8 +307,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 04时07分]"
         }
       ]
     },
@@ -287,8 +324,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 04时07分]"
         }
       ]
     },
@@ -304,8 +341,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 02时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 04时07分]"
         }
       ]
     }
