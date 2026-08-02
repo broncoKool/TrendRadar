@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T01:55:41.405307+08:00",
-  "total_titles_processed": 372,
+  "generated_at": "2026-08-03T02:57:03.290492+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时57分]"
         },
         {
           "title": "库里签约李宁，轮不到美国政客来反对",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时57分]"
         },
         {
           "title": "全球被动元器件大厂村田业绩爆发，新签订MLCC电容订单同比大增85.5%",
@@ -36,22 +36,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             19,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时57分]"
         },
         {
           "title": "伊朗外交部发言人：任何与美国合作或共谋攻击伊朗的国家将面临伊朗的正当防卫。向侵略方提供基地或军事、后勤设施的国家将被视为侵略者。",
           "url": "https://flash.jin10.com/detail/20260803005746377800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 02时57分]"
         },
         {
           "title": "伊朗外交部发言人：美国与地区部分势力合作，在霍尔木兹海峡强行开辟了一条南部航线，该航线并不安全。",
@@ -60,7 +62,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
         }
@@ -78,8 +80,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时57分]"
         },
         {
           "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
@@ -87,11 +89,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时57分]"
         },
         {
           "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
@@ -101,8 +104,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时57分]"
         }
       ]
     },
@@ -118,8 +121,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时57分]"
         },
         {
           "title": "中信建投：8月有望开启修复行情，重点关注AI算力等行业",
@@ -136,6 +139,62 @@
       ]
     },
     {
+      "keyword_group": "无人机 通航",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "俄国防部：防空力量当天在俄罗斯各地区及黑海水域上空击落了245架乌克兰无人机。",
+          "url": "https://wallstreetcn.com/livenews/3143721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时57分"
+        },
+        {
+          "title": "俄罗斯国防部：对乌克兰尼古拉耶夫港的基础设施进行了打击，并袭击了两艘向乌克兰武装部队运送补给的货船，以及一艘用于部署水下无人机的海上拖船。",
+          "url": "https://flash.jin10.com/detail/20260802230802235800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金 铜 锂 镍",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "活力中国调研行｜嘉兴桐乡走出的锂电材料巨头，要用五年再造一个自己",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33695378",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时57分]"
+        },
+        {
+          "title": "用一万斤青铜复刻曾侯乙编钟",
+          "url": "https://www.douyin.com/hot/2593260",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时56分 ~ 02时57分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "国务院 发改委 工信部 财政部 证监会",
       "match_count": 2,
       "titles": [
@@ -147,8 +206,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时57分]"
         },
         {
           "title": "证监会对多家券商开出罚单 投行业务继续严监管",
@@ -172,11 +231,12 @@
           "url": "https://www.zhihu.com/question/2067071408061129973",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时57分]"
         }
       ]
     },
@@ -193,8 +253,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时57分]"
         }
       ]
     },
@@ -210,42 +270,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "无人机 通航",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "俄罗斯国防部：对乌克兰尼古拉耶夫港的基础设施进行了打击，并袭击了两艘向乌克兰武装部队运送补给的货船，以及一艘用于部署水下无人机的海上拖船。",
-          "url": "https://flash.jin10.com/detail/20260802230802235800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "活力中国调研行｜嘉兴桐乡走出的锂电材料巨头，要用五年再造一个自己",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33695378",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时57分]"
         }
       ]
     },
@@ -261,8 +287,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时57分]"
         }
       ]
     },
@@ -278,8 +304,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时57分]"
         }
       ]
     }
