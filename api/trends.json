@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T20:51:36.312635+08:00",
-  "total_titles_processed": 1336,
+  "generated_at": "2026-08-03T23:39:34.862639+08:00",
+  "total_titles_processed": 1500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 23,
+      "match_count": 29,
       "titles": [
         {
           "title": "库里签约李宁，轮不到美国政客来反对",
@@ -30,6 +30,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时49分 ~ 04时07分]"
+        },
+        {
+          "title": "美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%",
+          "url": "https://wallstreetcn.com/articles/3778526",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
+          "title": "国产水上运动装备订单暴涨 冲浪板全球爆单",
+          "url": "https://flash.jin10.com/detail/20260803231131662800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "港交所5年期中国国债期货上市首日开盘报107元人民币。",
@@ -61,9 +83,32 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
+        },
+        {
+          "title": "莫桑比克总统：国家外科中心是莫中卫生合作重要标志",
+          "url": "https://wallstreetcn.com/livenews/3144235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
+          "title": "韩国总统府政策室长面临刑事指控，因仓促推动单一股票杠杆ETF上市",
+          "url": "https://wallstreetcn.com/articles/3778559",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 23时39分]"
         },
         {
           "title": "米哈游已经终止云南昊曦合作",
@@ -77,18 +122,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时07分 ~ 06时47分]"
-        },
-        {
-          "title": "韩国总统府政策室长面临刑事指控，因仓促推动单一股票杠杆ETF上市",
-          "url": "https://wallstreetcn.com/articles/3778559",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 20时51分]"
         },
         {
           "title": "全球被动元器件大厂村田业绩爆发，新签订MLCC电容订单同比大增85.5%",
@@ -166,7 +199,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -180,6 +213,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
+        },
+        {
+          "title": "法国CAC 40指数涨1.6%，突破2月26日所创盘中历史最高位8642.23点。",
+          "url": "https://wallstreetcn.com/livenews/3144224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "伊朗外交部发言人：美国与地区部分势力合作，在霍尔木兹海峡强行开辟了一条南部航线，该航线并不安全。",
@@ -221,9 +265,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
+        },
+        {
+          "title": "欧元区STOXX 50指数涨1.2%，突破7月6日所创盘中历史最高位。",
+          "url": "https://wallstreetcn.com/livenews/3144218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "天赐材料：三四季度需求环增明显 电解液及材料整体订单饱和",
@@ -268,12 +323,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
+        },
+        {
+          "title": "菲总统姐姐将矛头指向“美菲合作”",
+          "url": "https://www.toutiao.com/trending/7669597375518277641/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "国产大模型调用量全球领先",
@@ -330,6 +396,17 @@
           "time_info": "[04时07分 ~ 07时52分]"
         },
         {
+          "title": "DeepSeek 斩杀线",
+          "url": "https://www.baidu.com/s?wd=DeepSeek+%E6%96%A9%E6%9D%80%E7%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "豆包简直是压力全吃之人",
           "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E7%AE%80%E7%9B%B4%E6%98%AF%E5%8E%8B%E5%8A%9B%E5%85%A8%E5%90%83%E4%B9%8B%E4%BA%BA&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -340,6 +417,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时34分 ~ 17时24分]"
+        },
+        {
+          "title": "DeepSeek一天消耗了8万亿",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%B8%80%E5%A4%A9%E6%B6%88%E8%80%97%E4%BA%868%E4%B8%87%E4%BA%BF&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 23时39分]"
+        },
+        {
+          "title": "阿里Qwen3.8正式发布：总参数量2.4万亿，第三方榜单仅次于Claude",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33708536",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 23时39分]"
         },
         {
           "title": "DeepSeek模型单日吞下8万亿Token",
@@ -354,15 +455,28 @@
           "time_info": "[17时23分 ~ 20时51分]"
         },
         {
-          "title": "阿里Qwen3.8正式发布：总参数量2.4万亿，第三方榜单仅次于Claude",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33708536",
-          "source": "澎湃新闻",
+          "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
+          "url": "https://www.zhihu.com/question/2067512422555029717",
+          "source": "知乎",
           "ranks": [
-            16
+            17,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 20时51分]"
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 23时39分]"
+        },
+        {
+          "title": "MiniMax H3正式开源",
+          "url": "https://search.bilibili.com/all?keyword=MiniMax%20H3%E6%AD%A3%E5%BC%8F%E5%BC%80%E6%BA%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 23时39分]"
         },
         {
           "title": "MiniMax H3满血版开源",
@@ -371,40 +485,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
-        },
-        {
-          "title": "DeepSeek一天消耗了8万亿",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%B8%80%E5%A4%A9%E6%B6%88%E8%80%97%E4%BA%868%E4%B8%87%E4%BA%BF&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
-        },
-        {
-          "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
-          "url": "https://www.zhihu.com/question/2067512422555029717",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
-        },
-        {
-          "title": "MiniMax H3正式开源",
-          "url": "https://search.bilibili.com/all?keyword=MiniMax%20H3%E6%AD%A3%E5%BC%8F%E5%BC%80%E6%BA%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -426,7 +507,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         }
@@ -434,7 +515,7 @@
     },
     {
       "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "活力中国调研行｜嘉兴桐乡走出的锂电材料巨头，要用五年再造一个自己",
@@ -475,24 +556,24 @@
           "time_info": "[09时55分 ~ 13时34分]"
         },
         {
-          "title": "加息预期压顶，黄金震荡区间来回拉锯，多头还有机会吗？金十研究员Steven正在直播，立即观看>><font class=\"important-text\"></font>",
-          "url": "https://flash.jin10.com/detail/20260803204052712800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
-        },
-        {
           "title": "穿山跨海的“黄金大外环”要来了",
           "url": "https://www.baidu.com/s?wd=%E7%A9%BF%E5%B1%B1%E8%B7%A8%E6%B5%B7%E7%9A%84%E2%80%9C%E9%BB%84%E9%87%91%E5%A4%A7%E5%A4%96%E7%8E%AF%E2%80%9D%E8%A6%81%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 23时39分]"
+        },
+        {
+          "title": "加息预期压顶，黄金震荡区间来回拉锯，多头还有机会吗？金十研究员Steven正在直播，立即观看>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260803204052712800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -531,13 +612,24 @@
           "time_info": "06时47分"
         },
         {
+          "title": "铜正以至少十二年来的最快速度涌入美国",
+          "url": "https://wallstreetcn.com/livenews/3144225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "技术刘Pro：黄金筹码呈单峰分布，交投重心较为集中",
           "url": "https://flash.jin10.com/detail/20260803203021277800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -645,7 +737,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -697,7 +789,7 @@
     },
     {
       "keyword_group": "无人机 通航",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "韩军方：险些误击美军无人机",
@@ -706,9 +798,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 23时39分]"
         },
         {
           "title": "俄国防部：防空力量当天在俄罗斯各地区及黑海水域上空击落了245架乌克兰无人机。",
@@ -745,6 +837,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "消息人士称，俄罗斯卢克石油公司伏尔加格勒炼油厂在7月31日遭遇无人机袭击后已暂停炼油作业。",
+          "url": "https://flash.jin10.com/detail/20260803230138749800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "据CNN援引航运消息人士报道称，尽管伊朗无人机不时发动袭击，但每天仍有300万至500万桶原油通过阿曼附近的南部航道流出波斯湾。红海航运仍保持相对稳定。据MarineTraffic数据，周日有34艘船只通过曼德海峡。",
@@ -812,11 +915,12 @@
           "url": "https://news.ifeng.com/c/8vIB8euHQxb",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 23时39分]"
         },
         {
           "title": "印尼官员表示，稀土出口政策已明确，禁令仅适用于单一产品。不含稀土的矿物出口已于周日起恢复。",
@@ -836,7 +940,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         }
@@ -927,7 +1031,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -950,9 +1054,48 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple iPhone",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "iPhone要涨价了 最高或涨1350元",
+          "url": "https://www.baidu.com/s?wd=iPhone%E8%A6%81%E6%B6%A8%E4%BB%B7%E4%BA%86+%E6%9C%80%E9%AB%98%E6%88%96%E6%B6%A81350%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
+        },
+        {
+          "title": "据英国金融时报报道，苹果公司开始从法律层面反击英国最新的“Backdoor”命令。",
+          "url": "https://wallstreetcn.com/livenews/3144220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
+          "title": "罗正一年花170元146给了苹果",
+          "url": "https://s.weibo.com/weibo?q=%E7%BD%97%E6%AD%A3%E4%B8%80%E5%B9%B4%E8%8A%B1170%E5%85%83146%E7%BB%99%E4%BA%86%E8%8B%B9%E6%9E%9C&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         }
       ]
     },
@@ -989,7 +1132,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         }
@@ -1006,7 +1149,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -1056,11 +1199,12 @@
           "url": "https://www.zhihu.com/question/2062848132044607495",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 23时39分]"
         }
       ]
     },
@@ -1086,11 +1230,12 @@
           "source": "抖音",
           "ranks": [
             7,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 20时51分]"
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 23时39分]"
         }
       ]
     },
@@ -1116,11 +1261,12 @@
           "url": "https://www.cls.cn/detail/2444236",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 23时39分]"
         }
       ]
     },
@@ -1146,7 +1292,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         }
@@ -1180,7 +1326,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         }
@@ -1214,26 +1360,9 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple iPhone",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "iPhone要涨价了 最高或涨1350元",
-          "url": "https://www.baidu.com/s?wd=iPhone%E8%A6%81%E6%B6%A8%E4%BB%B7%E4%BA%86+%E6%9C%80%E9%AB%98%E6%88%96%E6%B6%A81350%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时24分]"
         }
       ]
     },
