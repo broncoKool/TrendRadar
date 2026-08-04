@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T06:54:17.421697+08:00",
-  "total_titles_processed": 531,
+  "generated_at": "2026-08-05T07:56:49.691928+08:00",
+  "total_titles_processed": 624,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上一交易日增加3.423吨，当前持仓量为1009.297吨。",
@@ -14,9 +14,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
+        },
+        {
+          "title": "【早报】美股半导体、存储、光通信，集体爆发；油价大跌、黄金走强；SpaceX、AMD财报出炉；大基金三期出手！入股正芯半导体",
+          "url": "https://www.cls.cn/detail/2445802",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
         },
         {
           "title": "现货黄金向上触及4100美元/盎司，日内涨1.11%。",
@@ -148,9 +159,124 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 鸿蒙 HarmonyOS 鸿蒙NEXT",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "鸿蒙智行否认封杀竹知了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356778&amp;topic_name=%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%90%A6%E8%AE%A4%E5%B0%81%E6%9D%80%E7%AB%B9%E7%9F%A5%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 07时56分]"
+        },
+        {
+          "title": "鸿蒙智行回应“竹知了”事件",
+          "url": "https://www.baidu.com/s?wd=%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%9B%9E%E5%BA%94%E2%80%9C%E7%AB%B9%E7%9F%A5%E4%BA%86%E2%80%9D%E4%BA%8B%E4%BB%B6",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 07时56分]"
+        },
+        {
+          "title": "鸿蒙智行回应竹知了事件",
+          "url": "https://search.bilibili.com/all?keyword=%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%9B%9E%E5%BA%94%E7%AB%B9%E7%9F%A5%E4%BA%86%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 07时56分]"
+        },
+        {
+          "title": "鸿蒙智行回应竹知了事件",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%9B%9E%E5%BA%94%E7%AB%B9%E7%9F%A5%E4%BA%86%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            4,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 07时56分]"
+        },
+        {
+          "title": "鸿蒙智行回应“竹知了”争议",
+          "url": "https://www.toutiao.com/trending/7669737948003794994/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 07时56分]"
+        },
+        {
+          "title": "鸿蒙智行回应“竹知了”事件",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33715905",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 07时56分]"
+        },
+        {
+          "title": "鸿蒙智行针对侵权内容并非玩具",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E9%92%88%E5%AF%B9%E4%BE%B5%E6%9D%83%E5%86%85%E5%AE%B9%E5%B9%B6%E9%9D%9E%E7%8E%A9%E5%85%B7%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时31分 ~ 06时54分]"
+        },
+        {
+          "title": "鸿蒙智行：“竹知了”相关投诉均有明确侵权事实，不存在仅为正常制作展示内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33713612",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "胡锡进说鸿蒙智行声明值得一读",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%B4%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%A3%B0%E6%98%8E%E5%80%BC%E5%BE%97%E4%B8%80%E8%AF%BB%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时31分"
         }
       ]
     },
@@ -164,11 +290,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时31分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 07时56分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨超5%，AI应用持续活跃，算力硬件卷土重来",
@@ -180,30 +307,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时31分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 07时56分]"
         },
         {
           "title": "Anthropic再豪掷100亿美元锁定算力，英伟达支持的新贵接单",
           "url": "https://wallstreetcn.com/articles/3778669",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时03分 ~ 06时54分]"
+          "appearance_count": 5,
+          "time_info": "[05时03分 ~ 07时56分]"
         },
         {
           "title": "英伟达美股盘后涨2%，马斯克此前在电话会上谈及SpaceX算力计划。",
           "url": "https://wallstreetcn.com/livenews/3144976",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时56分]"
         },
         {
           "title": "AMD的CEO苏姿丰在分析师电话会议上预计，数据中心销售将在2027年翻倍。 公司将于2027年推出机架级产品，配备MI500 GPU、Verano CPU、Pensando网络技术，并同时采用铜缆和光纤扩展域。 公司预计将超过2025年金融分析师日提出的年度每股收益20美元的目标。",
@@ -212,7 +341,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
         },
@@ -252,98 +381,173 @@
       ]
     },
     {
-      "keyword_group": "华为 鸿蒙 HarmonyOS 鸿蒙NEXT",
+      "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
       "match_count": 8,
       "titles": [
         {
-          "title": "鸿蒙智行回应“竹知了”事件",
-          "url": "https://www.baidu.com/s?wd=%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%9B%9E%E5%BA%94%E2%80%9C%E7%AB%B9%E7%9F%A5%E4%BA%86%E2%80%9D%E4%BA%8B%E4%BB%B6",
-          "source": "百度热搜",
+          "title": "恐怖电影《痴迷》中国内地票房突破 1 亿，已成影史最赚钱的电影之一，如何评价这一成绩？",
+          "url": "https://www.zhihu.com/question/2067544727931417556",
+          "source": "知乎",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时31分 ~ 06时54分]"
-        },
-        {
-          "title": "鸿蒙智行否认封杀竹知了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356778&amp;topic_name=%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%90%A6%E8%AE%A4%E5%B0%81%E6%9D%80%E7%AB%B9%E7%9F%A5%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时31分 ~ 06时54分]"
-        },
-        {
-          "title": "鸿蒙智行回应“竹知了”争议",
-          "url": "https://www.toutiao.com/trending/7669737948003794994/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时31分 ~ 06时54分]"
-        },
-        {
-          "title": "鸿蒙智行回应竹知了事件",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%9B%9E%E5%BA%94%E7%AB%B9%E7%9F%A5%E4%BA%86%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
+            5,
             4,
-            5
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时31分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 07时56分]"
         },
         {
-          "title": "鸿蒙智行回应竹知了事件",
-          "url": "https://search.bilibili.com/all?keyword=%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%9B%9E%E5%BA%94%E7%AB%B9%E7%9F%A5%E4%BA%86%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
+          "title": "人民日报钟声：中美经贸需要“合作清单”，而非“覆盖清单”",
+          "url": "https://wallstreetcn.com/livenews/3145004",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时31分 ~ 06时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
         },
         {
-          "title": "鸿蒙智行回应“竹知了”事件",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33715905",
-          "source": "澎湃新闻",
+          "title": "近九成实现盈利，非上市人身险公司上半年合计净利润倍增",
+          "url": "https://wallstreetcn.com/livenews/3144986",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            11
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时56分]"
+        },
+        {
+          "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778691",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "7月以来多款分红险新品上市，险企产品竞争从“拼数字”转向“拼投资”",
+          "url": "https://wallstreetcn.com/livenews/3144996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "法兰克福上市的诺和诺德股价在第二季度业绩公布后下跌6.6%。",
+          "url": "https://flash.jin10.com/detail/20260805005226009800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        },
+        {
+          "title": "Anthropic：在我们开展内部调查期间，正与英国人工智能安全研究所（AISI）密切合作，收集这起事件的更多细节。 目前没有证据表明存在从安全环境中逃脱的情况。",
+          "url": "https://wallstreetcn.com/livenews/3144966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        },
+        {
+          "title": "OpenAI模型在第三方网络测试中突破安全边界",
+          "url": "https://wallstreetcn.com/livenews/3144962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "光模块 CPO 800G 1.6T AEC DAC 高速铜缆",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美国被曝拟禁止进口中国新型号光模块",
+          "url": "https://news.ifeng.com/c/8vK6uTVFhXh",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 07时56分]"
+        },
+        {
+          "title": "光模块",
+          "url": "https://s.weibo.com/weibo?q=%E5%85%89%E6%A8%A1%E5%9D%97&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            17,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 07时56分]"
+        },
+        {
+          "title": "美拟禁新型光模块草案",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E6%8B%9F%E7%A6%81%E6%96%B0%E5%9E%8B%E5%85%89%E6%A8%A1%E5%9D%97%E8%8D%89%E6%A1%88&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            19,
+            24,
+            26
           ],
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时31分 ~ 06时54分]"
         },
         {
-          "title": "鸿蒙智行针对侵权内容并非玩具",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E9%92%88%E5%AF%B9%E4%BE%B5%E6%9D%83%E5%86%85%E5%AE%B9%E5%B9%B6%E9%9D%9E%E7%8E%A9%E5%85%B7%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
+          "title": "曝美拟禁止进口中国新型号光模块",
+          "url": "https://www.toutiao.com/trending/7670122182718881846/",
+          "source": "今日头条",
           "ranks": [
-            21,
-            28,
-            30
+            1
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时31分 ~ 06时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
         },
         {
-          "title": "胡锡进说鸿蒙智行声明值得一读",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%B4%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%A3%B0%E6%98%8E%E5%80%BC%E5%BE%97%E4%B8%80%E8%AF%BB%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
+          "title": "曝美拟禁止进口中国新型号光模块",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%BE%8E%E6%8B%9F%E7%A6%81%E6%AD%A2%E8%BF%9B%E5%8F%A3%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%9E%8B%E5%8F%B7%E5%85%89%E6%A8%A1%E5%9D%97",
+          "source": "百度热搜",
           "ranks": [
-            17
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "光通信概念股普遍上涨，其中，光模块与光器件供应商Lumentum涨超10.5%，高意公司/相干公司Coherent重新涨超14%，Applied Optoelectronics涨超20%，Fabrinet涨幅重新扩大至约16%。 光通信芯片供应商博通涨超5.2%，迈威尔科技/美满电子涨约13%，MACOM Technology一度涨超6%，Credo Technology Group重新涨超7%。 网络设备与系统供应商思科涨幅重新扩大至4%，Ciena涨幅重新扩大至6.4%。 光纤缆线与基础连接供应商康宁公司Corning涨幅重新扩大至6.7%。",
+          "url": "https://wallstreetcn.com/livenews/3144864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -353,7 +557,7 @@
     },
     {
       "keyword_group": "HBM DDR5 存储芯片",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "存储芯片超级周期走到十字路口？",
@@ -385,7 +589,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
         },
@@ -410,6 +614,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "美股存储芯片指数收涨超6.7%，闪迪、泰瑞达涨超10%，超大规模云服务商板块四天涨约16%",
+          "url": "https://wallstreetcn.com/livenews/3144978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
         }
       ]
     },
@@ -424,11 +639,12 @@
           "ranks": [
             12,
             11,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时31分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 07时56分]"
         },
         {
           "title": "美国国务院高级官员：驻华盛顿的巴西高级外交官签证已被吊销。若情况得到解决，将恢复该签证。",
@@ -477,65 +693,68 @@
       ]
     },
     {
-      "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
+      "keyword_group": "免税 旅游 酒店 餐饮",
       "match_count": 5,
       "titles": [
         {
-          "title": "恐怖电影《痴迷》中国内地票房突破 1 亿，已成影史最赚钱的电影之一，如何评价这一成绩？",
-          "url": "https://www.zhihu.com/question/2067544727931417556",
-          "source": "知乎",
+          "title": "“餐饮业一夜间再无大师”，中国烹饪协会回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33712250",
+          "source": "澎湃新闻",
           "ranks": [
-            5,
+            3,
             4,
-            2
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 07时56分]"
+        },
+        {
+          "title": "上海维也纳酒店客房遍布床虱，酒店反问为何不自行检查，卫生监督所称将立案处罚，谁的责任？床虱有哪些风险？",
+          "url": "https://www.zhihu.com/question/2067904199212232854",
+          "source": "知乎",
+          "ranks": [
+            1,
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 07时56分]"
+        },
+        {
+          "title": "上海多区推出消费券，涵盖夜间经济、机场免税等多个场景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33715762",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时53分 ~ 07时56分]"
+        },
+        {
+          "title": "住酒店被蚊子咬墙皮砸头索赔5千元",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%8F%E9%85%92%E5%BA%97%E8%A2%AB%E8%9A%8A%E5%AD%90%E5%92%AC%E5%A2%99%E7%9A%AE%E7%A0%B8%E5%A4%B4%E7%B4%A2%E8%B5%945%E5%8D%83%E5%85%83%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
           "time_info": "[01时31分 ~ 06时54分]"
         },
         {
-          "title": "近九成实现盈利，非上市人身险公司上半年合计净利润倍增",
-          "url": "https://wallstreetcn.com/livenews/3144986",
-          "source": "华尔街见闻-快讯",
+          "title": "地方餐饮协会加速清理“名厨”“名店”：线下门店须摘除销毁荣誉牌匾",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33716153",
+          "source": "澎湃新闻",
           "ranks": [
-            4
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
-          "title": "法兰克福上市的诺和诺德股价在第二季度业绩公布后下跌6.6%。",
-          "url": "https://flash.jin10.com/detail/20260805005226009800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "Anthropic：在我们开展内部调查期间，正与英国人工智能安全研究所（AISI）密切合作，收集这起事件的更多细节。 目前没有证据表明存在从安全环境中逃脱的情况。",
-          "url": "https://wallstreetcn.com/livenews/3144966",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
-          "title": "OpenAI模型在第三方网络测试中突破安全边界",
-          "url": "https://wallstreetcn.com/livenews/3144962",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时54分"
+          "time_info": "07时56分"
         }
       ]
     },
@@ -551,8 +770,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时31分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 07时56分]"
         },
         {
           "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
@@ -593,71 +812,14 @@
       ]
     },
     {
-      "keyword_group": "光模块 CPO 800G 1.6T AEC DAC 高速铜缆",
+      "keyword_group": "商业航天 火箭 卫星互联网 北斗",
       "match_count": 4,
       "titles": [
         {
-          "title": "美国被曝拟禁止进口中国新型号光模块",
-          "url": "https://news.ifeng.com/c/8vK6uTVFhXh",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时31分 ~ 06时54分]"
-        },
-        {
-          "title": "美拟禁新型光模块草案",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E6%8B%9F%E7%A6%81%E6%96%B0%E5%9E%8B%E5%85%89%E6%A8%A1%E5%9D%97%E8%8D%89%E6%A1%88&t=31&band_rank=13&Refer=top",
+          "title": "卫星互联网低轨23组卫星发射成功",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91%E4%BD%8E%E8%BD%A823%E7%BB%84%E5%8D%AB%E6%98%9F%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
           "ranks": [
-            13,
-            19,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时31分 ~ 06时54分]"
-        },
-        {
-          "title": "光模块",
-          "url": "https://s.weibo.com/weibo?q=%E5%85%89%E6%A8%A1%E5%9D%97&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            17,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时31分 ~ 06时54分]"
-        },
-        {
-          "title": "光通信概念股普遍上涨，其中，光模块与光器件供应商Lumentum涨超10.5%，高意公司/相干公司Coherent重新涨超14%，Applied Optoelectronics涨超20%，Fabrinet涨幅重新扩大至约16%。 光通信芯片供应商博通涨超5.2%，迈威尔科技/美满电子涨约13%，MACOM Technology一度涨超6%，Credo Technology Group重新涨超7%。 网络设备与系统供应商思科涨幅重新扩大至4%，Ciena涨幅重新扩大至6.4%。 光纤缆线与基础连接供应商康宁公司Corning涨幅重新扩大至6.7%。",
-          "url": "https://wallstreetcn.com/livenews/3144864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "免税 旅游 酒店 餐饮",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "上海维也纳酒店客房遍布床虱，酒店反问为何不自行检查，卫生监督所称将立案处罚，谁的责任？床虱有哪些风险？",
-          "url": "https://www.zhihu.com/question/2067904199212232854",
-          "source": "知乎",
-          "ranks": [
-            1,
             3
           ],
           "is_new": false,
@@ -665,39 +827,41 @@
           "time_info": "[01时31分 ~ 06时54分]"
         },
         {
-          "title": "“餐饮业一夜间再无大师”，中国烹饪协会回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33712250",
-          "source": "澎湃新闻",
+          "title": "卫星互联网低轨23组卫星发射成功",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91%E4%BD%8E%E8%BD%A823%E7%BB%84%E5%8D%AB%E6%98%9F%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F",
+          "source": "bilibili 热搜",
           "ranks": [
             3,
-            4,
-            5
+            2,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时31分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 07时56分]"
         },
         {
-          "title": "住酒店被蚊子咬墙皮砸头索赔5千元",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%8F%E9%85%92%E5%BA%97%E8%A2%AB%E8%9A%8A%E5%AD%90%E5%92%AC%E5%A2%99%E7%9A%AE%E7%A0%B8%E5%A4%B4%E7%B4%A2%E8%B5%945%E5%8D%83%E5%85%83%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
+          "title": "长八甲火箭升级后首次验证飞行",
+          "url": "https://www.douyin.com/hot/2597514",
+          "source": "抖音",
           "ranks": [
-            28
+            19,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时31分 ~ 06时54分]"
+          "time_info": "[06时53分 ~ 07时56分]"
         },
         {
-          "title": "上海多区推出消费券，涵盖夜间经济、机场免税等多个场景",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33715762",
-          "source": "澎湃新闻",
+          "title": "Meta盯上卫星通信！商业航天概念股趁势起飞",
+          "url": "https://www.cls.cn/detail/2445721",
+          "source": "财联社热门",
           "ranks": [
-            19
+            12
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时53分 ~ 06时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
         }
       ]
     },
@@ -741,49 +905,8 @@
       ]
     },
     {
-      "keyword_group": "商业航天 火箭 卫星互联网 北斗",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "卫星互联网低轨23组卫星发射成功",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91%E4%BD%8E%E8%BD%A823%E7%BB%84%E5%8D%AB%E6%98%9F%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时31分 ~ 06时54分]"
-        },
-        {
-          "title": "卫星互联网低轨23组卫星发射成功",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91%E4%BD%8E%E8%BD%A823%E7%BB%84%E5%8D%AB%E6%98%9F%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时31分 ~ 06时54分]"
-        },
-        {
-          "title": "长八甲火箭升级后首次验证飞行",
-          "url": "https://www.douyin.com/hot/2597514",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时53分 ~ 06时54分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "Robotaxi 无人驾驶 自动驾驶 智能驾驶 NOA",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "L3、L4级自动驾驶“强标”明年7月实施 明确安全主体责任、接管机制",
@@ -791,11 +914,12 @@
           "source": "财联社热门",
           "ranks": [
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时31分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 07时56分]"
         },
         {
           "title": "《智能网联汽车 自动驾驶系统安全要求》强制性国家标准正式发布",
@@ -807,6 +931,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时31分 ~ 05时04分]"
+        },
+        {
+          "title": "自动驾驶系统安全强制性国标发布",
+          "url": "https://www.douyin.com/hot/2597328",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
         }
       ]
     },
@@ -850,11 +985,12 @@
           "ranks": [
             3,
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时31分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 07时56分]"
         }
       ]
     },
@@ -885,11 +1021,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E4%BA%BA%E7%B1%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            29
+            29,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时53分 ~ 06时54分]"
+          "appearance_count": 3,
+          "time_info": "[06时53分 ~ 07时56分]"
         }
       ]
     }
