@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-06T07:52:06.762757+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2026-08-06T09:44:12.408303+08:00",
+  "total_titles_processed": 750,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "SpaceX暴跌13%拖累科技板块，标普纳指高位回调，黄金飙涨4%，原油冲高回落",
+          "url": "https://wallstreetcn.com/articles/3778704",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时12分 ~ 09时44分]"
+        },
         {
           "title": "美国 7 月囤 20 万吨精炼铜，美国为啥热衷抢铜？会对全球产业链产生什么影响？",
           "url": "https://www.zhihu.com/question/2068000098995402303",
@@ -35,15 +46,17 @@
           "time_info": "[01时21分 ~ 04时59分]"
         },
         {
-          "title": "SpaceX暴跌13%拖累科技板块，标普纳指高位回调，黄金飙涨4%，原油冲高回落",
-          "url": "https://wallstreetcn.com/articles/3778704",
+          "title": "突破4200美元阻力位！黄金“重置”完成，或迎来数月来最佳上涨窗口",
+          "url": "https://wallstreetcn.com/articles/3778759",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            10,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时12分 ~ 07时52分]"
+          "appearance_count": 5,
+          "time_info": "[06时12分 ~ 09时44分]"
         },
         {
           "title": "多国运回存在美国的黄金",
@@ -86,16 +99,15 @@
           "time_info": "[01时22分 ~ 03时16分]"
         },
         {
-          "title": "突破4200美元阻力位！黄金“重置”完成，或迎来数月来最佳上涨窗口",
-          "url": "https://wallstreetcn.com/articles/3778759",
-          "source": "华尔街见闻",
+          "title": "现货黄金突破4300美元",
+          "url": "https://www.toutiao.com/trending/7670717450970730025/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            6
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时12分 ~ 07时52分]"
+          "appearance_count": 2,
+          "time_info": "[09时43分 ~ 09时44分]"
         },
         {
           "title": "美股大类资产类ETF多数下跌，纳指100 ETF跌0.9%，黄金ETF涨超4.1%",
@@ -108,6 +120,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时59分 ~ 06时12分]"
+        },
+        {
+          "title": "最近你买黄金了没",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%80%E8%BF%91%E4%BD%A0%E4%B9%B0%E9%BB%84%E9%87%91%E4%BA%86%E6%B2%A1%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时43分 ~ 09时44分]"
+        },
+        {
+          "title": "黄金价格是否已经出现底部信号",
+          "url": "https://www.toutiao.com/trending/7670703383359000107/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时43分 ~ 09时44分]"
         },
         {
           "title": "加纳央行黄金采购计划2025年亏损19亿美元",
@@ -127,9 +161,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "A股贵金属板块逆势大涨，金一文化2连板，盛达资源接近涨停，晓程科技涨近10%，四川黄金、招金黄金、赤峰黄金、山金国际、中金黄金等纷纷高开。",
+          "url": "https://wallstreetcn.com/livenews/3145713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
         },
         {
           "title": "锂电企业下半年排产预期强劲",
@@ -138,7 +183,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -168,7 +213,7 @@
     },
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
@@ -188,7 +233,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -199,9 +244,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "中国央行：今日开展10亿元7天逆回购操作，投标量10亿元，中标量10亿元，操作利率为1.40%，与此前持平。",
+          "url": "https://flash.jin10.com/detail/20260806092044982800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
         },
         {
           "title": "人民日报：中美经贸需要“合作清单”，而非“覆盖清单”",
@@ -213,6 +269,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时51分 ~ 07时52分]"
+        },
+        {
+          "title": "【数读IPO】哈啰、青桔、美团背后的 “自行车代工龙头”今日上市",
+          "url": "https://www.cls.cn/detail/2446849",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时43分 ~ 09时44分]"
+        },
+        {
+          "title": "WTI原油突破75美元/桶，日内涨0.91%。",
+          "url": "https://flash.jin10.com/detail/20260806091743267800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
         },
         {
           "title": "微软的AI销售主要源自OpenAI，凸显对紧密合作伙伴的依赖程度",
@@ -232,7 +310,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -246,6 +324,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "现货钯金突破1400美元/盎司，日内涨2.12%。",
+          "url": "https://flash.jin10.com/detail/20260806090831275800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
         },
         {
           "title": "微软AI收入过半来自OpenAI 显示对合作伙伴依赖仍较高",
@@ -287,6 +376,17 @@
           "time_info": "[01时21分 ~ 06时12分]"
         },
         {
+          "title": "鸿蒙智行否认封杀竹知了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356778&amp;topic_name=%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%90%A6%E8%AE%A4%E5%B0%81%E6%9D%80%E7%AB%B9%E7%9F%A5%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 09时44分]"
+        },
+        {
           "title": "华为新款折叠屏电脑24999元起",
           "url": "https://www.toutiao.com/trending/7669720941584498729/",
           "source": "今日头条",
@@ -314,17 +414,6 @@
           "time_info": "[01时21分 ~ 07时52分]"
         },
         {
-          "title": "鸿蒙智行否认封杀竹知了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356778&amp;topic_name=%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%90%A6%E8%AE%A4%E5%B0%81%E6%9D%80%E7%AB%B9%E7%9F%A5%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 07时52分]"
-        },
-        {
           "title": "余承东：鸿蒙智行至今保持零燃烧事故",
           "url": "https://www.toutiao.com/trending/7670179217723850758/",
           "source": "今日头条",
@@ -344,11 +433,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             22,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时12分 ~ 07时52分]"
+          "appearance_count": 5,
+          "time_info": "[06时12分 ~ 09时44分]"
         }
       ]
     },
@@ -365,8 +455,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 07时52分]"
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 09时44分]"
         },
         {
           "title": "长鑫拒绝苹果压价，要求内存采购价不低于三星和 SK 海力士，是否意味议价权彻底反转？可能有哪些影响？",
@@ -378,8 +468,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时16分 ~ 07时52分]"
+          "appearance_count": 7,
+          "time_info": "[03时16分 ~ 09时44分]"
         },
         {
           "title": "烂苹果立功,果菌王第八代来了",
@@ -389,19 +479,20 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 07时52分]"
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 09时44分]"
         },
         {
           "title": "【早报】2家存储巨头，公布业绩；SpaceX，市值蒸发1.5万亿元；黄金大涨、原油下跌；长鑫拒绝苹果压价",
           "url": "https://www.cls.cn/detail/2446843",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时51分 ~ 07时52分]"
+          "appearance_count": 4,
+          "time_info": "[07时51分 ~ 09时44分]"
         },
         {
           "title": "苹果要求长鑫降价反遭涨价",
@@ -457,6 +548,18 @@
           "time_info": "[01时21分 ~ 06时12分]"
         },
         {
+          "title": "普京宣布组建新兵种应对乌无人机进攻",
+          "url": "https://www.toutiao.com/trending/7670581884052635694/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时51分 ~ 09时44分]"
+        },
+        {
           "title": "商务部：加强无人机相关两用物项对美国出口管制，如美方执意出台新的对华限制性措施，中方将进一步反制",
           "url": "https://wallstreetcn.com/articles/3778739",
           "source": "华尔街见闻",
@@ -467,17 +570,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时21分 ~ 07时52分]"
-        },
-        {
-          "title": "普京宣布组建新兵种应对乌无人机进攻",
-          "url": "https://www.toutiao.com/trending/7670581884052635694/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时51分 ~ 07时52分]"
         },
         {
           "title": "俄称一天内击落超1000架乌无人机",
@@ -517,8 +609,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 07时52分]"
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 09时44分]"
+        },
+        {
+          "title": "【焦点复盘】AI硬件端持续回暖，科创50指数连续2日涨逾4%，光模块龙头5日内2度刷新历史天量",
+          "url": "https://www.cls.cn/detail/2446407",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 09时44分]"
         },
         {
           "title": "单日成交675亿元！CPO龙头创天量纪录，TMT成交占比再近50%",
@@ -533,27 +637,54 @@
           "time_info": "[01时21分 ~ 07时52分]"
         },
         {
-          "title": "【焦点复盘】AI硬件端持续回暖，科创50指数连续2日涨逾4%，光模块龙头5日内2度刷新历史天量",
-          "url": "https://www.cls.cn/detail/2446407",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 07时52分]"
-        },
-        {
           "title": "上证报：需求旺盛景气度高，光模块“噪音”影响有限",
           "url": "https://wallstreetcn.com/livenews/3145636",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "一图看懂｜多家A股公司，跨界算力签大单",
+          "url": "https://www.cls.cn/detail/2446404",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时21分 ~ 07时52分]"
+        },
+        {
+          "title": "加量又加价，算力产业服务大单不断",
+          "url": "https://wallstreetcn.com/livenews/3145638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
+          "title": "英伟达急寻中国AI基站供应商，明后年启动端侧算力组网",
+          "url": "https://flash.jin10.com/detail/20260806090656072800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
         }
       ]
     },
@@ -584,8 +715,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 07时52分]"
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 09时44分]"
         },
         {
           "title": "女子旅游错把丧葬品当纪念品买下",
@@ -594,39 +725,12 @@
           "ranks": [
             12,
             6,
-            7
+            7,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 07时52分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "一图看懂｜多家A股公司，跨界算力签大单",
-          "url": "https://www.cls.cn/detail/2446404",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 07时52分]"
-        },
-        {
-          "title": "加量又加价，算力产业服务大单不断",
-          "url": "https://wallstreetcn.com/livenews/3145638",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时52分"
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 09时44分]"
         }
       ]
     },
@@ -641,11 +745,12 @@
           "ranks": [
             21,
             17,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 07时52分]"
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 09时44分]"
         },
         {
           "title": "Seedance2.5满血版",
@@ -693,6 +798,23 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "恒指低开0.96%，报25667.14点；恒生科技指数跌0.99%。华虹宏力跌超3%，智谱跌近3%，中芯国际、联想集团、蔚来、百度等跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3145702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "HBM DDR5 存储芯片",
       "match_count": 1,
       "titles": [
@@ -722,8 +844,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 07时52分]"
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 09时44分]"
         }
       ]
     },
@@ -747,6 +869,23 @@
       ]
     },
     {
+      "keyword_group": "Robotaxi 无人驾驶 自动驾驶 智能驾驶 NOA",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "高级别自动驾驶离我们有多远",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E7%BA%A7%E5%88%AB%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%A6%BB%E6%88%91%E4%BB%AC%E6%9C%89%E5%A4%9A%E8%BF%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时43分 ~ 09时44分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "海上风电 风电",
       "match_count": 1,
       "titles": [
@@ -757,7 +896,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         }
@@ -796,6 +935,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时21分 ~ 06时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "稀土 锗 镓 锑 钨",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "唐驳虎：俄盯上中国稀土精炼技术",
+          "url": "https://www.toutiao.com/trending/7670406094615314438/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时43分 ~ 09时44分]"
         }
       ]
     },
