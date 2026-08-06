@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-08-06T15:37:08.388194+08:00",
-  "total_titles_processed": 1096,
+  "generated_at": "2026-08-06T18:30:30.290051+08:00",
+  "total_titles_processed": 1276,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 25,
+      "match_count": 31,
       "titles": [
         {
           "title": "SpaceX暴跌13%拖累科技板块，标普纳指高位回调，黄金飙涨4%，原油冲高回落",
           "url": "https://wallstreetcn.com/articles/3778704",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时12分 ~ 15时37分]"
+          "appearance_count": 10,
+          "time_info": "[06时12分 ~ 18时30分]"
         },
         {
           "title": "突破4200美元阻力位！黄金“重置”完成，或迎来数月来最佳上涨窗口",
@@ -25,11 +26,12 @@
           "ranks": [
             10,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时12分 ~ 15时37分]"
+          "appearance_count": 10,
+          "time_info": "[06时12分 ~ 18时30分]"
         },
         {
           "title": "美国 7 月囤 20 万吨精炼铜，美国为啥热衷抢铜？会对全球产业链产生什么影响？",
@@ -64,11 +66,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 15时37分]"
+          "appearance_count": 5,
+          "time_info": "[12时58分 ~ 18时30分]"
         },
         {
           "title": "现货黄金突破4300美元关口",
@@ -123,6 +126,17 @@
           "time_info": "[01时22分 ~ 03时16分]"
         },
         {
+          "title": "一图看懂 | 金价刚突破4300美元关口，黄金股早已悄悄涨了30%",
+          "url": "https://www.cls.cn/detail/2447296",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时30分]"
+        },
+        {
           "title": "现货黄金突破4300美元",
           "url": "https://www.toutiao.com/trending/7670717450970730025/",
           "source": "今日头条",
@@ -132,6 +146,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时43分 ~ 09时44分]"
+        },
+        {
+          "title": "单日大涨4%！黄金是隔夜市场“最亮的资产”",
+          "url": "https://wallstreetcn.com/articles/3778799",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时30分]"
         },
         {
           "title": "美股大类资产类ETF多数下跌，纳指100 ETF跌0.9%，黄金ETF涨超4.1%",
@@ -144,6 +169,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时59分 ~ 06时12分]"
+        },
+        {
+          "title": "黄金单日暴涨188美元：宏观只是导火索，逼空才是主角",
+          "url": "https://wallstreetcn.com/articles/3778800",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时30分]"
         },
         {
           "title": "最近你买黄金了没",
@@ -207,7 +243,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         },
@@ -229,7 +265,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         },
@@ -262,7 +298,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         },
@@ -276,6 +312,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "非洲黄金霸主强势“倒卖”黄金！一年赔19亿美元也要干",
+          "url": "https://flash.jin10.com/detail/20260806174433201800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
+        {
+          "title": "LME三个月期铜上涨至14,297美元/吨，创1月29日以来最高水平，现涨1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3145945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
         },
         {
           "title": "黎彼得：从香港街头写进港乐黄金时代",
@@ -298,12 +356,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
+        },
+        {
+          "title": "据路透，刚果（金）禁止出口铜精矿和钴精矿。刚果（金）将根据新制度，采用55%的估值系数对具有重要经济价值的采矿副产品征税。新税收框架将在三个月后生效，但矿企必须立即在出口申报中列明副产品。",
+          "url": "https://wallstreetcn.com/livenews/3145940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
         }
       ]
     },
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
@@ -334,7 +403,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         },
@@ -445,7 +514,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         },
@@ -459,6 +528,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
+        },
+        {
+          "title": "机构：全球功率器件市场预计2031年将突破413亿美元",
+          "url": "https://flash.jin10.com/detail/20260806174701474800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
         },
         {
           "title": "微软AI收入过半来自OpenAI 显示对合作伙伴依赖仍较高",
@@ -505,6 +585,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "全国首个银行业数据出境负面清单备案落地北京CBD",
+          "url": "https://wallstreetcn.com/livenews/3145943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
+        {
           "title": "滴滴旗下99与巴西汽车租赁企业Movida签署合作协议",
           "url": "https://wallstreetcn.com/livenews/3145763",
           "source": "华尔街见闻-快讯",
@@ -519,18 +610,19 @@
     },
     {
       "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
-          "title": "DeepSeek拟上调API服务定价",
-          "url": "https://www.douyin.com/hot/2599312",
-          "source": "抖音",
+          "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
+          "url": "https://www.zhihu.com/question/2068628771687625392",
+          "source": "知乎",
           "ranks": [
-            1
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 15时37分]"
+          "appearance_count": 5,
+          "time_info": "[12时58分 ~ 18时30分]"
         },
         {
           "title": "DeepSeek拟调高API价格",
@@ -538,33 +630,48 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            2
+            2,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 15时37分]"
+          "appearance_count": 5,
+          "time_info": "[12时58分 ~ 18时30分]"
         },
         {
-          "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
-          "url": "https://www.zhihu.com/question/2068628771687625392",
-          "source": "知乎",
+          "title": "DeepSeek拟上调API服务定价",
+          "url": "https://www.douyin.com/hot/2599312",
+          "source": "抖音",
           "ranks": [
-            4
+            1,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 15时37分]"
+          "appearance_count": 5,
+          "time_info": "[12时58分 ~ 18时30分]"
         },
         {
           "title": "DeepSeek拟上调API服务价格",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时36分 ~ 15时37分]"
+          "appearance_count": 4,
+          "time_info": "[15时36分 ~ 18时30分]"
+        },
+        {
+          "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
+          "url": "https://www.cls.cn/detail/2447135",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时36分 ~ 18时30分]"
         },
         {
           "title": "DeepSeek API即将大幅涨价",
@@ -583,33 +690,35 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 15时37分]"
-        },
-        {
-          "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
-          "url": "https://www.cls.cn/detail/2447135",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时36分 ~ 15时37分]"
+          "appearance_count": 5,
+          "time_info": "[12时58分 ~ 18时30分]"
         },
         {
           "title": "大模型竞争白热化，张一鸣喊话：字节跳动“拒绝蒸馏”，不用别人输出换榜单排名",
           "url": "https://m.thepaper.cn/newsDetail_forward_33728476",
           "source": "澎湃新闻",
           "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时36分 ~ 18时30分]"
+        },
+        {
+          "title": "UP主联合官方实测MiniMax H3",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%94%E5%90%88%E5%AE%98%E6%96%B9%E5%AE%9E%E6%B5%8BMiniMax%20H3",
+          "source": "bilibili 热搜",
+          "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时36分 ~ 15时37分]"
+          "time_info": "[18时29分 ~ 18时30分]"
         },
         {
           "title": "DeepSeek推理到一半说自己饿了",
@@ -670,7 +779,7 @@
     },
     {
       "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "一图看懂｜多家A股公司，跨界算力签大单",
@@ -694,6 +803,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时58分 ~ 15时37分]"
+        },
+        {
+          "title": "行云科技：在手算力长单超150亿元 客户主动加价扩量",
+          "url": "https://wallstreetcn.com/livenews/3145969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
         },
         {
           "title": "扬电科技在互动平台表示，公司已正常开展相关算力业务，目前业务规模在陆续提升。",
@@ -735,7 +855,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         },
@@ -776,7 +896,7 @@
     },
     {
       "keyword_group": "苹果 Apple iPhone",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "长鑫拒绝苹果压价，要求内存采购价不低于三星和 SK 海力士，是否意味议价权彻底反转？可能有哪些影响？",
@@ -828,6 +948,19 @@
           "time_info": "[01时21分 ~ 09时44分]"
         },
         {
+          "title": "苹果压价失灵,长鑫拒绝供货",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356817&amp;topic_name=%E8%8B%B9%E6%9E%9C%E5%8E%8B%E4%BB%B7%E5%A4%B1%E7%81%B5%2C%E9%95%BF%E9%91%AB%E6%8B%92%E7%BB%9D%E4%BE%9B%E8%B4%A7",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时58分 ~ 18时30分]"
+        },
+        {
           "title": "苹果要求长鑫降价反遭涨价",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E8%A6%81%E6%B1%82%E9%95%BF%E9%91%AB%E9%99%8D%E4%BB%B7%E5%8F%8D%E9%81%AD%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -841,16 +974,15 @@
           "time_info": "[01时21分 ~ 07时52分]"
         },
         {
-          "title": "苹果压价失灵,长鑫拒绝供货",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356817&amp;topic_name=%E8%8B%B9%E6%9E%9C%E5%8E%8B%E4%BB%B7%E5%A4%B1%E7%81%B5%2C%E9%95%BF%E9%91%AB%E6%8B%92%E7%BB%9D%E4%BE%9B%E8%B4%A7",
-          "source": "贴吧",
+          "title": "如何看待长鑫拒绝苹果压价",
+          "url": "https://www.toutiao.com/trending/7670808457057930771/",
+          "source": "今日头条",
           "ranks": [
-            7,
-            11
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 15时37分]"
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时30分]"
         },
         {
           "title": "周三（8月5日），美国科技股七巨头（Magnificent 7）指数跌0.28%，报226.01点，美股早盘高开低走，北京时间21:33刷新日高至229.56点、00:12刷新日低至225.05点，之后持稳于226点附近。成分股中，谷歌A收跌4.03%——在标普500指数所有成分股里跌幅靠前，特斯拉、亚马逊、微软至多跌1.77%，Meta、苹果至多收涨0.52%，英伟达涨3.43%。 “超大”市值科技股指数跌1.19%，报444.40点。成分股中，除了前述个股之外，AMD收跌7.04%，高通跌3.16%，甲骨文跌0.93%，博通、Adobe、奈飞至多收涨0.86%，Salesforce涨1.04%。",
@@ -881,6 +1013,21 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "鸿蒙智行回应竹知了事件",
+          "url": "https://search.bilibili.com/all?keyword=%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%9B%9E%E5%BA%94%E7%AB%B9%E7%9F%A5%E4%BA%86%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            23,
+            28,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时12分 ~ 18时30分]"
+        },
+        {
           "title": "鸿蒙智行否认封杀竹知了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356778&amp;topic_name=%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%90%A6%E8%AE%A4%E5%B0%81%E6%9D%80%E7%AB%B9%E7%9F%A5%E4%BA%86",
           "source": "贴吧",
@@ -902,20 +1049,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时21分 ~ 06时12分]"
-        },
-        {
-          "title": "鸿蒙智行回应竹知了事件",
-          "url": "https://search.bilibili.com/all?keyword=%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%9B%9E%E5%BA%94%E7%AB%B9%E7%9F%A5%E4%BA%86%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            23,
-            28,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时12分 ~ 15时37分]"
         },
         {
           "title": "华为新款折叠屏电脑24999元起",
@@ -965,7 +1098,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         }
@@ -1052,7 +1185,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         }
@@ -1136,7 +1269,7 @@
     },
     {
       "keyword_group": "国务院 发改委 工信部 财政部 证监会",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "工信部：持续提升现场混装炸药许可产能比重，支持小品种过剩产能置换退出",
@@ -1145,7 +1278,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         },
@@ -1156,7 +1289,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         },
@@ -1167,7 +1300,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         },
@@ -1178,9 +1311,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
+        },
+        {
+          "title": "传音控股：拟发行不超过1.32亿股H股获中国证监会备案。",
+          "url": "https://wallstreetcn.com/livenews/3145954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
         },
         {
           "title": "据伊朗法尔斯通讯社：伊朗谈判团队消息人士表示，与一些猜测和媒体宣传相反，美国财政部取消少数伊朗制裁措施一事，是与伊拉克政府和华盛顿之间的互动有关，与伊朗和美国之间的谅解备忘录无关。（注：美国财政部此前解除对巴格达航空相关制裁，巴格达航空因被指与伊朗伊斯兰革命卫队“圣城旅”有关联而受到制裁。）",
@@ -1197,7 +1341,7 @@
     },
     {
       "keyword_group": "免税 旅游 酒店 餐饮",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "这世界大得让你很难不旅游",
@@ -1240,6 +1384,17 @@
           "time_info": "[01时21分 ~ 09时44分]"
         },
         {
+          "title": "上海一酒店房间爬满床虱 住客反被怼",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%80%E9%85%92%E5%BA%97%E6%88%BF%E9%97%B4%E7%88%AC%E6%BB%A1%E5%BA%8A%E8%99%B1+%E4%BD%8F%E5%AE%A2%E5%8F%8D%E8%A2%AB%E6%80%BC",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时30分]"
+        },
+        {
           "title": "广州奶奶东北旅游羽绒服搭配凉鞋",
           "url": "https://www.toutiao.com/trending/7670748111834923071/",
           "source": "今日头条",
@@ -1254,7 +1409,7 @@
     },
     {
       "keyword_group": "问界 智界 享界 尊界 鸿蒙智行 ADS",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "异物砸底盘,智界R7高速起火",
@@ -1275,11 +1430,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 15时37分]"
+          "appearance_count": 5,
+          "time_info": "[12时58分 ~ 18时30分]"
         },
         {
           "title": "享界G9静态评测首发",
@@ -1291,6 +1447,106 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时36分 ~ 15时37分]"
+        },
+        {
+          "title": "享界汽车宣布，享界G9 预售24小时订单突破10300台，Ultra及Ultra+版本占比达90%。",
+          "url": "https://wallstreetcn.com/livenews/3145970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "稀土 锗 镓 锑 钨",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "江钨装备：公司无注入矿山资产的安排或活动",
+          "url": "https://wallstreetcn.com/livenews/3145974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
+        {
+          "title": "唐驳虎：俄盯上中国稀土精炼技术",
+          "url": "https://www.toutiao.com/trending/7670406094615314438/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时43分 ~ 09时44分]"
+        },
+        {
+          "title": "江钨装备：公司无注入矿山资产的安排或活动",
+          "url": "https://flash.jin10.com/detail/20260806175457332800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
+        {
+          "title": "云南锗业：股价连续三日异动 市盈率显著高于同行",
+          "url": "https://flash.jin10.com/detail/20260806174925348800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "网络安全 数据安全 密码",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "网信办对派拓公司在华销售产品启动网络安全审查",
+          "url": "https://news.ifeng.com/c/8vN6PoTrF4M",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时30分]"
+        },
+        {
+          "title": "派拓公司（Palo Alto Networks）美股盘前短线跳水跌近2%，此前网信办对派拓公司在华销售产品启动网络安全审查。",
+          "url": "https://wallstreetcn.com/livenews/3145958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
+        {
+          "title": "网信办对派拓公司在华销售产品启动网络安全审查",
+          "url": "https://wallstreetcn.com/livenews/3145951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
         }
       ]
     },
@@ -1315,11 +1571,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33728067",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时36分 ~ 15时37分]"
+          "appearance_count": 4,
+          "time_info": "[15时36分 ~ 18时30分]"
         }
       ]
     },
@@ -1337,11 +1594,12 @@
             19,
             22,
             24,
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时21分 ~ 15时37分]"
+          "appearance_count": 14,
+          "time_info": "[01时21分 ~ 18时30分]"
         },
         {
           "title": "Seedance2.5满血版",
@@ -1383,9 +1641,37 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "海上风电 风电",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "全球首座16兆瓦浮式风电平台投运",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83%E9%A6%96%E5%BA%A716%E5%85%86%E7%93%A6%E6%B5%AE%E5%BC%8F%E9%A3%8E%E7%94%B5%E5%B9%B3%E5%8F%B0%E6%8A%95%E8%BF%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时30分]"
+        },
+        {
+          "title": "全球首座16兆瓦张力腿浮式风电平台正式投运",
+          "url": "https://flash.jin10.com/detail/20260806070138834800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时52分"
         }
       ]
     },
@@ -1457,9 +1743,26 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI眼镜 智能眼镜 AR眼镜 XR眼镜",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "深圳华强北AI眼镜销量激增100%",
+          "url": "https://flash.jin10.com/detail/20260806175217616800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
         }
       ]
     },
@@ -1472,28 +1775,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E7%BA%A7%E5%88%AB%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%A6%BB%E6%88%91%E4%BB%AC%E6%9C%89%E5%A4%9A%E8%BF%9C",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 09时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "海上风电 风电",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "全球首座16兆瓦张力腿浮式风电平台正式投运",
-          "url": "https://flash.jin10.com/detail/20260806070138834800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时52分"
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 18时30分]"
         }
       ]
     },
@@ -1513,23 +1800,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时21分 ~ 06时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "稀土 锗 镓 锑 钨",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "唐驳虎：俄盯上中国稀土精炼技术",
-          "url": "https://www.toutiao.com/trending/7670406094615314438/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 09时44分]"
         }
       ]
     },
