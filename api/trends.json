@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-08-07T19:40:07.006194+08:00",
-  "total_titles_processed": 1325,
+  "generated_at": "2026-08-07T20:42:22.001482+08:00",
+  "total_titles_processed": 1421,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "刚果（金）正式禁止铜、钴精矿出口，全球 70% 钴供给将受影响，国际铜价应声上涨，将产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2068810918826447155",
+          "source": "知乎",
+          "ranks": [
+            20,
+            14,
+            13,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时07分 ~ 20时42分]"
+        },
         {
           "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
           "url": "https://www.cls.cn/detail/2447939",
@@ -49,7 +64,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -76,29 +91,28 @@
           "time_info": "12时49分"
         },
         {
-          "title": "刚果（金）正式禁止铜、钴精矿出口，全球 70% 钴供给将受影响，国际铜价应声上涨，将产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2068810918826447155",
-          "source": "知乎",
-          "ranks": [
-            20,
-            14,
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时07分 ~ 19时40分]"
-        },
-        {
           "title": "从日元崩跌到美联储失语，黄金的战略价值正在浮现",
           "url": "https://wallstreetcn.com/articles/3778869",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时39分 ~ 20时42分]"
+        },
+        {
+          "title": "现货黄金日内涨幅扩大至2%，报4325.36美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3146683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时39分 ~ 19时40分]"
+          "time_info": "[19时40分 ~ 20时42分]"
         },
         {
           "title": "单日大涨4%！黄金是隔夜市场“最亮的资产”",
@@ -145,15 +159,15 @@
           "time_info": "07时51分"
         },
         {
-          "title": "现货黄金日内涨幅扩大至2%，报4325.36美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3146683",
-          "source": "华尔街见闻-快讯",
+          "title": "DeepTalk：黄金强力反弹，但这只是一个“多头陷阱”？",
+          "url": "https://flash.jin10.com/detail/20260807201438904800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时40分"
+          "time_info": "20时42分"
         },
         {
           "title": "非农数据公布前，现货黄金日内涨幅扩大至2%，现报4325.27美元/盎司。",
@@ -162,9 +176,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
+        },
+        {
+          "title": "挂单报告：国际现货黄金涨势不止 美日留意多单押注",
+          "url": "https://flash.jin10.com/detail/20260807201107680800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "刚果（金）决定彻底禁止铜精矿、钴精矿出口，华友钴业回应",
@@ -266,6 +291,17 @@
           "time_info": "14时07分"
         },
         {
+          "title": "上海黄金交易所黄金T+D 8月7日（周五）晚盘盘初上涨0.72%报930.59元/克；<br/>上海黄金交易所白银T+D 8月7日（周五）晚盘盘初上涨2.44%报15517.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260807200136941800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "美国大量囤铜有何目的",
           "url": "https://www.toutiao.com/trending/7670903359968120363/",
           "source": "今日头条",
@@ -313,7 +349,7 @@
     },
     {
       "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
@@ -326,6 +362,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[07时51分 ~ 19时40分]"
+        },
+        {
+          "title": "如何评价 GPT-5.6Luna 免费不限量，后续基础大模型都会走向免费吗？",
+          "url": "https://www.zhihu.com/question/2068986574256312589",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时07分 ~ 20时42分]"
         },
         {
           "title": "DeepSeek拟上调API服务价格",
@@ -342,6 +392,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[07时51分 ~ 19时40分]"
+        },
+        {
+          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
+          "url": "https://www.zhihu.com/question/2069015264461579129",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时08分 ~ 20时42分]"
         },
         {
           "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
@@ -367,30 +428,6 @@
           "time_info": "10时09分"
         },
         {
-          "title": "如何评价 GPT-5.6Luna 免费不限量，后续基础大模型都会走向免费吗？",
-          "url": "https://www.zhihu.com/question/2068986574256312589",
-          "source": "知乎",
-          "ranks": [
-            15,
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时07分 ~ 19时40分]"
-        },
-        {
-          "title": "王兴兴回应DeepSeek参与宇树科技IPO战略配售",
-          "url": "https://wallstreetcn.com/livenews/3146694",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
           "title": "沪指冲高回落涨0.6%，煤炭掀涨停潮，贵金属集体大涨，半导体材料再拉升，恒科指跌超2%，AI大模型双雄逆势拉升",
           "url": "https://wallstreetcn.com/articles/3778805",
           "source": "华尔街见闻",
@@ -404,15 +441,16 @@
           "time_info": "[07时51分 ~ 16时08分]"
         },
         {
-          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
-          "url": "https://www.zhihu.com/question/2069015264461579129",
-          "source": "知乎",
+          "title": "王兴兴回应DeepSeek参与宇树科技IPO战略配售",
+          "url": "https://wallstreetcn.com/livenews/3146694",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            2,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时08分 ~ 19时40分]"
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 20时42分]"
         },
         {
           "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
@@ -524,7 +562,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -538,6 +576,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时08分"
+        },
+        {
+          "title": "迅策：与天合算力订立战略合作备忘 共建能源垂类大模型",
+          "url": "https://flash.jin10.com/detail/20260807195249328800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "在被调入港股通后的第一天交易日，MiniMax获南向资金净买入近27亿港元，在成交活跃股中位列净买入首位。",
@@ -557,6 +606,20 @@
       "match_count": 17,
       "titles": [
         {
+          "title": "国家能源局官网首晒核电“家底”：三代堆升级、四代堆多点突破 机制电价启幕",
+          "url": "https://www.cls.cn/detail/2448170",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时49分 ~ 20时42分]"
+        },
+        {
           "title": "比A4纸还薄！中国高端钢材密集突破",
           "url": "https://www.baidu.com/s?wd=%E6%AF%94A4%E7%BA%B8%E8%BF%98%E8%96%84%EF%BC%81%E4%B8%AD%E5%9B%BD%E9%AB%98%E7%AB%AF%E9%92%A2%E6%9D%90%E5%AF%86%E9%9B%86%E7%AA%81%E7%A0%B4",
           "source": "百度热搜",
@@ -568,30 +631,17 @@
           "time_info": "[16时08分 ~ 19时40分]"
         },
         {
-          "title": "国家能源局官网首晒核电“家底”：三代堆升级、四代堆多点突破 机制电价启幕",
-          "url": "https://www.cls.cn/detail/2448170",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时49分 ~ 19时40分]"
-        },
-        {
           "title": "女儿卖房定价9000被母亲7500签约",
           "url": "https://www.toutiao.com/trending/7671197679598501942/",
           "source": "今日头条",
           "ranks": [
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时44分 ~ 19时40分]"
+          "appearance_count": 5,
+          "time_info": "[18时44分 ~ 20时42分]"
         },
         {
           "title": "沪深两市成交额突破2万亿，较上日此时缩量超70亿。",
@@ -616,17 +666,6 @@
           "time_info": "18时44分"
         },
         {
-          "title": "胜宏科技：与核心客户合作的研发迭代产品正顺利推进，部分客户已释放2027-2028年长期需求",
-          "url": "https://wallstreetcn.com/livenews/3146693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
           "title": "北京亦庄发布全市首个词元经济政策，每年发放1亿元模型、词元券",
           "url": "https://flash.jin10.com/detail/20260807121720926800",
           "source": "金十数据",
@@ -647,6 +686,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
+        },
+        {
+          "title": "胜宏科技：与核心客户合作的研发迭代产品正顺利推进，部分客户已释放2027-2028年长期需求",
+          "url": "https://wallstreetcn.com/livenews/3146693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 20时42分]"
         },
         {
           "title": "国家能源局：加大关键电力装备自主研发 推动电力芯片、特高压组部件等关键技术突破",
@@ -745,7 +796,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         }
@@ -764,8 +815,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时08分 ~ 19时40分]"
+          "appearance_count": 7,
+          "time_info": "[16时08分 ~ 20时42分]"
         },
         {
           "title": "华中地区最大规模机器人在光谷集中交付",
@@ -924,6 +975,119 @@
       ]
     },
     {
+      "keyword_group": "苹果 Apple iPhone",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "报道：苹果紧急抢购DRAM内存，距iPhone 18发布仅剩几周",
+          "url": "https://wallstreetcn.com/articles/3778845",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时51分 ~ 16时08分]"
+        },
+        {
+          "title": "iPhone18Pro起售或破万",
+          "url": "https://s.weibo.com/weibo?q=iPhone18Pro%E8%B5%B7%E5%94%AE%E6%88%96%E7%A0%B4%E4%B8%87&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 20时42分]"
+        },
+        {
+          "title": "iPhone18Pro十二大升级",
+          "url": "https://www.baidu.com/s?wd=iPhone18Pro%E5%8D%81%E4%BA%8C%E5%A4%A7%E5%8D%87%E7%BA%A7",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时39分 ~ 20时42分]"
+        },
+        {
+          "title": "iPhone18Pro十二大升级",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E5%8D%81%E4%BA%8C%E5%A4%A7%E5%8D%87%E7%BA%A7%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            23,
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 16时08分]"
+        },
+        {
+          "title": "长鑫拒绝苹果压价",
+          "url": "https://search.bilibili.com/all?keyword=%E9%95%BF%E9%91%AB%E6%8B%92%E7%BB%9D%E8%8B%B9%E6%9E%9C%E5%8E%8B%E4%BB%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 10时09分]"
+        },
+        {
+          "title": "OpenAI智能音箱定价逾300美元，iPhone设计之父操刀设计“甜甜圈”外形",
+          "url": "https://wallstreetcn.com/articles/3778889",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 20时42分]"
+        },
+        {
+          "title": "iPhone18Pro系列价格预测",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%E9%A2%84%E6%B5%8B%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时08分 ~ 17时53分]"
+        },
+        {
+          "title": "苹果压价失灵,长鑫拒绝供货",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356817&amp;topic_name=%E8%8B%B9%E6%9E%9C%E5%8E%8B%E4%BB%B7%E5%A4%B1%E7%81%B5%2C%E9%95%BF%E9%91%AB%E6%8B%92%E7%BB%9D%E4%BE%9B%E8%B4%A7",
+          "source": "贴吧",
+          "ranks": [
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 10时09分]"
+        },
+        {
+          "title": "苹果上调多款iPhone以旧换新折抵价",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E4%B8%8A%E8%B0%83%E5%A4%9A%E6%AC%BEiPhone%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E6%8A%98%E6%8A%B5%E4%BB%B7%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 19时40分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "国务院 发改委 工信部 财政部 证监会",
       "match_count": 9,
       "titles": [
@@ -979,7 +1143,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -990,7 +1154,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -1001,7 +1165,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -1023,7 +1187,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         }
@@ -1042,8 +1206,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时51分 ~ 19时40分]"
+          "appearance_count": 11,
+          "time_info": "[07时51分 ~ 20时42分]"
         },
         {
           "title": "报道：英伟达拟下调Rubin Ultra的HBM配置，应对高端HBM短缺",
@@ -1051,11 +1215,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时49分 ~ 19时40分]"
+          "appearance_count": 9,
+          "time_info": "[12时49分 ~ 20时42分]"
         },
         {
           "title": "存储芯片成本压力开始释放！余承东称所有手机都要大规模涨价，否则就是亏损销售",
@@ -1141,8 +1306,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时08分 ~ 19时40分]"
+          "appearance_count": 7,
+          "time_info": "[16时08分 ~ 20时42分]"
         },
         {
           "title": "游客睡自己车里被酒店收150元“住宿费”，监管部门介入后酒店退款并赔偿1000元",
@@ -1227,110 +1392,9 @@
       ]
     },
     {
-      "keyword_group": "苹果 Apple iPhone",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "报道：苹果紧急抢购DRAM内存，距iPhone 18发布仅剩几周",
-          "url": "https://wallstreetcn.com/articles/3778845",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时51分 ~ 16时08分]"
-        },
-        {
-          "title": "iPhone18Pro十二大升级",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E5%8D%81%E4%BA%8C%E5%A4%A7%E5%8D%87%E7%BA%A7%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            23,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时09分 ~ 16时08分]"
-        },
-        {
-          "title": "长鑫拒绝苹果压价",
-          "url": "https://search.bilibili.com/all?keyword=%E9%95%BF%E9%91%AB%E6%8B%92%E7%BB%9D%E8%8B%B9%E6%9E%9C%E5%8E%8B%E4%BB%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时51分 ~ 10时09分]"
-        },
-        {
-          "title": "iPhone18Pro系列价格预测",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%E9%A2%84%E6%B5%8B%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 17时53分]"
-        },
-        {
-          "title": "iPhone18Pro十二大升级",
-          "url": "https://www.baidu.com/s?wd=iPhone18Pro%E5%8D%81%E4%BA%8C%E5%A4%A7%E5%8D%87%E7%BA%A7",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时39分 ~ 19时40分]"
-        },
-        {
-          "title": "苹果压价失灵,长鑫拒绝供货",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356817&amp;topic_name=%E8%8B%B9%E6%9E%9C%E5%8E%8B%E4%BB%B7%E5%A4%B1%E7%81%B5%2C%E9%95%BF%E9%91%AB%E6%8B%92%E7%BB%9D%E4%BE%9B%E8%B4%A7",
-          "source": "贴吧",
-          "ranks": [
-            26,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时51分 ~ 10时09分]"
-        },
-        {
-          "title": "苹果上调多款iPhone以旧换新折抵价",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E4%B8%8A%E8%B0%83%E5%A4%9A%E6%AC%BEiPhone%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E6%8A%98%E6%8A%B5%E4%BB%B7%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时39分 ~ 19时40分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "创新药 ADC CAR-T GLP-1",
       "match_count": 7,
       "titles": [
-        {
-          "title": "港股创新药股震荡拉升，再鼎医药(09688.HK)涨超13%，药明康德(02359.HK)、药明生物(02269.HK)涨超3%，荣昌生物(09995.HK)、药明合联(02268.HK)涨超2%。",
-          "url": "https://flash.jin10.com/detail/20260807094444080800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
         {
           "title": "【每日收评】三大指数均涨超1%录得4连阳，创新药板块全线爆发，PCB概念股持续走强",
           "url": "https://www.cls.cn/detail/2448465",
@@ -1341,8 +1405,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时53分 ~ 19时40分]"
+          "appearance_count": 6,
+          "time_info": "[17时53分 ~ 20时42分]"
+        },
+        {
+          "title": "港股创新药股震荡拉升，再鼎医药(09688.HK)涨超13%，药明康德(02359.HK)、药明生物(02269.HK)涨超3%，荣昌生物(09995.HK)、药明合联(02268.HK)涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260807094444080800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "A股创新药、CRO概念持续走强，义翘神州午后20cm涨停，药康生物、哈三联、百花医药、普洛药业、凯莱英等十余股封板，皓元医药、泓博医药、药石科技等多股涨超10%。",
@@ -1542,7 +1617,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         }
@@ -1562,8 +1637,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时53分 ~ 19时40分]"
+          "appearance_count": 6,
+          "time_info": "[17时53分 ~ 20时42分]"
         },
         {
           "title": "中际旭创、新易盛、天孚通信集体回应美国光模块禁令，哪些信息值得关注？",
@@ -1672,11 +1747,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时08分 ~ 19时40分]"
+          "appearance_count": 7,
+          "time_info": "[16时08分 ~ 20时42分]"
         },
         {
           "title": "商务部宣布加强无人机相关两用物项对美出口管制，此举会带来哪些影响？",
@@ -1716,7 +1792,7 @@
     },
     {
       "keyword_group": "专项债 特别国债 降准 降息 以旧换新 设备更新",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美国非农报告今晚登场！疲弱数据助推下 美联储降息预期恐升温？",
@@ -1756,6 +1832,73 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
+        },
+        {
+          "title": "语气显著软化！特朗普直言不降息不怪沃什，并甩锅“政治化理事会”",
+          "url": "https://flash.jin10.com/detail/20260807200444932800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 鸿蒙 HarmonyOS 鸿蒙NEXT",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "广汽埃安Ray 7完成工信部申报，搭载华为电驱与激光雷达",
+          "url": "https://wallstreetcn.com/livenews/3146640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时44分"
+        },
+        {
+          "title": "上海市知识产权局与华为公司座谈交流",
+          "url": "https://wallstreetcn.com/livenews/3146696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "充电桩 超充 换电",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "蔚来首批第五代换电站投入运营",
+          "url": "https://wallstreetcn.com/livenews/3146717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "蔚来换电突破1.2亿次",
+          "url": "https://www.toutiao.com/trending/7670895064117887019/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时07分"
         }
       ]
     },
@@ -1788,6 +1931,34 @@
       ]
     },
     {
+      "keyword_group": "并购 重组 借壳 资产重组",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "大众汽车计划在美国战略重组中推出皮卡车型。",
+          "url": "https://flash.jin10.com/detail/20260807202413771800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "金一文化：公司二次并购事项仍处于筹划阶段 尚未签署任何意向性协议",
+          "url": "https://flash.jin10.com/detail/20260807171653908800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "光刻机 EDA 先进封装 CoWoS Chiplet 晶圆",
       "match_count": 1,
       "titles": [
@@ -1802,40 +1973,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时51分 ~ 10时09分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华为 鸿蒙 HarmonyOS 鸿蒙NEXT",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "广汽埃安Ray 7完成工信部申报，搭载华为电驱与激光雷达",
-          "url": "https://wallstreetcn.com/livenews/3146640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "充电桩 超充 换电",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "蔚来换电突破1.2亿次",
-          "url": "https://www.toutiao.com/trending/7670895064117887019/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
         }
       ]
     },
@@ -1887,23 +2024,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "并购 重组 借壳 资产重组",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金一文化：公司二次并购事项仍处于筹划阶段 尚未签署任何意向性协议",
-          "url": "https://flash.jin10.com/detail/20260807171653908800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时53分"
         }
       ]
     }
