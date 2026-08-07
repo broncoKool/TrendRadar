@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T17:53:42.726319+08:00",
-  "total_titles_processed": 1109,
+  "generated_at": "2026-08-07T18:44:34.534532+08:00",
+  "total_titles_processed": 1212,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
@@ -70,11 +70,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时07分 ~ 16时08分]"
+          "appearance_count": 3,
+          "time_info": "[14时07分 ~ 18时44分]"
         },
         {
           "title": "单日大涨4%！黄金是隔夜市场“最亮的资产”",
@@ -187,6 +188,17 @@
           "time_info": "16时08分"
         },
         {
+          "title": "国城矿业：控股子公司签署十年期碳酸锂长期合作协议",
+          "url": "https://flash.jin10.com/detail/20260807180942582800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
+        },
+        {
           "title": "商品期货开盘，原油主力合约涨4%，燃料油、沥青、乙二醇、焦炭、苯乙烯涨超2%。沪银、沪镍、沪锡跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3146339",
           "source": "华尔街见闻-快讯",
@@ -231,6 +243,17 @@
           "time_info": "12时49分"
         },
         {
+          "title": "德国商业银行：将年底镍价预测下调至每吨17,000美元。",
+          "url": "https://flash.jin10.com/detail/20260807180626129800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
+        },
+        {
           "title": "美国非农今晚出炉，华尔街预期分歧巨大，现货黄金目前多空占比为54%-46%，现货白银多头占比近90%。后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20260807114548091800",
           "source": "金十数据",
@@ -256,8 +279,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时51分 ~ 17时53分]"
+          "appearance_count": 7,
+          "time_info": "[07时51分 ~ 18时44分]"
+        },
+        {
+          "title": "DeepSeek拟上调API服务价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            11,
+            18,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时51分 ~ 18时44分]"
         },
         {
           "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
@@ -283,21 +321,6 @@
           "time_info": "10时09分"
         },
         {
-          "title": "DeepSeek拟上调API服务价格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            11,
-            18,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时51分 ~ 17时53分]"
-        },
-        {
           "title": "沪指冲高回落涨0.6%，煤炭掀涨停潮，贵金属集体大涨，半导体材料再拉升，恒科指跌超2%，AI大模型双雄逆势拉升",
           "url": "https://wallstreetcn.com/articles/3778805",
           "source": "华尔街见闻",
@@ -316,11 +339,35 @@
           "source": "知乎",
           "ranks": [
             15,
-            13
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时07分 ~ 18时44分]"
+        },
+        {
+          "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
+          "url": "https://wallstreetcn.com/articles/3778849",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时07分 ~ 17时53分]"
+          "time_info": "[16时08分 ~ 18时44分]"
+        },
+        {
+          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
+          "url": "https://www.zhihu.com/question/2069015264461579129",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时08分 ~ 18时44分]"
         },
         {
           "title": "大模型竞争白热化，张一鸣喊话：字节跳动“拒绝蒸馏”，不用别人输出换榜单排名",
@@ -347,18 +394,6 @@
           "time_info": "[07时51分 ~ 10时09分]"
         },
         {
-          "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
-          "url": "https://wallstreetcn.com/articles/3778849",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 17时53分]"
-        },
-        {
           "title": "DeepSeek豪掷1.4亿护航宇树IPO",
           "url": "https://www.toutiao.com/trending/7671088097861307923/",
           "source": "今日头条",
@@ -369,17 +404,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时49分 ~ 14时07分]"
-        },
-        {
-          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
-          "url": "https://www.zhihu.com/question/2069015264461579129",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 17时53分]"
         },
         {
           "title": "DeepSeek官宣涨价，且“幅度较大”！",
@@ -462,7 +486,7 @@
     },
     {
       "keyword_group": "人形机器人 机器人 具身智能 灵巧手",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "华中地区最大规模机器人在光谷集中交付",
@@ -476,6 +500,28 @@
           "time_info": "10时09分"
         },
         {
+          "title": "宇树科技回应机器人销售禁令：不会影响现有主要产品销售",
+          "url": "https://flash.jin10.com/detail/20260807182450064800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
+        },
+        {
+          "title": "宇树科技回应机器人销售禁令：不会影响现有主要产品销售",
+          "url": "https://wallstreetcn.com/livenews/3146652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
+        },
+        {
           "title": "王兴兴最新发声！谈及上市、具身智能行业发展",
           "url": "https://www.cls.cn/detail/2448287",
           "source": "财联社热门",
@@ -484,8 +530,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 17时53分]"
+          "appearance_count": 3,
+          "time_info": "[16时08分 ~ 18时44分]"
         },
         {
           "title": "宇树科技王兴兴：高性能通用机器人是破解人力短缺的重要突破口",
@@ -527,7 +573,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -538,7 +584,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -549,7 +595,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -560,7 +606,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -604,7 +650,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         }
@@ -612,7 +658,7 @@
     },
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "比A4纸还薄！中国高端钢材密集突破",
@@ -622,8 +668,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 17时53分]"
+          "appearance_count": 3,
+          "time_info": "[16时08分 ~ 18时44分]"
+        },
+        {
+          "title": "国家能源局官网首晒核电“家底”：三代堆升级、四代堆多点突破 机制电价启幕",
+          "url": "https://www.cls.cn/detail/2448170",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时49分 ~ 18时44分]"
         },
         {
           "title": "沪深两市成交额突破2万亿，较上日此时缩量超70亿。",
@@ -637,17 +697,26 @@
           "time_info": "14时07分"
         },
         {
-          "title": "国家能源局官网首晒核电“家底”：三代堆升级、四代堆多点突破 机制电价启幕",
-          "url": "https://www.cls.cn/detail/2448170",
-          "source": "财联社热门",
+          "title": "上交所：2026年8月3日至2026年8月7日，对爱丽家居等严重异常波动股票、财通福鑫LOF等溢价较高的基金进行重点监控，对51起上市公司重大事项等进行专项核查。",
+          "url": "https://wallstreetcn.com/livenews/3146654",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            6,
-            3
+            2
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时49分 ~ 17时53分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
+        },
+        {
+          "title": "女儿卖房定价9000被母亲7500签约",
+          "url": "https://www.toutiao.com/trending/7671197679598501942/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
         },
         {
           "title": "北京亦庄发布全市首个词元经济政策，每年发放1亿元模型、词元券",
@@ -735,7 +804,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -746,9 +815,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
+        },
+        {
+          "title": "北京电网负荷首次突破3000万千瓦",
+          "url": "https://wallstreetcn.com/livenews/3146616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
         }
       ]
     },
@@ -765,8 +845,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时51分 ~ 17时53分]"
+          "appearance_count": 7,
+          "time_info": "[07时51分 ~ 18时44分]"
+        },
+        {
+          "title": "报道：英伟达拟下调Rubin Ultra的HBM配置，应对高端HBM短缺",
+          "url": "https://wallstreetcn.com/articles/3778895",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时49分 ~ 18时44分]"
         },
         {
           "title": "存储芯片成本压力开始释放！余承东称所有手机都要大规模涨价，否则就是亏损销售",
@@ -779,18 +871,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时51分 ~ 10时09分]"
-        },
-        {
-          "title": "报道：英伟达拟下调Rubin Ultra的HBM配置，应对高端HBM短缺",
-          "url": "https://wallstreetcn.com/articles/3778895",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时49分 ~ 17时53分]"
         },
         {
           "title": "SK海力士：将扩大DRAM和NAND的生产基地，并根据客户需求增加产能。 龙仁工厂将生产HBM及其他下一代DRAM产品。 龙仁第一期工厂的无尘室将于明年2月启用。",
@@ -876,8 +956,20 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时08分 ~ 18时44分]"
+        },
+        {
+          "title": "1 岁宝宝碰坏纸巾盒被三亚酒店索赔 924 元，采购价仅 462 元酒店索赔超 900 合理吗？",
+          "url": "https://www.zhihu.com/question/2068986537526682820",
+          "source": "知乎",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时08分 ~ 17时53分]"
+          "time_info": "[17时53分 ~ 18时44分]"
         },
         {
           "title": "1岁宝宝碰坏纸巾盒三亚酒店索赔924元",
@@ -903,17 +995,6 @@
           "time_info": "[12时49分 ~ 14时07分]"
         },
         {
-          "title": "1 岁宝宝碰坏纸巾盒被三亚酒店索赔 924 元，采购价仅 462 元酒店索赔超 900 合理吗？",
-          "url": "https://www.zhihu.com/question/2068986537526682820",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        },
-        {
           "title": "情侣酒店熟睡时遭陌生男闯入",
           "url": "https://www.toutiao.com/trending/7671114588943024170/",
           "source": "今日头条",
@@ -931,7 +1012,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -968,11 +1049,12 @@
           "url": "https://www.cls.cn/detail/2448465",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时53分 ~ 18时44分]"
         },
         {
           "title": "A股创新药、CRO概念持续走强，义翘神州午后20cm涨停，药康生物、哈三联、百花医药、普洛药业、凯莱英等十余股封板，皓元医药、泓博医药、药石科技等多股涨超10%。",
@@ -1032,6 +1114,92 @@
       ]
     },
     {
+      "keyword_group": "稀土 锗 镓 锑 钨",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "中方是否计划在太平洋海底开采稀土？外交部回应",
+          "url": "https://news.ifeng.com/c/8vNMlaCtEbt",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 16时08分]"
+        },
+        {
+          "title": "特朗普政府禁止钨废料、电池废料出口 以提升关键矿产供应能力",
+          "url": "https://www.cls.cn/detail/2447915",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时09分 ~ 14时07分]"
+        },
+        {
+          "title": "中国稀土：2026年上半年净利润同比增长46.53%",
+          "url": "https://flash.jin10.com/detail/20260807182130955800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
+        },
+        {
+          "title": "建议成立中国稀土出口总公司总部设新疆",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%88%90%E7%AB%8B%E4%B8%AD%E5%9B%BD%E7%A8%80%E5%9C%9F%E5%87%BA%E5%8F%A3%E6%80%BB%E5%85%AC%E5%8F%B8%E6%80%BB%E9%83%A8%E8%AE%BE%E6%96%B0%E7%96%86%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时08分 ~ 17时53分]"
+        },
+        {
+          "title": "中国稀土：2026年上半年净利润同比增长46.53%",
+          "url": "https://wallstreetcn.com/livenews/3146645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
+        },
+        {
+          "title": "中方回应是否在太平洋海底开采稀土",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E5%9C%A8%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%B5%B7%E5%BA%95%E5%BC%80%E9%87%87%E7%A8%80%E5%9C%9F",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "A股午评：创业板指涨1.75% 稀土永磁、PCB板块走强",
+          "url": "https://flash.jin10.com/detail/20260807113538270800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "光模块 CPO 800G 1.6T AEC DAC 高速铜缆",
       "match_count": 5,
       "titles": [
@@ -1040,11 +1208,12 @@
           "url": "https://www.cls.cn/detail/2448354",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时53分 ~ 18时44分]"
         },
         {
           "title": "中际旭创、新易盛、天孚通信集体回应美国光模块禁令，哪些信息值得关注？",
@@ -1162,66 +1331,64 @@
       ]
     },
     {
-      "keyword_group": "稀土 锗 镓 锑 钨",
+      "keyword_group": "国务院 发改委 工信部 财政部 证监会",
       "match_count": 5,
       "titles": [
         {
-          "title": "中方是否计划在太平洋海底开采稀土？外交部回应",
-          "url": "https://news.ifeng.com/c/8vNMlaCtEbt",
-          "source": "凤凰网",
+          "title": "自然人柳锡专内幕交易获利309万，被证监会没一罚三",
+          "url": "https://wallstreetcn.com/livenews/3146656",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时09分 ~ 16时08分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
         },
         {
-          "title": "特朗普政府禁止钨废料、电池废料出口 以提升关键矿产供应能力",
-          "url": "https://www.cls.cn/detail/2447915",
-          "source": "财联社热门",
+          "title": "中国财政部发行1年期债券，规模1400亿元，发行利率1.1619%，边际利率1.2174%，预期1.0700%，投标倍数2.00倍，边际倍数2.74倍； 中国财政部发行7年期债券，规模1000亿元，发行利率1.5039%，边际利率1.5240%，预期1.5300%，投标倍数6.08倍，边际倍数3.97倍。",
+          "url": "https://wallstreetcn.com/livenews/3146429",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 14时07分]"
-        },
-        {
-          "title": "建议成立中国稀土出口总公司总部设新疆",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%88%90%E7%AB%8B%E4%B8%AD%E5%9B%BD%E7%A8%80%E5%9C%9F%E5%87%BA%E5%8F%A3%E6%80%BB%E5%85%AC%E5%8F%B8%E6%80%BB%E9%83%A8%E8%AE%BE%E6%96%B0%E7%96%86%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            30
+            10,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时08分 ~ 17时53分]"
+          "time_info": "[12时49分 ~ 14时07分]"
         },
         {
-          "title": "中方回应是否在太平洋海底开采稀土",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E5%9C%A8%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%B5%B7%E5%BA%95%E5%BC%80%E9%87%87%E7%A8%80%E5%9C%9F",
-          "source": "百度热搜",
+          "title": "自然人公茂江内幕交易获利60万，被证监会没一罚三",
+          "url": "https://wallstreetcn.com/livenews/3146647",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
+        },
+        {
+          "title": "证监会同意力勤资源深交所主板IPO注册",
+          "url": "https://wallstreetcn.com/livenews/3146596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时51分"
+          "time_info": "17时53分"
         },
         {
-          "title": "A股午评：创业板指涨1.75% 稀土永磁、PCB板块走强",
-          "url": "https://flash.jin10.com/detail/20260807113538270800",
+          "title": "A股民爆概念盘初走高，高争民爆涨超8%，保利联合涨超4%，易普力、雪峰科技、雅化集团跟涨。消息面上，工信部近日印发《民用爆炸物品行业安全发展“十五五”规划》。",
+          "url": "https://flash.jin10.com/detail/20260807093032310800",
           "source": "金十数据",
           "ranks": [
-            30
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时49分"
+          "time_info": "10时09分"
         }
       ]
     },
@@ -1330,6 +1497,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "从菜贩、沙滩到电商仓库，俄乌无人机战如何急剧升级外溢？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33731454",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时08分 ~ 18时44分]"
+        },
+        {
           "title": "商务部宣布加强无人机相关两用物项对美出口管制，此举会带来哪些影响？",
           "url": "https://www.zhihu.com/question/2068368932424115158",
           "source": "知乎",
@@ -1340,18 +1519,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时51分 ~ 10时09分]"
-        },
-        {
-          "title": "从菜贩、沙滩到电商仓库，俄乌无人机战如何急剧升级外溢？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33731454",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 17时53分]"
         },
         {
           "title": "俄罗斯“食尸鬼”无人机制造商负责人遇袭，一死一重伤",
@@ -1374,46 +1541,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国务院 发改委 工信部 财政部 证监会",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "中国财政部发行1年期债券，规模1400亿元，发行利率1.1619%，边际利率1.2174%，预期1.0700%，投标倍数2.00倍，边际倍数2.74倍； 中国财政部发行7年期债券，规模1000亿元，发行利率1.5039%，边际利率1.5240%，预期1.5300%，投标倍数6.08倍，边际倍数3.97倍。",
-          "url": "https://wallstreetcn.com/livenews/3146429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 14时07分]"
-        },
-        {
-          "title": "证监会同意力勤资源深交所主板IPO注册",
-          "url": "https://wallstreetcn.com/livenews/3146596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        },
-        {
-          "title": "A股民爆概念盘初走高，高争民爆涨超8%，保利联合涨超4%，易普力、雪峰科技、雅化集团跟涨。消息面上，工信部近日印发《民用爆炸物品行业安全发展“十五五”规划》。",
-          "url": "https://flash.jin10.com/detail/20260807093032310800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
         }
       ]
     },
@@ -1509,6 +1636,23 @@
       ]
     },
     {
+      "keyword_group": "华为 鸿蒙 HarmonyOS 鸿蒙NEXT",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "广汽埃安Ray 7完成工信部申报，搭载华为电驱与激光雷达",
+          "url": "https://wallstreetcn.com/livenews/3146640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "充电桩 超充 换电",
       "match_count": 1,
       "titles": [
@@ -1587,7 +1731,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         }
