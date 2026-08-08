@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T03:23:08.573802+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-08-09T04:19:41.553665+08:00",
+  "total_titles_processed": 423,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时19分]"
         },
         {
           "title": "A股多家上市公司收到美政府退税",
@@ -31,30 +32,32 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时19分]"
         },
         {
           "title": "我国多家上市公司宣布收到美国关税退税",
           "url": "https://wallstreetcn.com/livenews/3147014",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时19分]"
         },
         {
           "title": "武契奇会见泽连斯基，就经贸等领域合作交换意见",
           "url": "https://wallstreetcn.com/livenews/3146997",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时19分]"
         },
         {
           "title": "武契奇会晤泽连斯基 双方同意深化经贸合作",
@@ -62,11 +65,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时24分 ~ 03时23分]"
+          "appearance_count": 3,
+          "time_info": "[02时24分 ~ 04时19分]"
         },
         {
           "title": "《王者万象棋》预约人数突破5000万",
@@ -93,6 +97,71 @@
       ]
     },
     {
+      "keyword_group": "无人机 通航",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "阿曼：霍尔木兹海峡通航安排谈判在积极氛围中推进",
+          "url": "https://wallstreetcn.com/livenews/3147023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时19分]"
+        },
+        {
+          "title": "日媒曝防卫省预算创新高，将采购部署大量无人机",
+          "url": "https://news.ifeng.com/c/8vQN0RVNUw7",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时19分]"
+        },
+        {
+          "title": "市场消息：伊拉克方面宣布破获一个策划实施无人机袭击的武装网络。",
+          "url": "https://flash.jin10.com/detail/20260809033940473800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "紧邻天然气管道设施！一无人机自罗马尼亚方向进入保加利亚后爆炸",
+          "url": "https://wallstreetcn.com/livenews/3147009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时19分]"
+        },
+        {
+          "title": "市场消息：保加利亚因无人机在其境内爆炸召见乌克兰大使。",
+          "url": "https://flash.jin10.com/detail/20260809004711993800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 03时23分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 Apple iPhone",
       "match_count": 4,
       "titles": [
@@ -101,11 +170,12 @@
           "url": "https://wallstreetcn.com/livenews/3147006",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时19分]"
         },
         {
           "title": "苹果终于把千问接进Siri：中国版Apple Intelligence来了",
@@ -115,8 +185,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 03时23分]"
+          "appearance_count": 3,
+          "time_info": "[03时22分 ~ 04时19分]"
         },
         {
           "title": "苹果AI 千问",
@@ -143,58 +213,6 @@
       ]
     },
     {
-      "keyword_group": "无人机 通航",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "阿曼：霍尔木兹海峡通航安排谈判在积极氛围中推进",
-          "url": "https://wallstreetcn.com/livenews/3147023",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时23分]"
-        },
-        {
-          "title": "日媒曝防卫省预算创新高，将采购部署大量无人机",
-          "url": "https://news.ifeng.com/c/8vQN0RVNUw7",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时23分]"
-        },
-        {
-          "title": "市场消息：保加利亚因无人机在其境内爆炸召见乌克兰大使。",
-          "url": "https://flash.jin10.com/detail/20260809004711993800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 03时23分]"
-        },
-        {
-          "title": "紧邻天然气管道设施！一无人机自罗马尼亚方向进入保加利亚后爆炸",
-          "url": "https://wallstreetcn.com/livenews/3147009",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时23分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
       "match_count": 3,
       "titles": [
@@ -207,8 +225,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时19分]"
         },
         {
           "title": "AGI之后，硅谷又为资本开支找了一个新理由",
@@ -219,8 +237,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时19分]"
         },
         {
           "title": "如何看待 OpenCode Go 订阅中 DeepSeek v4 Flash 开启限时双倍活动？",
@@ -231,8 +249,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 03时23分]"
+          "appearance_count": 4,
+          "time_info": "[02时24分 ~ 04时19分]"
         }
       ]
     },
@@ -248,8 +266,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时19分]"
         },
         {
           "title": "油价刺激通胀、就业削弱加息--黄金“双面得利”",
@@ -259,8 +277,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时19分]"
         },
         {
           "title": "黄金走势即将逆袭？华尔街投行：现在是买入的绝佳时机",
@@ -270,8 +288,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时19分]"
         }
       ]
     },
@@ -288,8 +306,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时19分]"
         },
         {
           "title": "酒店花洒现排泄物住客索赔遭拒",
@@ -297,11 +315,12 @@
           "source": "百度热搜",
           "ranks": [
             18,
-            21
+            21,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时19分]"
         },
         {
           "title": "酒店回应车内过夜被收150元",
@@ -310,11 +329,12 @@
           "ranks": [
             24,
             18,
-            28
+            28,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时19分]"
         }
       ]
     },
@@ -330,8 +350,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时19分]"
         }
       ]
     },
@@ -344,11 +364,12 @@
           "url": "https://wallstreetcn.com/livenews/3146998",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时19分]"
         }
       ]
     },
@@ -362,11 +383,12 @@
           "source": "今日头条",
           "ranks": [
             29,
-            16
+            16,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 03时23分]"
+          "appearance_count": 4,
+          "time_info": "[02时24分 ~ 04时19分]"
         }
       ]
     },
@@ -382,8 +404,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时19分]"
         }
       ]
     }
