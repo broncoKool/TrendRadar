@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T05:23:54.282762+08:00",
-  "total_titles_processed": 433,
+  "generated_at": "2026-08-10T06:21:31.912924+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
@@ -8,27 +8,17 @@
       "match_count": 8,
       "titles": [
         {
-          "title": "也门军事消息人士：防空系统击落了6架试图袭击摩卡港的胡塞武装无人机。",
-          "url": "https://flash.jin10.com/detail/20260810043457162800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
           "title": "无人机威胁增多，德国新建机构研究应对",
           "url": "https://wallstreetcn.com/livenews/3147095",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 05时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 06时21分]"
         },
         {
           "title": "俄国防部：拦截285架乌克兰无人机并对乌发动空袭",
@@ -36,11 +26,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            6
+            6,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 05时23分]"
+          "appearance_count": 3,
+          "time_info": "[04时22分 ~ 06时21分]"
         },
         {
           "title": "俄罗斯国防部：俄罗斯防空系统拦截并摧毁285架乌克兰无人机。",
@@ -61,11 +52,24 @@
           "source": "金十数据",
           "ranks": [
             5,
-            10
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时22分 ~ 06时21分]"
+        },
+        {
+          "title": "也门军事消息人士：防空系统击落了6架试图袭击摩卡港的胡塞武装无人机。",
+          "url": "https://flash.jin10.com/detail/20260810043457162800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时22分 ~ 05时23分]"
+          "time_info": "[05时23分 ~ 06时21分]"
         },
         {
           "title": "市场消息：一名也门高级消息人士强调，沙特军官及其部队和雇佣军将无法幸免于也门军队的导弹和无人机攻击。",
@@ -106,7 +110,7 @@
     },
     {
       "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "网上卖黄金卷入电诈8万元被划扣，驻马店市公安局称新蔡警方程序违法",
@@ -117,8 +121,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 06时21分]"
         },
         {
           "title": "现货黄金周涨超7%站上4300美元，为何突然大涨？",
@@ -126,11 +130,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 06时21分]"
         },
         {
           "title": "利润大涨超100%，这一行业，黄金窗口期来了",
@@ -140,8 +145,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 06时21分]"
+        },
+        {
+          "title": "现货黄金周一开盘上涨0.2%，现报4349美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260810060105196800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "一边买黄金，一边买美股",
@@ -151,8 +167,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时21分 ~ 05时23分]"
+          "appearance_count": 4,
+          "time_info": "[04时21分 ~ 06时21分]"
         },
         {
           "title": "重庆铜梁龙不敌上海海港",
@@ -180,8 +196,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 06时21分]"
         },
         {
           "title": "宇树科技上市后或冲刺1000亿估值",
@@ -232,8 +248,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 06时21分]"
         },
         {
           "title": "马斯克，要颠覆EUV光刻机？",
@@ -244,19 +260,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 06时21分]"
         },
         {
           "title": "马斯克或采用FEL技术挑战EUV光刻机",
           "url": "https://flash.jin10.com/detail/20260810045558184800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时21分]"
         }
       ]
     },
@@ -272,8 +289,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 06时21分]"
         },
         {
           "title": "原字节跳动机器人一号位加入小米",
@@ -283,8 +300,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 06时21分]"
         }
       ]
     },
@@ -300,8 +317,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 06时21分]"
         },
         {
           "title": "磷化铟是下一个“稀土”？关键产业如何成为反制核心，卡住美国光通信的脖子？",
@@ -329,8 +346,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 06时21分]"
         }
       ]
     },
@@ -344,11 +361,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 05时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 06时21分]"
         }
       ]
     },
@@ -367,8 +385,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 06时21分]"
         }
       ]
     },
@@ -384,8 +402,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 05时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 06时21分]"
         }
       ]
     },
@@ -399,11 +417,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 05时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 06时21分]"
         }
       ]
     }
