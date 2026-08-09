@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T15:46:36.944064+08:00",
-  "total_titles_processed": 946,
+  "generated_at": "2026-08-09T16:32:45.517983+08:00",
+  "total_titles_processed": 996,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "比亚迪纯电 K-car「海獭」Racco 在日本获超 700 辆订单，这对其出海战略意味着什么？",
@@ -53,11 +53,12 @@
             20,
             23,
             30,
-            29
+            29,
+            21
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 13时42分]"
+          "appearance_count": 16,
+          "time_info": "[00时22分 ~ 16时32分]"
         },
         {
           "title": "武契奇会见泽连斯基，就经贸等领域合作交换意见",
@@ -82,8 +83,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时02分 ~ 15时46分]"
+          "appearance_count": 7,
+          "time_info": "[11时02分 ~ 16时32分]"
         },
         {
           "title": "首个全国产10万卡AI超集群投用",
@@ -92,9 +93,20 @@
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时46分 ~ 16时32分]"
+        },
+        {
+          "title": "摩尔线程：筹划发行H股股票并在香港联合交易所有限公司主板上市。",
+          "url": "https://wallstreetcn.com/livenews/3147055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时46分"
+          "time_info": "16时32分"
         },
         {
           "title": "约旦外交部：两位外交大臣还讨论了一些共同关心的问题，以及加强阿拉伯共同合作的前景和途径，并一致同意在双边及多边组织框架内继续协调和磋商，针对地区和国际问题进行合作。",
@@ -183,6 +195,17 @@
           "time_info": "[08时59分 ~ 09时00分]"
         },
         {
+          "title": "摩尔线程：筹划发行H股股票并在港交所主板上市",
+          "url": "https://flash.jin10.com/detail/20260809155351803800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "据票务平台实时数据，截至8月9日9时19分，影片《奥德赛》点映及预售总票房突破6000万。",
           "url": "https://flash.jin10.com/detail/20260809092601754800",
           "source": "金十数据",
@@ -208,7 +231,7 @@
     },
     {
       "keyword_group": "苹果 Apple iPhone",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "苹果终于把千问接进Siri：中国版Apple Intelligence来了",
@@ -224,8 +247,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[03时22分 ~ 15时46分]"
+          "appearance_count": 16,
+          "time_info": "[03时22分 ~ 16时32分]"
         },
         {
           "title": "【早报】Apple智能可配合阿里千问模型工作；江波龙定增大幅溢价",
@@ -237,8 +260,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时59分 ~ 15时46分]"
+          "appearance_count": 9,
+          "time_info": "[08时59分 ~ 16时32分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
@@ -260,11 +283,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时56分 ~ 15时46分]"
+          "appearance_count": 5,
+          "time_info": "[12时56分 ~ 16时32分]"
         },
         {
           "title": "iPhone18Pro 涨价",
@@ -279,6 +303,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[08时59分 ~ 14时40分]"
+        },
+        {
+          "title": "苹果回应删除接入千问手册：没收到通知，中国大陆还没推出“Apple智能使用千问”功能",
+          "url": "https://wallstreetcn.com/livenews/3147061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "苹果中国官网删除Apple智能接入阿里千问手册",
@@ -309,6 +344,18 @@
           "time_info": "[12时56分 ~ 14时40分]"
         },
         {
+          "title": "iPhone17下周或涨价",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone17%E4%B8%8B%E5%91%A8%E6%88%96%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时46分 ~ 16时32分]"
+        },
+        {
           "title": "苹果官网删除千问使用手册",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%AE%98%E7%BD%91%E5%88%A0%E9%99%A4%E5%8D%83%E9%97%AE%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -326,7 +373,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -340,17 +387,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
-        },
-        {
-          "title": "iPhone17下周或涨价",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone17%E4%B8%8B%E5%91%A8%E6%88%96%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时46分"
         },
         {
           "title": "苹果与阿里巴巴合作，千问AI功能上线Mac",
@@ -373,6 +409,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "折叠屏iPhone配色",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%8A%98%E5%8F%A0%E5%B1%8FiPhone%E9%85%8D%E8%89%B2%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         }
       ]
     },
@@ -390,11 +437,12 @@
             7,
             17,
             21,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 15时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时22分 ~ 16时32分]"
         },
         {
           "title": "日媒曝防卫省预算创新高，将采购部署大量无人机",
@@ -422,15 +470,18 @@
           "time_info": "[00时22分 ~ 11时02分]"
         },
         {
-          "title": "据俄新社：俄罗斯别尔哥罗德发生无人机袭击，造成三人死亡。",
-          "url": "https://flash.jin10.com/detail/20260809152957607800",
-          "source": "金十数据",
+          "title": "俄称打击乌无人机仓库 乌称袭击俄方炼油厂",
+          "url": "https://wallstreetcn.com/livenews/3147034",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            8,
+            12,
+            13,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时46分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时02分 ~ 16时32分]"
         },
         {
           "title": "市场消息：伊拉克方面宣布破获一个策划实施无人机袭击的武装网络。",
@@ -445,19 +496,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时19分 ~ 07时20分]"
-        },
-        {
-          "title": "俄称打击乌无人机仓库 乌称袭击俄方炼油厂",
-          "url": "https://wallstreetcn.com/livenews/3147034",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时02分 ~ 15时46分]"
         },
         {
           "title": "俄称边境州遭乌大规模无人机袭击 已致13人受伤",
@@ -484,6 +522,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时22分 ~ 03时23分]"
+        },
+        {
+          "title": "据俄新社：俄罗斯别尔哥罗德发生无人机袭击，造成三人死亡。",
+          "url": "https://flash.jin10.com/detail/20260809152957607800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时46分 ~ 16时32分]"
         },
         {
           "title": "海湾国家担忧伊朗“以钱换通航”，但应对空间极为有限",
@@ -553,8 +603,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时22分 ~ 15时46分]"
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 16时32分]"
         },
         {
           "title": "黄金走势即将逆袭？华尔街投行：现在是买入的绝佳时机",
@@ -578,8 +628,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时56分 ~ 15时46分]"
+          "appearance_count": 6,
+          "time_info": "[12时56分 ~ 16时32分]"
         },
         {
           "title": "刚果禁令拉响市场警报，铜价反应为时过早？",
@@ -687,11 +737,12 @@
           "ranks": [
             5,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时22分 ~ 15时46分]"
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 16时32分]"
         },
         {
           "title": "AGI之后，硅谷又为资本开支找了一个新理由",
@@ -704,8 +755,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时22分 ~ 15时46分]"
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 16时32分]"
         },
         {
           "title": "如何看待 OpenCode Go 订阅中 DeepSeek v4 Flash 开启限时双倍活动？",
@@ -746,22 +797,24 @@
           "ranks": [
             14,
             9,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时42分 ~ 15时46分]"
+          "appearance_count": 5,
+          "time_info": "[13时42分 ~ 16时32分]"
         },
         {
           "title": "余承东拆机最新款鸿蒙电脑",
           "url": "https://www.toutiao.com/trending/7671616229925732388/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时46分 ~ 16时32分]"
         }
       ]
     },
@@ -849,8 +902,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时56分 ~ 15时46分]"
+          "appearance_count": 6,
+          "time_info": "[12时56分 ~ 16时32分]"
         }
       ]
     },
@@ -865,9 +918,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时46分 ~ 16时32分]"
         }
       ]
     },
@@ -882,9 +935,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时46分 ~ 16时32分]"
         }
       ]
     },
@@ -902,8 +955,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时59分 ~ 15时46分]"
+          "appearance_count": 9,
+          "time_info": "[08时59分 ~ 16时32分]"
         }
       ]
     },
