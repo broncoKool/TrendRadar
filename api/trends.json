@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T05:34:18.939607+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2026-08-11T07:27:19.355955+08:00",
+  "total_titles_processed": 631,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
@@ -19,13 +19,24 @@
           "time_info": "[00时44分 ~ 05时34分]"
         },
         {
+          "title": "霍尔木兹僵局推油价大涨5%，英伟达\"循环融资\"担忧打压美股指，芯片指数跌3%，黄金续涨",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
           "title": "智利国家铜业委员会：智利科拉瓦西矿6月份铜产量同比增长1.7%，达到34,900吨。",
           "url": "https://flash.jin10.com/detail/20260811051431874800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         },
@@ -36,7 +47,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         },
@@ -47,9 +58,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "锂价止跌企稳，碳酸锂紧平衡格局仍稳固",
+          "url": "https://wallstreetcn.com/livenews/3147730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         },
         {
           "title": "国际铜夜盘收跌0.02%，沪铜收涨0.16%，沪铝收涨0.64%，沪锌收涨0.35%，沪铅收涨0.60%，沪镍收跌0.42%，沪锡收跌0.46%。 氧化铝夜盘收跌0.59%，铝合金收涨0.28%。 不锈钢夜盘收跌0.62%。",
@@ -88,6 +110,39 @@
           "time_info": "[01时45分 ~ 02时45分]"
         },
         {
+          "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
+          "url": "https://www.cls.cn/detail/2450678",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "现货黄金突破4400美元/盎司，为6月5日以来新高，日内涨0.2%。",
+          "url": "https://flash.jin10.com/detail/20260811065555735800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加3.423吨，当前持仓量为1020.96吨。",
+          "url": "https://flash.jin10.com/detail/20260811061924190800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
           "title": "智利政府部长：智利政府将对铜生产商CODELCO的2025年利润进行100%再资本化。",
           "url": "https://flash.jin10.com/detail/20260811014009987800",
           "source": "金十数据",
@@ -97,12 +152,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
+        },
+        {
+          "title": "多路资金买入黄金，机构热议新“击球区”出现",
+          "url": "https://wallstreetcn.com/livenews/3147715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         }
       ]
     },
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "泽连斯基声称5万朝军或入俄，呼吁韩国与乌克兰加强合作",
@@ -113,8 +179,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时27分]"
         },
         {
           "title": "一图看懂｜禁令获批VS订单暴增：药明康德的两个“战场”",
@@ -172,6 +238,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "明星新股密集上市，多家银行上线“打新理财”专区",
+          "url": "https://wallstreetcn.com/livenews/3147726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "在手订单饱满，多赛道释放高景气信号",
+          "url": "https://wallstreetcn.com/livenews/3147723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "今日起，豆包推荐酒店将收取佣金：综合扣费12%！",
+          "url": "https://wallstreetcn.com/articles/3779079",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时27分]"
+        },
+        {
+          "title": "OpenAI：推出ChatGPT企业版高级席位，月租至少100美元",
+          "url": "https://wallstreetcn.com/livenews/3147627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 02时45分]"
+        },
+        {
+          "title": "Anthropic表示，他们曾让一个尚未发布的研究版Claude尝试解决“黎曼猜想”。虽然Claude未能证明这一著名数学猜想，但在相关问题上取得进展，将黎曼ζ函数零点中满足黎曼猜想的零点比例下界从41.6%提高至67.2%。",
+          "url": "https://flash.jin10.com/detail/20260811065651934800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "OpenAI：为ChatGPT Business推出高级席位（Premium Seats）。",
+          "url": "https://flash.jin10.com/detail/20260811005120672800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时45分"
         }
       ]
     },
@@ -199,11 +338,12 @@
             24,
             17,
             18,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 05时34分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 07时27分]"
         },
         {
           "title": "潮起渤海湾，奋楫“十五五”——党中央国务院邀请优秀专家人才代表北戴河休假侧记",
@@ -230,48 +370,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "今日起，豆包推荐酒店将收取佣金：综合扣费12%！",
-          "url": "https://wallstreetcn.com/articles/3779079",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时34分]"
-        },
-        {
-          "title": "OpenAI：推出ChatGPT企业版高级席位，月租至少100美元",
-          "url": "https://wallstreetcn.com/livenews/3147627",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 02时45分]"
-        },
-        {
-          "title": "OpenAI：为ChatGPT Business推出高级席位（Premium Seats）。",
-          "url": "https://flash.jin10.com/detail/20260811005120672800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        }
-      ]
-    },
-    {
       "keyword_group": "免税 旅游 酒店 餐饮",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "旅游发朋友圈为什么要带定位",
@@ -281,11 +381,12 @@
             8,
             7,
             2,
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时27分]"
         },
         {
           "title": "经常旅游的人都有一个共性",
@@ -311,6 +412,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时44分 ~ 02时45分]"
+        },
+        {
+          "title": "市场消息：黑石集团(BX.N)即将以20亿美元收购加拿大航空Aeroplan忠诚度计划的少数股权。这笔交易将为加拿大航空注入新的资金以应对燃油成本上升和美国旅游需求疲软。",
+          "url": "https://flash.jin10.com/detail/20260811055058061800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         }
       ]
     },
@@ -323,11 +435,12 @@
           "url": "https://wallstreetcn.com/articles/3779046",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时27分]"
         },
         {
           "title": "英伟达：联手高盛等华尔街巨头，建立AI算力基础设施融资平台，来撬动超过5000亿美元的第三方资本",
@@ -344,6 +457,37 @@
       ]
     },
     {
+      "keyword_group": "苹果 Apple iPhone",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "iPhone18Pro等7款新品彻底泄密",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%AD%897%E6%AC%BE%E6%96%B0%E5%93%81%E5%BD%BB%E5%BA%95%E6%B3%84%E5%AF%86%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            9,
+            19,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时27分]"
+        },
+        {
+          "title": "台积电因内存短缺积压10亿美元苹果芯片？分析师郭明錤否认",
+          "url": "https://flash.jin10.com/detail/20260811055637856800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人形机器人 机器人 具身智能 灵巧手",
       "match_count": 2,
       "titles": [
@@ -352,11 +496,12 @@
           "url": "https://www.cls.cn/detail/2450388",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时27分]"
         },
         {
           "title": "IPO周报｜本周4只新股申购，“人形机器人第一股”宇树科技今日打新",
@@ -365,11 +510,40 @@
           "ranks": [
             14,
             13,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "无人机 通航",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "利比亚国家石油公司主席：一架无人机击中扎维耶炼油厂的满载燃料储罐。周六还发生了另一起袭击，但并未引发火灾。",
+          "url": "https://wallstreetcn.com/livenews/3147667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
+          "title": "利比亚国家石油公司：扎维亚石油混合厂遭无人机袭击，未造成损失或伤亡。这是周日和周一针对扎维耶石油资产的第三次攻击。",
+          "url": "https://flash.jin10.com/detail/20260811060353095800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         }
       ]
     },
@@ -383,11 +557,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时27分]"
         },
         {
           "title": "OpenAI：我们正在扩展网络安全计划Daybreak，并推出新模型GPT-5.6-Cyber，用于开展先进且经过授权的网络安全工作。",
@@ -403,6 +578,35 @@
       ]
     },
     {
+      "keyword_group": "创新药 ADC CAR-T GLP-1",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【焦点复盘】微盘股指数7连涨站上年线，全市场近百股涨停，AI赋能持续催热创新药概念",
+          "url": "https://www.cls.cn/detail/2450137",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时27分]"
+        },
+        {
+          "title": "中报窗口期机构密集调研，创新药步入业绩与国际化兑现期",
+          "url": "https://wallstreetcn.com/livenews/3147727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "稀土 锗 镓 锑 钨",
       "match_count": 2,
       "titles": [
@@ -414,8 +618,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时27分]"
         },
         {
           "title": "美国稀土公司盘后下跌5%，此前公布第二季度业绩并宣布收购计划。",
@@ -424,7 +628,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         }
@@ -459,7 +663,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         }
@@ -477,44 +681,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时34分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple iPhone",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "iPhone18Pro等7款新品彻底泄密",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%AD%897%E6%AC%BE%E6%96%B0%E5%93%81%E5%BD%BB%E5%BA%95%E6%B3%84%E5%AF%86%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时34分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "无人机 通航",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "利比亚国家石油公司主席：一架无人机击中扎维耶炼油厂的满载燃料储罐。周六还发生了另一起袭击，但并未引发火灾。",
-          "url": "https://wallstreetcn.com/livenews/3147667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时33分"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时27分]"
         }
       ]
     },
@@ -531,25 +699,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时45分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "创新药 ADC CAR-T GLP-1",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【焦点复盘】微盘股指数7连涨站上年线，全市场近百股涨停，AI赋能持续催热创新药概念",
-          "url": "https://www.cls.cn/detail/2450137",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 07时27分]"
         }
       ]
     }
