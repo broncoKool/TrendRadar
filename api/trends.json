@@ -1,622 +1,95 @@
 {
-  "generated_at": "2026-08-11T23:53:03.752895+08:00",
-  "total_titles_processed": 1897,
+  "generated_at": "2026-08-12T00:48:51.755119+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 39,
+      "match_count": 7,
       "titles": [
         {
-          "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时34分]"
-        },
-        {
-          "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
-          "url": "https://www.cls.cn/detail/2450678",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时27分 ~ 14时50分]"
-        },
-        {
-          "title": "霍尔木兹僵局推油价大涨5%，英伟达\"循环融资\"担忧打压美股指，芯片指数跌3%，黄金续涨",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "智利国家铜业委员会：智利科拉瓦西矿6月份铜产量同比增长1.7%，达到34,900吨。",
-          "url": "https://flash.jin10.com/detail/20260811051431874800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时34分"
-        },
-        {
-          "title": "智利国家铜业委员会：智利埃斯孔迪达铜矿6月份铜产量同比增长45.8%，达到111,400吨。",
-          "url": "https://flash.jin10.com/detail/20260811051428380800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时34分"
-        },
-        {
-          "title": "智利国家铜业委员会：智利国家铜业公司6月份铜产量同比下降4.8%至114,400吨。",
-          "url": "https://flash.jin10.com/detail/20260811051120121800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时34分"
-        },
-        {
-          "title": "芝商所集团：自7月24日推出以来，周末期间1盎司黄金期货的交易额已超过2亿美元。",
-          "url": "https://flash.jin10.com/detail/20260811200642053800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "贵金属延续上周涨势，黄金站上4400美元关口，多空博弈剧烈；白银站上65美元，多头占比进一步走高至92%，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260811105115505800",
-          "source": "金十数据",
+          "title": "智利铜委员会预计，智利2027年铜产量将达555万吨，较2026年增长5.2%。",
+          "url": "https://wallstreetcn.com/livenews/3148171",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时06分"
+          "time_info": "00时48分"
         },
         {
-          "title": "黄金",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=12&Refer=top",
-          "source": "微博",
+          "title": "智利铜业委员会Cochilco预计，智利2027年铜产量将达到555万吨，比2026年增长5.2%。",
+          "url": "https://flash.jin10.com/detail/20260812002203493800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            21,
-            25
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时06分 ~ 14时50分]"
+          "appearance_count": 1,
+          "time_info": "00时48分"
         },
         {
-          "title": "国际铜夜盘收跌0.02%，沪铜收涨0.16%，沪铝收涨0.64%，沪锌收涨0.35%，沪铅收涨0.60%，沪镍收跌0.42%，沪锡收跌0.46%。 氧化铝夜盘收跌0.59%，铝合金收涨0.28%。 不锈钢夜盘收跌0.62%。",
-          "url": "https://wallstreetcn.com/livenews/3147631",
-          "source": "华尔街见闻-快讯",
+          "title": "智利铜委员会Cochilco预计，智利2026年铜产量将达到527万吨，比2025年下降2.6%。",
+          "url": "https://flash.jin10.com/detail/20260812001641391800",
+          "source": "金十数据",
           "ranks": [
-            4,
-            10
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 02时45分]"
+          "appearance_count": 1,
+          "time_info": "00时48分"
         },
         {
-          "title": "现货黄金日内涨幅达0.5%，报4362.96美元/盎司。 纽约银日内涨幅达3.0%，报65.44美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3147608",
-          "source": "华尔街见闻-快讯",
+          "title": "智利铜业委员会Cochilco预计，2027年全球铜产量将达到2450万吨。",
+          "url": "https://flash.jin10.com/detail/20260812001515491800",
+          "source": "金十数据",
           "ranks": [
-            5,
-            25
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时45分]"
+          "appearance_count": 1,
+          "time_info": "00时48分"
         },
         {
-          "title": "锂价止跌企稳，碳酸锂紧平衡格局仍稳固",
-          "url": "https://wallstreetcn.com/livenews/3147730",
-          "source": "华尔街见闻-快讯",
+          "title": "智利铜业委员会Cochilco预计，2026年全球铜产量将达到2350万吨，较2025年增长0.2%。",
+          "url": "https://flash.jin10.com/detail/20260812001459331800",
+          "source": "金十数据",
           "ranks": [
-            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "据相关声明：智利铜委员会Cochilco将2027年平均铜价预估维持在每磅5.10美元。",
+          "url": "https://flash.jin10.com/detail/20260812001232384800",
+          "source": "金十数据",
+          "ranks": [
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 09时01分]"
-        },
-        {
-          "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股期指走高，黄金冲高回落",
-          "url": "https://wallstreetcn.com/articles/3779161",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 20时43分]"
-        },
-        {
-          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报144750元/吨，较上日16:30价格持平。",
-          "url": "https://wallstreetcn.com/livenews/3147813",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时06分 ~ 13时01分]"
-        },
-        {
-          "title": "LME期铜收涨84美元，报14160美元/吨。 LME期铝收涨38美元，报3318美元/吨。 LME期锌收涨30美元，报3738美元/吨。 LME期铅收涨16美元，报1903美元/吨。 LME期镍收跌79美元，报16925美元/吨。 LME期锡收涨222美元，报55752美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3147626",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 02时45分]"
-        },
-        {
-          "title": "金价冲上4400美元 黄金股为何跳水",
-          "url": "https://www.toutiao.com/trending/7672685366725316123/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 22时14分]"
-        },
-        {
-          "title": "对话复旦大学李银胜：AI会带来“文化人”的黄金时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33757463",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时52分 ~ 23时53分]"
-        },
-        {
-          "title": "现货黄金突破4400美元/盎司，为6月5日以来新高，日内涨0.2%。",
-          "url": "https://flash.jin10.com/detail/20260811065555735800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时27分"
+          "time_info": "00时48分"
         },
         {
-          "title": "黄金空头仍未放弃抵抗？",
-          "url": "https://flash.jin10.com/detail/20260811200450009800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "印尼铜出口因冶炼厂故障延误，铜价高位运行之际供应再承压",
-          "url": "https://flash.jin10.com/detail/20260811133725064800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "A股贵金属板块高开低走，赤峰黄金跌近9%，四川黄金、招金黄金、中金黄金、山金国际、西部黄金均跌超5%。",
-          "url": "https://wallstreetcn.com/livenews/3147895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        },
-        {
-          "title": "现货黄金涨破4400美元/盎司",
-          "url": "https://www.toutiao.com/trending/7672549105893117486/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "黄金与传统叙事再次脱钩，谁在拉盘？下一步看哪？——新版发布",
-          "url": "https://flash.jin10.com/detail/20260811104212848800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
-        },
-        {
-          "title": "黄金冲破4400美元后急刹车，机构喊话：短期噪音不改牛市根基",
-          "url": "https://flash.jin10.com/detail/20260811173609978800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        },
-        {
-          "title": "实际利率压不住黄金，多头为更大的信誉风险买单！",
-          "url": "https://flash.jin10.com/detail/20260811230011726800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
-        },
-        {
-          "title": "挂单报告：国际现货黄金有所反弹 镑美此处多单集中",
-          "url": "https://flash.jin10.com/detail/20260811200233439800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加3.423吨，当前持仓量为1020.96吨。",
-          "url": "https://flash.jin10.com/detail/20260811061924190800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 8月11日（周二）晚盘盘初上涨0.59%报946.69元/克；<br/>上海黄金交易所白银T+D 8月11日（周二）晚盘盘初上涨0.81%报15678.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260811200019985800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "智利政府部长：智利政府将对铜生产商CODELCO的2025年利润进行100%再资本化。",
-          "url": "https://flash.jin10.com/detail/20260811014009987800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时45分"
-        },
-        {
-          "title": "金十期货8月11日讯，据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格与上日持平，中间价报144750元/吨。",
-          "url": "https://flash.jin10.com/detail/20260811103525125800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
-        },
-        {
-          "title": "黄金冲高回落，耐心等待突破！​《大有作V》栏目更新，3分钟解读国际金走势>><font class=\"important-text\"></font>",
-          "url": "https://flash.jin10.com/detail/20260811214706106800",
+          "title": "据相关声明：智利铜业委员会Cochilco将2026年平均铜价预估上调至每磅5.95美元。",
+          "url": "https://flash.jin10.com/detail/20260812001208309800",
           "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "黄金为何大涨",
-          "url": "https://www.douyin.com/hot/2604936",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
-        },
-        {
-          "title": "现货黄金下破4400美元/盎司关口，最低至4381美元/盎司附近，日内转跌0.15%。",
-          "url": "https://flash.jin10.com/detail/20260811133034938800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "多路资金买入黄金，机构热议新“击球区”出现",
-          "url": "https://wallstreetcn.com/livenews/3147715",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "港股黄金股午后跌幅扩大，紫金矿业(02899.HK)跌超5%，灵宝黄金(03330.HK)跌超6%，招金矿业(01818.HK)、山东黄金(01787.HK)等跟跌。",
-          "url": "https://flash.jin10.com/detail/20260811132756854800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "LME现货铜溢价飙升至近10个月新高",
-          "url": "https://wallstreetcn.com/livenews/3148085",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "港股黄金股高开低走，灵宝黄金(03330.HK)跌超4%，紫金矿业(02899.HK)跌超3%，招金矿业(01818.HK)、赤峰黄金(06693.HK)等跟跌。",
-          "url": "https://flash.jin10.com/detail/20260811102643172800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
-        },
-        {
-          "title": "黄金概念股大幅反弹才刚刚开始吗",
-          "url": "https://www.toutiao.com/trending/7672614933707623945/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        },
-        {
-          "title": "印尼铜出口因冶炼厂故障延误",
-          "url": "https://wallstreetcn.com/livenews/3147872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时50分"
+          "time_info": "00时48分"
         }
       ]
     },
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 33,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "泽连斯基声称5万朝军或入俄，呼吁韩国与乌克兰加强合作",
-          "url": "https://news.ifeng.com/c/8vTdI4YiJIX",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 07时27分]"
-        },
-        {
-          "title": "怎么看AI突破黎曼猜想下界",
-          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E7%AA%81%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8B%E7%95%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            10,
-            13,
-            26,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时50分 ~ 23时53分]"
-        },
-        {
-          "title": "AI在黎曼猜想上做出了什么突破",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%A8%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8A%E5%81%9A%E5%87%BA%E4%BA%86%E4%BB%80%E4%B9%88%E7%AA%81%E7%A0%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            5,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时06分 ~ 14时50分]"
-        },
-        {
-          "title": "一图看懂｜禁令获批VS订单暴增：药明康德的两个“战场”",
-          "url": "https://www.cls.cn/detail/2450182",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时34分]"
-        },
-        {
-          "title": "中国-印度尼西亚地方政府合作对话会在日惹举行",
-          "url": "https://flash.jin10.com/detail/20260811201143808800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "布伦特原油突破87美元/桶，日内涨6.77%。",
-          "url": "https://flash.jin10.com/detail/20260811022019927800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时45分"
-        },
-        {
-          "title": "沪深两市成交额连续第6个交易日突破2万亿元。",
-          "url": "https://flash.jin10.com/detail/20260811142257460800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        },
-        {
-          "title": "国家药监局附条件批准替恩戈替尼片上市",
-          "url": "https://flash.jin10.com/detail/20260811183414033800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
-          "title": "招商银行零售AUM突破18万亿元",
-          "url": "https://wallstreetcn.com/livenews/3148021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
-          "title": "富国银行策略师Marcus Jennings：最近几个交易日，我们已经看到干预的影响逐渐消退。美元/日元的160关口非常重要，因为100日移动均线目前就在这一水平附近。 日本央行如果在9月加息，短期内可能有助于避免汇率突破这一关口。",
-          "url": "https://wallstreetcn.com/livenews/3148146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
-        },
-        {
-          "title": "瑞穗银行高级策略师Masayuki Nakajima在一份报告中写道：“如果美元/日元明确突破具有重要心理意义的160关口，市场对干预的担忧可能进一步升温。”",
-          "url": "https://wallstreetcn.com/livenews/3148145",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
-        },
-        {
-          "title": "知情人士称，通用汽车公司准备将其位于印第安纳州、计划投资35亿美元的电动汽车电池合资项目中的一半股权出售给合作伙伴三星SDI。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3147820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时06分 ~ 13时54分]"
-        },
-        {
-          "title": "首日上市突破500元！“大肉签”跻身A股股价前十，高价阵营频见新股面孔",
-          "url": "https://www.cls.cn/detail/2451293",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时43分 ~ 23时53分]"
-        },
-        {
-          "title": "【数读IPO】今日3只新股上市，涉及新材料细分领域“小巨人”等",
-          "url": "https://www.cls.cn/detail/2450706",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时06分 ~ 13时01分]"
-        },
         {
           "title": "比亚迪2027款海豹06上市",
           "url": "https://www.toutiao.com/trending/7672587129632882738/",
@@ -625,862 +98,98 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时52分 ~ 23时53分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)：本公司及合作伙伴将为人工智能基础设施客户创建专用资金池。",
-          "url": "https://flash.jin10.com/detail/20260811040700664800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 05时34分]"
-        },
-        {
-          "title": "明星新股密集上市，多家银行上线“打新理财”专区",
-          "url": "https://wallstreetcn.com/livenews/3147726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 09时01分]"
-        },
-        {
-          "title": "在手订单饱满，多赛道释放高景气信号",
-          "url": "https://wallstreetcn.com/livenews/3147723",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 09时01分]"
-        },
-        {
-          "title": "报道：英伟达与多家公司围绕5000亿美元AI融资协议合作",
-          "url": "https://wallstreetcn.com/livenews/3147615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 02时45分]"
-        },
-        {
-          "title": "现货白银突破65美元/盎司，日内涨2.32%。",
-          "url": "https://flash.jin10.com/detail/20260811000013515800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时44分"
+          "time_info": "00时48分"
         },
         {
-          "title": "卡塔尔国防部：卡塔尔武装部队总参谋长会见海湾阿拉伯国家合作委员会军事事务助理秘书长。",
-          "url": "https://flash.jin10.com/detail/20260811173736454800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        },
-        {
-          "title": "保利发展：7月实现签约面积77.98万平方米，同比减少14.30%",
-          "url": "https://flash.jin10.com/detail/20260811173610817800",
-          "source": "金十数据",
+          "title": "首日上市突破500元！“大肉签”跻身A股股价前十，高价阵营频见新股面孔",
+          "url": "https://www.cls.cn/detail/2451293",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时53分"
+          "time_info": "00时48分"
         },
         {
-          "title": "虹嘉工业涂料中标印尼泰景铝业60万吨电解铝项目",
-          "url": "https://flash.jin10.com/detail/20260811173412285800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        },
-        {
-          "title": "市场消息：英特尔股票发售中据悉约33%的认购订单未获配售。",
-          "url": "https://flash.jin10.com/detail/20260811224214102800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
-        },
-        {
-          "title": "据知情人士透露，在英特尔股票增发过程中，大约33%的认购订单没有获得配售。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3148132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
-        },
-        {
-          "title": "南方电网用电负荷今年五创新高 突破2.78亿千瓦",
-          "url": "https://flash.jin10.com/detail/20260811224014424800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
-        },
-        {
-          "title": "Anthropic据悉与云计算公司Riot达成91亿美元合作协议",
-          "url": "https://flash.jin10.com/detail/20260811081726717800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "索尼与台积电将在日本成立先进图像传感器合资公司，采用先进制程技术2029年量产",
-          "url": "https://wallstreetcn.com/livenews/3148002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
-          "title": "德国基金行业管理的资产规模首次突破5万亿欧元 ETF需求强劲",
-          "url": "https://wallstreetcn.com/livenews/3148055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "摩根大通：电力需求飙升 二季度全球燃气轮机订单量飙升至创纪录水平",
-          "url": "https://flash.jin10.com/detail/20260811103310212800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
-        },
-        {
-          "title": "宁德时代与龙洲股份签署战略合作协议",
-          "url": "https://flash.jin10.com/detail/20260811194449814800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "布伦特原油突破90美元/桶关口，日内涨幅达2.4%；WTI原油日内涨幅达2.5%，报84.21美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3147957",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        },
-        {
-          "title": "万泰生物：九价HPV疫苗获泰国上市许可",
-          "url": "https://wallstreetcn.com/livenews/3147956",
+          "title": "富国银行策略师Marcus Jennings：最近几个交易日，我们已经看到干预的影响逐渐消退。美元/日元的160关口非常重要，因为100日移动均线目前就在这一水平附近。 日本央行如果在9月加息，短期内可能有助于避免汇率突破这一关口。",
+          "url": "https://wallstreetcn.com/livenews/3148146",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时53分"
+          "time_info": "00时48分"
+        },
+        {
+          "title": "瑞穗银行高级策略师Masayuki Nakajima在一份报告中写道：“如果美元/日元明确突破具有重要心理意义的160关口，市场对干预的担忧可能进一步升温。”",
+          "url": "https://wallstreetcn.com/livenews/3148145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
-      "match_count": 16,
+      "match_count": 3,
       "titles": [
         {
-          "title": "今日起，豆包推荐酒店将收取佣金：综合扣费12%！",
-          "url": "https://wallstreetcn.com/articles/3779079",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时44分 ~ 17时53分]"
-        },
-        {
-          "title": "豆包否认推荐酒店抽取 12% 佣金，称仅在订单成交后收取渠道服务费，字节在打哪些商业算盘？",
-          "url": "https://www.zhihu.com/question/2070274629227083477",
+          "title": "Claude 证明黎曼猜想取得了重大突破，这个事件有什么开创性意义？",
+          "url": "https://www.zhihu.com/question/2070452772391194651",
           "source": "知乎",
           "ranks": [
-            13,
-            12,
-            8,
-            14
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时06分 ~ 18时43分]"
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "怎么看 DeepSeek 注册 Harness 公众号并选用黑鲸鱼 logo ？",
+          "url": "https://www.zhihu.com/question/2070437867311174069",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
         },
         {
           "title": "推荐酒店收佣金,豆包转行当中介",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357131&amp;topic_name=%E6%8E%A8%E8%8D%90%E9%85%92%E5%BA%97%E6%94%B6%E4%BD%A3%E9%87%91%2C%E8%B1%86%E5%8C%85%E8%BD%AC%E8%A1%8C%E5%BD%93%E4%B8%AD%E4%BB%8B",
           "source": "贴吧",
           "ranks": [
-            19,
-            20,
             23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时52分 ~ 23时53分]"
-        },
-        {
-          "title": "豆包回应“推荐酒店抽取12%佣金”",
-          "url": "https://www.baidu.com/s?wd=%E8%B1%86%E5%8C%85%E5%9B%9E%E5%BA%94%E2%80%9C%E6%8E%A8%E8%8D%90%E9%85%92%E5%BA%97%E6%8A%BD%E5%8F%9612%25%E4%BD%A3%E9%87%91%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 11时06分]"
-        },
-        {
-          "title": "OpenAI：推出ChatGPT企业版高级席位，月租至少100美元",
-          "url": "https://wallstreetcn.com/livenews/3147627",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 02时45分]"
-        },
-        {
-          "title": "上海：推动自主芯片与主流大模型深度融合",
-          "url": "https://wallstreetcn.com/livenews/3147983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时53分 ~ 18时43分]"
-        },
-        {
-          "title": "Claude 证明黎曼猜想取得了重大突破，这个事件有什么开创性意义？",
-          "url": "https://www.zhihu.com/question/2070452772391194651",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时52分 ~ 23时53分]"
-        },
-        {
-          "title": "Anthropic表示，他们曾让一个尚未发布的研究版Claude尝试解决“黎曼猜想”。虽然Claude未能证明这一著名数学猜想，但在相关问题上取得进展，将黎曼ζ函数零点中满足黎曼猜想的零点比例下界从41.6%提高至67.2%。",
-          "url": "https://flash.jin10.com/detail/20260811065651934800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "OpenAI：为ChatGPT Business推出高级席位（Premium Seats）。",
-          "url": "https://flash.jin10.com/detail/20260811005120672800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "【上海：支持软件企业广泛使用Coding平台】上海市经济和信息化委员会印发《上海市软件和信息服务业发展“十五五”规划》。其中提到，推动软件产品AI化发展，加快工业制图、工程设计和生产排产等高价值场景的智能化升级，强化软件产品的智能感知、分析、决策与执行能力。促进软件企业智能化技改，支持软件企业广泛使用Coding平台，构建覆盖全流程、全链条的智能化研发生产线，探索将词元（Token）、数据治理、大模型部署及再训练等投入，纳入企业技术改造支持方向。",
-          "url": "https://wallstreetcn.com/livenews/3147978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        },
-        {
-          "title": "如何评价即将发布的 DeepSeek-V4 Pro 正式版，有哪些亮点？",
-          "url": "https://www.zhihu.com/question/2067921583944085650",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "智谱：ZCode全面升级 GLM Coding Plan全体用户额度已于今天13:00统一重置",
-          "url": "https://wallstreetcn.com/livenews/3147880",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        },
-        {
-          "title": "DeepSeek招土木工程师，科技大厂争锋延伸至传统资源领域",
-          "url": "https://wallstreetcn.com/livenews/3148048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "香港恒生指数开盘上涨0.24%，报25998.59点；恒生科技指数涨0.27%。MNIMAX涨4.2%，智谱涨3%。",
-          "url": "https://wallstreetcn.com/livenews/3147768",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
-        },
-        {
-          "title": "百灵大模型开源Ling-3.0-tiny，总参数量为7.9B",
-          "url": "https://flash.jin10.com/detail/20260811172548510800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        },
-        {
-          "title": "为什么Claude对子代理这么凶",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88Claude%E5%AF%B9%E5%AD%90%E4%BB%A3%E7%90%86%E8%BF%99%E4%B9%88%E5%87%B6&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "创业板触底回升跌0.7%，医药、消费大涨，芯片算力集体下挫、寒武纪跌超6%，港股老铺黄金大涨12%",
-          "url": "https://wallstreetcn.com/articles/3779046",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 13时01分]"
-        },
-        {
-          "title": "【焦点复盘】沪指缩量探底终结5连阳，算力租赁概念逆势活跃，有色板块现深幅调整",
-          "url": "https://www.cls.cn/detail/2451345",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时43分 ~ 23时53分]"
-        },
-        {
-          "title": "美国芝商所与Silicon Data确定10月5日推出算力期货",
-          "url": "https://wallstreetcn.com/livenews/3148148",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
-        },
-        {
-          "title": "2026中国算力大会将于9月11日至13日在河北廊坊举行",
-          "url": "https://wallstreetcn.com/livenews/3148022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
-          "title": "黄仁勋深度解读5000亿美元融资计划：AI算力是“投资级资产”",
-          "url": "https://www.cls.cn/detail/2450953",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时52分 ~ 20时43分]"
-        },
-        {
-          "title": "行云科技：算力卡被卡在海关传闻不实，在手算力长期3-5年订单约150.82亿元",
-          "url": "https://wallstreetcn.com/livenews/3148020",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
-          "title": "英伟达：联手高盛等华尔街巨头，建立AI算力基础设施融资平台，来撬动超过5000亿美元的第三方资本",
-          "url": "https://wallstreetcn.com/livenews/3147680",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 05时34分]"
-        },
-        {
-          "title": "达成战略合作意向，华为将向北京数据集团提供昇腾算力设备",
-          "url": "https://flash.jin10.com/detail/20260811105048786800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
-        },
-        {
-          "title": "市场消息：芝商所集团与Silicon Data将于10月5日推出算力期货。",
-          "url": "https://flash.jin10.com/detail/20260811230133669800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
-        },
-        {
-          "title": "报道：Anthropic与比特币挖矿公司Riot达成91亿美元算力协议",
-          "url": "https://wallstreetcn.com/livenews/3147748",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "上海：创新算力要素市场化改革 持续探索算力作价入股等新型投资方式以及“算力资源+应用场景”新招商模式",
-          "url": "https://wallstreetcn.com/livenews/3147982",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        },
-        {
-          "title": "预告：2026中国算力大会将于9月11日至13日在河北廊坊举行",
-          "url": "https://flash.jin10.com/detail/20260811182017363800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
-          "title": "强瑞技术：拟定增募资不超过10.5亿元，用于AI服务器精密液冷部件产品及服务器自动化组装、检测设备研发与制造项目、高端半导体设备精密零部件生产制造项目、强瑞技术龙华区总部基地建设项目、补充流动资金。",
-          "url": "https://wallstreetcn.com/livenews/3148057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "行云科技：截至本公告披露日，公司在手算力长期3-5年订单规模约150.82亿元",
-          "url": "https://flash.jin10.com/detail/20260811181845500800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
-          "title": "花旗：算力没变便宜，AI实际使用成本却在下降",
-          "url": "https://flash.jin10.com/detail/20260811102510123800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人形机器人 机器人 具身智能 灵巧手",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "中签率0.0181%！宇树科技今天打新，机器人产业链迎来估值锚点",
-          "url": "https://www.cls.cn/detail/2450388",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 11时06分]"
-        },
-        {
-          "title": "【每日收评】三大指数缩量震荡涨跌不一，医药股持续活跃，机器人概念午后爆发",
-          "url": "https://www.cls.cn/detail/2451276",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时52分 ~ 23时53分]"
-        },
-        {
-          "title": "红警蜘蛛机器人走进现实",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BA%A2%E8%AD%A6%E8%9C%98%E8%9B%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B5%B0%E8%BF%9B%E7%8E%B0%E5%AE%9E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            25,
-            16,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时52分 ~ 23时53分]"
-        },
-        {
-          "title": "IPO周报｜本周4只新股申购，“人形机器人第一股”宇树科技今日打新",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33750281",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 07时27分]"
-        },
-        {
-          "title": "沪指缩量调整跌0.8%，医药、机器人逆势大涨，半导体新股IPO首日暴涨740%，恒科指跌近2%",
-          "url": "https://wallstreetcn.com/articles/3779141",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时43分 ~ 23时53分]"
-        },
-        {
-          "title": "A股人形机器人概念股午后拉升，巨轮智能、北特科技直线涨停，斯菱智驱涨超17%，瑞迪智驱、禾川科技、安培龙、丰光精密等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3147863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "蚂蚁集团领投 戴盟机器人宣布完成数亿元融资",
-          "url": "https://wallstreetcn.com/livenews/3147843",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时54分]"
-        },
-        {
-          "title": "原字节跳动机器人一号位加入小米，负责基座模型研发，这透露出小米在人工智能领域的哪些战略意图？",
-          "url": "https://www.zhihu.com/question/2069868469005326051",
-          "source": "知乎",
-          "ranks": [
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 11时06分]"
-        },
-        {
-          "title": "A股人形机器人概念震荡拉升，斯菱智驱涨超10%，拓斯达、五洲新春、奥比中光、北自科技、三花智控跟涨。",
-          "url": "https://flash.jin10.com/detail/20260811105022482800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
-        },
-        {
-          "title": "广州为何盯上一台炒菜机器人",
-          "url": "https://www.toutiao.com/trending/7672615468112314419/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        },
-        {
-          "title": "中信建投：宇树IPO定价超出预期利好机器人板块",
-          "url": "https://flash.jin10.com/detail/20260811082327107800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "A股午后机器人板块快速拉升，绿地谐波、中大力德等涨超8%。机器人ETF富国（159272）、 机器人ETF鹏华（159278）、 机器人ETF易方达（159530）等多支机器人ETF涨超2%。",
-          "url": "https://flash.jin10.com/detail/20260811132413159800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple iPhone",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "iPhone18Pro等7款新品彻底泄密",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%AD%897%E6%AC%BE%E6%96%B0%E5%93%81%E5%BD%BB%E5%BA%95%E6%B3%84%E5%AF%86%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            9,
-            19,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 07时27分]"
-        },
-        {
-          "title": "台积电因内存缺货积压苹果10亿美元订单？郭明錤：苹果下调出货计划不代表产品积压",
-          "url": "https://wallstreetcn.com/livenews/3147864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "iPhone前景隐忧引发华尔街看空情绪升温：六家机构发出苹果卖出信号，创2012年以来之最",
-          "url": "https://wallstreetcn.com/articles/3779096",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时52分 ~ 20时43分]"
-        },
-        {
-          "title": "苹果的买方霸权 第一次在中国失效",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E7%9A%84%E4%B9%B0%E6%96%B9%E9%9C%B8%E6%9D%83+%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%A4%B1%E6%95%88",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时14分 ~ 23时53分]"
-        },
-        {
-          "title": "苹果液态玻璃图标大改",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%B6%B2%E6%80%81%E7%8E%BB%E7%92%83%E5%9B%BE%E6%A0%87%E5%A4%A7%E6%94%B9%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时00分 ~ 13时54分]"
-        },
-        {
-          "title": "iPhone18Pro等7款新品彻底泄密",
-          "url": "https://www.baidu.com/s?wd=iPhone18Pro%E7%AD%897%E6%AC%BE%E6%96%B0%E5%93%81%E5%BD%BB%E5%BA%95%E6%B3%84%E5%AF%86",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
-        },
-        {
-          "title": "报道：苹果以玻璃为主体的iPhone仍将按计划于2027周年纪念日推出",
-          "url": "https://wallstreetcn.com/livenews/3147778",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
-        },
-        {
-          "title": "苹果9月发布会核心产品曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C9%E6%9C%88%E5%8F%91%E5%B8%83%E4%BC%9A%E6%A0%B8%E5%BF%83%E4%BA%A7%E5%93%81%E6%9B%9D%E5%85%89%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "瑞士央行的美股持仓创新高 前三大持股为英伟达、苹果和微软",
-          "url": "https://wallstreetcn.com/livenews/3148091",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "台积电因内存短缺积压10亿美元苹果芯片？分析师郭明錤否认",
-          "url": "https://flash.jin10.com/detail/20260811055637856800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
+          "time_info": "00时48分"
         }
       ]
     },
     {
       "keyword_group": "无人机 通航",
-      "match_count": 9,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "利比亚国家石油公司董事会主席：利比亚Zawiya炼油厂再次遭到无人机袭击。 该炼油厂柴油储油罐遇袭。 此次袭击引发小规模火情。 但该炼油厂仍然处于运营状态。",
+          "url": "https://wallstreetcn.com/livenews/3148173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
         {
           "title": "俄军士兵用树枝抽下乌军FPV无人机",
           "url": "https://news.ifeng.com/c/8vVfJL89AEf",
@@ -1489,773 +198,182 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时52分 ~ 23时53分]"
-        },
-        {
-          "title": "泽连斯基同沙特王储通话 推进下一步无人机合作",
-          "url": "https://wallstreetcn.com/livenews/3147866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时54分"
+          "time_info": "00时48分"
         },
         {
           "title": "乌无人机为何奔袭1300公里炸俄炼油厂",
           "url": "https://www.toutiao.com/trending/7672722239778721299/",
           "source": "今日头条",
           "ranks": [
-            10,
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时14分 ~ 23时53分]"
-        },
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "曝俄最大石化厂被乌克兰无人机击中",
-          "url": "https://www.toutiao.com/trending/7672572475762282047/",
-          "source": "今日头条",
+          "title": "【焦点复盘】沪指缩量探底终结5连阳，算力租赁概念逆势活跃，有色板块现深幅调整",
+          "url": "https://www.cls.cn/detail/2451345",
+          "source": "财联社热门",
           "ranks": [
-            23,
-            17
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时06分 ~ 13时01分]"
+          "appearance_count": 1,
+          "time_info": "00时48分"
         },
         {
-          "title": "无人机如何催生了俄罗斯坦克的变革",
-          "url": "https://www.toutiao.com/trending/7672597288291700260/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时52分 ~ 17时53分]"
-        },
-        {
-          "title": "利比亚国家石油公司主席：一架无人机击中扎维耶炼油厂的满载燃料储罐。周六还发生了另一起袭击，但并未引发火灾。",
-          "url": "https://wallstreetcn.com/livenews/3147667",
+          "title": "美国芝商所与Silicon Data确定10月5日推出算力期货",
+          "url": "https://wallstreetcn.com/livenews/3148148",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时33分"
+          "time_info": "00时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人形机器人 机器人 具身智能 灵巧手",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【每日收评】三大指数缩量震荡涨跌不一，医药股持续活跃，机器人概念午后爆发",
+          "url": "https://www.cls.cn/detail/2451276",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
         },
         {
-          "title": "利比亚国家石油公司：扎维亚石油混合厂遭无人机袭击，未造成损失或伤亡。这是周日和周一针对扎维耶石油资产的第三次攻击。",
-          "url": "https://flash.jin10.com/detail/20260811060353095800",
+          "title": "红警蜘蛛机器人走进现实",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BA%A2%E8%AD%A6%E8%9C%98%E8%9B%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B5%B0%E8%BF%9B%E7%8E%B0%E5%AE%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国务院 发改委 工信部 财政部 证监会",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国财政部拍卖六周期国债，得标利率3.670%，投标倍数2.93。",
+          "url": "https://wallstreetcn.com/livenews/3148154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "美国国务院：美国国务卿鲁比奥会见了奥地利外交部长，讨论了确保欧洲安全和维护国家主权的方式。",
+          "url": "https://flash.jin10.com/detail/20260812000753114800",
           "source": "金十数据",
           "ranks": [
-            18
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "无人机如何催生俄坦克变革",
-          "url": "https://www.toutiao.com/trending/7672597288291700260/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
-          "title": "当地州长表示，俄罗斯奥伦堡州一家工业企业遭“敌方无人机”袭击后起火。",
-          "url": "https://flash.jin10.com/detail/20260811140324473800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时50分"
+          "time_info": "00时48分"
         }
       ]
     },
     {
       "keyword_group": "免税 旅游 酒店 餐饮",
-      "match_count": 8,
+      "match_count": 2,
       "titles": [
         {
-          "title": "旅游发朋友圈为什么要带定位",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%85%E6%B8%B8%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%B8%A6%E5%AE%9A%E4%BD%8D&t=31&band_rank=8&Refer=top",
-          "source": "微博",
+          "title": "睡车里被酒店收 150 元住宿费事件反转，媒体因报道呈现不够全面客观致歉，如何避免类似事件再次发生？",
+          "url": "https://www.zhihu.com/question/2070468397289009796",
+          "source": "知乎",
           "ranks": [
-            8,
-            7,
-            2,
-            1,
-            6,
-            5,
-            23
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 11时06分]"
-        },
-        {
-          "title": "睡车里被酒店收150元住宿费事件反转",
-          "url": "https://s.weibo.com/weibo?q=%E7%9D%A1%E8%BD%A6%E9%87%8C%E8%A2%AB%E9%85%92%E5%BA%97%E6%94%B6150%E5%85%83%E4%BD%8F%E5%AE%BF%E8%B4%B9%E4%BA%8B%E4%BB%B6%E5%8F%8D%E8%BD%AC&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时06分 ~ 14时50分]"
+          "appearance_count": 1,
+          "time_info": "00时48分"
         },
         {
           "title": "睡车里被酒店收150元住宿费事件反转",
           "url": "https://www.toutiao.com/trending/7672232495756902446/",
           "source": "今日头条",
           "ranks": [
-            2,
-            18,
-            25,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时43分 ~ 23时53分]"
-        },
-        {
-          "title": "睡车里被酒店收 150 元住宿费事件反转，媒体因报道呈现不够全面客观致歉，如何避免类似事件再次发生？",
-          "url": "https://www.zhihu.com/question/2070468397289009796",
-          "source": "知乎",
-          "ranks": [
-            15,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时14分 ~ 23时53分]"
-        },
-        {
-          "title": "睡车里被酒店收150元住宿费事件反转",
-          "url": "https://www.baidu.com/s?wd=%E7%9D%A1%E8%BD%A6%E9%87%8C%E8%A2%AB%E9%85%92%E5%BA%97%E6%94%B6150%E5%85%83%E4%BD%8F%E5%AE%BF%E8%B4%B9%E4%BA%8B%E4%BB%B6%E5%8F%8D%E8%BD%AC",
-          "source": "百度热搜",
-          "ranks": [
-            12,
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时00分 ~ 14时50分]"
-        },
-        {
-          "title": "经常旅游的人都有一个共性",
-          "url": "https://s.weibo.com/weibo?q=%E7%BB%8F%E5%B8%B8%E6%97%85%E6%B8%B8%E7%9A%84%E4%BA%BA%E9%83%BD%E6%9C%89%E4%B8%80%E4%B8%AA%E5%85%B1%E6%80%A7&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 04时33分]"
-        },
-        {
-          "title": "泰国旅游 失联",
-          "url": "https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9B%BD%E6%97%85%E6%B8%B8%20%E5%A4%B1%E8%81%94&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 02时45分]"
-        },
-        {
-          "title": "市场消息：黑石集团(BX.N)即将以20亿美元收购加拿大航空Aeroplan忠诚度计划的少数股权。这笔交易将为加拿大航空注入新的资金以应对燃油成本上升和美国旅游需求疲软。",
-          "url": "https://flash.jin10.com/detail/20260811055058061800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 火箭 卫星互联网 北斗",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "长征7号甲火箭发射失败爆炸",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357110&amp;topic_name=%E9%95%BF%E5%BE%817%E5%8F%B7%E7%94%B2%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E5%A4%B1%E8%B4%A5%E7%88%86%E7%82%B8",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            6,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时00分 ~ 23时53分]"
-        },
-        {
-          "title": "朱雀三号遥二运载火箭发射推迟",
-          "url": "https://www.toutiao.com/trending/7672584153350540819/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
-        },
-        {
-          "title": "报道：蓝箭航天朱雀三号遥二运载火箭发射推迟",
-          "url": "https://wallstreetcn.com/livenews/3147791",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
-        },
-        {
-          "title": "潍柴动力：暂无开展商业卫星及商业航天用电源电池产品的研发规划",
-          "url": "https://wallstreetcn.com/livenews/3148096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "A股商业航天概念早盘下挫，中国卫星逼近跌停，超捷股份、斯瑞新材跌超10%，神剑股份、电科蓝天、航天环宇、金风科技跌超7%。",
-          "url": "https://wallstreetcn.com/livenews/3147780",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
-        },
-        {
-          "title": "朱雀三号遥二运载火箭发射推迟",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%B1%E9%9B%80%E4%B8%89%E5%8F%B7%E9%81%A5%E4%BA%8C%E8%BF%90%E8%BD%BD%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E6%8E%A8%E8%BF%9F",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
-        },
-        {
-          "title": "Rocket Lab：力争今年完成Neutron火箭首次发射。",
-          "url": "https://flash.jin10.com/detail/20260811223619959800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国务院 发改委 工信部 财政部 证监会",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "潮涌千帆志昂扬——党中央、国务院邀请优秀专家人才代表北戴河休假侧记",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33750249",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 05时34分]"
-        },
-        {
-          "title": "国务院免去罗文国家市监总局局长职务",
-          "url": "https://www.toutiao.com/trending/7672330009679577129/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            17,
-            18,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 07时27分]"
-        },
-        {
-          "title": "美国国务院一名官员称，黎巴嫩与以色列谈判进程预计将于9月初在罗马恢复。",
-          "url": "https://flash.jin10.com/detail/20260811220032679800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "潮起渤海湾，奋楫“十五五”——党中央国务院邀请优秀专家人才代表北戴河休假侧记",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33750119",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
-        },
-        {
-          "title": "据媒体援引美国国务院官员报道，黎巴嫩和以色列将于9月初在罗马举行下一轮会谈。",
-          "url": "https://wallstreetcn.com/livenews/3147740",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "美国财政部拍卖三个月期国债，得标利率3.735%，投标倍数2.88。 拍卖六个月期国债，得标利率3.830%，投标倍数2.85。",
-          "url": "https://wallstreetcn.com/livenews/3147595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "创新药 ADC CAR-T GLP-1",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "【焦点复盘】微盘股指数7连涨站上年线，全市场近百股涨停，AI赋能持续催热创新药概念",
-          "url": "https://www.cls.cn/detail/2450137",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 07时27分]"
-        },
-        {
-          "title": "中报窗口期机构密集调研，创新药步入业绩与国际化兑现期",
-          "url": "https://wallstreetcn.com/livenews/3147727",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 09时01分]"
-        },
-        {
-          "title": "百花医药：公司不涉及创新药研发",
-          "url": "https://flash.jin10.com/detail/20260811182358008800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
-          "title": "A股创新药、CRO概念延续涨势，百花医药6连板，甘李药业涨停，长春高新、万邦医药、博瑞医药、亚太药业涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3147785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
-        },
-        {
-          "title": "创业板指持续走强，盘中涨逾1%，MLCC概念、创新药板块领涨大盘。",
-          "url": "https://flash.jin10.com/detail/20260811102532633800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
+          "time_info": "00时48分"
         }
       ]
     },
     {
       "keyword_group": "HBM DDR5 存储芯片",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
           "url": "https://wallstreetcn.com/articles/3779161",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时14分 ~ 23时53分]"
-        },
-        {
-          "title": "A股存储芯片板块走高，太极实业涨停，联芸科技涨超10%，麦捷科技、圣邦股份、江波龙、托伦斯、科翔股份跟涨。",
-          "url": "https://flash.jin10.com/detail/20260811103924565800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
-        },
-        {
-          "title": "美股盘初：纳指涨0.2%，英伟达涨约2%，存储芯片股普涨",
-          "url": "https://wallstreetcn.com/livenews/3148099",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "周一（8月10日），美股存储芯片与硬件供应链指数跌1.22%，报184.13点，美股盘初冲高回落，结束交易前30分钟内（再次）开启一波显著下跌的行情。 成分股Rambus收跌5.55%，泰瑞达跌3.75%，应用材料跌3.16%，美光科技、拉姆研究、希捷科技至少跌1.45%，西部数据收涨0.93%，闪迪涨2.12%。 此外，铠侠ADR跌4.01%，SK海力士ADR跌1.9%。",
-          "url": "https://wallstreetcn.com/livenews/3147690",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "专项债 特别国债 降准 降息 以旧换新 设备更新",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "澳洲联储主席布洛克：会议上未讨论降息，仅讨论加息或维持利率不变。",
-          "url": "https://flash.jin10.com/detail/20260811133730360800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "新增专项债加速落地，年内置换债发行近九成",
-          "url": "https://wallstreetcn.com/livenews/3147743",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "澳洲联储主席Bullock：尽管房价已有所回落，但那不是我们的主要关注点。 会议上讨论了加息的可能性。 会议上并未讨论降息，只讨论了加息或维持不变。",
-          "url": "https://wallstreetcn.com/livenews/3147873",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek ChatGPT Claude Gemini Agent 智能体",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "上海：大力推动开源体系建设，推动智能软件、语料、算法、模型、智能体、人形机器人软硬件等开源项目在沪“首发”",
-          "url": "https://wallstreetcn.com/livenews/3147986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时53分 ~ 18时43分]"
-        },
-        {
-          "title": "JeffDean 称「AI agent 编写代码，品味成稀缺技能」，你如何理解「品味」？",
-          "url": "https://www.zhihu.com/question/2066610730116421630",
-          "source": "知乎",
-          "ranks": [
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时45分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI眼镜 智能眼镜 AR眼镜 XR眼镜",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "理想第二代AI眼镜预计明年下半年上市",
-          "url": "https://wallstreetcn.com/livenews/3147904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        },
-        {
-          "title": "理想汽车：根据当前规划，第二代理想AI眼镜 Livis预计将在明年下半年到来",
-          "url": "https://flash.jin10.com/detail/20260811142206160800",
-          "source": "金十数据",
-          "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时50分"
+          "time_info": "00时48分"
         }
       ]
     },
     {
-      "keyword_group": "光刻机 EDA 先进封装 CoWoS Chiplet 晶圆",
-      "match_count": 2,
+      "keyword_group": "苹果 Apple iPhone",
+      "match_count": 1,
       "titles": [
         {
-          "title": "马斯克的新挑战：给光刻机“换束光”",
-          "url": "https://www.cls.cn/detail/2450318",
-          "source": "财联社热门",
+          "title": "苹果的买方霸权 第一次在中国失效",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E7%9A%84%E4%B9%B0%E6%96%B9%E9%9C%B8%E6%9D%83+%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%A4%B1%E6%95%88",
+          "source": "百度热搜",
           "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 09时01分]"
-        },
-        {
-          "title": "A股光刻机板块短线拉升，旭光电子涨停，联合化学、海立股份、中瓷电子跟涨。",
-          "url": "https://flash.jin10.com/detail/20260811104230842800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华为 鸿蒙 HarmonyOS 鸿蒙NEXT",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "阿维塔高管称不认为和华为的合作模式是「必要项」，阿维塔具备差异化的能力，如何看待这一表态？",
-          "url": "https://www.zhihu.com/question/2070107144536560600",
-          "source": "知乎",
-          "ranks": [
-            19,
-            15,
-            13,
-            9,
-            7,
-            6,
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时06分 ~ 22时14分]"
-        },
-        {
-          "title": "阿维塔 华为",
-          "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E7%BB%B4%E5%A1%94%20%E5%8D%8E%E4%B8%BA&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 14时50分]"
+          "appearance_count": 1,
+          "time_info": "00时48分"
         }
       ]
     },
     {
-      "keyword_group": "减速器 滚珠丝杠 六维力传感器 力矩传感器 伺服",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "A股减速器板块持续走高，斯菱智驱涨停，丰光精密、瑞迪智驱涨超15%，绿的谐波、宏昌科技涨超10%，科达利、中大力德、昊志机电跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3147881",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        },
-        {
-          "title": "A股减速器板块持续走高，斯菱智驱涨停，丰光精密、瑞迪智驱涨超15%，绿的谐波、宏昌科技涨超10%，科达利、中大力德、昊志机电跟涨。",
-          "url": "https://flash.jin10.com/detail/20260811135926528800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "网络安全 数据安全 密码",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "马上评｜台风汛情绝不是流量密码",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33751172",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 11时06分]"
-        },
-        {
-          "title": "OpenAI：我们正在扩展网络安全计划Daybreak，并推出新模型GPT-5.6-Cyber，用于开展先进且经过授权的网络安全工作。",
-          "url": "https://flash.jin10.com/detail/20260811012108617800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "稀土 锗 镓 锑 钨",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "原料、设备和资金全是坑，怎么跟中国争！印度稀土大计卡了",
-          "url": "https://news.ifeng.com/c/8vTuyw7b9OV",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 07时27分]"
-        },
-        {
-          "title": "美国稀土公司盘后下跌5%，此前公布第二季度业绩并宣布收购计划。",
-          "url": "https://wallstreetcn.com/livenews/3147694",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "海上风电 风电",
+      "keyword_group": "商业航天 火箭 卫星互联网 北斗",
       "match_count": 1,
       "titles": [
         {
-          "title": "亚洲首个柔直海上风电项目累计发电量突破100亿千瓦时",
-          "url": "https://wallstreetcn.com/livenews/3148135",
-          "source": "华尔街见闻-快讯",
+          "title": "长征7号甲火箭发射失败爆炸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357110&amp;topic_name=%E9%95%BF%E5%BE%817%E5%8F%B7%E7%94%B2%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E5%A4%B1%E8%B4%A5%E7%88%86%E7%82%B8",
+          "source": "贴吧",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "可控核聚变 核聚变",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国可控核聚变最新进展",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%8F%AF%E6%8E%A7%E6%A0%B8%E8%81%9A%E5%8F%98%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            23,
-            21,
-            30,
-            25,
-            16,
-            26
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 17时53分]"
+          "appearance_count": 1,
+          "time_info": "00时48分"
         }
       ]
     }
