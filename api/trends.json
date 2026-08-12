@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T22:17:21.015072+08:00",
-  "total_titles_processed": 1716,
+  "generated_at": "2026-08-12T23:53:30.869440+08:00",
+  "total_titles_processed": 1824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "曾被戏称为「狗剩」的国产龙芯，其 3A6000 出货量突破百万，这对国产 CPU 发展有何意义？",
@@ -22,6 +22,20 @@
           "time_info": "[11时56分 ~ 19时41分]"
         },
         {
+          "title": "连续两个月突破100万辆，我国汽车出口延续强劲增长态势",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33767366",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时04分 ~ 23时53分]"
+        },
+        {
           "title": "【数读IPO】今日1申购1上市，涉及蓝牙音频芯片龙头等",
           "url": "https://www.cls.cn/detail/2451807",
           "source": "财联社热门",
@@ -34,20 +48,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时07分 ~ 15时10分]"
-        },
-        {
-          "title": "连续两个月突破100万辆，我国汽车出口延续强劲增长态势",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33767366",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            11,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时04分 ~ 22时17分]"
         },
         {
           "title": "雷军称小米成功量产发光材料，成为国内首家实现底层发光材料自研的手机厂商，有哪些突破？会带来什么改变？",
@@ -84,6 +84,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
+        },
+        {
+          "title": "SPACEXAI：Grok 4.6也已通过API以及OpenRouter、Vercel和Cloudflare等合作伙伴平台上线。",
+          "url": "https://flash.jin10.com/detail/20260812233052318800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "李宁否认签约法国球星姆巴佩",
@@ -194,6 +205,18 @@
           "time_info": "[18时53分 ~ 20时46分]"
         },
         {
+          "title": "新能源汽车迎来两个“首次”突破",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BF%8E%E6%9D%A5%E4%B8%A4%E4%B8%AA%E2%80%9C%E9%A6%96%E6%AC%A1%E2%80%9D%E7%AA%81%E7%A0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时16分 ~ 23时53分]"
+        },
+        {
           "title": "新势力销冠零跑6万级车A05上市",
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8A%BF%E5%8A%9B%E9%94%80%E5%86%A0%E9%9B%B6%E8%B7%916%E4%B8%87%E7%BA%A7%E8%BD%A6A05%E4%B8%8A%E5%B8%82",
           "source": "百度热搜",
@@ -229,24 +252,13 @@
           "time_info": "[04时35分 ~ 04时36分]"
         },
         {
-          "title": "新能源汽车迎来两个“首次”突破",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BF%8E%E6%9D%A5%E4%B8%A4%E4%B8%AA%E2%80%9C%E9%A6%96%E6%AC%A1%E2%80%9D%E7%AA%81%E7%A0%B4",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
-        },
-        {
           "title": "Meta Platforms(META.O)：公司与北美建筑工会联盟（NABTU）宣布合作，支持技术工人。",
           "url": "https://flash.jin10.com/detail/20260812215334549800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -483,11 +495,12 @@
           "ranks": [
             4,
             1,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时31分 ~ 22时17分]"
+          "appearance_count": 15,
+          "time_info": "[07时31分 ~ 23时53分]"
         },
         {
           "title": "美国7月CPI数据公布后，美元指数短线走高约10点，现报99.85。现货黄金短线走低约30美元，又走高逾20美元，现报4412.38美元/盎司。美股期货短线小幅走低后又迅速走高，纳斯达克100指数期货涨幅扩大至0.9%。",
@@ -529,7 +542,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -552,19 +565,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时46分 ~ 22时17分]"
+          "appearance_count": 4,
+          "time_info": "[20时46分 ~ 23时53分]"
         },
         {
           "title": "涨价持续+高端产品占比提升 覆铜板头部企业：毛利率或突破30%，加快扩产布局上游|传真",
           "url": "https://www.cls.cn/detail/2452564",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
+          "appearance_count": 3,
+          "time_info": "[22时16分 ~ 23时53分]"
         },
         {
           "title": "现货黄金上涨近1%，至每盎司4,408.79美元。",
@@ -825,8 +839,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时53分 ~ 22时17分]"
+          "appearance_count": 7,
+          "time_info": "[18时53分 ~ 23时53分]"
         },
         {
           "title": "国产算力基建加速落地！阿里云超节点实例上线 后续拟扩至多地域",
@@ -869,11 +883,12 @@
           "url": "https://www.cls.cn/detail/2452722",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
+          "appearance_count": 3,
+          "time_info": "[22时16分 ~ 23时53分]"
         },
         {
           "title": "【每日收评】双创指数均涨超1%，算力硬件股全线反弹，房地产板块异军突起",
@@ -885,8 +900,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时53分 ~ 22时17分]"
+          "appearance_count": 7,
+          "time_info": "[18时53分 ~ 23时53分]"
         },
         {
           "title": "【腾讯控股：第二季度录得负自由现金流人民币138亿元，若剔除算力采购的预付款项，自由现金流为人民币376亿元】第二季，本集团录得负自由现金流人民币138亿元，此乃由于经营活动所产生的现金净额人民币527亿元，被资本开支付款人民币593亿元、媒体内容付款人民币50亿元及租赁负债付款人民币22亿元超额抵销。我们的经营现金流包括大额AI相关预付款项，用于提供基础设施以支持Hy模型升级、WorkBuddy及CodeBuddy推理的需求、微信AI举措，以及我们各项产品与服务的AI能力建设，同时满足外部客户对我们的云服务持续增长的需求。若剔除算力采购的预付款项，我们的自由现金流为人民币376亿元。",
@@ -913,6 +928,18 @@
           "time_info": "[17时04分 ~ 19时41分]"
         },
         {
+          "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
+          "url": "https://www.cls.cn/detail/2452579",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时46分 ~ 23时53分]"
+        },
+        {
           "title": "8月12日午间收评：创业板指半日涨1.73%，算力硬件股集体走强",
           "url": "https://wallstreetcn.com/livenews/3148395",
           "source": "华尔街见闻-快讯",
@@ -925,25 +952,13 @@
           "time_info": "[11时57分 ~ 13时26分]"
         },
         {
-          "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
-          "url": "https://www.cls.cn/detail/2452579",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时46分 ~ 22时17分]"
-        },
-        {
           "title": "全球最大单体智算中心投产 一度绿电可生成30秒AI文生视频",
           "url": "https://flash.jin10.com/detail/20260812215306582800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1071,308 +1086,8 @@
       ]
     },
     {
-      "keyword_group": "人形机器人 机器人 具身智能 灵巧手",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "中国人形机器人一骑绝尘",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%80%E9%AA%91%E7%BB%9D%E5%B0%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时53分 ~ 22时17分]"
-        },
-        {
-          "title": "红警蜘蛛机器人走进现实",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BA%A2%E8%AD%A6%E8%9C%98%E8%9B%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B5%B0%E8%BF%9B%E7%8E%B0%E5%AE%9E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            25,
-            20,
-            23,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 15时10分]"
-        },
-        {
-          "title": "【每日收评】三大指数缩量震荡涨跌不一，医药股持续活跃，机器人概念午后爆发",
-          "url": "https://www.cls.cn/detail/2451276",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时48分 ~ 07时31分]"
-        },
-        {
-          "title": "荣耀发布首款机器人手机 9999元起售",
-          "url": "https://www.baidu.com/s?wd=%E8%8D%A3%E8%80%80%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA+9999%E5%85%83%E8%B5%B7%E5%94%AE",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
-        },
-        {
-          "title": "全球首款机器人手机Robot Phone发布",
-          "url": "https://www.toutiao.com/trending/7672074822553452550/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
-        },
-        {
-          "title": "最能接话的机器人手机",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%80%E8%83%BD%E6%8E%A5%E8%AF%9D%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
-        },
-        {
-          "title": "精密制造能力在机器人手机上具象化",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%B2%BE%E5%AF%86%E5%88%B6%E9%80%A0%E8%83%BD%E5%8A%9B%E5%9C%A8%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%E4%B8%8A%E5%85%B7%E8%B1%A1%E5%8C%96%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
-        },
-        {
-          "title": "达实智能：无参股宇树科技，无机器人业务",
-          "url": "https://wallstreetcn.com/livenews/3148463",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        },
-        {
-          "title": "上半年中国人形机器人出货量全球占比超97%",
-          "url": "https://wallstreetcn.com/livenews/3148453",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        },
-        {
-          "title": "全球首款机器人手机今日发布",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%E4%BB%8A%E6%97%A5%E5%8F%91%E5%B8%83%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时04分"
-        },
-        {
-          "title": "永达股份：公司生产的产品暂未应用于人形机器人领域",
-          "url": "https://flash.jin10.com/detail/20260812122109533800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时26分"
-        },
-        {
-          "title": "首款机器人手机荣耀Robot Phone价格公布 9999元起",
-          "url": "https://wallstreetcn.com/livenews/3148642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
-        },
-        {
-          "title": "宇树人形机器人累计生产下线约1.8万台",
-          "url": "https://wallstreetcn.com/livenews/3148550",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国务院 发改委 工信部 财政部 证监会",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33769071",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时53分 ~ 22时17分]"
-        },
-        {
-          "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
-          "url": "https://zhuanlan.zhihu.com/p/2070933430993414087",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时53分 ~ 22时17分]"
-        },
-        {
-          "title": "中共中央 全国人大常委会 国务院 全国政协讣告朱镕基同志逝世",
-          "url": "https://wallstreetcn.com/articles/3779286",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时53分 ~ 22时17分]"
-        },
-        {
-          "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
-          "url": "https://www.cls.cn/detail/2452533",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时53分 ~ 22时17分]"
-        },
-        {
-          "title": "国务院原总理朱镕基逝世",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%8E%9F%E6%80%BB%E7%90%86%E6%9C%B1%E9%95%95%E5%9F%BA%E9%80%9D%E4%B8%96",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时53分 ~ 19时41分]"
-        },
-        {
-          "title": "中国财政部发行63天期债券，规模200亿元，发行利率0.9796%，预期0.8600%，投标倍数3.52倍，边际倍数6.67倍； 中国财政部发行91天期债券，规模300亿元，发行利率1.0787%，边际利率1.1827%，预期1.0100%，投标倍数3.58倍，边际倍数1.46倍； 中国财政部发行50年期债券，规模400亿元，发行利率2.2831%，预期2.2800%，投标倍数6.87倍，边际倍数1.42倍。",
-          "url": "https://wallstreetcn.com/livenews/3148401",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 13时26分]"
-        },
-        {
-          "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
-          "url": "https://wallstreetcn.com/livenews/3148573",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时53分 ~ 19时41分]"
-        },
-        {
-          "title": "国家发改委价格成本和认证中心组织召开生物药产业发展座谈会",
-          "url": "https://wallstreetcn.com/livenews/3148566",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时53分 ~ 19时41分]"
-        },
-        {
-          "title": "市场消息：英国财政部官员预测，如果霍尔木兹海峡持续关闭，2027年英国GDP增长率在最糟糕的情况下将仅为0.3%。",
-          "url": "https://flash.jin10.com/detail/20260812182941412800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时53分"
-        },
-        {
-          "title": "印尼财政部长表示，政府将收回部分国有企业的股息，以作为国家预算的备用资金。",
-          "url": "https://flash.jin10.com/detail/20260812163432503800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时04分"
-        },
-        {
-          "title": "美国财政部拍卖六周期国债，得标利率3.670%，投标倍数2.93。",
-          "url": "https://wallstreetcn.com/livenews/3148154",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "美国国务院：美国国务卿鲁比奥会见了奥地利外交部长，讨论了确保欧洲安全和维护国家主权的方式。",
-          "url": "https://flash.jin10.com/detail/20260812000753114800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "怎么看 DeepSeek 注册 Harness 公众号并选用黑鲸鱼 logo ？",
@@ -1460,7 +1175,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1476,6 +1191,17 @@
           "time_info": "09时07分"
         },
         {
+          "title": "如何看待杨奇回应《黑神话：钟馗》进度「设计阶段会远离 AIGC 工具，诺兰的奥德赛也是古法创作」？",
+          "url": "https://www.zhihu.com/question/2070508935673378471",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "三星电子引入Anthropic Claude，芯片验证从一个月压缩至两天",
           "url": "https://wallstreetcn.com/livenews/3148608",
           "source": "华尔街见闻-快讯",
@@ -1485,6 +1211,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
+        },
+        {
+          "title": "荣耀Magic9系列手机外观首曝",
+          "url": "https://www.toutiao.com/trending/7672306494965055494/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "DeepSeek会偷偷给人取外号",
@@ -1507,6 +1244,319 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人形机器人 机器人 具身智能 灵巧手",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "中国人形机器人一骑绝尘",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%80%E9%AA%91%E7%BB%9D%E5%B0%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时53分 ~ 23时53分]"
+        },
+        {
+          "title": "红警蜘蛛机器人走进现实",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BA%A2%E8%AD%A6%E8%9C%98%E8%9B%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B5%B0%E8%BF%9B%E7%8E%B0%E5%AE%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            25,
+            20,
+            23,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 15时10分]"
+        },
+        {
+          "title": "【每日收评】三大指数缩量震荡涨跌不一，医药股持续活跃，机器人概念午后爆发",
+          "url": "https://www.cls.cn/detail/2451276",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 07时31分]"
+        },
+        {
+          "title": "荣耀发布首款机器人手机 9999元起售",
+          "url": "https://www.baidu.com/s?wd=%E8%8D%A3%E8%80%80%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA+9999%E5%85%83%E8%B5%B7%E5%94%AE",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时16分 ~ 23时53分]"
+        },
+        {
+          "title": "全球首款机器人手机Robot Phone发布",
+          "url": "https://www.toutiao.com/trending/7672074822553452550/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时16分 ~ 23时53分]"
+        },
+        {
+          "title": "最能接话的机器人手机",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%80%E8%83%BD%E6%8E%A5%E8%AF%9D%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 22时17分]"
+        },
+        {
+          "title": "精密制造能力在机器人手机上具象化",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%B2%BE%E5%AF%86%E5%88%B6%E9%80%A0%E8%83%BD%E5%8A%9B%E5%9C%A8%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%E4%B8%8A%E5%85%B7%E8%B1%A1%E5%8C%96%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 22时17分]"
+        },
+        {
+          "title": "达实智能：无参股宇树科技，无机器人业务",
+          "url": "https://wallstreetcn.com/livenews/3148463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时10分"
+        },
+        {
+          "title": "上半年中国人形机器人出货量全球占比超97%",
+          "url": "https://wallstreetcn.com/livenews/3148453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时10分"
+        },
+        {
+          "title": "全球首款机器人手机今日发布",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%E4%BB%8A%E6%97%A5%E5%8F%91%E5%B8%83%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
+          "title": "永达股份：公司生产的产品暂未应用于人形机器人领域",
+          "url": "https://flash.jin10.com/detail/20260812122109533800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
+          "title": "首款机器人手机荣耀Robot Phone价格公布 9999元起",
+          "url": "https://wallstreetcn.com/livenews/3148642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
+          "title": "宇树人形机器人累计生产下线约1.8万台",
+          "url": "https://wallstreetcn.com/livenews/3148550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国务院 发改委 工信部 财政部 证监会",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33769071",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时53分 ~ 23时53分]"
+        },
+        {
+          "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
+          "url": "https://zhuanlan.zhihu.com/p/2070933430993414087",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时53分 ~ 23时53分]"
+        },
+        {
+          "title": "中共中央 全国人大常委会 国务院 全国政协讣告朱镕基同志逝世",
+          "url": "https://wallstreetcn.com/articles/3779286",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时53分 ~ 23时53分]"
+        },
+        {
+          "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
+          "url": "https://www.cls.cn/detail/2452533",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时53分 ~ 23时53分]"
+        },
+        {
+          "title": "国务院原总理朱镕基逝世",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%8E%9F%E6%80%BB%E7%90%86%E6%9C%B1%E9%95%95%E5%9F%BA%E9%80%9D%E4%B8%96",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时53分 ~ 19时41分]"
+        },
+        {
+          "title": "中国财政部发行63天期债券，规模200亿元，发行利率0.9796%，预期0.8600%，投标倍数3.52倍，边际倍数6.67倍； 中国财政部发行91天期债券，规模300亿元，发行利率1.0787%，边际利率1.1827%，预期1.0100%，投标倍数3.58倍，边际倍数1.46倍； 中国财政部发行50年期债券，规模400亿元，发行利率2.2831%，预期2.2800%，投标倍数6.87倍，边际倍数1.42倍。",
+          "url": "https://wallstreetcn.com/livenews/3148401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 13时26分]"
+        },
+        {
+          "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
+          "url": "https://wallstreetcn.com/livenews/3148573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 19时41分]"
+        },
+        {
+          "title": "国家发改委价格成本和认证中心组织召开生物药产业发展座谈会",
+          "url": "https://wallstreetcn.com/livenews/3148566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 19时41分]"
+        },
+        {
+          "title": "国务院国资委：围绕云计算、网络、人工智能、量子等根技术，加力关键核心技术攻关",
+          "url": "https://wallstreetcn.com/livenews/3148694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "市场消息：英国财政部官员预测，如果霍尔木兹海峡持续关闭，2027年英国GDP增长率在最糟糕的情况下将仅为0.3%。",
+          "url": "https://flash.jin10.com/detail/20260812182941412800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
+          "title": "印尼财政部长表示，政府将收回部分国有企业的股息，以作为国家预算的备用资金。",
+          "url": "https://flash.jin10.com/detail/20260812163432503800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
+          "title": "美国财政部拍卖六周期国债，得标利率3.670%，投标倍数2.93。",
+          "url": "https://wallstreetcn.com/livenews/3148154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "美国国务院：美国国务卿鲁比奥会见了奥地利外交部长，讨论了确保欧洲安全和维护国家主权的方式。",
+          "url": "https://flash.jin10.com/detail/20260812000753114800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
         }
       ]
     },
@@ -1631,6 +1681,101 @@
       ]
     },
     {
+      "keyword_group": "HBM DDR5 存储芯片",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
+          "url": "https://wallstreetcn.com/articles/3779161",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 05时38分]"
+        },
+        {
+          "title": "创业板指午后涨幅扩大至2%，光纤、光刻机、存储芯片等板块涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3148414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
+          "title": "美通胀温和缓解加息压力，美股高开，光通信、存储芯片股领涨，Nebius涨15%，油价震荡",
+          "url": "https://wallstreetcn.com/articles/3779257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "创业板指午后走强涨逾2%，光纤、光刻机、存储芯片等板块涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260812130128500800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
+          "title": "美国7月通胀表现温和！美股盘初：纳指涨0.9%，光通信股、存储芯片股普涨",
+          "url": "https://wallstreetcn.com/livenews/3148656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
+          "title": "美股存储芯片股盘前普涨，SK海力士涨超4%，闪迪涨超4%，希捷科技、美光科技涨近3%，西部数据涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3148615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "新思科技宣布实现首个HBM4 IP测试芯片验证",
+          "url": "https://wallstreetcn.com/livenews/3148560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
+          "title": "TrendForce：DDR5 16Gb (2Gx8) 4800/5600现货均价较上日上涨0.38%",
+          "url": "https://flash.jin10.com/detail/20260812110156444800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果 Apple iPhone",
       "match_count": 8,
       "titles": [
@@ -1722,93 +1867,9 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "HBM DDR5 存储芯片",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
-          "url": "https://wallstreetcn.com/articles/3779161",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 05时38分]"
-        },
-        {
-          "title": "创业板指午后涨幅扩大至2%，光纤、光刻机、存储芯片等板块涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3148414",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时26分"
-        },
-        {
-          "title": "创业板指午后走强涨逾2%，光纤、光刻机、存储芯片等板块涨幅居前。",
-          "url": "https://flash.jin10.com/detail/20260812130128500800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时26分"
-        },
-        {
-          "title": "美国7月通胀表现温和！美股盘初：纳指涨0.9%，光通信股、存储芯片股普涨",
-          "url": "https://wallstreetcn.com/livenews/3148656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
-        },
-        {
-          "title": "美股存储芯片股盘前普涨，SK海力士涨超4%，闪迪涨超4%，希捷科技、美光科技涨近3%，西部数据涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3148615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
-          "title": "新思科技宣布实现首个HBM4 IP测试芯片验证",
-          "url": "https://wallstreetcn.com/livenews/3148560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时53分"
-        },
-        {
-          "title": "TrendForce：DDR5 16Gb (2Gx8) 4800/5600现货均价较上日上涨0.38%",
-          "url": "https://flash.jin10.com/detail/20260812110156444800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
         }
       ]
     },
@@ -1858,6 +1919,18 @@
           "time_info": "[00时48分 ~ 07时31分]"
         },
         {
+          "title": "酒店为何把小瓶洗护换成大瓶",
+          "url": "https://www.toutiao.com/trending/7673008330303111214/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时16分 ~ 23时53分]"
+        },
+        {
           "title": "旅游了很多次才知道的事",
           "url": "https://s.weibo.com/weibo?q=%E6%97%85%E6%B8%B8%E4%BA%86%E5%BE%88%E5%A4%9A%E6%AC%A1%E6%89%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%8B&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -1892,17 +1965,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时57分 ~ 13时26分]"
-        },
-        {
-          "title": "酒店为何把小瓶洗护换成大瓶",
-          "url": "https://www.toutiao.com/trending/7673008330303111214/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
         }
       ]
     },
@@ -1944,6 +2006,48 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "并购 重组 借壳 资产重组",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779219",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时56分 ~ 23时53分]"
+        },
+        {
+          "title": "正荣地产66亿元境内债重组方案：选项包括展期8.5年，按剩余面值8%购回等",
+          "url": "https://wallstreetcn.com/livenews/3148692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "正荣地产66亿元境内债重组方案：选项包括展期8.5年，按剩余面值8%购回等",
+          "url": "https://flash.jin10.com/detail/20260812214127836800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         }
       ]
     },
@@ -2045,8 +2149,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时53分 ~ 22时17分]"
+          "appearance_count": 7,
+          "time_info": "[18时53分 ~ 23时53分]"
         },
         {
           "title": "黄金剪开里面竟是钨芯 警方抓9人",
@@ -2060,37 +2164,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[17时04分 ~ 20时46分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "并购 重组 借壳 资产重组",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779219",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时56分 ~ 22时17分]"
-        },
-        {
-          "title": "正荣地产66亿元境内债重组方案：选项包括展期8.5年，按剩余面值8%购回等",
-          "url": "https://flash.jin10.com/detail/20260812214127836800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
         }
       ]
     },
@@ -2162,11 +2235,12 @@
             16,
             18,
             19,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时48分 ~ 22时17分]"
+          "appearance_count": 19,
+          "time_info": "[00时48分 ~ 23时53分]"
         }
       ]
     },
