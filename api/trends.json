@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-12T09:07:51.794258+08:00",
-  "total_titles_processed": 691,
+  "generated_at": "2026-08-12T11:57:17.252229+08:00",
+  "total_titles_processed": 872,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "曾被戏称为「狗剩」的国产龙芯，其 3A6000 出货量突破百万，这对国产 CPU 发展有何意义？",
+          "url": "https://www.zhihu.com/question/2070058112137140135",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 11时57分]"
+        },
         {
           "title": "AI云服务巨头Coreweave(CRWV.O)第二财季营收25.8亿美元，市场预期25.6亿美元；第二财季净亏损6.26亿美元，市场预期亏损7.571亿美元；截至2026年6月30日，合同在手订单总额约为1040亿美元。",
           "url": "https://flash.jin10.com/detail/20260812043428760800",
@@ -30,24 +41,25 @@
           "time_info": "04时36分"
         },
         {
+          "title": "【数读IPO】今日1申购1上市，涉及蓝牙音频芯片龙头等",
+          "url": "https://www.cls.cn/detail/2451807",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 11时57分]"
+        },
+        {
           "title": "Flandre将首发出战",
           "url": "https://search.bilibili.com/all?keyword=Flandre%E5%B0%86%E9%A6%96%E5%8F%91%E5%87%BA%E6%88%98",
           "source": "bilibili 热搜",
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        },
-        {
-          "title": "【数读IPO】今日1申购1上市，涉及蓝牙音频芯片龙头等",
-          "url": "https://www.cls.cn/detail/2451807",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -103,6 +115,28 @@
           "time_info": "[04时35分 ~ 05时38分]"
         },
         {
+          "title": "盘后暴涨15%！CoreWeave营收同比翻倍 在手订单高达千亿美元",
+          "url": "https://www.cls.cn/detail/2451858",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 11时57分]"
+        },
+        {
+          "title": "8月12日投资避雷针：这家上市公司实控人因操纵证券市场罪 终审获刑三年九个月",
+          "url": "https://www.cls.cn/detail/2451835",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 11时57分]"
+        },
+        {
           "title": "怎么看AI突破黎曼猜想下界",
           "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E7%AA%81%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8B%E7%95%8C",
           "source": "bilibili 热搜",
@@ -120,7 +154,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -131,7 +165,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -227,7 +261,7 @@
     },
     {
       "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
@@ -238,8 +272,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 09时07分]"
+          "appearance_count": 4,
+          "time_info": "[07时31分 ~ 11时57分]"
+        },
+        {
+          "title": "金十图示：2026年08月12日（周三）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260812113831134800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
         },
         {
           "title": "智利铜委员会预计，智利2027年铜产量将达555万吨，较2026年增长5.2%。",
@@ -281,7 +326,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -319,6 +364,28 @@
           "time_info": "00时48分"
         },
         {
+          "title": "早盘收盘，国内期货主力合约涨跌不一。燃料油涨超4%，多晶硅涨超3%，低硫燃料油（LU）、碳酸锂涨近3%，合成橡胶、液化石油气（LPG）、焦煤涨超2%。跌幅方面，钯跌超1%，生猪、尿素跌近1%。",
+          "url": "https://flash.jin10.com/detail/20260812113034389800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "现货黄金上涨近1%，至每盎司4,408.79美元。",
+          "url": "https://wallstreetcn.com/livenews/3148379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
           "title": "智利铜业委员会Cochilco预计，2026年全球铜产量将达到2350万吨，较2025年增长0.2%。",
           "url": "https://flash.jin10.com/detail/20260812001459331800",
           "source": "金十数据",
@@ -336,7 +403,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -363,101 +430,32 @@
           "time_info": "00时48分"
         },
         {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报147850元/吨，较上日16:30价格上涨2850元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3148372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
           "title": "锂云母提锂多项技术难题攻克",
           "url": "https://wallstreetcn.com/livenews/3148285",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "Claude 证明黎曼猜想取得了重大突破，这个事件有什么开创性意义？",
-          "url": "https://www.zhihu.com/question/2070452772391194651",
-          "source": "知乎",
-          "ranks": [
-            8,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 09时07分]"
-        },
-        {
-          "title": "怎么看 DeepSeek 注册 Harness 公众号并选用黑鲸鱼 logo ？",
-          "url": "https://www.zhihu.com/question/2070437867311174069",
-          "source": "知乎",
-          "ranks": [
-            18,
-            14,
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 09时07分]"
-        },
-        {
-          "title": "推荐酒店收佣金,豆包转行当中介",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357131&amp;topic_name=%E6%8E%A8%E8%8D%90%E9%85%92%E5%BA%97%E6%94%B6%E4%BD%A3%E9%87%91%2C%E8%B1%86%E5%8C%85%E8%BD%AC%E8%A1%8C%E5%BD%93%E4%B8%AD%E4%BB%8B",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 09时07分]"
-        },
-        {
-          "title": "港股通重塑AI资产估值中枢，大模型从价格战迈向价值战",
-          "url": "https://wallstreetcn.com/livenews/3148287",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 09时07分]"
-        },
-        {
-          "title": "怎么看 Claude 将在新的 Claude 模型的生成文本里加入隐形水印？",
-          "url": "https://www.zhihu.com/question/2070443311802867884",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        },
-        {
-          "title": "DeepSeek会偷偷给人取外号",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E4%BA%BA%E5%8F%96%E5%A4%96%E5%8F%B7%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
         }
       ]
     },
     {
       "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "【焦点复盘】沪指缩量探底终结5连阳，算力租赁概念逆势活跃，有色板块现深幅调整",
@@ -479,8 +477,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 09时07分]"
+          "appearance_count": 4,
+          "time_info": "[07时31分 ~ 11时57分]"
+        },
+        {
+          "title": "8月12日午间收评：创业板指半日涨1.73%，算力硬件股集体走强",
+          "url": "https://wallstreetcn.com/livenews/3148395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "A股午评：创业板指震荡走强收涨1.73% 算力硬件方向领涨大盘",
+          "url": "https://flash.jin10.com/detail/20260812113331881800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
         },
         {
           "title": "险资二季度持仓净增1.83亿股，近期积极调研AI算力、医药与硬科技",
@@ -525,12 +545,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        },
+        {
+          "title": "创业板指、科创50均涨超1%，沪指涨0.06%，深成指涨0.72%，半导体芯片、算力硬件、创新药、工业母机等方向领涨，沪深京三市上涨个股超3000只。",
+          "url": "https://wallstreetcn.com/livenews/3148350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
         }
       ]
     },
     {
       "keyword_group": "无人机 通航",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "俄军士兵用树枝抽下乌军FPV无人机",
@@ -570,13 +601,24 @@
           "time_info": "[00时48分 ~ 07时31分]"
         },
         {
+          "title": "俄士兵用树枝抽下乌无人机",
+          "url": "https://www.toutiao.com/trending/7671934075535671315/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 11时57分]"
+        },
+        {
           "title": "解放军破局南海无人机威胁意味什么",
           "url": "https://www.toutiao.com/trending/7672815901590179364/",
           "source": "今日头条",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -605,96 +647,90 @@
       ]
     },
     {
-      "keyword_group": "苹果 Apple iPhone",
-      "match_count": 2,
+      "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
+      "match_count": 6,
       "titles": [
         {
-          "title": "苹果的买方霸权 第一次在中国失效",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E7%9A%84%E4%B9%B0%E6%96%B9%E9%9C%B8%E6%9D%83+%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%A4%B1%E6%95%88",
-          "source": "百度热搜",
+          "title": "怎么看 DeepSeek 注册 Harness 公众号并选用黑鲸鱼 logo ？",
+          "url": "https://www.zhihu.com/question/2070437867311174069",
+          "source": "知乎",
           "ranks": [
+            18,
             14,
-            19
+            9,
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 07时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 11时57分]"
         },
         {
-          "title": "国行苹果AI支持机型",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%A1%8C%E8%8B%B9%E6%9E%9CAI%E6%94%AF%E6%8C%81%E6%9C%BA%E5%9E%8B%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
+          "title": "Claude 证明黎曼猜想取得了重大突破，这个事件有什么开创性意义？",
+          "url": "https://www.zhihu.com/question/2070452772391194651",
+          "source": "知乎",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人形机器人 机器人 具身智能 灵巧手",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【每日收评】三大指数缩量震荡涨跌不一，医药股持续活跃，机器人概念午后爆发",
-          "url": "https://www.cls.cn/detail/2451276",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
+            8,
+            4,
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时48分 ~ 07时31分]"
-        },
-        {
-          "title": "红警蜘蛛机器人走进现实",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BA%A2%E8%AD%A6%E8%9C%98%E8%9B%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B5%B0%E8%BF%9B%E7%8E%B0%E5%AE%9E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            25,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
+          "appearance_count": 6,
           "time_info": "[00时48分 ~ 09时07分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国务院 发改委 工信部 财政部 证监会",
-      "match_count": 2,
-      "titles": [
+        },
         {
-          "title": "美国财政部拍卖六周期国债，得标利率3.670%，投标倍数2.93。",
-          "url": "https://wallstreetcn.com/livenews/3148154",
+          "title": "推荐酒店收佣金,豆包转行当中介",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357131&amp;topic_name=%E6%8E%A8%E8%8D%90%E9%85%92%E5%BA%97%E6%94%B6%E4%BD%A3%E9%87%91%2C%E8%B1%86%E5%8C%85%E8%BD%AC%E8%A1%8C%E5%BD%93%E4%B8%AD%E4%BB%8B",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 11时57分]"
+        },
+        {
+          "title": "港股通重塑AI资产估值中枢，大模型从价格战迈向价值战",
+          "url": "https://wallstreetcn.com/livenews/3148287",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 09时07分]"
+        },
+        {
+          "title": "怎么看 Claude 将在新的 Claude 模型的生成文本里加入隐形水印？",
+          "url": "https://www.zhihu.com/question/2070443311802867884",
+          "source": "知乎",
+          "ranks": [
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时48分"
+          "time_info": "09时07分"
         },
         {
-          "title": "美国国务院：美国国务卿鲁比奥会见了奥地利外交部长，讨论了确保欧洲安全和维护国家主权的方式。",
-          "url": "https://flash.jin10.com/detail/20260812000753114800",
-          "source": "金十数据",
+          "title": "DeepSeek会偷偷给人取外号",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E4%BA%BA%E5%8F%96%E5%A4%96%E5%8F%B7%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时48分"
+          "time_info": "07时31分"
         }
       ]
     },
     {
       "keyword_group": "免税 旅游 酒店 餐饮",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "睡车里被酒店收 150 元住宿费事件反转，媒体因报道呈现不够全面客观致歉，如何避免类似事件再次发生？",
@@ -722,6 +758,208 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时48分 ~ 07时31分]"
+        },
+        {
+          "title": "睡自己车里被酒店收150元事件反转",
+          "url": "https://www.toutiao.com/trending/7672232495756902446/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 11时57分]"
+        },
+        {
+          "title": "飞猪：酒店间夜量持续增长 8月上旬日均增超近70%",
+          "url": "https://wallstreetcn.com/livenews/3148392",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple iPhone",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "苹果的买方霸权 第一次在中国失效",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E7%9A%84%E4%B9%B0%E6%96%B9%E9%9C%B8%E6%9D%83+%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%A4%B1%E6%95%88",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 07时31分]"
+        },
+        {
+          "title": "国行苹果AI支持机型",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%A1%8C%E8%8B%B9%E6%9E%9CAI%E6%94%AF%E6%8C%81%E6%9C%BA%E5%9E%8B%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 11时57分]"
+        },
+        {
+          "title": "iPhone18Pro成本",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E6%88%90%E6%9C%AC%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 11时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "脑机接口",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "A股脑机接口概念异动拉升，创新医疗快速涨停，菲沃泰涨超10%，爱朋医疗、声迅股份、倍益康、三博脑科、南京熊猫跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3148387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "浙江：强化脑机接口企业全生命周期金融支持，推动脑机接口企业选择合适上市方式",
+          "url": "https://wallstreetcn.com/livenews/3148381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "A股脑机接口板块走高，创新医疗涨停，菲沃泰涨超10%，爱朋医疗、倍益康、世运电路、三博脑科、东方中科跟涨。",
+          "url": "https://flash.jin10.com/detail/20260812111101444800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "国务院 发改委 工信部 财政部 证监会",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中国财政部发行63天期债券，规模200亿元，发行利率0.9796%，预期0.8600%，投标倍数3.52倍，边际倍数6.67倍； 中国财政部发行91天期债券，规模300亿元，发行利率1.0787%，边际利率1.1827%，预期1.0100%，投标倍数3.58倍，边际倍数1.46倍； 中国财政部发行50年期债券，规模400亿元，发行利率2.2831%，预期2.2800%，投标倍数6.87倍，边际倍数1.42倍。",
+          "url": "https://wallstreetcn.com/livenews/3148401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "美国财政部拍卖六周期国债，得标利率3.670%，投标倍数2.93。",
+          "url": "https://wallstreetcn.com/livenews/3148154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "美国国务院：美国国务卿鲁比奥会见了奥地利外交部长，讨论了确保欧洲安全和维护国家主权的方式。",
+          "url": "https://flash.jin10.com/detail/20260812000753114800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "HBM DDR5 存储芯片",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
+          "url": "https://wallstreetcn.com/articles/3779161",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 05时38分]"
+        },
+        {
+          "title": "TrendForce：DDR5 16Gb (2Gx8) 4800/5600现货均价较上日上涨0.38%",
+          "url": "https://flash.jin10.com/detail/20260812110156444800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人形机器人 机器人 具身智能 灵巧手",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【每日收评】三大指数缩量震荡涨跌不一，医药股持续活跃，机器人概念午后爆发",
+          "url": "https://www.cls.cn/detail/2451276",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 07时31分]"
+        },
+        {
+          "title": "红警蜘蛛机器人走进现实",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BA%A2%E8%AD%A6%E8%9C%98%E8%9B%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B5%B0%E8%BF%9B%E7%8E%B0%E5%AE%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            25,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 11时57分]"
         }
       ]
     },
@@ -736,27 +974,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "HBM DDR5 存储芯片",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
-          "url": "https://wallstreetcn.com/articles/3779161",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 05时38分]"
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 11时57分]"
         }
       ]
     },
@@ -770,11 +990,29 @@
           "source": "贴吧",
           "ranks": [
             9,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 09时07分]"
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 11时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "并购 重组 借壳 资产重组",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779219",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 11时57分]"
         }
       ]
     },
