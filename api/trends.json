@@ -1,264 +1,33 @@
 {
-  "generated_at": "2026-08-14T22:11:28.878464+08:00",
-  "total_titles_processed": 1531,
+  "generated_at": "2026-08-15T00:42:42.468933+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
-      "match_count": 43,
+      "match_count": 7,
       "titles": [
         {
           "title": "俱往矣!DeepSeek大幅涨价",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
           "source": "贴吧",
           "ranks": [
-            3,
-            2,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时52分 ~ 22时11分]"
-        },
-        {
-          "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
-          "url": "https://wallstreetcn.com/articles/3779377",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时52分 ~ 19时38分]"
-        },
-        {
-          "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
-          "url": "https://www.zhihu.com/question/2071335529577239335",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时52分 ~ 11时58分]"
-        },
-        {
-          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
-          "url": "https://wallstreetcn.com/articles/3779385",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时07分 ~ 20时43分]"
-        },
-        {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时57分 ~ 22时11分]"
-        },
-        {
-          "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
-          "url": "https://www.zhihu.com/question/2071318356477662328",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时52分 ~ 09时08分]"
-        },
-        {
-          "title": "用豆包给各地特产拍大片",
-          "url": "https://www.douyin.com/hot/2608658",
-          "source": "抖音",
-          "ranks": [
-            26,
-            23,
-            29,
-            27,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时52分 ~ 15时10分]"
-        },
-        {
-          "title": "DeepSeek官方Agent发布",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%98%E6%96%B9Agent%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时52分 ~ 15时10分]"
-        },
-        {
-          "title": "DeepSeek发布调价公告",
-          "url": "https://www.douyin.com/hot/2608709",
-          "source": "抖音",
-          "ranks": [
-            10,
-            6,
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时52分 ~ 15时10分]"
-        },
-        {
-          "title": "智谱发布 GLM-5.3，如何评价前沿编程能力与涌现的网络安全能力?",
-          "url": "https://www.zhihu.com/question/2071591447367770456",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时38分 ~ 22时11分]"
-        },
-        {
-          "title": "DeepSeek Harness是什么",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E6%98%AF%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 13时28分]"
-        },
-        {
-          "title": "为什么DeepSeek越涨价越是价格屠夫",
-          "url": "https://www.toutiao.com/trending/7673637537293798953/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时07分 ~ 11时58分]"
-        },
-        {
-          "title": "智谱发布 GLM-5.3 模型",
-          "url": "https://search.bilibili.com/all?keyword=%E6%99%BA%E8%B0%B1%E5%8F%91%E5%B8%83%20GLM-5.3%20%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        },
-        {
-          "title": "DeepSeek智能体曝光！人人用得起的Agent？",
-          "url": "https://wallstreetcn.com/articles/3779332",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时52分 ~ 09时08分]"
+          "appearance_count": 1,
+          "time_info": "00时42分"
         },
         {
-          "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
-          "url": "https://www.zhihu.com/question/2071361705183899939",
-          "source": "知乎",
+          "title": "DeepSeek Harness实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
           "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时10分 ~ 22时11分]"
-        },
-        {
-          "title": "发力中国市场！据称苹果训练了一款“中国定制”大模型，开启AI双轨布局",
-          "url": "https://www.cls.cn/detail/2454596",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时38分 ~ 22时11分]"
-        },
-        {
-          "title": "DeepSeek API确认涨价",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20API%E7%A1%AE%E8%AE%A4%E6%B6%A8%E4%BB%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 06时33分]"
-        },
-        {
-          "title": "如何看待 DeepSeek 撤回 v4Pro 正式版的公告？",
-          "url": "https://www.zhihu.com/question/2071225352072999482",
-          "source": "知乎",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时07分 ~ 11时58分]"
-        },
-        {
-          "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
-          "url": "https://news.ifeng.com/c/8vaHkh2o1IS",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时38分 ~ 22时11分]"
-        },
-        {
-          "title": "DeepSeek Harness发布",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时52分 ~ 07时33分]"
+          "appearance_count": 1,
+          "time_info": "00时42分"
         },
         {
           "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
@@ -268,332 +37,137 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时10分 ~ 22时11分]"
+          "appearance_count": 1,
+          "time_info": "00时42分"
         },
         {
-          "title": "怎么看 DeepSeek Harness 正式开源，采用一切皆插件的架构？",
-          "url": "https://www.zhihu.com/question/2071348486667237276",
-          "source": "知乎",
+          "title": "发力中国市场！据称苹果训练了一款“中国定制”大模型，开启AI双轨布局",
+          "url": "https://www.cls.cn/detail/2454596",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            20
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 06时33分]"
+          "appearance_count": 1,
+          "time_info": "00时42分"
         },
         {
-          "title": "如何评价 DeepSeek 与北大联合发布的新论文，有哪些亮点？对 Agent 发展有什么影响？",
-          "url": "https://www.zhihu.com/question/2071375581464343126",
-          "source": "知乎",
+          "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
+          "url": "https://news.ifeng.com/c/8vaHkh2o1IS",
+          "source": "凤凰网",
           "ranks": [
-            11,
-            15
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时38分 ~ 20时43分]"
+          "appearance_count": 1,
+          "time_info": "00时42分"
         },
         {
-          "title": "深度体验DeepSeek Harness 原谅涨价",
-          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8CDeepSeek+Harness+%E5%8E%9F%E8%B0%85%E6%B6%A8%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时10分 ~ 22时11分]"
-        },
-        {
-          "title": "DeepSeek官网撤公告疑似回滚",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%AE%98%E7%BD%91%E6%92%A4%E5%85%AC%E5%91%8A%E7%96%91%E4%BC%BC%E5%9B%9E%E6%BB%9A&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 09时08分]"
-        },
-        {
-          "title": "国科投资领投ChatGPT核心贡献者，亮源新创获数亿元Pre-A轮融资",
-          "url": "https://wallstreetcn.com/livenews/3149391",
+          "title": "阿里开源Qwen3.8，千问大模型全球下载超30亿次",
+          "url": "https://wallstreetcn.com/livenews/3149817",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "智谱发布 GLM-5.3，如何评价前沿编程能力与涌现的网络安全能力?",
+          "url": "https://www.zhihu.com/question/2071591447367770456",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中行落地全国首个算力“Token贷”，算力金融跨入应用层企业，上下游联动成未来方向",
+          "url": "https://www.cls.cn/detail/2454822",
+          "source": "财联社热门",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时08分"
+          "time_info": "00时42分"
         },
         {
-          "title": "谷歌推出 Gemini 3.7 Flash，有哪些亮点和创新？",
-          "url": "https://www.zhihu.com/question/2071408739723302257",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        },
-        {
-          "title": "一个视频看懂DeepSeek Harness",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        },
-        {
-          "title": "让豆包把所有前任的脸融一起了",
-          "url": "https://s.weibo.com/weibo?q=%E8%AE%A9%E8%B1%86%E5%8C%85%E6%8A%8A%E6%89%80%E6%9C%89%E5%89%8D%E4%BB%BB%E7%9A%84%E8%84%B8%E8%9E%8D%E4%B8%80%E8%B5%B7%E4%BA%86&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        },
-        {
-          "title": "智谱发布GLM-5.3模型",
-          "url": "https://search.bilibili.com/all?keyword=%E6%99%BA%E8%B0%B1%E5%8F%91%E5%B8%83%20GLM-5.3%20%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        },
-        {
-          "title": "如何看待 Deepseek Harness 发布？",
-          "url": "https://www.zhihu.com/question/2071331484284220938",
+          "title": "围棋与境界、修养之类的东西毫无关系，能赢是因为计算力强，这么明显的道理在 AI 以前人们怎么不懂？",
+          "url": "https://www.zhihu.com/question/2068917345393940011",
           "source": "知乎",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时52分"
+          "time_info": "00时42分"
         },
         {
-          "title": "谷歌发布Gemini 3.7 Flash 但旗舰模型仍遥遥无期",
-          "url": "https://flash.jin10.com/detail/20260814012101785800",
-          "source": "金十数据",
+          "title": "【焦点复盘】创业板指强势收复30日线，算力租赁概念再度爆发，光通信人气股录得20cm五连板",
+          "url": "https://www.cls.cn/detail/2454650",
+          "source": "财联社热门",
           "ranks": [
-            18
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "谷歌推出新版 Gemini Flash，但顶级AI模型仍延迟发布",
-          "url": "https://wallstreetcn.com/livenews/3149263",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "深度解读DeepSeek Harness",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BBDeepSeek%20Harness",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        },
-        {
-          "title": "港股AI应用股午后跌幅扩大，MINIMAX跌超10%，智谱跌近6%。",
-          "url": "https://wallstreetcn.com/livenews/3149519",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        },
-        {
-          "title": "智谱GLM-5.3已上线京东云MaaS平台",
-          "url": "https://wallstreetcn.com/livenews/3149518",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        },
-        {
-          "title": "据悉苹果告别纯“借力” 携手阿里训练中国市场专属大模型",
-          "url": "https://flash.jin10.com/detail/20260814124207765800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "金山办公“灵犀”接入DeepSeek-V4-Pro正式版，已向用户开放",
-          "url": "https://wallstreetcn.com/livenews/3149467",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "谷歌(GOOG.O)发布Gemini Flash系列更新，但其顶级模型升级推迟发布。",
-          "url": "https://flash.jin10.com/detail/20260814011003598800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：Gemini 3.7 Flash在复杂文档处理方面性能超过Gemini 3.6 Flash。",
-          "url": "https://flash.jin10.com/detail/20260814010933087800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：Gemini Spark从今天起将使用Gemini 3.7 Flash。",
-          "url": "https://flash.jin10.com/detail/20260814010716822800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "DeepSeek Harness公测",
-          "url": "https://www.baidu.com/s?wd=DeepSeek+Harness%E5%85%AC%E6%B5%8B",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时33分"
-        },
-        {
-          "title": "智谱将发布GLM-5.3模型",
-          "url": "https://wallstreetcn.com/livenews/3149504",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时10分"
+          "time_info": "00时42分"
         }
       ]
     },
     {
-      "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 30,
+      "keyword_group": "光模块 CPO 800G 1.6T AEC DAC 高速铜缆",
+      "match_count": 3,
       "titles": [
         {
-          "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779371",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时52分 ~ 15时10分]"
-        },
-        {
-          "title": "272只基金持股突破“双十”限制，近期为何批量“时点破线”？",
-          "url": "https://www.cls.cn/detail/2454237",
+          "title": "英伟达官宣CPO交换机全面量产！硅光新时代来了？",
+          "url": "https://www.cls.cn/detail/2454461",
           "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时27分 ~ 20时43分]"
-        },
-        {
-          "title": "长鑫科技单日市值超越腾讯，成 A 股、港股两市市值最高的中国上市公司，如何看待当下市场给出的估值水平？",
-          "url": "https://www.zhihu.com/question/2071276837125334204",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时57分 ~ 15时10分]"
-        },
-        {
-          "title": "沪深两市成交额连续第9个交易日突破2万亿元。",
-          "url": "https://flash.jin10.com/detail/20260814144744599800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        },
-        {
-          "title": "【生益科技：2026年上半年净利润32.87亿元，同比增130.42%】生益科技公告，2026年上半年营业收入190.26亿元，同比增长50.05%。归属于上市公司股东的净利润32.87亿元，同比增长130.42%。归属于上市公司股东的扣除非经常性损益的净利润29.08亿元，同比增长110.99%。",
-          "url": "https://wallstreetcn.com/livenews/3149765",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "沪深两市成交额突破2万亿，较上一日此时缩量超3800亿。",
-          "url": "https://wallstreetcn.com/livenews/3149544",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时10分"
+          "time_info": "00时42分"
         },
+        {
+          "title": "英伟达CPO交换机全面量产，AI数据中心迈入“硅光时代”！",
+          "url": "https://wallstreetcn.com/articles/3779448",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "英伟达CPO交换机全面量产",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BECPO%E4%BA%A4%E6%8D%A2%E6%9C%BA%E5%85%A8%E9%9D%A2%E9%87%8F%E4%BA%A7%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
+      "match_count": 3,
+      "titles": [
         {
           "title": "马科斯：没想疏远中国，看好经济合作",
           "url": "https://news.ifeng.com/c/8vaSjYUOLg5",
@@ -602,1409 +176,30 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时38分 ~ 22时11分]"
-        },
-        {
-          "title": "多家上市公司1元甩卖资产",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B81%E5%85%83%E7%94%A9%E5%8D%96%E8%B5%84%E4%BA%A7",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时38分 ~ 20时43分]"
-        },
-        {
-          "title": "红米新品发布后，小米高管回应网友评论称「内存实在太贵了」，反映了当前手机行业哪些挑战？",
-          "url": "https://www.zhihu.com/question/2070707279855367104",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时52分 ~ 07时33分]"
-        },
-        {
-          "title": "OpenAI 上市前年化营收突破 400 亿美元",
-          "url": "https://wallstreetcn.com/livenews/3149336",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 07时33分]"
-        },
-        {
-          "title": "如何看待 10 年期、 30 年期美债中标利率都达到 2007 年全球金融危机以来最高水平？",
-          "url": "https://www.zhihu.com/question/2071179550575124530",
-          "source": "知乎",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 07时33分]"
-        },
-        {
-          "title": "史上最大IPO要易主了？据称Anthropic将于10月IPO，估值或突破2万亿美元",
-          "url": "https://www.cls.cn/detail/2453351",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 06时33分]"
-        },
-        {
-          "title": "应用材料公司CEO：大客户正向公司提供更长期的合作承诺，并实时更新未来 8 个季度的需求预测，以确保供应链能跟上产能爬坡的步伐。目前预计 2026 自然年整体封装业务营收增幅将超过 70%。 CEO预计，公司全球服务业务（AGS）2026 年的营收增速将超过 20%，未来长期年化增速也有望保持在15%左右。",
-          "url": "https://wallstreetcn.com/livenews/3149324",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 07时33分]"
-        },
-        {
-          "title": "甄子丹惊喜出演《影之刃零》，却遭部分玩家质疑，如何看待此次合作？",
-          "url": "https://www.zhihu.com/question/2070922466810245536",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时10分 ~ 22时11分]"
-        },
-        {
-          "title": "发癫吧后浪抖音粉丝突破400万",
-          "url": "https://www.douyin.com/hot/2609802",
-          "source": "抖音",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时38分 ~ 20时43分]"
-        },
-        {
-          "title": "沪深两市成交额连续第263个交易日突破1.5万亿元。",
-          "url": "https://flash.jin10.com/detail/20260814131920992800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时28分"
+          "time_info": "00时42分"
         },
         {
-          "title": "凌创电机：公司订单已排到2028年",
-          "url": "https://wallstreetcn.com/livenews/3149483",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "据悉OpenAI年化营收突破400亿美元",
-          "url": "https://flash.jin10.com/detail/20260814055506381800",
-          "source": "金十数据",
+          "title": "武磊时隔650天重返联赛首发",
+          "url": "https://www.toutiao.com/trending/7673755529952477225/",
+          "source": "今日头条",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时33分"
+          "time_info": "00时42分"
         },
         {
           "title": "马科斯：没想疏远中国 看好经济合作",
           "url": "https://www.toutiao.com/trending/7673781824950124563/",
           "source": "今日头条",
           "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        },
-        {
-          "title": "土耳其外交部长：地区确实存在针对土耳其的战略联盟。以色列、塞浦路斯希腊族政府和希腊此前已在地中海中线建立安全联盟 ，而土耳其参与的《麦加共同防御协定》旨在加强合作与威慑，并非针对任何特定国家。",
-          "url": "https://flash.jin10.com/detail/20260814015113189800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "美国30年期国债发行的中标收益率创2001年以来新高",
-          "url": "https://wallstreetcn.com/livenews/3149265",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "The Information：特斯拉新款跑车与SpaceX合作。",
-          "url": "https://flash.jin10.com/detail/20260814211118322800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时11分"
-        },
-        {
-          "title": "市场消息：OpenAI年化营收在IPO前已突破400亿美元。",
-          "url": "https://flash.jin10.com/detail/20260814053819730800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时33分"
-        },
-        {
-          "title": "芯擎科技加速芯片“天工100”量产交付",
-          "url": "https://wallstreetcn.com/livenews/3149433",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时58分"
-        },
-        {
-          "title": "东方甄选检测到大量异常仅退款订单",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E6%A3%80%E6%B5%8B%E5%88%B0%E5%A4%A7%E9%87%8F%E5%BC%82%E5%B8%B8%E4%BB%85%E9%80%80%E6%AC%BE%E8%AE%A2%E5%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        },
-        {
-          "title": "【上纬新材：2026年上半年由盈转亏，净利润亏损1.67亿元】上纬新材公告，2026年上半年营业收入8.03亿元，同比增长2.42%。归属于上市公司股东的净利润亏损1.67亿元，上年同期净利润2990.04万元。归属于上市公司股东的扣除非经常性损益的净利润亏损1.69亿元。",
-          "url": "https://wallstreetcn.com/livenews/3149771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时11分"
-        },
-        {
-          "title": "翱捷科技：筹划发行H股并在香港联交所上市。",
-          "url": "https://wallstreetcn.com/livenews/3149700",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        },
-        {
-          "title": "比亚迪秦MAX上市",
-          "url": "https://www.toutiao.com/trending/7673470363653341225/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "翱捷科技：董事会审议通过公司发行H股股票并在香港联交所上市的议案",
-          "url": "https://flash.jin10.com/detail/20260814181541311800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        },
-        {
-          "title": "东莞优邦材料科技股份有限公司首发申请8月21日上会",
-          "url": "https://flash.jin10.com/detail/20260814195339697800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "无人机 通航",
-      "match_count": 23,
-      "titles": [
-        {
-          "title": "【早报】高达100%，美国将对进口无人机及零部件征收关税；美存储股集体走强；原油、黄金双双下行",
-          "url": "https://www.cls.cn/detail/2454005",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时07分 ~ 15时10分]"
-        },
-        {
-          "title": "美军启动组建首支多国无人机特遣部队",
-          "url": "https://news.ifeng.com/c/8vZYw6o6uvx",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时33分 ~ 09时08分]"
-        },
-        {
-          "title": "高达100%，美国将对进口无人机及零部件征关税",
-          "url": "https://news.ifeng.com/c/8vZY2OnvOcY",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 09时08分]"
-        },
-        {
-          "title": "最高达100%！美国将对无人机及其零部件征收关税",
-          "url": "https://news.ifeng.com/c/8vZYw6o6uve",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "据沙特媒体哈达斯：也门军事消息人士称，胡塞武装使用无人机袭击位于也门西部的霍赫和穆哈两地区。政府军在摩卡东部的巴赫前线成功抵御了胡塞武装的攻击。",
-          "url": "https://flash.jin10.com/detail/20260814084542770800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "据俄新社：俄罗斯无人机在赫尔松地区摧毁乌军一无人机组装车间。",
-          "url": "https://flash.jin10.com/detail/20260814145155987800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        },
-        {
-          "title": "当地官员表示，俄罗斯列宁格勒州乌斯特-卢加港在遭遇无人机袭击后的“所有情况”已得到处理。",
-          "url": "https://flash.jin10.com/detail/20260814132008553800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "高达100% 美国将对进口无人机及零部件征收关税",
-          "url": "https://www.cls.cn/detail/2453989",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时57分 ~ 15时10分]"
-        },
-        {
-          "title": "白宫宣布对进口无人机及零部件征收关税",
-          "url": "https://wallstreetcn.com/livenews/3149338",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 07时33分]"
-        },
-        {
-          "title": "高达100% 美国将对进口无人机及零部件征收关税",
-          "url": "https://flash.jin10.com/detail/20260814060310618800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 07时33分]"
-        },
-        {
-          "title": "白宫宣布对进口无人机及零部件征收关税",
-          "url": "https://flash.jin10.com/detail/20260814055827741800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 07时33分]"
-        },
-        {
-          "title": "数百架乌无人机来袭 俄军激烈拦截",
-          "url": "https://www.toutiao.com/trending/7672681020462497830/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "北约击落一架进入拉脱维亚领空的无人机。",
-          "url": "https://wallstreetcn.com/livenews/3149482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "据国际文传电讯社：俄罗斯特维尔地区的在线零售商Wildberries的仓库在无人机袭击中受损。",
-          "url": "https://flash.jin10.com/detail/20260814130457280800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "特朗普对特定无人机进口加征100%关税",
-          "url": "https://flash.jin10.com/detail/20260814054149150800",
-          "source": "金十数据",
-          "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时33分"
-        },
-        {
-          "title": "美国：成立新的无人机特遣部队，部队将使用来自美国及伙伴国的攻击无人机。",
-          "url": "https://wallstreetcn.com/livenews/3149261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "白宫：相关关税将于总统签署公告21日后正式生效。对于非高度敏感类的无人机零部件，关税将在签署后180天生效。",
-          "url": "https://flash.jin10.com/detail/20260814052826863800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时33分"
-        },
-        {
-          "title": "白宫：美国总统特朗普将对英国输美无人机加征10%从价关税。",
-          "url": "https://flash.jin10.com/detail/20260814052728079800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时33分"
-        },
-        {
-          "title": "伊朗称拦截并摧毁一架MQ-9无人机",
-          "url": "https://wallstreetcn.com/livenews/3149735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "长春代表队斩获无人机足球锦标赛冠军",
-          "url": "https://www.toutiao.com/trending/7673404231895121962/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "白宫：美国总统特朗普将对欧盟、日本、列支敦士登、韩国、瑞士输美的无人机及零部件加征15%从价关税。",
-          "url": "https://flash.jin10.com/detail/20260814052706154800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时33分"
-        },
-        {
-          "title": "白宫：美国总统特朗普将对特定尺寸或具备敏感性能的无人机加征100%从价关税。",
-          "url": "https://flash.jin10.com/detail/20260814052625841800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时33分"
-        },
-        {
-          "title": "也门胡塞武装称使用无人机袭击沙特炼油厂",
-          "url": "https://wallstreetcn.com/livenews/3149251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 22,
-      "titles": [
-        {
-          "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
-          "url": "https://wallstreetcn.com/articles/3779257",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 06时33分]"
-        },
-        {
-          "title": "商品期货收盘，焦煤主力合约涨超4%，菜籽油涨超3%，LU燃油、碳酸锂、燃料油、纯苯、多晶硅、甲醇、工业硅、苯乙烯涨超2%。钯跌超3%，不锈钢跌超2%，沪银跌2%。",
-          "url": "https://wallstreetcn.com/livenews/3149547",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 8月13日（周四）晚盘收盘下跌0.96%报945.3元/克；<br/>上海黄金交易所白银T+D 8月13日（周四）晚盘收盘下跌1.21%报15740.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260814023528730800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "现货黄金日内涨超1.00%，现报4394.59美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260814213813008800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时11分"
-        },
-        {
-          "title": "南亚据报将再调涨20%铜箔基板基材售价 公司回应",
-          "url": "https://wallstreetcn.com/livenews/3149539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        },
-        {
-          "title": "黄金后市何去何从？业内预测：年内仍有上行空间，最高看向7150美元！",
-          "url": "https://www.cls.cn/detail/2453369",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时52分 ~ 07时33分]"
-        },
-        {
-          "title": "周四（8月13日）纽约尾盘，现货黄金跌1.34%，报4350.20美元/盎司。 现货白银跌1.43%，报64.427美元/盎司，日内震荡下行，交投于66.303-64.219美元。 COMEX铜期货跌0.35%，报6.5326美元/磅，盘中一度走V收复跌幅，美PPI数据后较日高回落收跌。",
-          "url": "https://wallstreetcn.com/livenews/3149326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 07时33分]"
-        },
-        {
-          "title": "黄金价格反弹意味什么",
-          "url": "https://www.toutiao.com/trending/7673529634117389887/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 09时08分]"
-        },
-        {
-          "title": "现货黄金站上4390美元/盎司，日内涨0.90%。",
-          "url": "https://flash.jin10.com/detail/20260814213221864800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时11分"
-        },
-        {
-          "title": "挂单报告：国际现货黄金持续上行 欧美此处多单集中",
-          "url": "https://flash.jin10.com/detail/20260814200836535800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "现货黄金日内涨幅达1%，报4394.83美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3149792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时11分"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约涨多跌少。菜油、碳酸锂涨超2%，工业硅、豆一、低硫燃料油（LU）、燃料油、生猪、合成橡胶、多晶硅、焦煤涨超1%。跌幅方面，钯跌超3%，沪银、铂跌超2%，不锈钢（SS）、沪金跌近2%。",
-          "url": "https://flash.jin10.com/detail/20260814113107142800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时58分"
-        },
-        {
-          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报151600元/吨，较上日16:30价格上涨2250元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3149439",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时58分"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少2.568吨，当前持仓量为1023.243吨。",
-          "url": "https://flash.jin10.com/detail/20260814061842030800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 8月14日（周五）晚盘盘初上涨0.82%报947.5元/克；<br/>上海黄金交易所白银T+D 8月14日（周五）晚盘盘初上涨1.19%报15800.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260814200231375800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "黄金还能冲4500？赔率给出38.5%的答案｜市场赔率数据表",
-          "url": "https://flash.jin10.com/detail/20260814143107548800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        },
-        {
-          "title": "黄金下周会有突破信号吗？​",
-          "url": "https://flash.jin10.com/detail/20260814211102261800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时11分"
-        },
-        {
-          "title": "黄金健康回调，4430何时突破？趋势信号如何识别？金十研究员Steven正在直播，立即观看>><font class=\"important-text\"></font>",
-          "url": "https://flash.jin10.com/detail/20260814200029549800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "港股黄金股震荡走强，中国黄金国际(02099.HK)绩后涨超12%，灵宝黄金(03330.HK)涨超4%，赤峰黄金(06693.HK)、紫金矿业(02899.HK)等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260814111608381800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时58分"
-        },
-        {
-          "title": "现货黄金突破4370美元/盎司，日内涨0.44%。",
-          "url": "https://flash.jin10.com/detail/20260814200023571800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "天齐锂业：全资子公司以1.5亿元认购欣旺达动力新增股份，已签署增资协议",
-          "url": "https://flash.jin10.com/detail/20260814181820142800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        },
-        {
-          "title": "睡眠要守住4小时修复黄金期",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%9D%A1%E7%9C%A0%E8%A6%81%E5%AE%88%E4%BD%8F4%E5%B0%8F%E6%97%B6%E4%BF%AE%E5%A4%8D%E9%BB%84%E9%87%91%E6%9C%9F%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "训练西迁、推理东沉，中国算力新版图正在形成|一线",
-          "url": "https://www.cls.cn/detail/2454285",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时10分 ~ 22时11分]"
-        },
-        {
-          "title": "苹果在休斯顿开设先进制造中心，宣布将在今年开始在休斯顿生产Mac Mini。 苹果在休斯顿投资数亿美元，首批先进AI服务器已发货。",
-          "url": "https://wallstreetcn.com/livenews/3149278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "【焦点复盘】创业板指强势收复30日线，算力租赁概念再度爆发，光通信人气股录得20cm五连板",
-          "url": "https://www.cls.cn/detail/2454650",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时38分 ~ 22时11分]"
-        },
-        {
-          "title": "直击中芯国际业绩会：Q2晶圆量价提升 算力配套芯片供不应求",
-          "url": "https://www.cls.cn/detail/2454218",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时10分 ~ 20时43分]"
-        },
-        {
-          "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779354",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时52分 ~ 07时33分]"
-        },
-        {
-          "title": "中行落地全国首个算力“Token贷”，算力金融跨入应用层企业，上下游联动成未来方向",
-          "url": "https://www.cls.cn/detail/2454822",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时10分 ~ 22时11分]"
-        },
-        {
-          "title": "苹果(AAPL.O)在休斯顿投资数亿美元，首批先进AI服务器已发货。",
-          "url": "https://flash.jin10.com/detail/20260814023226248800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "华泰证券：算力升级下AI电源或呈现四大趋势",
-          "url": "https://flash.jin10.com/detail/20260814081717011800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "AI算力CPI",
-          "url": "https://flash.jin10.com/detail/20260814211050407800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时11分"
-        },
-        {
-          "title": "A股算力租赁概念探底回升，网宿科技涨超17%，行云科技涨超10%，数据港、奥飞数据、利通电子跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3149511",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人形机器人 机器人 具身智能 灵巧手",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "8月14日投资避雷针：5连板人气股澄清 主营业务不涉及人形机器人及零配件的生产制造",
-          "url": "https://www.cls.cn/detail/2454041",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时57分 ~ 15时10分]"
-        },
-        {
-          "title": "这些中国机器人“小众”却好用",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9C%E5%B0%8F%E4%BC%97%E2%80%9D%E5%8D%B4%E5%A5%BD%E7%94%A8",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        },
-        {
-          "title": "2026年上半年超935亿元涌入具身智能赛道",
-          "url": "https://wallstreetcn.com/livenews/3149749",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "2026年上半年超935亿元涌入具身智能赛道",
-          "url": "https://flash.jin10.com/detail/20260814200323345800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "智洋创新：拟定增募资不超过9.04亿元投建具身智能等项目",
-          "url": "https://wallstreetcn.com/livenews/3149783",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时11分"
-        },
-        {
-          "title": "LG与英伟达签署关于机器人、AI工厂和行动技术的备忘录。",
-          "url": "https://wallstreetcn.com/livenews/3149425",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时58分"
-        },
-        {
-          "title": "人形机器人试验方法系列国家标准编制工作启动",
-          "url": "https://flash.jin10.com/detail/20260814111126950800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "免税 旅游 酒店 餐饮",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "8月15日起居民楼禁开油烟餐饮",
-          "url": "https://www.douyin.com/hot/2608360",
-          "source": "抖音",
-          "ranks": [
-            4,
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时33分 ~ 09时08分]"
-        },
-        {
-          "title": "工业旅游市场有望突破3000亿元",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%B8%9A%E6%97%85%E6%B8%B8%E5%B8%82%E5%9C%BA%E6%9C%89%E6%9C%9B%E7%AA%81%E7%A0%B43000%E4%BA%BF%E5%85%83%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 11时58分]"
-        },
-        {
-          "title": "新规禁止居民楼开油烟餐饮，这类餐饮业未来将何去何从？居民区的「苍蝇馆子」以后会不会越来越少了？",
-          "url": "https://www.zhihu.com/question/2071182463498445493",
-          "source": "知乎",
-          "ranks": [
-            4,
-            6,
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时52分 ~ 09时08分]"
-        },
-        {
-          "title": "221元酒店订单商家到手40.67元",
-          "url": "https://www.baidu.com/s?wd=221%E5%85%83%E9%85%92%E5%BA%97%E8%AE%A2%E5%8D%95%E5%95%86%E5%AE%B6%E5%88%B0%E6%89%8B40.67%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时27分 ~ 15时10分]"
-        },
-        {
-          "title": "新规：禁止在居民楼开油烟餐饮",
-          "url": "https://www.toutiao.com/trending/7672900424688779318/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时52分 ~ 07时33分]"
-        },
-        {
-          "title": "特朗普品牌马尔代夫度假村推迟数字代币计划，伊朗战争扰乱地区旅游",
-          "url": "https://wallstreetcn.com/livenews/3149255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "放弃酒店睡车里 自驾1月省万元住宿费",
-          "url": "https://www.baidu.com/s?wd=%E6%94%BE%E5%BC%83%E9%85%92%E5%BA%97%E7%9D%A1%E8%BD%A6%E9%87%8C+%E8%87%AA%E9%A9%BE1%E6%9C%88%E7%9C%81%E4%B8%87%E5%85%83%E4%BD%8F%E5%AE%BF%E8%B4%B9",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple iPhone",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "云南交警翻唱坏苹果",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%91%E5%8D%97%E4%BA%A4%E8%AD%A6%E7%BF%BB%E5%94%B1%E5%9D%8F%E8%8B%B9%E6%9E%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            12,
-            10,
-            16,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时52分 ~ 15时10分]"
-        },
-        {
-          "title": "王橹杰陈思罕合唱黑苹果",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E9%99%88%E6%80%9D%E7%BD%95%E5%90%88%E5%94%B1%E9%BB%91%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时10分 ~ 22时11分]"
-        },
-        {
-          "title": "首款折叠iPhone",
-          "url": "https://s.weibo.com/weibo?q=%E9%A6%96%E6%AC%BE%E6%8A%98%E5%8F%A0iPhone&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时10分 ~ 19时38分]"
-        },
-        {
-          "title": "iPhone18系列发布节奏确认",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83%E8%8A%82%E5%A5%8F%E7%A1%AE%E8%AE%A4%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 07时33分]"
-        },
-        {
-          "title": "苹果(AAPL.O)：宣布将在今年开始在休斯顿生产Mac Mini，并在休斯顿开设先进制造中心。",
-          "url": "https://flash.jin10.com/detail/20260814023134836800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "苹果未来几个月将在中国发布一套AI工具，该AI模型的训练得到阿里巴巴的支持。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3149477",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "光模块 CPO 800G 1.6T AEC DAC 高速铜缆",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "英伟达官宣CPO交换机全面量产！硅光新时代来了？",
-          "url": "https://www.cls.cn/detail/2454461",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时38分 ~ 22时11分]"
-        },
-        {
-          "title": "8月14日午间收评：创业板指冲高回落涨0.65%，CPO概念股集体走强",
-          "url": "https://wallstreetcn.com/livenews/3149460",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 13时28分]"
-        },
-        {
-          "title": "英伟达CPO交换机全面量产，AI数据中心迈入“硅光时代”！",
-          "url": "https://wallstreetcn.com/articles/3779448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时10分 ~ 22时11分]"
-        },
-        {
-          "title": "A股午评：创业板指水上震荡收涨0.65% CPO、光纤概念领涨大盘",
-          "url": "https://flash.jin10.com/detail/20260814113431435800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时58分"
-        },
-        {
-          "title": "创业板指涨超1%，沪指跌0.1%，深成指涨0.51%，电子特气、CPO、存储芯片、6G等方向领涨，沪深京三市上涨个股超2400只。",
-          "url": "https://wallstreetcn.com/livenews/3149418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "HBM DDR5 存储芯片",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "SK集团董事长崔泰源表示，SK海力士正考虑以合资方式建设新的存储芯片工厂，以降低传统行业盛衰周期下巨额资本支出和产能过剩带来的风险。",
-          "url": "https://wallstreetcn.com/livenews/3149476",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "投入翻倍仍谋划赴美建厂！SK崔泰源预判明年存储芯片供应缺口最大",
-          "url": "https://wallstreetcn.com/livenews/3149475",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "美股盘初：纳指涨0.2%，存储芯片股普涨",
-          "url": "https://wallstreetcn.com/livenews/3149787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时11分"
-        },
-        {
-          "title": "A股存储芯片板块开盘活跃，阿莱德涨超10%，联芸科技、普冉股份、兆易创新、德明利、长鑫科技等集体高开。",
-          "url": "https://wallstreetcn.com/livenews/3149410",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时58分"
-        },
-        {
-          "title": "美股存储芯片股盘前走高，闪迪涨超6%，美光科技涨3%，西部数据涨近3%，希捷科技涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3149692",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华为 鸿蒙 HarmonyOS 鸿蒙NEXT",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "华为“天才少年”宁博宇回应离职",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E2%80%9C%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E2%80%9D%E5%AE%81%E5%8D%9A%E5%AE%87%E5%9B%9E%E5%BA%94%E7%A6%BB%E8%81%8C",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时07分 ~ 15时10分]"
-        },
-        {
-          "title": "专访离职的华为“天才少年”宁博宇",
-          "url": "https://www.toutiao.com/trending/7673369650491326507/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 07时33分]"
-        },
-        {
-          "title": "爱立信没达标，西班牙运营商或放弃“全面替代华为”",
-          "url": "https://news.ifeng.com/c/8vaEIyv7P9j",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        },
-        {
-          "title": "华为WATCH GT 7开售",
-          "url": "https://www.toutiao.com/trending/7672946204554002475/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "国务院 发改委 工信部 财政部 证监会",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "证监会7月核准9家机构合格境外投资者资格 全市场QFI达999家",
-          "url": "https://flash.jin10.com/detail/20260814201109814800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "中国财政部发行10年期债券，规模900亿元，发行利率1.6600%，边际利率1.6800%，预期1.6800%，投标倍数6.12倍，边际倍数11.64倍； 中国财政部发行30年期债券，规模730亿元，发行利率2.1400%，预期2.1500%，投标倍数6.03倍，边际倍数2.49倍。",
-          "url": "https://wallstreetcn.com/livenews/3149466",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 13时28分]"
-        },
-        {
-          "title": "中国财政部今日发行国债，10年期品种加权平均中标利率为1.66%，为去年7月来最低。 30年期国债加权平均中标利率2.14%，为去年11月来最低。",
-          "url": "https://wallstreetcn.com/livenews/3149481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "国家发改委紧急安排3000万元支持河南灾后应急恢复",
-          "url": "https://wallstreetcn.com/livenews/3149718",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "光刻机 EDA 先进封装 CoWoS Chiplet 晶圆",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中芯国际高管：三季度开出或下线的晶圆使用了新的价格。",
-          "url": "https://wallstreetcn.com/livenews/3149395",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "AI驱动半导体景气度高涨，两大晶圆厂第二季度收入均创新高",
-          "url": "https://wallstreetcn.com/livenews/3149345",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "00时42分"
         }
       ]
     },
@@ -2013,196 +208,111 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "郭麒麟瘦到认不出",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%83%AD%E9%BA%92%E9%BA%9F%E7%98%A6%E5%88%B0%E8%AE%A4%E4%B8%8D%E5%87%BA%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时07分 ~ 11时58分]"
-        },
-        {
           "title": "郭德纲即兴改编被举报后，西安浐灞保利大剧院：麒麟剧社巡演西安站取消正退票",
           "url": "https://m.thepaper.cn/newsDetail_forward_33784423",
           "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时10分 ~ 22时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "问界 智界 享界 尊界 鸿蒙智行 ADS",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "报道：特斯拉计划最早于本月发布一款具备“飞行”能力Roadster",
-          "url": "https://wallstreetcn.com/livenews/3149782",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时11分"
-        },
-        {
-          "title": "The Information：特斯拉(TSLA.O)计划最早于本月推出新款“飞行”Roadster跑车。",
-          "url": "https://flash.jin10.com/detail/20260814210843134800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Robotaxi 无人驾驶 自动驾驶 智能驾驶 NOA",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "何小鹏称自动驾驶新强标更关注短板",
-          "url": "https://flash.jin10.com/detail/20260814114319549800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时58分"
-        },
-        {
-          "title": "北汽蓝谷Robotaxi将规模落地欧洲市场",
-          "url": "https://wallstreetcn.com/livenews/3149702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "创新药 ADC CAR-T GLP-1",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中国创新药产业正经历结构性变革",
-          "url": "https://www.toutiao.com/trending/7673820023466999862/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时10分 ~ 22时11分]"
-        },
-        {
-          "title": "8月份医药板块热度抬升，创新药获机构重点关注",
-          "url": "https://wallstreetcn.com/livenews/3149376",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek ChatGPT Claude Gemini Agent 智能体",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "智洋创新：拟定增募资不超9.04亿元，用于多垂域具身智能及人工智能体研发等项目",
-          "url": "https://flash.jin10.com/detail/20260814210933708800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI眼镜 智能眼镜 AR眼镜 XR眼镜",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "华强北AI眼镜销量暴涨100%",
-          "url": "https://wallstreetcn.com/livenews/3149755",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "储能 新型储能",
-      "match_count": 1,
-      "titles": [
+          "time_info": "00时42分"
+        },
         {
-          "title": "宁德时代独供澳大利亚国家电力市场规模最大的在运电池储能项目，三期采用天恒储能系统",
-          "url": "https://wallstreetcn.com/livenews/3149797",
-          "source": "华尔街见闻-快讯",
+          "title": "郭麒麟瘦到认不出",
+          "url": "https://www.toutiao.com/trending/7673795223364911147/",
+          "source": "今日头条",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "脑机接口",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "浙江出台18条举措，推进脑机接口领域发展",
-          "url": "https://wallstreetcn.com/livenews/3149523",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时10分"
+          "time_info": "00时42分"
         }
       ]
     },
     {
-      "keyword_group": "稀土 锗 镓 锑 钨",
+      "keyword_group": "HBM DDR5 存储芯片",
       "match_count": 1,
       "titles": [
         {
-          "title": "A股稀土永磁板块异动拉升，金田股份触及涨停，中国稀土涨超8%，华宏科技、中稀有色、九菱科技、北方稀土跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3149423",
-          "source": "华尔街见闻-快讯",
+          "title": "美疲弱零售销售数据再挫加息预期，美股涨跌互现，存储芯片股普涨，闪迪涨约7%，金涨油跌",
+          "url": "https://wallstreetcn.com/articles/3779437",
+          "source": "华尔街见闻",
           "ranks": [
-            24
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时58分"
+          "time_info": "00时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人形机器人 机器人 具身智能 灵巧手",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "机构预测机器人租赁市场规模或破百亿元",
+          "url": "https://wallstreetcn.com/livenews/3149813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Robotaxi 无人驾驶 自动驾驶 智能驾驶 NOA",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "自动驾驶都用激光雷达等以后自动驾驶车多起来了，路上的激光雷达会不会相互干扰？",
+          "url": "https://www.zhihu.com/question/455107544",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "无人机 通航",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "罗马尼亚国防部：在与乌克兰接壤的国境附近发现第二架无人机。",
+          "url": "https://flash.jin10.com/detail/20260815002734092800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金 铜 锂 镍",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "男子骑行三万余公里丈量黄金大外环",
+          "url": "https://www.toutiao.com/trending/7673846201518653482/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
         }
       ]
     },
@@ -2215,29 +325,28 @@
           "url": "https://www.cls.cn/detail/2454846",
           "source": "财联社热门",
           "ranks": [
-            6
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时10分 ~ 22时11分]"
+          "appearance_count": 1,
+          "time_info": "00时42分"
         }
       ]
     },
     {
-      "keyword_group": "控制权变更 股权转让 实控人变更",
+      "keyword_group": "免税 旅游 酒店 餐饮",
       "match_count": 1,
       "titles": [
         {
-          "title": "达安基因：控股股东股权转让完成工商变更，广药资本间接控制公司16.63%股权",
-          "url": "https://wallstreetcn.com/livenews/3149733",
-          "source": "华尔街见闻-快讯",
+          "title": "放弃酒店睡车里 自驾1月省万元住宿费",
+          "url": "https://www.baidu.com/s?wd=%E6%94%BE%E5%BC%83%E9%85%92%E5%BA%97%E7%9D%A1%E8%BD%A6%E9%87%8C+%E8%87%AA%E9%A9%BE1%E6%9C%88%E7%9C%81%E4%B8%87%E5%85%83%E4%BD%8F%E5%AE%BF%E8%B4%B9",
+          "source": "百度热搜",
           "ranks": [
-            2,
-            29
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时38分 ~ 20时43分]"
+          "appearance_count": 1,
+          "time_info": "00时42分"
         }
       ]
     }
