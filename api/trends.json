@@ -1,692 +1,172 @@
 {
-  "generated_at": "2026-08-15T11:33:59.101827+08:00",
-  "total_titles_processed": 827,
+  "generated_at": "2026-08-16T07:13:28.103084+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
-      "match_count": 12,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "DeepSeek-V4-Pro-0813 已发布，体验下来怎么样？",
+          "url": "https://www.zhihu.com/question/2071619812795609447",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
+        {
+          "title": "美国大模型帮日本对AI进行投毒",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B8%AE%E6%97%A5%E6%9C%AC%E5%AF%B9AI%E8%BF%9B%E8%A1%8C%E6%8A%95%E6%AF%92",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
+        {
+          "title": "豆包进化到能学我唱歌了",
+          "url": "https://www.douyin.com/hot/2610641",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
           "source": "贴吧",
           "ranks": [
-            7,
-            8,
-            13
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 11时33分]"
+          "appearance_count": 1,
+          "time_info": "07时13分"
         },
         {
           "title": "DeepSeek Harness实测",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            8,
-            9,
-            18,
-            7,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 11时33分]"
-        },
-        {
-          "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
-          "url": "https://wallstreetcn.com/articles/3779418",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 08时42分]"
-        },
-        {
-          "title": "发力中国市场！据称苹果训练了一款“中国定制”大模型，开启AI双轨布局",
-          "url": "https://www.cls.cn/detail/2454596",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 08时42分]"
-        },
-        {
-          "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
-          "url": "https://news.ifeng.com/c/8vaHkh2o1IS",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 08时42分]"
-        },
-        {
-          "title": "DeepSeek Harness是什么",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E6%98%AF%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
-          "title": "刚刚！智谱发布GLM-5.3模型、“为编程而生”，性能比肩Fable 5",
-          "url": "https://wallstreetcn.com/articles/3779432",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时41分 ~ 11时33分]"
-        },
-        {
-          "title": "读懂DeepSeek开源背后的野心",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%BB%E6%87%82DeepSeek%E5%BC%80%E6%BA%90%E8%83%8C%E5%90%8E%E7%9A%84%E9%87%8E%E5%BF%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时41分 ~ 08时42分]"
-        },
-        {
-          "title": "DeepSeek-V4 Pro 跑分飙升",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek-V4%20Pro%20%E8%B7%91%E5%88%86%E9%A3%99%E5%8D%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
-          "title": "阿里开源Qwen3.8，千问大模型全球下载超30亿次",
-          "url": "https://wallstreetcn.com/livenews/3149817",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "智谱发布GLM-5.3模型",
-          "url": "https://search.bilibili.com/all?keyword=%E6%99%BA%E8%B0%B1%E5%8F%91%E5%B8%83%20GLM-5.3%20%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
-          "title": "智谱发布 GLM-5.3，如何评价前沿编程能力与涌现的网络安全能力?",
-          "url": "https://www.zhihu.com/question/2071591447367770456",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "上海黄金交易所黄金T+D 8月14日（周五）晚盘收盘上涨0.99%报948.91元/克；<br/>上海黄金交易所白银T+D 8月14日（周五）晚盘收盘上涨1.06%报15780.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260815023016767800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时42分"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加0.285吨，当前持仓量为1023.528吨。",
-          "url": "https://flash.jin10.com/detail/20260815081312547800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时42分 ~ 11时33分]"
-        },
-        {
-          "title": "智利国有铜业公司Codelco将关闭Chuquicamata和Ministro Hales矿区。",
-          "url": "https://wallstreetcn.com/livenews/3149849",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 04时23分]"
-        },
-        {
-          "title": "CFTC：投机者增持原油、黄金净多头",
-          "url": "https://wallstreetcn.com/livenews/3149865",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            18,
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时23分 ~ 06时14分]"
-        },
-        {
-          "title": "金价反复跳水 老铺黄金罕见大促",
-          "url": "https://www.toutiao.com/trending/7673177168197992475/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时17分 ~ 06时14分]"
-        },
-        {
-          "title": "周五（8月14日）纽约尾盘，国际贵金属期货收盘涨跌不一。 现货黄金先跌后涨，日内涨幅0.6%，报4375.67美元/盎司，本周累计上涨0.81%。 COMEX黄金期货涨0.26%报4432.00美元/盎司，本周累计上涨0.73%。美国经济数据走弱令美联储加息预期降温，叠加中东局势不确定性，加上央行长期净增持黄金托底，共同支撑金价。 现货白银涨0.40%，报64.667美元/盎司，本周累涨超1.8%。 COMEX白银期货跌0.26%报64.83美元/盎司，本周累计上涨2.09%。",
-          "url": "https://wallstreetcn.com/livenews/3149887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时14分 ~ 08时42分]"
-        },
-        {
-          "title": "消息人士：智利国有铜业公司Codelco任命副总裁负责埃尔特尼恩特矿。",
-          "url": "https://flash.jin10.com/detail/20260815015947792800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时42分"
-        },
-        {
-          "title": "消息人士：智利国有铜业公司Codelco将关闭Chuquicamata和Ministro Hales矿区。",
-          "url": "https://flash.jin10.com/detail/20260815015930667800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时42分"
-        },
-        {
-          "title": "国际铜夜盘收涨0.47%，沪铜收涨0.49%，沪铝收涨0.08%，沪锌收涨0.41%，沪铅收跌0.22%，沪镍收涨0.07%，沪锡收涨0.36%。 氧化铝夜盘收跌0.19%，铝合金收涨0.24%。 不锈钢夜盘收跌0.49%。",
-          "url": "https://wallstreetcn.com/livenews/3149839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时42分"
-        },
-        {
-          "title": "LME期铜收涨12美元，报14160美元/吨。 LME期铝收跌6美元，报3252美元/吨。 LME期锌收涨5美元，报3756美元/吨。 LME期铅收涨8美元，报1895美元/吨。 LME期镍收涨39美元，报16815美元/吨。 LME期锡收涨340美元，报56194美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3149833",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时42分"
-        },
-        {
-          "title": "男子骑行三万余公里丈量黄金大外环",
-          "url": "https://www.toutiao.com/trending/7673846201518653482/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至8月11日当周，COMEX黄金投机者净多头头寸增加9,470份合约，至141,868份合约。COMEX白银投机者净多头头寸减少755份合约，至10,312份合约。COMEX铜投机者净多头头寸增加3,085份合约，至80,880份合约。",
-          "url": "https://flash.jin10.com/detail/20260815033352441800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时23分"
+          "time_info": "07时13分"
         }
       ]
     },
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 9,
+      "match_count": 4,
       "titles": [
         {
-          "title": "马科斯：没想疏远中国，看好经济合作",
-          "url": "https://news.ifeng.com/c/8vaSjYUOLg5",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 08时42分]"
-        },
-        {
-          "title": "马科斯：没想疏远中国 看好经济合作",
-          "url": "https://www.toutiao.com/trending/7673781824950124563/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            29,
-            23,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 06时14分]"
-        },
-        {
-          "title": "甲骨文：AI数据中心园区项目朱庇特计划仍按计划推进，我们将继续与合作伙伴密切合作，推动该项目向前发展。甲骨文跌幅收窄，现跌3.5%，此前一度跌4.7%。",
-          "url": "https://wallstreetcn.com/livenews/3149866",
+          "title": "岚图追光S上市，限时权益价22.39万起",
+          "url": "https://wallstreetcn.com/livenews/3150006",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时23分 ~ 06时14分]"
-        },
-        {
-          "title": "武磊时隔650天重返联赛首发",
-          "url": "https://www.toutiao.com/trending/7673755529952477225/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 02时42分]"
-        },
-        {
-          "title": "摩根大通终止与Polymarket的银行合作关系。",
-          "url": "https://wallstreetcn.com/livenews/3149854",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 05时17分]"
-        },
-        {
-          "title": "截至目前，2026年暑期档电影票房（含预售）突破95亿元，连续36天单日票房过亿。2026年度电影总票房（含预售）突破252亿元。（央视新闻）",
-          "url": "https://wallstreetcn.com/livenews/3149925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
-          "title": "近日，富国基金旗下全资子公司富国资产管理（香港）有限公司获银河国际证券（新加坡）有限公司委任为投资顾问，为一只聚焦新加坡本地中小市值股票的主动管理型权益ETF提供选股支持。该产品已启动发行，预计后续将在新加坡交易所主板挂牌。 富国香港依托富国基金基本面与AI双轮驱动的量化模型体系，为该ETF提供选股决策支持。本次合作是公募基金“出海”模式升级的具体体现，表明中资资管机构在境外市场正逐步向能力端的投研服务者延伸。（证券日报）",
-          "url": "https://wallstreetcn.com/livenews/3149895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时42分"
+          "time_info": "07时13分"
         },
         {
-          "title": "甲骨文(ORCL.N)：AI数据中心园区项目朱庇特计划仍按计划推进，我们将继续与合作伙伴密切合作，推动该项目向前发展。",
-          "url": "https://flash.jin10.com/detail/20260815033806475800",
+          "title": "OpenAI Codex产品负责人：让Sol为你管理一支高效的Luna代理团队。这些模型彼此非常熟悉，能够通力合作，以惊人的速度和效率达成目标。",
+          "url": "https://flash.jin10.com/detail/20260816043254635800",
           "source": "金十数据",
           "ranks": [
-            20
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时23分"
+          "time_info": "07时13分"
         },
         {
-          "title": "发癫吧后浪抖音粉丝突破400万",
-          "url": "https://www.douyin.com/hot/2609802",
-          "source": "抖音",
+          "title": "一个49人的上市公司等待沈腾“救援”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA49%E4%BA%BA%E7%9A%84%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E7%AD%89%E5%BE%85%E6%B2%88%E8%85%BE%E2%80%9C%E6%95%91%E6%8F%B4%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            28
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "无人机 通航",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "罗马尼亚国防部：在与乌克兰接壤的国境附近发现第二架无人机。",
-          "url": "https://flash.jin10.com/detail/20260815002734092800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "time_info": "07时13分"
         },
         {
-          "title": "美国将对进口无人机及零部件征收最高 100% 关税，将如何影响全球产业？",
-          "url": "https://www.zhihu.com/question/2071487809492456110",
-          "source": "知乎",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时41分 ~ 11时33分]"
-        },
-        {
-          "title": "特朗普表示，每周从委内瑞拉获取数百万桶石油。 伊朗仍拥有导弹和无人机，但数量并不多。伊朗已无防御力量。伊朗货币毫无价值。 我们在伊朗问题上取得了重大胜利。",
-          "url": "https://wallstreetcn.com/livenews/3149874",
+          "title": "伊朗与塔吉克斯坦达成长期石油合作协议",
+          "url": "https://wallstreetcn.com/livenews/3149974",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时14分]"
-        },
-        {
-          "title": "也门胡塞武装据悉使用无人机袭击了沙特阿美公司在纳季兰的设施。",
-          "url": "https://wallstreetcn.com/livenews/3149843",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 04时23分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗仍有导弹和无人机，但已经不多了。",
-          "url": "https://flash.jin10.com/detail/20260815042631790800",
-          "source": "金十数据",
-          "ranks": [
-            12
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
-          "title": "俄罗斯国防部：过去12小时内，俄防空系统在多个州及黑海、亚速海区域击落221架乌军固定翼无人机。",
-          "url": "https://flash.jin10.com/detail/20260815012237626800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时42分"
+          "time_info": "07时13分"
         }
       ]
     },
     {
       "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
         {
-          "title": "中行落地全国首个算力“Token贷”，算力金融跨入应用层企业，上下游联动成未来方向",
-          "url": "https://www.cls.cn/detail/2454822",
+          "title": "国产算力迎扩张浪潮：大厂“超预期”加码投资 产业链多环节开启扩产",
+          "url": "https://www.cls.cn/detail/2455214",
           "source": "财联社热门",
           "ranks": [
-            6,
-            5,
-            4,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 11时33分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指强势收复30日线，算力租赁概念再度爆发，光通信人气股录得20cm五连板",
-          "url": "https://www.cls.cn/detail/2454650",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 11时33分]"
-        },
-        {
-          "title": "围棋与境界、修养之类的东西毫无关系，能赢是因为计算力强，这么明显的道理在 AI 以前人们怎么不懂？",
-          "url": "https://www.zhihu.com/question/2068917345393940011",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 06时14分]"
+          "appearance_count": 1,
+          "time_info": "07时13分"
         },
         {
           "title": "【早报】中行落地全国首个算力“Token贷”；贵州茅台、生益科技发布半年报；美存储板块走强",
           "url": "https://www.cls.cn/detail/2455045",
           "source": "财联社热门",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
-          "title": "创业板缩量涨超1%，算力硬件集体拉升，恒科指跌近2%，京东大跌10%、华虹宏力跌12%",
-          "url": "https://wallstreetcn.com/articles/3779421",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时41分 ~ 11时33分]"
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
+        {
+          "title": "中行落地全国首个算力“Token贷”，算力金融跨入应用层企业，上下游联动成未来方向",
+          "url": "https://www.cls.cn/detail/2454822",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时13分"
         }
       ]
     },
     {
       "keyword_group": "光模块 CPO 800G 1.6T AEC DAC 高速铜缆",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "英伟达CPO交换机全面量产，AI数据中心迈入“硅光时代”！",
-          "url": "https://wallstreetcn.com/articles/3779448",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 11时33分]"
-        },
-        {
-          "title": "英伟达官宣CPO交换机全面量产！硅光新时代来了？",
-          "url": "https://www.cls.cn/detail/2454461",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 08时42分]"
-        },
         {
           "title": "CRO八月跑赢CPO，“光宗”之后是“药祖”行情？",
           "url": "https://www.cls.cn/detail/2454492",
           "source": "财联社热门",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
-          "title": "英伟达CPO交换机全面量产",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BECPO%E4%BA%A4%E6%8D%A2%E6%9C%BA%E5%85%A8%E9%9D%A2%E9%87%8F%E4%BA%A7%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "昇腾 鲲鹏 海思 麒麟",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "郭麒麟瘦到认不出",
-          "url": "https://www.toutiao.com/trending/7673795223364911147/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 11时33分]"
-        },
-        {
-          "title": "郭德纲即兴改编被举报后，西安浐灞保利大剧院：麒麟剧社巡演西安站取消正退票",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33784423",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 08时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人形机器人 机器人 具身智能 灵巧手",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "具身智能机器人扎堆进厂干活",
-          "url": "https://www.douyin.com/hot/2610312",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
-          "title": "机构预测机器人租赁市场规模或破百亿元",
-          "url": "https://wallstreetcn.com/livenews/3149813",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "免税 旅游 酒店 餐饮",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "放弃酒店睡车里 自驾1月省万元住宿费",
-          "url": "https://www.baidu.com/s?wd=%E6%94%BE%E5%BC%83%E9%85%92%E5%BA%97%E7%9D%A1%E8%BD%A6%E9%87%8C+%E8%87%AA%E9%A9%BE1%E6%9C%88%E7%9C%81%E4%B8%87%E5%85%83%E4%BD%8F%E5%AE%BF%E8%B4%B9",
-          "source": "百度热搜",
-          "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 06时14分]"
-        },
-        {
-          "title": "“床车旅行”从小众到潮流 酒店慌了",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%BA%8A%E8%BD%A6%E6%97%85%E8%A1%8C%E2%80%9D%E4%BB%8E%E5%B0%8F%E4%BC%97%E5%88%B0%E6%BD%AE%E6%B5%81+%E9%85%92%E5%BA%97%E6%85%8C%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时41分 ~ 11时33分]"
+          "appearance_count": 1,
+          "time_info": "07时13分"
         }
       ]
     },
@@ -695,55 +175,83 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美疲弱零售销售数据再挫加息预期，美股涨跌互现，存储芯片股普涨，闪迪涨约7%，金涨油跌",
-          "url": "https://wallstreetcn.com/articles/3779437",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 06时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果 Apple iPhone",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "索罗斯基金管理公司披露增持29,004股苹果(AAPL.O)股份，持仓升至529,538股。",
-          "url": "https://flash.jin10.com/detail/20260815045930926800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Robotaxi 无人驾驶 自动驾驶 智能驾驶 NOA",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "自动驾驶都用激光雷达等以后自动驾驶车多起来了，路上的激光雷达会不会相互干扰？",
-          "url": "https://www.zhihu.com/question/455107544",
+          "title": "SK 集团崔泰源警告 2027 年大概率会是存储芯片供应缺口最大的一年，内存、硬盘还要持续涨价吗？",
+          "url": "https://www.zhihu.com/question/2071746265390506374",
           "source": "知乎",
           "ranks": [
-            19,
-            14,
-            11,
-            7,
-            13
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 08时42分]"
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "昇腾 鲲鹏 海思 麒麟",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "主办方公告：麒麟剧社巡演及郭德纲于谦相声专场两场西安站演出延期，购票观众免手续费退款",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33787747",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 火箭 卫星互联网 北斗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "SpaceX(SPCX.O)：“猎鹰9号”火箭已在佛罗里达州和加利福尼亚州竖立就位，准备迎接今天即将进行的发射任务。",
+          "url": "https://flash.jin10.com/detail/20260816054148763800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "无人机 通航",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据阿拉比亚电视台：马里卜地方当局表示，胡塞武装向居民区发射了4枚弹道导弹和4架无人机。",
+          "url": "https://flash.jin10.com/detail/20260816030328228800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金 铜 锂 镍",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "比利时老房翻修翻出价值超7000万黄金",
+          "url": "https://www.toutiao.com/trending/7674232738564931626/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时13分"
         }
       ]
     },
@@ -759,8 +267,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 11时33分]"
+          "appearance_count": 1,
+          "time_info": "07时13分"
         }
       ]
     }
