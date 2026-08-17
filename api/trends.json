@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T08:41:50.790989+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-08-17T12:34:35.717206+08:00",
+  "total_titles_processed": 740,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "订单 中标 签约 合作 扩产 投产 量产 新品 首发 首个 突破 获批 上市",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "下周重磅日程：中国7月经济数据，阿里、小米、天孚通信、兆易创新、长飞光纤财报，宇树科技上市在即",
@@ -15,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时15分 ~ 08时41分]"
+          "appearance_count": 5,
+          "time_info": "[02时15分 ~ 12时34分]"
+        },
+        {
+          "title": "【早报】摊余成本法债基迎来新批额度；年内最贵新股周二上市；7月经济数据今日下午出炉",
+          "url": "https://www.cls.cn/detail/2455471",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时41分 ~ 12时34分]"
         },
         {
           "title": "旺旺被指太甜后连夜晒出无糖低糖新品，企业这一听劝的行为能自救吗？看完后你会购买吗？",
@@ -32,17 +44,6 @@
           "time_info": "[02时15分 ~ 05时12分]"
         },
         {
-          "title": "【早报】摊余成本法债基迎来新批额度；年内最贵新股周二上市；7月经济数据今日下午出炉",
-          "url": "https://www.cls.cn/detail/2455471",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时41分"
-        },
-        {
           "title": "马上评｜医院“揽客”岂能突破底线",
           "url": "https://m.thepaper.cn/newsDetail_forward_33791886",
           "source": "澎湃新闻",
@@ -52,6 +53,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时15分 ~ 08时41分]"
+        },
+        {
+          "title": "频准激光：将于8月18日科创板上市",
+          "url": "https://www.cls.cn/detail/2455340",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时41分 ~ 12时34分]"
         },
         {
           "title": "梭子蟹大量上市 中医提醒",
@@ -74,22 +87,34 @@
           "ranks": [
             25,
             17,
-            30
+            30,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时15分 ~ 08时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时15分 ~ 12时34分]"
         },
         {
-          "title": "频准激光：将于8月18日科创板上市",
-          "url": "https://www.cls.cn/detail/2455340",
-          "source": "财联社热门",
+          "title": "方程豹钛7 DM长续航版8月18日上市",
+          "url": "https://www.toutiao.com/trending/7674821543112871475/",
+          "source": "今日头条",
           "ranks": [
-            13
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时41分"
+          "time_info": "12时34分"
+        },
+        {
+          "title": "【数读IPO】今日1申购1上市，涉及国家级专精特新“小巨人”企业等",
+          "url": "https://www.cls.cn/detail/2455474",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         },
         {
           "title": "A股年内94只新股上市，首日平均涨幅279.22%",
@@ -98,16 +123,38 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
+        },
+        {
+          "title": "药明康德A股涨超5%，H股涨超4%，齐创历史新高，A+H股总市值突破5000亿。",
+          "url": "https://wallstreetcn.com/livenews/3150191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek ChatGPT Claude Gemini 文心 通义 豆包 Kimi 混元 智谱 MiniMax 阶跃星辰 大模型 AIGC AGI",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "DeepSeek正式涨价",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
         {
           "title": "如何评价 deepseek8 月 17 日涨价后，opencode go 套餐的 flash 模型调用量削减 94%？",
           "url": "https://www.zhihu.com/question/2072481373085028433",
@@ -115,7 +162,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
         },
@@ -131,15 +178,38 @@
           "time_info": "[02时15分 ~ 05时12分]"
         },
         {
+          "title": "DeepSeek正式涨价",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时41分 ~ 12时34分]"
+        },
+        {
           "title": "DeepSeek Harness邪修攻略",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E9%82%AA%E4%BF%AE%E6%94%BB%E7%95%A5",
           "source": "bilibili 热搜",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
+        },
+        {
+          "title": "博主：DeepSeek要当全球Agent的底座",
+          "url": "https://www.toutiao.com/trending/7674830497876282921/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         },
         {
           "title": "Anthropic Claude大规模服务故障",
@@ -148,26 +218,37 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
         },
         {
-          "title": "DeepSeek正式涨价",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=20&Refer=top",
+          "title": "Codex调用豆包清理C盘",
+          "url": "https://s.weibo.com/weibo?q=Codex%E8%B0%83%E7%94%A8%E8%B1%86%E5%8C%85%E6%B8%85%E7%90%86C%E7%9B%98&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
-            20
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时41分"
+          "time_info": "12时34分"
+        },
+        {
+          "title": "DeepSeek调价生效 涨幅最高达1100%",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%B0%83%E4%BB%B7%E7%94%9F%E6%95%88+%E6%B6%A8%E5%B9%85%E6%9C%80%E9%AB%98%E8%BE%BE1100%25",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         }
       ]
     },
     {
       "keyword_group": "GPU 算力 智算中心 AI服务器 服务器",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "国产算力迎扩张浪潮：大厂“超预期”加码投资 产业链多环节开启扩产",
@@ -181,27 +262,39 @@
           "time_info": "[02时15分 ~ 08时41分]"
         },
         {
+          "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
+          "url": "https://www.cls.cn/detail/2455353",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时15分 ~ 12时34分]"
+        },
+        {
+          "title": "日本电力公司J-Power：将在北海道上之国町建设数据中心，将于2027年夏季开始对外出售其GPU数据中心算力。",
+          "url": "https://flash.jin10.com/detail/20260817120740357800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
           "title": "中信证券：国产算力未来将兼具工业品与公用事业属性，或将成为新一轮产业升级和资本形成的重要抓手",
           "url": "https://flash.jin10.com/detail/20260817081552395800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
-        },
-        {
-          "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
-          "url": "https://www.cls.cn/detail/2455353",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时15分 ~ 08时41分]"
         },
         {
           "title": "多家银行竞推“算力贷”",
@@ -224,12 +317,45 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时15分 ~ 05时12分]"
+        },
+        {
+          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
+          "url": "https://wallstreetcn.com/articles/3779545",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "狂欢与危机同在：AI算力盛宴 成了全球资本的“高利率毒药”？",
+          "url": "https://www.cls.cn/detail/2455546",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "深成指、创业板指均涨超1%，科创50涨超3%，沪指涨0.61%，农业、半导体芯片、算力硬件等方向涨幅居前，沪深京三市上涨个股近3100只。",
+          "url": "https://wallstreetcn.com/livenews/3150182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         }
       ]
     },
     {
       "keyword_group": "黄金 铜 锂 镍",
-      "match_count": 4,
+      "match_count": 9,
       "titles": [
         {
           "title": "黄金还会二次暴涨吗",
@@ -267,13 +393,68 @@
           "time_info": "[02时15分 ~ 05时12分]"
         },
         {
+          "title": "德银：央行购金+ETF流入，黄金处于“爆炸性”上涨阶段",
+          "url": "https://wallstreetcn.com/articles/3779529",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "金十图示：2026年08月17日（周一）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260817115537874800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "韩国进出口银行将向嘉能可提供10亿美元贷款，以换取铜供应",
+          "url": "https://flash.jin10.com/detail/20260817114704570800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "罗牛山涨停，金牛化工涨超6％，铜牛信息涨近4％。 近日，动画电影《牛来》因制作粗糙反向走红。",
+          "url": "https://wallstreetcn.com/livenews/3150183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报153950元/吨，较上日16:30价格上涨1000元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3150173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
           "title": "半年回调压力释放，专家：黄金步入筑底向上阶段",
           "url": "https://wallstreetcn.com/livenews/3150091",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
         }
@@ -281,7 +462,7 @@
     },
     {
       "keyword_group": "问界 智界 享界 尊界 鸿蒙智行 ADS",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "问界儿童车即将上市",
@@ -290,11 +471,12 @@
           "ranks": [
             2,
             4,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时15分 ~ 08时41分]"
+          "appearance_count": 5,
+          "time_info": "[02时15分 ~ 12时34分]"
         },
         {
           "title": "问界儿童车即将上市 网友：M0.9来了",
@@ -320,12 +502,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时15分 ~ 08时41分]"
+        },
+        {
+          "title": "问界M9 Ultimate首批展车本周到店",
+          "url": "https://www.toutiao.com/trending/7674172960656064539/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         }
       ]
     },
     {
       "keyword_group": "商业航天 火箭 卫星互联网 北斗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "俄火箭航天中心遭乌军袭击起火",
@@ -339,13 +532,24 @@
           "time_info": "[02时15分 ~ 05时12分]"
         },
         {
+          "title": "中国商业航天走到哪了",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E8%B5%B0%E5%88%B0%E5%93%AA%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
           "title": "朱雀三号遥二火箭确定8月19日清晨于酒泉发射",
           "url": "https://wallstreetcn.com/livenews/3150111",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
         },
@@ -356,9 +560,49 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果 Apple iPhone",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "段永平最新调仓出炉：减持苹果、英伟达、谷歌，买回阿里",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33794674",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时41分 ~ 12时34分]"
+        },
+        {
+          "title": "iPhoneUltra备货量",
+          "url": "https://s.weibo.com/weibo?q=%23iPhoneUltra%E5%A4%87%E8%B4%A7%E9%87%8F%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "iPhone17或全球涨价",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone17%E6%88%96%E5%85%A8%E7%90%83%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         }
       ]
     },
@@ -396,7 +640,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
         }
@@ -404,7 +648,7 @@
     },
     {
       "keyword_group": "国务院 发改委 工信部 财政部 证监会",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "伊拉克财政部长：我们将继续加强非石油收入，以应对霍尔木兹海峡封锁带来的影响。",
@@ -427,23 +671,118 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
+        },
+        {
+          "title": "财政部决定8月18日开展8月国债做市支持操作，方向随卖、操作额为6.2亿元。",
+          "url": "https://wallstreetcn.com/livenews/3150190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         }
       ]
     },
     {
-      "keyword_group": "苹果 Apple iPhone",
-      "match_count": 1,
+      "keyword_group": "HBM DDR5 存储芯片",
+      "match_count": 2,
       "titles": [
         {
-          "title": "段永平最新调仓出炉：减持苹果、英伟达、谷歌，买回阿里",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33794674",
-          "source": "澎湃新闻",
+          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
+          "url": "https://www.zhihu.com/question/2072595818725336495",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "日本存储芯片半导体股走高",
+          "url": "https://www.toutiao.com/trending/7674645893270519871/",
+          "source": "今日头条",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "12时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "稀土 锗 镓 锑 钨",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "我国在稀土检测关键技术领域取得重要进展",
+          "url": "https://wallstreetcn.com/livenews/3150187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "旺季临近叠加供给收缩，钨价有望企稳回升",
+          "url": "https://wallstreetcn.com/livenews/3150096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "08时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "并购 重组 借壳 资产重组",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI内部动荡加剧：重组不断，员工疲惫，高管离职潮持续，上市计划悄然推迟",
+          "url": "https://wallstreetcn.com/articles/3779533",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "中南文化：拟调整重组方案 新增购买江阴热电50%股权",
+          "url": "https://flash.jin10.com/detail/20260817115207062800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "光模块 CPO 800G 1.6T AEC DAC 高速铜缆",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "五洋自控：公司光模块液冷业务已形成试样产品",
+          "url": "https://flash.jin10.com/detail/20260817113629845800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         }
       ]
     },
@@ -466,19 +805,36 @@
       ]
     },
     {
-      "keyword_group": "稀土 锗 镓 锑 钨",
+      "keyword_group": "储能 新型储能",
       "match_count": 1,
       "titles": [
         {
-          "title": "旺季临近叠加供给收缩，钨价有望企稳回升",
-          "url": "https://wallstreetcn.com/livenews/3150096",
-          "source": "华尔街见闻-快讯",
+          "title": "储能竞争逻辑重塑：Q3电芯价格回升 AIDC与海外市场成增量方向 |行业观察",
+          "url": "https://www.cls.cn/detail/2455347",
+          "source": "财联社热门",
           "ranks": [
-            25
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时41分"
+          "time_info": "12时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "控制权变更 股权转让 实控人变更",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "海鸥住工：筹划公司控制权变更事项，股票停牌",
+          "url": "https://flash.jin10.com/detail/20260817114439439800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         }
       ]
     }
